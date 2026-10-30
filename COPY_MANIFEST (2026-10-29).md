@@ -37,4 +37,4 @@ The author is still deciding on these, so they were left in place:
 1. **One canonical version per method.** The character methodology now sits here three times and the Enneagram material twice, from drifted copies. Each needs merging into one.
 2. **Method versus project data.** The ULM copy still mixes the method with Inner Tepenia's own run data: city audits, trackers, the Santa Luce scenario. The same goes for the Timeline's `Tepenia_Worked_Examples/` and the per-city symbol assignments.
 3. **Deliberate duplicates.** The RWBEM, CST and zodiac files also sit inside the ULM copy. They were duplicated so each folder holds its own material.
-4. **Pointers.** Once this repo becomes the canonical home, the pointers in the Timeline (`Universal Design Laws/`, `Reference/Repo_Scope.md`) and in the projects' files need updating.
+4. **Pointers.** Once this repo becomes the canonical home, the pointers in the Timeline (`Reference/Repo_Scope.md`, `Reference/Enneagram_Undercurrents.md`) and in the projects' files need updating.
