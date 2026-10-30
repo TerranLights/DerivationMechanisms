@@ -4,11 +4,19 @@
 
 This is a composite story-beat structure fusing four sources, each brought in for the specific purpose it serves — not one primary framework with the others layered on top:
 
-- **Blake Snyder, *Save the Cat*** — standard beat names and the recommended duration percentages; the baseline structural skeleton the other sources attach to. Drawn from as fully as possible.
-- **James Scott Bell, *Plot and Structure*** — the "Doorway of No Return" framing for the two act breaks, the "Mirror Moment" for the midpoint, and supplementary beats (Kick in the Shins, Care Package, Q-Factor, Pet the Dog). Drawn from as fully as possible.
-- **John Truby, *The Anatomy of Story*** — character-web concepts (Ally/Allies, Opposition, Fake Ally, Moral Decision, Self-Revelation, etc.). Drawn from as fully as possible.
-- **Joseph Campbell, *The Hero's Journey*** — used selectively, not comprehensively: a Campbell beat is kept only if it can be reinterpreted into non-fantasy (e.g. sci-fi) form, or if it cross-references cleanly onto a Save the Cat beat (Road of Trials = Fun and Games; Refusal of the Call = Debate). Beats that are irreducibly fantasy-coded and don't reinterpret cleanly — e.g. **Magic Flight** — are deliberately left out.
-- **K.M. Weiland** — the archetypal character-arc layer. A 12-node life-cycle sequence alternating resting states and transforming arcs (Child → **Maiden Arc** → Lover → **Hero Arc** → Parent → **Queen Arc** → Ruler → **King Arc** → Elder → **Crone Arc** → Mentor → **Mage Arc**), giving **six arcs**, each with a pre-built thematic Lie/Truth pair, a world-transition, a Story Type, and a symbolic setting scope. Each also has a passive and an aggressive shadow counterpart. Full beat-by-beat templates for all six, plus the shadow taxonomy, live in `character-methodology/book-extractions/Character_Development_Methodology_-_DRAFT_Ideas.md` — sourced there rather than duplicated here.
+- **Blake Snyder, *Save the Cat!*** (Michael Wiese Productions, 2005) — the standard beat names; the baseline structural skeleton the other sources attach to. Drawn from as fully as possible.
+  - **The duration percentages used below are not Snyder's own figures.** He places beats by page of a 110-page script: Catalyst p. 12, Break into Two p. 25, B Story p. 30, Midpoint p. 55, All Is Lost p. 75, Break into Three p. 85, Final Image p. 110 (ch. 4). As percentages those are roughly 11%, 23%, 27%, 50%, 68%, 77% and 100%. The percentages here match those published for the novel adaptation, Jessica Brody's *Save the Cat! Writes a Novel* (2018). ⚠️ Not on disk; unverified.
+  - **The Five-Point Finale is not in the 2005 book either.** It comes from Snyder's *Save the Cat! Strikes Back* (2009). ⚠️ Not on disk; unverified.
+  - **Name:** Snyder calls the last beat "Final Image."
+- **James Scott Bell**, from two sources. Drawn from as fully as possible.
+  - ***Plot & Structure*** (Writer's Digest Books, 2004): the "Doorway of No Return" framing of the two act breaks (ch. 2, "Structure").
+  - **His lecture course *How to Write Best-Selling Fiction*** (The Great Courses / The Teaching Company, course no. 2533; guidebook © 2019): the signpost scenes. The course also teaches the two doorways (Lecture 5).
+    - Lecture 6 (Act I): the Disturbance, Care Package and Argument Against Transformation.
+    - Lecture 7 (Act II): Kick in the Shins, the Mirror Moment and Pet the Dog.
+    - Lecture 8 (Act III): the Q Factor.
+- **John Truby, *The Anatomy of Story*** (Farrar, Straus and Giroux, 2007), for the character-web concepts (Ally/Allies, Opposition, Fake Ally, Moral Decision, Self-Revelation, etc.). Drawn from as fully as possible. The full book is extracted in `../John Truby - The Anatomy of Story/`, including his 22 steps.
+- **Joseph Campbell, *The Hero with a Thousand Faces*** (1949), the monomyth or "hero's journey." The stage names follow the author's 17-stage diagram (`y-files/monomyth-17-stages.jpg`). Used selectively, not comprehensively: a Campbell beat is kept only if it can be reinterpreted into non-fantasy (e.g. sci-fi) form, or if it cross-references cleanly onto a Save the Cat beat (Road of Trials = Fun and Games; Refusal of the Call = Debate). Beats that are irreducibly fantasy-coded and don't reinterpret cleanly — e.g. **Magic Flight** — are deliberately left out.
+- **K.M. Weiland**, the archetypal character-arc layer. The life-cycle arcs are from *Writing Archetypal Character Arcs* (2021). The plot-point skeleton is from *Creating Character Arcs* (2016) and *Structuring Your Novel*. A 12-node life-cycle sequence alternating resting states and transforming arcs (Child → **Maiden Arc** → Lover → **Hero Arc** → Parent → **Queen Arc** → Ruler → **King Arc** → Elder → **Crone Arc** → Mentor → **Mage Arc**), giving **six arcs**, each with a pre-built thematic Lie/Truth pair, a world-transition, a Story Type, and a symbolic setting scope. Each also has a passive and an aggressive shadow counterpart. Full beat-by-beat templates for all six, plus the shadow taxonomy, live in `character-methodology/book-extractions/Character_Development_Methodology_-_DRAFT_Ideas.md` — sourced there rather than duplicated here.
 
   **Two rules govern how this layer attaches to the beats below:**
 
@@ -72,40 +80,42 @@ Campbell additions (Apotheosis, Atonement with the Father, Meeting with the Godd
 *Snyder.* The first visual/scene of the story — a thematic or grabbing image, scene, or short sequence that establishes tone, mood, and scope. Functions as the "before" snapshot of the hero (or world) that will have transformed by the story's end.
 
 ### Theme Stated
-*Snyder.* At ~5% — halfway into Set-Up — another character directly, though not blatantly, instructs the protagonist in their own psychological need, delivered as a localized, specific context rather than an abstract statement of theme. Example: a child wants a brand-new bicycle, and wants it immediately; at the 5% mark, the child's father tells him "you need to be patient" — a concrete, situational line that Act 3 later turns out to have been about all along.
+*Snyder (ch. 4): someone, usually not the hero, states the theme to the hero, around p. 5. Tying the statement specifically to the hero's own psychological need is the composite's narrowing, not Snyder's.* At ~5% — halfway into Set-Up — another character directly, though not blatantly, instructs the protagonist in their own psychological need, delivered as a localized, specific context rather than an abstract statement of theme. Example: a child wants a brand-new bicycle, and wants it immediately; at the 5% mark, the child's father tells him "you need to be patient" — a concrete, situational line that Act 3 later turns out to have been about all along.
 
 ### Set-Up
 *Snyder.* The opening ~10%: establishes the hero's ordinary world, weaknesses, and goals before the Catalyst disrupts it.
 
 ### Care Package
-*Bell. Placement: somewhere within Set-Up.* Some form of gift given to the protagonist — not a literal "birthday present" or "Christmas present," but a form of goodwill. Can be physical, verbal, psychological, or "actional" (something someone does). This is the setup half of a payoff pair with Bell's **Q-Factor** (see Dark Night of the Soul) — the two are explicitly built together.
+*Bell (course no. 2533, Lecture 6). Placement: somewhere within Set-Up.* Some form of gift given to the protagonist — not a literal "birthday present" or "Christmas present," but a form of goodwill. Can be physical, verbal, psychological, or "actional" (something someone does). This is the setup half of a payoff pair with Bell's **Q-Factor** (see Dark Night of the Soul) — the two are explicitly built together.
 
 ### Catalyst
-*Snyder / Bell ("Disturbance") / Campbell ("Call to Adventure").* The actual triggering event. Important craft rule: this is the *one and only* event in the entire story allowed to be random/coincidental — every other event must follow causally from what came before. Because it's the sole exception, it's especially important that this particular event actually matters.
+*Snyder (ch. 4) / Bell ("Disturbance", course no. 2533, Lecture 6) / Campbell ("Call to Adventure").* The actual triggering event. Important craft rule: this is the *one and only* event in the entire story allowed to be random/coincidental — every other event must follow causally from what came before. Because it's the sole exception, it's especially important that this particular event actually matters. *Sources: this "only one coincidence" rule is the composite's own, and it is not in Snyder's book. It tightens two related rules:*
+- *Bell: a coincidence may create trouble but must never get the lead out of it (course no. 2533, Lectures 7 and 19).*
+- *Emma Coats's "22 rules" (rule 19): coincidences that get characters into trouble are great, and ones that get them out are cheating (`Documents/Doll-Fi/writing guides/22 rules for writing - Emma Coats.jpg`).*
 
 ### Debate
-*Snyder / Bell ("Argument Against Transformation") / Campbell ("Refusal of the Call").* The hero's hesitation before committing to the journey — "Can I face this challenge? Do I have what it takes? Should I go at all?" The last chance to say no. These three terms name the same beat, not merely a thematically similar one.
+*Snyder (ch. 4) / Bell ("Argument Against Transformation", course no. 2533, Lecture 6) / Campbell ("Refusal of the Call").* The hero's hesitation before committing to the journey — "Can I face this challenge? Do I have what it takes? Should I go at all?" The last chance to say no. These three terms name the same beat, not merely a thematically similar one.
 
 ### Break into Two
-*Snyder / Bell ("Doorway of No Return #1").* The hero commits and enters the new world of the story — literally (leaves home, takes the case, joins the mission) or internally (an irreversible decision, accepting a truth). Should read as a door closing behind them; the old rules no longer apply.
+*Snyder (ch. 4) / Bell ("Doorway of No Return #1"; *Plot & Structure*, ch. 2; course no. 2533, Lectures 5-6).* The hero commits and enters the new world of the story — literally (leaves home, takes the case, joins the mission) or internally (an irreversible decision, accepting a truth). Should read as a door closing behind them; the old rules no longer apply.
 
 ### B-Story
-*Snyder. Placement: starts early in Act 2 (Road of Trials), converges with the A-plot at the Midpoint.* A parallel plot — a separate plotline that *seemingly* has no connection whatsoever to the main story, which then converges with the main story at the Midpoint/Mirror Moment. The "seemingly unrelated" quality is load-bearing: the disconnection from the A-plot must read as genuine to the audience right up until the convergence, not be telegraphed early.
+*Snyder (ch. 4). Placement: starts early in Act 2 (Road of Trials; Snyder p. 30), converges with the A-plot at the Midpoint. The Midpoint convergence is the composite's placement: in Snyder the A and B stories meet at Break into Three.* A parallel plot — a separate plotline that *seemingly* has no connection whatsoever to the main story, which then converges with the main story at the Midpoint/Mirror Moment. The "seemingly unrelated" quality is load-bearing: the disconnection from the A-plot must read as genuine to the audience right up until the convergence, not be telegraphed early.
 
 ### Kick in the Shins
-*Bell. Placement: early Act 2.* An event of things going wrong for the protagonist. No exact percentage marker — only that it should happen early in Act 2 ("you shouldn't let things stay trouble-free for very long"). Must be internally consistent with the surrounding world and relevant to the plot, not a random, disconnected setback.
+*Bell (course no. 2533, Lecture 7). Placement: early Act 2.* An event of things going wrong for the protagonist. No exact percentage marker — only that it should happen early in Act 2 ("you shouldn't let things stay trouble-free for very long"). Must be internally consistent with the surrounding world and relevant to the plot, not a random, disconnected setback.
 
 ### Road of Trials / Fun and Games / Promise of the Premise
 *Campbell / Snyder.* The part of the story that delivers on the premise's hook — whatever made the audience want this story in the first place actually gets experienced here (the magic school, the investigation, the romance). These two terms name the same beat, not merely overlapping concepts. Typically the longest single beat in the story (20–50%).
 
 ### Pet the Dog
-*Bell. Placement: close to the Midpoint, just before or after.* The protagonist temporarily departs/sidesteps from the main plot to help another character who is weaker than themselves. This action must have an effect (direct or indirect) on the progression of the rest of the plot, and must contribute somehow to the course of events leading up to the triggering of Act 3.
+*Bell (course no. 2533, Lecture 7). Placement: close to the Midpoint, just before or after.* The protagonist temporarily departs/sidesteps from the main plot to help another character who is weaker than themselves. This action must have an effect (direct or indirect) on the progression of the rest of the plot, and must contribute somehow to the course of events leading up to the triggering of Act 3.
 
 ### Midpoint / Mirror Moment
-*Snyder / Bell.* Snyder: either a **False Victory** or a **False Defeat**. Bell's Mirror Moment: the protagonist confronts three realization-questions — *Who am I? What have I become? What must I become?* — or realizes *"I'm probably going to die,"* where "death" can be **physical** (literal death), **social** (ostracism, loss of reputation/respect, a partner leaving), **professional** (losing a job they're committed to), or **psychological** (realizing a belief/belief-system held was not just wrong but falsely life-supporting). Campbell's Hero's Journey has no clearly identified equivalent "middle" beat.
+*Snyder / Bell.* Snyder: either a **False Victory** or a **False Defeat**. Bell's Mirror Moment (course no. 2533, Lecture 7): the protagonist confronts three realization-questions — *Who am I? What have I become? What must I become?* — or realizes *"I'm probably going to die,"* where "death" can be **physical** (literal death), **social** (ostracism, loss of reputation/respect, a partner leaving), **professional** (losing a job they're committed to), or **psychological** (realizing a belief/belief-system held was not just wrong but falsely life-supporting). *Sources: Bell names three kinds of death, physical, professional and psychological (course no. 2533, Lecture 2; also in *Plot & Structure*). "Social" death is the composite's addition.* Campbell's Hero's Journey has no clearly identified equivalent "middle" beat.
 
 ### Self-Revelation
-*Truby. Placement: flexible, anywhere across the entire second half of Act 2 (Midpoint through Break into Three); default preference is to place it at All Is Lost, but not a hard rule — place it wherever a given story's own logic calls for it.* The hero has a major revelation about who they really are, and grows as a person as a result — unless the revelation is so painful it destroys them instead. Two variants: a **psychological** self-revelation (stripping away a self-facade, seeing themselves honestly for the first time) or a **moral** self-revelation (realizing they've been wrong and have hurt others, and must change). Self-Revelation is the end-point of the same arc that "Need" begins back in Act 1.
+*Truby (*The Anatomy of Story*, ch. 8, step 20, PDF pp. 132-133). The placement below is the composite's own. In Truby the self-revelation comes out of the battle, near the end. Placement: flexible, anywhere across the entire second half of Act 2 (Midpoint through Break into Three); default preference is to place it at All Is Lost, but not a hard rule — place it wherever a given story's own logic calls for it.* The hero has a major revelation about who they really are, and grows as a person as a result — unless the revelation is so painful it destroys them instead. Two variants: a **psychological** self-revelation (stripping away a self-facade, seeing themselves honestly for the first time) or a **moral** self-revelation (realizing they've been wrong and have hurt others, and must change). Self-Revelation is the end-point of the same arc that "Need" begins back in Act 1.
 
 ### Bad Guys Close In
 *Snyder.* The second half of Act 2 — obstacles compound and become overwhelming, the protagonist's usual strengths stop working, plans get foiled, allies/teams may fracture. Pressure builds on both an external axis (literal antagonists, rivals, systems, deadlines) and an internal/psychological axis (the protagonist's own flaws finally catching up with them) simultaneously — widely considered the hardest beat to write well.
@@ -117,19 +127,19 @@ Campbell additions (Apotheosis, Atonement with the Father, Meeting with the Godd
 *Snyder.* The darkness before the dawn — the hero wallows in absolute hopelessness, beaten and *knowing* it, before picking themselves up and digging deep for a solution. Often the point where the story's theme reflects most directly back at the protagonist. Can be very brief — as short as a single beat/moment. Both Truby's **Moral Decision** and Bell's **Q-Factor** land somewhere within this span.
 
 ### Moral Decision
-*Truby. Placement: within Dark Night of the Soul.* The protagonist is forced to choose between two (or more) equally difficult, equally plausible moral choices — constructed so the choice is directly related to the protagonist's own **Moral/Character Flaw**, established back in Act 1's Setup. Explicitly paired with Truby's own **Self-Revelation** and Bell's **Q-Factor** — all three used together.
+*Truby (*The Anatomy of Story*, ch. 8, step 21, PDF p. 133; ch. 5, "Moral Argument"). The placement and the "(or more)" are the composite's own. In Truby the moral decision follows the battle and the self-revelation, and it is a choice between exactly two options. Placement: within Dark Night of the Soul.* The protagonist is forced to choose between two (or more) equally difficult, equally plausible moral choices — constructed so the choice is directly related to the protagonist's own **Moral/Character Flaw**, established back in Act 1's Setup. Explicitly paired with Truby's own **Self-Revelation** and Bell's **Q-Factor** — all three used together.
 
 ### Q-Factor
-*Bell. Placement: within Dark Night of the Soul; payoff half of the Care Package/Q-Factor pair.* During a period of great strife and hardship, the protagonist remembers that they received the Care Package — physically, verbally, through something in the environment, or simply through memory. Acting on this renewed mindset, the protagonist becomes able to act decisively.
+*Bell (course no. 2533, Lecture 8, where it is an Act III signpost between "Lights Out" and "the Final Battle"). Placement: within Dark Night of the Soul; payoff half of the Care Package/Q-Factor pair.* During a period of great strife and hardship, the protagonist remembers that they received the Care Package — physically, verbally, through something in the environment, or simply through memory. Acting on this renewed mindset, the protagonist becomes able to act decisively.
 
 ### Break into Three
-*Snyder / Bell ("Doorway of No Return #2").* The moment of clarity — the hero finally understands what they need to do, and more importantly, who they need to become to do it. This is where the A-story and B-story intertwine to help the hero find the solution; often the B-story's own lesson "clicks into place" here, giving the hero what they need to try again.
+*Snyder (ch. 4) / Bell ("Doorway of No Return #2"; *Plot & Structure*, ch. 2; course no. 2533, Lecture 8).* The moment of clarity — the hero finally understands what they need to do, and more importantly, who they need to become to do it. This is where the A-story and B-story intertwine to help the hero find the solution; often the B-story's own lesson "clicks into place" here, giving the hero what they need to try again.
 
 ### Finale — the "Five-Point Finale" / "Storming the Castle"
-*Snyder.* The final ~20% of the story, broken into five sequential steps: (1) **Gather the Team**, (2) **Storm the Castle**, (3) **High-Tower Surprise**, (4) **Dig Down Deep**, (5) **Executing the New Plan**. Applies across genres, not just action/adventure — every finale shares the common thread of pursuing a concrete goal.
+*Snyder: the Finale is in ch. 4 of the 2005 book. The five steps come from his* Save the Cat! Strikes Back *(2009) ⚠️ (not on disk; unverified).* The final ~20% of the story, broken into five sequential steps: (1) **Gather the Team**, (2) **Storm the Castle**, (3) **High-Tower Surprise**, (4) **Dig Down Deep**, (5) **Executing the New Plan**. Applies across genres, not just action/adventure — every finale shares the common thread of pursuing a concrete goal.
 
 ### Closing Image
-*Snyder.* Structurally the mirror/bookend of the Opening Image: the "after" snapshot of the hero/world, showing how much has changed since the opening. Should visually or thematically echo the Opening Image, ideally in contrast — same setup, transformed outcome.
+*Snyder (ch. 4), who calls it the "Final Image."* Structurally the mirror/bookend of the Opening Image: the "after" snapshot of the hero/world, showing how much has changed since the opening. Should visually or thematically echo the Opening Image, ideally in contrast — same setup, transformed outcome.
 
 ---
 
@@ -221,13 +231,15 @@ practical strategies, meant to be applied together, not picked one at a time:
 Unlike the Save the Cat/Bell beats above, Truby's character-web concepts aren't tied to a specific point on a percentage timeline — they describe character *relationships and functions*, applicable wherever the relevant characters interact.
 
 ### Fake Ally
+*The composite's own definition, which differs from its source. Truby's term is the "fake-ally opponent": a character who seems to be on the hero's side but is really an opponent, or works for the main opponent (*The Anatomy of Story*, ch. 8, step 8, PDF p. 126; also ch. 4, "Character").*
+
 Does **not** mean "traitor" or "backstabber." A Fake Ally is a character established as an ally to the protagonist in Act 1, who later acts *against* the protagonist — but does so in a way fully aligned with the Fake Ally's own belief system, goals, objectives, hesitations, fears, and principles, not out of betrayal. Example: the protagonist wants to eat at a spicy-food restaurant; their ally has a severe intestinal condition that makes spicy food unbearably painful, and steers them toward a non-spicy restaurant instead. The ally never betrays or backstabs the protagonist at any point — they're simply acting in their own genuine interest, which happens to conflict with the protagonist's.
 
 ### Ally / Allies
 Self-explanatory: the ally (or allies) to the protagonist.
 
 ### Opposition
-Self-explanatory: whatever/whoever constitutes the opposition to the protagonist.
+*Truby: the opponent (*The Anatomy of Story*, ch. 4, "Character"; ch. 8, step 7).* Self-explanatory: whatever/whoever constitutes the opposition to the protagonist.
 
 *(Not necessarily a closed list — more Truby concepts can be added as needed.)*
 
@@ -244,7 +256,8 @@ The hero encounters a powerful embodiment of love or goodness, and must earn a g
 The hero confronts and is initiated by whatever holds ultimate power in their life — often a father figure or a god-like/authority figure — and must reconcile with that power to move forward. Frequently involves the hero realizing this figure is mortal and flawed, and may have to rely on this imperfect being for help regardless.
 
 ### Apotheosis
+*Spelled "Apostasis" in the author's 17-stage diagram and in the composite arc template.*
 A period of rest, peace, and fulfillment following the hero's trials, before their return. The old self dies and a new, more enlightened self is born. Doesn't necessarily mean literal godhood — sometimes it indicates the hero has transcended their former mental or physical state into something more sophisticated.
 
 ### Deliberately excluded
-**Magic Flight** — irreducibly fantasy-coded, does not reinterpret cleanly into non-fantasy form. Any other Hero's Journey beat not listed above is likewise not currently part of this fused framework; add one only if it can be reinterpreted the same way.
+**Magic Flight**: irreducibly fantasy-coded, and it does not reinterpret cleanly into non-fantasy form. The author's ruling (2026-10-29): use it only in Fantasy; in any other genre it comes across as cheap and derivative. Any other Hero's Journey beat not listed above is likewise not currently part of this fused framework; add one only if it can be reinterpreted the same way.
