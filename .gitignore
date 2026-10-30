@@ -1,0 +1,17 @@
+# This repo is public: never commit copyrighted books, media, or generated caches.
+*.pdf
+*.epub
+*.djvu
+*.mobi
+*.azw3
+*.mp4
+*.webm
+*.mkv
+*.mp3
+*.wav
+graphify-out/
+__pycache__/
+*.pyc
+
+# Local-only source material (videos, captions, other people's texts): never committed.
+**/source_reference (local only, not in git)/

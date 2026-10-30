@@ -1,0 +1,121 @@
+# Gate C — Canon check, federated
+
+> ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 297–338.** *(Re-verified 2026-10-01 against the current gate headings.)* *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `279–320`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
+
+## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
+
+1. **DO THIS STEP ONLY. STOP AT THE END.** Do not begin the next one. **Report, then wait.**
+2. **PASTE RAW OUTPUT. NEVER SUMMARIZE IT.** *(`00_RUNBOOK.md` Step 7; `04` Gate 1.)* **A summary of a scan
+   is not evidence that the scan ran.**
+3. ⛔ **DO NOT SUPPLY A CRITERION THE INSTRUCTION DOES NOT STATE.** ***If you find yourself deciding what
+   "should" exist, STOP AND ASK.*** **Every false finding on record came from this.**
+4. ⛔ **DO NOT EDIT ANY FILE** unless this step's own text tells you to write something. **Finding a defect
+   is not authorization to fix it.**
+5. **If you cannot find something, that is the result.** **Log it. Do not route around it, do not substitute,
+   do not proceed on a guess.**
+6. **AMERICAN ENGLISH.** *(Global `CLAUDE.md`.)*
+7. ⛔⛔⛔ **ONE LOCATION, ON ITS OWN TERMS — NEVER COMPARE ANY LOCATION TO ANY OTHER.** *(Binding law,
+   developer ruling 2026-09-06. **Hand-synced into this card 2026-09-06** — the ruling landed on
+   `00_RUNBOOK.md` and reached no card.)* ⛔ **No ranking, no z-scores, no "nth of N," no "unlike X," no other
+   location as a control, baseline or implicit normal.** ✅ **Use this location's OWN figures, stated flatly.**
+   ⭐ **RELATION stays legal** — *what this place needs from elsewhere, what flows, in which direction.*
+   **The one-sentence test: delete every other location's name from the sentence; if the claim about THIS place
+   survives, it was relation.** ⚠ **Scope is `ULM / CST / RWBEM`. District passes are untouched.**
+8. ⛔⛔ **NO FORCED FIT — AN EMPTY SLOT IS A RESULT, NOT A GAP.** *(Binding law, developer ruling 2026-09-06.
+   Hand-synced 2026-09-06.)* **Never force a location into a category it does not naturally occupy — and the
+   error runs BOTH ways:** *assigning an existing roster member that does not fit, **or** inventing a bespoke
+   one to fill a blank.* **Rosters are OPEN and expected to grow, so a roster's SIZE is never the test.**
+   ✅ ***"None is sited here" must never read as "none is possible here."***
+
+---
+
+> ## 📂 THE THREE TIERS — **ABSOLUTE ADDRESSES. A NEGATIVE RESULT WITHOUT THESE PATHS DOES NOT COUNT.**
+> *Added 2026-09-07. This gate demanded "name the search paths" and "all three tiers" while supplying **no
+> address for any tier** — the exact defect it exists to catch* *(`M-117`: **a name is not an address**)*.
+>
+> | Tier | Address |
+> |---|---|
+> | **1 · UNIVERSE REPO** — wins on **When · Where · Who** *(chronology, geography, routes, character identity — `00_RUNBOOK.md` §A; a city's founders come only from `Founding_Register.md`, `DR-19`)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/` |
+> | **2 · THIS PROJECT** — everything the universe repo excludes | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/` |
+> | **3 · SIBLING PROJECTS** — not authoritative, but a consistency obligation | `/home/kuroskalacs/Documents/Doll-Fi/media/games/` |
+>
+> ⛔⛔ **THE UNIVERSE REPO IS NOT INSIDE THIS ONE.** ***A repo-local `grep` cannot see it and will return a
+> confident, wrong "not found."*** **It must be opened deliberately.**
+> ⚠ **And a thin-looking canon file may be a REDIRECT STUB** — *one file is 7 lines here and 344 lines
+> upstream.* **Check before concluding the canon is thin.**
+>
+> ⭐ **The four-question check this gate invokes: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` §E.**
+> ⭐ **The full registry — every root, with tiers: same file, §B (universe) · §C (project) · §C.9 (real-world research, ~90 files).**
+
+---
+
+# THE INSTRUCTION
+
+## Gate C — Canon check, federated
+
+**Was the four-question canon check (`00_RUNBOOK.md` §E) actually run, against all three tiers?**
+
+- **⚠ Was every search that produced a NEGATIVE result actually run across all three tiers — and can you name
+  the search paths?** *(Strengthened 2026-08-30. The old wording asked only whether the universe repo was
+  "opened deliberately," which a pass can answer yes to while every one of its actual sweeps stayed local.)*
+  > **The measured case.** A city underwent **six** escalating integrity re-check passes, the sixth recorded as
+  > *"genuinely clean, the first fully clean pass in this city's re-check history,"* having tried *"fresh grep
+  > angles… **repo-wide**."* **Meanwhile the universe repo still listed the city's retired placeholder name as
+  > a current city, and pointed at a directory path that had not existed since the rename.**
+  >
+  > **"Repo-wide" sounds exhaustive and is not.** The universe repo is not in the repo. **Six genuinely
+  > rigorous passes each searched a space that structurally could not contain the remaining bugs, and each
+  > returned a clean result that was true of the space searched and false of the world.**
+  >
+  > **So: a grep that never left this repo is not evidence about canon. It is evidence about one directory.**
+  > **Name the paths, or the negative result does not count.**
+- **Project canon checked against the source, not against the last pass that cited it?**
+- **⚠ SHARED CONSTANTS — check at the SOURCE, never at the neighbors.** *(Added 2026-08-30, from a measured
+  case: a wrong era length sat in **20 files across 8 locations**, including the city-culture template itself,
+  and had been used as a causal premise in all of them.)*
+  > **Does this pass use a figure that also appears in other locations' files — a duration, an era length, a
+  > generation count, a population, a distance?** **If so, verify it against the timeline or spec that owns it.**
+  >
+  > **A shared constant is invisible to per-file checking by construction.** Every file agrees with every other
+  > file, so any consistency check *between* them passes — and **agreement among siblings then reads as
+  > corroboration**, so the error actively defends itself. **Gate 0 checks a file against its own claims;
+  > this gate checks a claim against canon; neither one asks whether twenty files are wrong together.**
+  >
+  > **And when the corrected figure was carrying an argument, rebuild the argument — do not just renumber.**
+  > In the measured case a cuisine finding was justified by *"feeding itself through a six-month polar night"*;
+  > the real figure was ~60 days, and swapping the number in would have left a weak claim. **The actual
+  > constraint — nothing grows on that continent in any season — was both true and stronger.**
+- **Any thin-looking canon file checked for being a redirect stub** before concluding the canon is thin?
+- **Rank order respected** where sources disagreed, with the contradiction stated rather than silently resolved?
+- **Anything binding beyond this location** routed to RESERVED instead of decided here?
+- **Anything genuinely new named, defined and cross-referenced** so it enters canon cleanly?
+
+**Record which canon files were actually opened.** A pass that reports "checked canon" without naming files has
+not run this gate.
+
+---
+
+# EXECUTION LOG — fill this in, then stop
+
+**Location:** ____________  **Date:** ____________  **Frame:** Second Interwar (default)
+
+| # | What the instruction demanded | Where it said to look | Found? | Raw evidence — `path :: L<n>` or pasted output |
+|--:|---|---|:--:|---|
+| 1 | | | | |
+| 2 | | | | |
+
+**Anything the instruction demanded that could NOT be found:**
+-
+
+**Anything I had to decide that the instruction did not state** *(⛔ each one is a question for the developer,
+not a judgment call)*:
+-
+
+**Verdict:** ☐ step complete  ☐ blocked — cannot proceed without: ____________
+
+> ### ⚠ BEFORE REPORTING, CHECK THE TWO THAT ARE ALWAYS FORGOTTEN
+> ☐ **Did this step change the methodology?** → **it goes in `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`
+> with the next continuous `M-` number, IN THE SAME COMMIT.** *(`CLAUDE.md`: "Both, or neither.")*
+> ☐ **Did I modify any file?** → **`graphify update .`** *(`CLAUDE.md`.)*

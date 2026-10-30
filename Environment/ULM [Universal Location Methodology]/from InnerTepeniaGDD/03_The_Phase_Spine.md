@@ -1,0 +1,1198 @@
+# The Phase Spine — Eleven Phases
+
+> **⚠ Read `00_RUNBOOK.md` first.** **LAW 0 — depth over speed** governs every phase below. A phase that is
+> *covered* is not a phase that is *done*.
+
+---
+
+# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.
+
+**Stated in full rather than cross-referenced, because a procedure that cites its governing law instead of
+stating it will be run without it.**
+
+**Worldbuilding is upstream of the entire project.** Every character, questline, faction, companion arc,
+personal struggle, daily hardship, pastime and small joy is **downstream of decisions made here.** A shallow
+location does not produce a shallow location — it produces shallow people living in it, shallow problems for
+them to have, and shallow reasons for anyone to care. **The cost of going fast here is not paid here.** It is
+paid later, everywhere, by work that cannot be fixed without coming back and redoing this.
+
+**Therefore:**
+
+- **Contemplate before writing.** The first plausible answer is usually the generic one, and a generic answer is
+  worse than no answer because it occupies the slot.
+- **Do actual research.** Not recalled, not inferred from a name. **The one controlled comparison this project
+  has ever produced** — same location, same author, same day, at two researched picks and at six — found that
+  **the two strongest findings came from picks four, five and six and did not exist at two.** The "redundant"
+  picks were not redundant; four of them were the pass.
+- **Chase nth-order effects.** For every finding ask **"and what does that cause?" three times.** First-order is
+  the observation. Second-order is usually the interesting one. **Third-order is where the place stops
+  resembling anywhere else.**
+- **Go deep on the specific, not wide on the general.** One institution understood to its third-order
+  consequences beats six sketched.
+- **Take the time.** There is no deadline and no credit for finishing quickly.
+
+## The anti-patterns this law exists to stop
+
+1. **Producing a location because it is the next one**, rather than because it has been thought through.
+   **Completion is not the goal; a place somebody could live in is the goal.**
+2. **Skipping research by declaring it redundant.** Prioritizing by difference is a real rule and it is also
+   *convenient*. **A pick is only redundant once you have actually looked at it. Redundancy asserted from a
+   title is a guess wearing the costume of a method.**
+3. **Treating "the phase is covered" as "the phase is done."** A finding that answers the template question is
+   the floor, not the ceiling.
+4. **Accepting the first coherent answer** because it fits and the pass is long.
+5. **Letting the gates substitute for thinking.** They confirm a pass is not *wrong*. **None of them can tell
+   you it is not thin.**
+
+**And the companion failure — research used as decoration.** Doing the research is not the same as letting it
+change anything. After each source, ask plainly: **did this change a finding, or ornament one?** Both answers
+are honest and must be recorded differently. A citation attached to a conclusion that would have been written
+anyway makes a thin pass look researched.
+
+## The closing test
+
+> **Could a person live an entire life here — and would that life be unlike a life in any comparable place?**
+
+If the honest answer is *"probably, I suppose,"* the pass is not finished regardless of what the gates say.
+
+> ### ⚠ Restated again, 2026-08-31, mid-Run-5 — because it needs to be heard again, not just cited
+>
+> **Developer instruction, verbatim, given directly during Sinheung's cold pass:**
+>
+> > *"Refining, fine-tuning, and perfecting this methodology is of absolute top-priority and importance to me.
+> > If it takes a month to get it right, then we spend a month testing and refining it."*
+>
+> **What this adds, beyond what LAW 0 already says above:** it is not only that speed is not rewarded — it is
+> that **there is no ceiling on how long this is allowed to take, and no session should treat a long runtime as
+> a signal that something has gone wrong or that it should wrap up.** A pass, a phase, or a single finding that
+> is still open after extensive work is not evidence of failure; stopping early to manufacture a sense of
+> completion is the actual failure. **A future session reading this: you do not need to do this "quickly." You
+> need to do it *right*.** If the honest, current state of the work is "still going," that is a legitimate and
+> expected state, not a problem to paper over.
+
+*(Copied here in full, verbatim, from `00_RUNBOOK.md`, 2026-09-03 — per developer instruction, after a live
+session read this law once at the start of a run and still failed to follow it partway through. Placed at the
+top of every ULM instruction file rather than cross-referenced, for the reason the law itself already states.)*
+
+---
+
+
+---
+
+# 0. Why eleven, and why these
+
+**The eight district phases are not a skeleton; they are a patch.** They were built to close categories that
+measured near-zero coverage across the parent methodology's own sub-location set — robot-specific culture,
+visitor experience and fashion at 0-of-13, architecture at 4-of-13. They are excellent at what they were built for and they do not cover the
+space.
+
+**Measured against the 32-section city template, the district phases inherit roughly half of it.** Absent from
+the district set entirely: Founding Story · Climate Character · Seasonal Rhythms · Social Contract and Unwritten
+Rules · Who This Place Attracts · Language · Division of Industry · Political Character · Relationship to Other
+Cities · Notable Landmarks · Significant Events · Notable Figures.
+
+**One of those absences is a known, measured defect rather than a scoping choice.** `00e` §6 records that no
+district phase covers inter-district relationships, with consequences it quantifies — a completed district file
+mentioning its own opposite district zero times. **The city template has that section (§23). It was present at
+city scale and lost in translation to district scale.** The spine below restores it as **Phase 5**, deliberately
+in the middle rather than at the end, because a phase at the end of a list is the phase that gets dropped.
+
+**The ordering is by dependency, with two deliberate promotions:**
+
+- **Ordinary Life is Phase 4, not Phase 5.** `00_RUNBOOK.md` promotes it to *"a generator, not a coverage box"*
+  and credits it with the single best finding of the twelve-district set. It depends on capability and
+  composition and on very little else, so it runs as early as its dependencies allow.
+- **Relation is Phase 5, not Phase 8.** It needs enough of the place to exist to have relations, but it must
+  precede Meaning, Order and Making — because those three are all inflected by who the place is set against, and
+  because the three-way differentiation set (`00e` §6) needs the geometry established *before* categories are
+  written, not after.
+
+## 0.1 Applicability by type
+
+**M** mandatory · **P** mandatory *and primary* — the phase that carries this type · **o** optional ·
+**→** replaced by the noted substitute · **–** not applicable
+
+| Phase | Settlement | Polity | Installation | Corridor | Structure | Vessel | Natural | Network | Interstitial |
+|---|---|---|---|---|---|---|---|---|---|
+| **0** Frame | M | M | M | M | M | M | M | M | M |
+| **1** Constraint & Capability | M | M | M | M | M | M | M | M | *special* |
+| **2** Composition & Arrival | M | M | M | →users | o | M | →users | →users | M |
+| **3** Surface & Texture | M | →delegate | M | M | M | M | M | *adapt* | M |
+| **4** Ordinary Life | M | →distribution | M | →transit day | o | M | →users | o | M |
+| **5** Relation & Geometry | M | M | M | **P** | M | M | M | M | **P** |
+| **6** Meaning | M | M | o | o | o | M | →external | o | M |
+| **7** Order | M | **P** | **P** | o | o | M | – | o | o |
+| **8** Making | M | →distribution | o | rare | rare | M | – | o | o |
+| **9** Populations | M | M | M | o | o | M | – | o | M |
+| **10** Catalog | M | →delegate | M | M | M | M | M | M | M |
+
+**"Delegate"** means the answer belongs to the sub-locations' own passes and the parent records only the
+*pattern of variation* (`01` §5.4). **A Band 5–6 polity that answers Phase 8 directly has been written at the
+wrong scale.**
+
+## 0.2 Mechanics that apply to every phase
+
+Stated once here rather than repeated eleven times.
+
+1. **Formalize before inventing.** Check whether the location already has scattered, unlabeled material for this
+   category. Name the existing pattern and cite where each piece lives before adding anything. This is the
+   single most reliable move in the district folder and it holds everywhere.
+2. **Check canon before deriving anything structural.** Countercultures, religions, shadow mechanisms and
+   notable figures all have existing canon more often than a pass expects. Where canon supplies the mechanism,
+   **the pass's job is to explain why *this* location was the one it happened to** — not to invent a parallel.
+3. **Name the axis, in bold, before writing the content.** *(`00_RUNBOOK.md` Step 4.)* A category is not
+   differentiated by having different content; **it is differentiated by answering a different question.** If
+   you cannot name the axis in three or four words, the category has not been differentiated — it has only been
+   described differently. In a ULM / CST / RWBEM pass, add the axis to this location's own column of the
+   differentiation instrument (`04` Part III, write-only in-run) and never read another location's row.
+4. **A null is a result.** A category that
+   produces nothing distinctive for this location is allowed to produce nothing. **Record the null and say
+   why.** Expect several per location; a location where every phase fires richly is a location someone has
+   over-written. **But distinguish two nulls:** *covered in substance, absent in the expected form* is a finding;
+   *absent and unexplained* is a hole. **The test is one question — does the pass say why the thing is missing?**
+   > **⚠ A phase-level null flag does not cover every claim inside that phase.** *(Added 2026-08-31, from a
+   > real case.)* A phase can be honestly marked "unresearched, null" for most of its content and still contain
+   > one un-flagged, ungrounded assertion — the coarse flag creates a false sense that everything in the phase
+   > was deferred, when in fact one specific claim was written anyway, without checking that phase's own
+   > mandatory canon target first (`03` §0.3). **When a phase is partially written and partially deferred, say
+   > which specific claims are grounded and which are not** — do not let a single phase-level null/covered tag
+   > stand in for a claim-by-claim account.
+5. **General-population discipline** (`00b`), **with the Band-1 inversion** from `01` §2.3.
+6. **Shadow proportion** (`00d`): the surface is true, the shadow is also true, and the shadow is a byproduct.
+7. **The player-facing test:** push every finding until it has a
+   physical or behavioral expression — **seen, heard, entered, handled, spoken, done, or hooked.** A finding
+   that can only be read about is weak. **And the violation is usually the gameplay.**
+8. **Run the four-question canon check** (`00_RUNBOOK.md` §E), against the targets in §0.3 below.
+   *Does canon already answer this? · Does this contradict canon? · Does this bind anything beyond this
+   location? · Does this need registering back?* **Canon is federated — universe repo, project repo, and
+   siblings — and the universe repo is outside this repo and invisible to a local search.**
+9. ### ⭐⭐⭐ **WHERE THE SETTING HAS A NON-HUMAN POPULATION, ITS PHYSIOLOGY IS A STANDING INPUT TO EVERY PHASE.**
+   **Added 2026-09-06 at the developer's direction, after a live pass got it wrong.**
+
+   > **The governing physiology document is read ONCE, EARLY, IN FULL — at `Step 0.2` alongside the
+   > disciplines — and it stays open for every phase thereafter.** ⛔ **It is NOT a specialist check to be
+   > consulted at the phase that happens to mention food, or cold, or bodies.**
+
+   **Why this needs stating rather than assuming:** ***a setting whose non-human population is a MAJORITY has
+   no phase that is not about them.*** **Composition, texture, ordinary life, order, making, populations —
+   each is a question about the majority body as much as about the minority one.** **A pass that opens the
+   physiology file only where a phase's own title mentions bodies will write the other phases as though the
+   majority were human, and will not notice.**
+
+   > ### ⚠ THE FAILURE THIS IS WRITTEN AGAINST — measured, 2026-09-06
+   > **A pass opened a NARROW physiology file** *(the setting's environmental-hazard companion)* **and never
+   > the GENERAL one. It then derived a capability finding — that the local environment uniquely permitted a
+   > kind of stationary outdoor work — which was false**, ***because the general file establishes the
+   > population is ordinarily clothed and the hazard is a preparation problem, not a gate.***
+   > ⭐ **The narrow file was not wrong. It was PARTIAL, and partial read as complete.**
+   > **The corrected finding was better than the false one** *(the constraint moved from the body to the
+   > HANDS, and from a gate to a gradient)* — **but nothing in the procedure would have caught it.**
+
+   **Three rules:**
+   1. **Read the GENERAL physiology document before the narrow ones.** *A companion file scoped to one hazard
+      states what that hazard costs; it does not state what the population ordinarily is.*
+   2. ⛔ **Never infer non-human physiology from the word for it.** *The setting's own file is the authority —
+      the same rule `02` §6.0 gives for symbols: **read the member from the file, never from the name.***
+   3. **State the population's ordinary condition BEFORE any environmental claim about it** — *clothed or not,
+      sheltered or not, mobile or not.* **An environmental finding written against a bare body and a clothed
+      body are different findings.**
+
+   *(The project's own governing document and its addresses are registry data — `00_RUNBOOK.md` §C.10.)*
+
+## 0.3 Per-phase canon targets
+
+**Which CLASS of canon each phase must open.** ***The addresses are project data and live in
+`00_RUNBOOK.md` §C.8*** *(per the LAYERING LAW — this file must stay usable in any universe)*. **Where a
+setting has a federated canon, check every tier, not only the highest-ranked one.**
+
+| Phase | Check against — by CLASS |
+|---|---|
+| **0** Frame | the authority law itself *(read once)* · the era/timeline registry · location registries and census |
+| **1** Constraint & Capability | shared location facts · specs, climate data, infrastructure, and any energy/utility failure canon |
+| **2** Composition & Arrival | ⚠ **any binding anti-stereotype law** · the founding instrument/treaty · census, diaspora and founding-population material |
+| **3** Surface & Texture | climate data · specs · physical infrastructure attributes · concept art |
+| **4** Ordinary Life | logistics/supply canon · the non-human population's physiology and culture · economy and currency |
+| **5** Relation & Geometry | shared location facts and routes · highways, airports, ports, network topology · inter-location relationship files |
+| **6** Meaning | ⚠ **the existing belief/religion roster — check before inventing one** · setting-wide observances *(what a local one must differ from)* · **and any deferred mortuary question — do not answer it** |
+| **7** Order | economy and currency · logistics · faction roster · criminal-justice canon · corporate actors |
+| **8** Making | ⚠ **non-human physiology/consumption canon — mandatory before any food, drink or intoxicant claim** · tools/weapons philosophy · gear catalogs · language and slang |
+| **9** Populations | ⚠ **binding laws governing the non-human population** · its cultural universals · representation categories · the inter-population baseline |
+| **10** Catalog | shared character canon · the character/personality index · notable-figure and landmark canon · **and the no-invented-person-names rule** |
+
+**Two standing reminders that cut across the table.** **Any book-extraction index must be checked before
+mining a book** — such an index exists in this project because a book was twice assessed as unmined when it was
+not. And **check against the source, never against the last pass that cited it** — a mortuary mechanism was
+once invented and then passed the contradiction gate on three consecutive sub-locations, because each pass
+checked the previous pass.
+
+> **⛔ The per-phase ADDRESSES for this project are at `00_RUNBOOK.md` §C.8c** *(LAYERING LAW)*. **An
+> instruction to check something is unrunnable without an address — but the address is project data, and this
+> file must stay usable in any universe.**
+
+## 0.4 ⚠ DRAFT ORDER IS NOT CLOSE ORDER
+
+**Added 2026-08-31. Found by mining Runs 6 and 7 rather than by reading this file — because it was never
+written in this file. The running sessions were generating it themselves.**
+
+**The observed symptom.** A pass in progress writes a sentence of the form *"Phase X cannot be finished until
+Phase Y is written"* — **where Y comes after X.** Recorded instance, a corridor pass, Phase 4 §C:
+
+> *"**This section will be re-checked once Phases 5–10 are written**, per the standing instruction that Gate 3
+> is best run against a complete file, not a partial one."*
+
+That reads as a circular dependency, and it is not one. **It is a real collision between two different orders
+this file had silently merged into one.**
+
+**The distinction, stated once:**
+
+- **DRAFT order — Phases 0 → 10, exactly as listed below.** Every phase is *written* in this order. The order
+  is by dependency and it is correct. Nothing here changes it.
+- **CLOSE order — a different, much shorter list.** A few checks are only *meaningful against a complete file*.
+  They cannot run inside the phase that owns them, because the material they check does not exist yet.
+
+> ### The rule: a phase is DRAFTED in its own slot and CLOSED later.
+>
+> **A phase that defers a complete-file check is COMPLETE, not BLOCKED.** Write the deferral as a docket line
+> naming where it closes — **never as a forward dependency, and never as a reason to hold the phase open.**
+
+**The known close-pass docket.** *(Not assumed exhaustive. Add a row when a run finds another.)*
+
+| Check | Owned by | Why it cannot close in place | Closes at |
+|---|---|---|---|
+| Internal-contradiction sweep (`04` Gate 3) | Phase 4 supplies the instrument | Needs Phases 5–10 to exist in order to check them | **Step 7**, Gate 3 |
+| Three-way differentiation set (`04` Part III) | Phase 5 establishes the geometry | Needs the categories Phases 6–8 write | **Step 6** |
+| Zodiac Lens person-shaped results (Phase 10 §B2) | Phase 10 runs the technique | Produces Phase 9 material *after* Phase 9 is written | **Step 5**, as an amendment |
+| Strongest-finding check (`01` §5.2 rule 4) | no single phase | You cannot know which finding is strongest until the pass is nearly done | **Step 5** |
+
+**Why this matters beyond tidiness.** A session that believes it is blocked does one of two bad things: it
+**stalls a phase that was actually finishable**, or it **writes a later phase early and badly in order to
+unblock itself.** Both cost more than the deferred check was ever worth. **If a pass finds itself writing
+"pending Phase Y" about a later phase, that is this bug — check this docket before believing it.**
+
+---
+
+# PHASE 0 — FRAME
+
+**Asks:** *What kind of thing is this, at what scale, in what state, in what era, and inside what?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** `Repo_Scope.md` *(once per project)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Repo_Scope.md`
+> - **U** Timeline eras
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/`
+> - **P** `Official_Population_Census.md` + location registries
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**Produces no location content.** Its entire output is the declaration block from `01` §6 plus the generator
+selection from `02` §5.1. It exists because every subsequent phase question is ambiguous without it.
+
+**Process.**
+- **A.** Fill the declaration block. Type + modifiers, both bands, status, frame, position, sibling set.
+- **B.** Enumerate available generators; select at least three, **chosen for independence rather than strength**.
+- **C.** Read the location's existing material in full before writing anything, and **run the asymmetry check on
+  it** — for every inherited finding describing a threshold, gate, conversion, verdict, admission or status
+  change, ask whether the file wrote both directions. *(This fires on inherited material at a very high rate;
+  see `04` Gate 9.)*
+- **D.** State reserved decisions the pass must not foreclose, and what would foreclose them.
+
+**Failure mode.** Treating the block as bureaucracy and filling it after the fact. **Four of the seven
+substantive errors recorded in this project were scale, scope or frame errors** that this block makes visible
+before the writing starts.
+
+---
+
+# PHASE 1 — CONSTRAINT & CAPABILITY *(the spine)*
+
+**Asks:** *What can this place do without trying, what can it not do at all, what must it keep paying, and what
+does it permit but punish?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** Location canon
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`
+> - **P** `Specs/` — *incl. its closed-set `**Access type:**` token*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`
+> - **P** `Energy_Grid_Failure_Rationale.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Energy_Grid_Failure_Rationale.md`
+> - ⭐⭐ **CLIMATE** — ⛔ **files are named for the REAL-WORLD STATION, not the city. Search by the ALIAS SET or you will get a false negative**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
+> - **Stations** *(physical and infrastructure facts only, `DR-24`; a station's operator or nation is never a founder, identity or tie input, `DR-19`)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Stations/`
+> - ⭐ **`16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures.** ⛔ `QUERYABLE-BY-SCHEMA`; **never `grep` it by subject name**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+**The whole of `02` is this phase's reference.** Everything downstream hangs on it.
+
+**The core move.** Run three independent generators to three separate four-quadrant profiles, **then compare** —
+agreement is grounding, conflict is the richest finding site in the method, and shared silence is a shape result.
+
+**Process.**
+- **A.** Run each selected generator to a full four-quadrant profile, **separately, before comparing.**
+  Comparing early lets the first read contaminate the others.
+- **B.** Build the comparison table; mark every cell *agree · conflict · silent*.
+- **C.** Resolve conflicts with the both-are-true test — *what single property would produce both readings, and
+  are the two claims about different objects or at different scales?*
+- **D.** Read the **shape** (`02` §4) and apply its matching question. **In-run, test the shape against `02`
+  §4.0's double reading (the same input set read twice), never against another location;** `02` §4's three-step
+  rule is TERMINAL (`00_RUNBOOK.md`, THE LAW OF ONE LOCATION).
+- **E.** Read the **address** of each deficit (`02` §4.1) — and **count the addresses**, because a count above
+  one should raise suspicion rather than reassurance.
+- **F.** **Then** research the deficit. The profile says what the place cannot do; it does not say what the
+  missing thing looks like. **Find a real culture that has it, and the contrast writes the finding.** Research
+  can also supply a *substitute institution* — a real culture that lacked the same formal capacity and built a
+  workaround no design process would have invented.
+- **G.** **Then, and only then,** run the Unrecognized Instrument — is the place already doing the thing it
+  cannot do, somewhere, for an unrelated reason, and has never noticed it generalizes? **Run it after, never
+  before:** found first it softens the deficit, found second it sharpens it.
+
+**Band variance.** At **Band 1** the profile is a profile *of a dozen people plus a building*, and the standing
+cost quadrant usually dominates. At **Band 5–6** the four quadrants are answered about the *shared layer only*;
+anything true of a subset is delegated. At **Band 0** the profile is written in past tense with a present-tense
+appendix for what the ruin still does to visitors.
+
+**Type variance.** A **Corridor's** strength is throughput and its standing cost is almost the whole profile. A
+**Natural feature's** profile is entirely G2 and is written as what it does to everyone who deals with it. An
+**Interstitial** location uses `01` §1.3 instead.
+
+**Feeds:** everything. Nothing downstream is written without it.
+
+**Failure modes.**
+- Stopping at first-order on the physical generator. *"It is cold"* is a starting condition, not a finding.
+- Writing a capability profile as a **diagnosis** rather than a profile — the district rule holds: strengths and
+  deficits stated as what the place can and cannot institutionally do, **then one consequence.** If the
+  consequence could be true anywhere, it is wrong.
+- Filling the STANDING COST quadrant with function. They are different questions (`02` §3.1).
+- Letting the profile become a list of prohibitions. Prohibitions are Phase 7.
+
+---
+
+# PHASE 2 — COMPOSITION & ARRIVAL
+
+**Asks:** *Who is actually here, in what proportion, from where — and by what route did they come to be here?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** ⚠⚠ **`No_National_Stereotypes.md` — BINDING**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`
+> - **U** Falkland Treaty — the founding instrument
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Falkland_Treaty/`
+> - **P** `Official_Population_Census.md` — ⛔ *"diaspora/affinity files" resolves to NOTHING ADMISSIBLE for a city pass: the only candidate on disk maps cities to a **single named parent city's internal districts**, which `§C.8d` forbids as an input. Composition comes from the census alone. See `M-173`*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md`
+> - ⭐⭐ **THE SEQUENCING RULING governs this phase and Phases 8, 9, 10** — *once composition is established, origin-ethnicities and ethnic-cultures MAY be used.* ⛔ **Refusing all ethnic material is a MISREADING that produces placeless cities**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**Restores** city template §1 (composition) and §7 (who this place attracts and repels), neither of which the
+district set inherited as a phase.
+
+**The core move — the arrival-mode taxonomy.** *How* a population arrived shapes a location more than where it
+came from, and this is the phase's main generative instrument. Very few places are one mode; **the mix is the
+finding.**
+
+| Arrival mode | What it produces |
+|---|---|
+| **Chose it** | Self-selection. The place has a *type* and knows it. **Ask both what it attracts and what it repels — neither is inherently the sharper half.** *(Corrected 2026-09-03, developer ruling: an earlier version of this row ranked repel over attract by default; that ranking is dropped. Run both, and let the evidence say which one actually lands harder on this location — do not presume it in advance.)* |
+| **Assigned / posted** | An institution sent them. Produces a population that did not choose each other and a **rotation clock** — everyone knows when they leave. |
+| **Fled to it** | Arrived because somewhere else failed. **Gratitude and resentment in the same population**, often in the same person. |
+| **Born here** | Never chose, and frequently cannot leave. **The most under-written mode** — a place written entirely from arrivals has no natives, and the natives' relationship to the arrivals' story is a whole finding. |
+| **Inherited it** | Came with the place — acquired, annexed, absorbed. Produces a population whose membership was decided elsewhere. |
+| **Sentenced to it** | Punitive. Produces a permanent status distinction that outlives the sentence. |
+| **Stopped while passing** | Meant to leave and did not. Produces people with an unexecuted plan, which is excellent character material. |
+
+**Process.**
+- **A.** Establish the composition from canon; **read the composition source for its own stated limits** and do
+  not build a finding on a percentage that the source says is a relative ranking.
+- **B.** Classify the arrival modes and their approximate mix.
+- **C.** **Separate the native layer from the transplanted layer, explicitly.** Read the composition material *to know what to write around*, not what to repeat. **A place whose only
+  culture is its immigrants' cultures has no culture.**
+- **D.** Run **Borrowed Form** where a later category comes up empty — but not to skip the capability reading;
+  a borrowed form should explain a gap the capability reading already predicted.
+- **E.** Ask **who is not here.** An absent population is as characterizing as a present one, and much less
+  often asked.
+
+**Band variance.** **Band 1:** name them. The list *is* the composition, and the variance across a dozen people
+is the culture. **Band 4+:** composition varies internally and must be patterned rather than averaged. **Band
+5–6:** composition is a distribution; the finding is its *shape* and its modes.
+
+**Differentiation axis.** Name the mode-mix in three or four words — *"posted majority with a stopped-passing
+minority"*. ⛔⛔ **Do NOT check it against siblings** *(corrected 2026-09-16, `M-241` — first site of this
+class)*. **Reading a sibling's row is forbidden in-run by the ONE LOCATION law; the check moves to the TERMINAL
+differentiation pass.** ✅ **In-run, run the peer-free test: *could this be true anywhere?***
+
+**Feeds:** Phase 4 (whose ordinary day), Phase 5 (who the visitor is), Phase 9 (which populations exist).
+
+---
+
+# PHASE 3 — SURFACE & TEXTURE
+
+**Asks:** *What is this place made of, and what is it like to be inside it — to the eye, ear, nose, and skin?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **P** ⭐ **Climate — alias-keyed**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
+> - **P** `Specs/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`
+> - **P** **Concept art** ⚠ *only 4 of the 38 cities hold images; the rest have empty `.gitkeep` folders, and Bunger Hills City has no folder*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/`
+> - **P** `Davis_Geosciences_Research/` *where applicable*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Davis_Geosciences_Research/`
+> - ⛔⛔ **`*_Physical_Infrastructure_Attributes.md` live in `City_Megasheets/`, which the STANDING FACTS WITHHOLD from every run. Record the conflict; do not open it**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**Inherits** district Phase 1 (Architecture, Sensory Profile) and city template §9, §14, plus §3–4 (climate
+character, seasonal rhythms), which the district set dropped because thirteen districts share one climate.
+
+**Process.**
+- **A.** **Formalize first.** Sensory and architectural material is very often already present in a location's
+  existing files under headings that are not called either.
+- **B.** Answer the four sensory sub-fields **separately** — Sound, Smell, Feel, First impressions. Do not
+  collapse them; a place can be visually calm and acoustically tense, and losing that loses the finding.
+- **C.** **Check for a public/institutional split.** Many locations have a street-level sensory register that
+  differs from what their institutions feel like inside.
+- **D.** **Look for the seam.** Is there a visible boundary between the founding-era build and anything added
+  under later pressure? *(The two-stage lens, generalized: any location with a founding era and a crisis era.)*
+- **E.** **Seasonal variance**, restored from the city template: what does this place become at its worst point
+  in the year, and is that the same place?
+- **F.** Run **Retroactive Mechanism** — what is established as simply true here that nothing explains, and what
+  physical system would produce exactly that? **It generates a second-order consequence for free.**
+
+**Type variance.** A **Corridor's** texture is its waypoints and its surface underfoot. A **Network locus's** is
+latency, interface convention, and what the channel does to a voice. A **Structure's** is its interior
+circulation. **Band 0:** what remains, and what the remains testify to.
+
+**Failure modes.** Writing the sensory profile of the location's *headline institution* as the general answer.
+Inventing texture that the physical constraint from Phase 1 does not support.
+
+**Feeds:** Phase 4, Phase 5 (first impressions), Phase 10 (you cannot name places before you know what they
+look like).
+
+---
+
+# PHASE 4 — ORDINARY LIFE
+
+**Asks:** *What is an ordinary person's day here, apart from what this place is famous for?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⭐⭐ **`Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`
+> - `Robot_Cold_Physiology.md` — ⚠ **the NARROW companion; read the file above FIRST** *(`M-151`)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`
+> - ⭐ **`16` Half B — baseline / mandated / FREE tiers**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
+> - ⭐ **`09` §3.5 — THE FREEDOM GRADIENT**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/09_Per_City_Baseline_Run.md`
+> - `11_Caloric_Rebuild_and_Livestock_Tier.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md`
+> - ✅ **`National_Medical_and_Care_Institutes.md`** *(locked-canon)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md`
+> - **P** `National_Economy_and_Currency.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`
+> - ⛔ **`City_Logistics.md` REMOVED from this phase 2026-09-06** *(`M-152` — it is scoped to ONE named city's own logistics reference, so registering it as a general per-location target was wrong)*. **Do not re-add**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**The best generator in the district set**, and promoted here to run as early as its dependencies allow.
+
+**The core move, stated as sharply as the district file states it:** **name the headline function in one
+sentence, then deliberately write away from it.** If a draft could be summarized as *"residents do [the headline
+function] all day, described in more detail,"* it has failed. Restart from what a resident does *between*,
+*despite*, or *entirely unrelated to* that function.
+
+**The test:** *would this reasonably be someone's entire day, every day, forever?* If yes, it is wrong.
+
+**Why it outperforms.** Phase 1 says what the place cannot do. **Phase 4 is where you find out what that costs
+an ordinary person between one hour and the next** — and the third-order consequence of a capability deficit
+almost always shows up in somebody's Tuesday rather than in an institution.
+
+**Process.**
+- **A.** State the headline function. Write away from it.
+- **B.** Cover **four distinct elements** — routines, mundane concerns, personal struggles, and
+  escapism/downtime. They are genuinely different and a pass that collapses into a schedule or a hobby list has
+  covered one. **Escapism is the one most often cut for space and it is explicitly required.**
+- **C.** **Do not write one universal resident.** Different arrival-mode populations (Phase 2) have different
+  days.
+- **D.** Use **physical scale** for commute and logistics texture — real, concrete, non-thematic mundane
+  material that costs nothing to derive.
+- **E.** Ask what the ordinary rhythm **fails to provide** for people whose lives do not fit it.
+
+**Band variance.** **Band 1:** there is no ordinary day — there are twelve specific days, and their divergence
+is the content. **Band 5–6:** there is no single ordinary day either, for the opposite reason; ask instead what
+is common to *all* the ordinary days across the distribution, which is usually a very short list and is exactly
+the interesting part. **Band 0:** the transit day — the maintenance crew, the convoy, the scavenger.
+
+**Differentiation axis.** What the day is *organized around* — a shift, a tide, a light cycle, a queue, an
+arrival schedule, nothing at all.
+
+**Feeds:** Phase 6 (countercultures seed here), Phase 7, Phase 9, and it is the **best contradiction detector in
+the file** for every other phase (`04` Gate 3).
+
+> **⚠ Phase 4 SUPPLIES that detector. It does not RUN it.** *(§0.4.)* Gate 3 reads Ordinary Life against
+> Phases 5–10, none of which exist yet at Phase 4. **Check backward against Phases 1–3 only, then close this
+> phase.** Do not attempt a full contradiction sweep here, and **do not mark Phase 4 blocked pending later
+> phases** — Gate 3 closes it at Step 7. *(Run 6 checked backward correctly and then wrote the blocking
+> sentence anyway; the check was right, the status line was wrong.)*
+
+---
+
+# PHASE 5 — RELATION & GEOMETRY *(the restored phase)*
+
+**Asks:** *What is this place to the places around it, to the thing that contains it, and to anyone crossing its
+edge?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** Location canon + routes
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`
+> - **P** `Highways.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md`
+> - **P** `Airports.md` · ⭐ `Ports.md` · ⭐ `Geothermal_Heating.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/`
+> - **P** `City_Cross_Subnet_Relationships.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Cross_Subnet_Relationships.md`
+> - **P** `City_Relationship_Database.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md`
+> - **P** `City_National_Connections.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md`
+> 
+> ⛔ **The three city-relationship files are read for routes, trade, supply and population ties only.** A line in them that rests on the Background-Lore vignettes or Course of Events, or that ties cities through a real station, its operator, a namesake or "heritage", is **not an input** (`DR-19`, `DR-28`, `05` rule 3a). The tie itself is never dropped; its stated reason is.
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+**This phase exists because its absence was measured.** It restores city template §23 and closes the hole `00e`
+§6 names. **It is mandatory for every type and primary for two.**
+
+**The core move.** **Write a relation as a mechanism, not a rivalry.** The useful question is never *who dislikes
+whom* — it is ***what does each side refuse to develop, and who supplies it instead?*** Relations of this kind
+are feedback loops, not standoffs.
+
+## ⚠ Weighting depends on whether this location actually has neighbors — and usually it does not
+
+**Added 2026-08-30, after the first test run exercised this phase on the most densely-clustered location set in
+the project and mistook a best case for a measurement.**
+
+**Most locations are isolated.** In a typical setting, settlements sit hundreds of kilometers apart; stations,
+structures and natural features frequently have no peer at all. **A phase written as though every location has close neighbors will
+return thin for the majority case** — so the sub-questions are weighted, not uniform:
+
+| Sub-question | **Isolated location — the majority** | Clustered location — rare |
+|---|---|---|
+| **5a** Peers | **Optional.** Often the honest answer is a *category* ("the coastal cities"), not a name | Mandatory |
+| **5b** Three-way set | **→ use the own-eras substitute below** | ⛔ **NO LONGER MANDATORY — see the 2026-09-06 ruling below. The own-eras form is now the ONLY form** |
+| **5c** The parent | **PRIMARY — this is where an isolated location's relational content lives** | Mandatory |
+| **5d** Edge & crossing | Mandatory | Mandatory |
+| **5e** Dependency | **PRIMARY** | Mandatory |
+
+**The good news, verified rather than assumed: four of the five sub-questions are peer-free.** 5a's core move
+*(mechanism, not rivalry)* works against a supplier, a parent, or an absent peer just as well as against a
+neighbor — **it never needed a neighbor, it needed a counterparty.** 5b was the one that genuinely required
+siblings — ⭐ **and as of the 2026-09-06 ruling it no longer does, because its sibling form is withdrawn.
+ALL FIVE sub-questions are now peer-free, for every location.**
+
+> **And for an isolated location, "write both directions" has a specific and valuable second half:** very often
+> the honest outward answer is ***nobody out there thinks about this place at all.*** **That is a finding, not
+> a blank.** A location that matters intensely to itself and to nobody else is a specific, common, and
+> characterizing condition — write it.
+
+**Five sub-questions:**
+
+**5a — Peers.** Who is this place set against, adjacent to, in easy affinity with? For each: what flows, in
+which direction, and what does not. **Distinguish the loud friction from the quiet one — the quiet one is
+usually nastier and better material.** *(Optional for isolated locations — see the weighting above.)*
+
+**5b — The three-way differentiation set.**
+
+> # ⛔⛔⛔ THE SIBLING FORM OF 5b IS WITHDRAWN FROM EVERY ULM / CST / RWBEM PASS — **RULED 2026-09-06**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+>
+> ⭐⭐ **The own-eras form below is no longer "the substitute for isolated locations." It is THE FORM, for
+> every location, clustered or not.** ⛔ **Never run this sub-question against two neighboring cities**, and
+> never against one. **Differentiation across cities is a TERMINAL check, run at the end of the 38-city
+> corpus with all 38 columns present** — see `00_RUNBOOK.md`, *THE LAW OF ONE LOCATION*.
+>
+> ⚠ **Scope: `ULM / CST / RWBEM` only.** *The district methodology's own three-way set is unaffected — that
+> corpus is complete and its instrument works.*
+>
+> **What the withdrawn form said, kept for the record:** *this location plus its two hardest frictions makes a
+> natural three-way contrast for any single behavior category, because the geometry guarantees they differ on
+> the same axis without overlapping.* ⭐ **The reasoning was sound and the input is simply not available yet.**
+
+**⭐ THE FORM TO RUN — the three-way set against the location's OWN ERAS.** *(Previously labeled a substitute;
+now the whole of 5b.)* **A reader reaching this sub-question alone has somewhere to go, and it is the right
+somewhere:**
+>
+> **Run the three-way set against the location's own eras instead of against neighbors:**
+> ***this place at its founding · this place at its crisis · this place now.***
+>
+> **Same procedure — pick one category first, then read all three states off the timeline.** `01` §5.3a already
+> names a location's own earlier states as *"the strongest substitute, usually available"*; **this is where it
+> actually gets used.** It pairs directly with the two-stage lens in `01` §4, and with the *"in its own past"*
+> deficit address in `02` §4.1 — **if the address came back "in its own past," this substitute is not optional;
+> it is the phase.**
+> **The sets are a network, not independent triples.** A location accumulates characterizations from other
+> locations' passes. **Check what this location was already assigned in someone else's set** before writing a
+> new one; where they conflict, the earlier one usually wins because it is already load-bearing.
+
+**5c — The parent.** What does the containing polity require of this place, what does it supply, and **where do
+those two disagree?** *(This is G3's split question from `02`, cashed out relationally.)* Also: what does this
+place believe about the parent, and is it accurate?
+
+**5d — The edge and the crossing.** Who arrives, by what route, and what do they meet first? **Enumerate the
+actual arrival types** — they are rarely one. *(The district translation of "visitor" required a definition task
+of its own; at every scale, ask what "outsider" even means here before answering what their experience is.)*
+And then: **what converts a visitor into a member?** Prefer a **mechanism over a ceremony** — derived from the
+local economy, with no announcement and often no awareness that it has happened.
+
+**5e — Dependency.** What does this place need from elsewhere that it cannot make, and **who knows that?** A
+dependency nobody has named is a shadow; a dependency everyone has named is politics.
+
+**Type variance.** For a **Corridor** and an **Interstitial** location this phase is the primary one and most of
+the content lives here. For a **Vessel**, relation is to *ports* rather than to neighbors, and the finding is
+usually what it is like to have relations with places that do not have a relation with you.
+
+**Failure modes.**
+- Writing rivalry instead of mechanism.
+- Writing only the outward direction. **Relations are asymmetric and both halves must be written** — what they
+  think of us is a separate finding from what we think of them, and the gap between the two is often the best
+  material available.
+- Skipping 5c because the parent is unwritten. **Use the provisional-assumption protocol** (`01` §5.2) instead.
+
+---
+
+# PHASE 6 — MEANING
+
+**Asks:** *What does this place believe, what does it hold sacred without saying so, and what does it do about
+death?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⚠ **Robot religions — CHECK BEFORE INVENTING A BELIEF.** ⭐⭐ **THE ROSTER IS OPEN.** ⛔ *A `grep` returning ZERO is a RESULT, not a gap*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/`
+> - `National_Holidays.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Holidays.md`
+> - ⭐ **`Ice-Cold_Buddhism_Research/`** *(7 files)* ⚠ *the faith's name is a placeholder*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Ice-Cold_Buddhism_Research/`
+> - `The_True_Believer_Extraction.md` · `The_Meme_Machine_Extraction.md` *(belief transmission; mass movements; useful for counterculture derivation; added 2026-10-21 to match the runbook's `§C.8c` row 6, which already listed them — Mirny handoff decision 13, group C)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/The_True_Believer_Extraction.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/The_Meme_Machine_Extraction.md`
+> - ⛔ **the deferred MORTUARY question — RESERVED, do not answer it**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+**Process.**
+- **A.** **Run the Naming technique first, before generating anything.** Search the location's existing canon
+  for religious-register language attached to non-religious objects — *sacred, honor, sworn, kept, owed,
+  witnessed, proper, must, never*. **A registry described as "close to sacred" is a theological statement about
+  a filing system, and it is already written down.** Then state, as one sentence a resident would agree with,
+  the proposition that would have to be true for that language to make sense. **Only if the search comes back
+  empty do you generate from scratch.**
+  > **The technique's real object is the location's *unnamed load-bearing thing*, and a belief system is only
+  > its commonest form.** Where the place already has a named faith, expect instead a **stake** (what is at risk
+  > here that is at risk nowhere else), a **social contract** (what it agreed to and never wrote down), or a **debt**
+  > (what it owes and does not discuss). **Do not invent a second religion to fill a slot already occupied.**
+  > **Counter-check: the name must not be portable.** If it would work equally well anywhere else, it has been
+  > written too abstractly.
+- **B.** **Belief landscape.** Draw on the existing roster before inventing; but a genuinely new belief emerging
+  from the analysis is a good outcome, not a problem, **provided it grows out of something the place verifiably
+  already has** — a physical trait, a founding wound, a function, a practice nobody had named.
+  > ### ⭐⭐ **DO NOT FORCE A FIT — IN EITHER DIRECTION.** *(Added 2026-09-06 at the developer's direction.)*
+  > **A setting's belief roster may be OPEN and still growing.** ***So the test is never "does one of the
+  > existing N apply?" — it is "does any belief NATURALLY fit here?"***
+  >
+  > | ⛔ Both are the same error | |
+  > |---|---|
+  > | **Assigning an existing faith** to a location it does not belong to | *because the roster had a slot and the location had none* |
+  > | **Inventing a bespoke one** to fill the phase | *the failure mode this phase already names* |
+  >
+  > ⭐ **"No faith is sited here" is a legitimate, complete answer** — and it must be written so that a later
+  > reader cannot mistake it for **"no faith is possible here."** ***Leave the slot open explicitly.***
+  > ⚠ **And where the phase instead finds a STAKE, a SOCIAL CONTRACT, a DEBT or a bare STANDARD OF WORTH, write it as
+  > what it is.** **A shared proposition is not a creed, and promoting one into the other is the same forcing
+  > error wearing a third costume.** *(A location's non-devotional standard may later become the seed of a
+  > faith, or may stay secular indefinitely; both are legitimate and the pass should not decide it.)*
+- **C.** **Death and the dead.** *(The category the 32-section template has no slot for at all.)* **The question
+  is obligatory; a section is not.** Ask: who handles it · what is remembered, by whom, for how long *(distinguish
+  the **record** from the **rite**)* · **who is not mourned properly, and why not** *(the most productive of
+  these, and usually a shadow finding)* · and **is the absence itself the finding** — if so, say *why*, because
+  a place that outsources its dead for lack of room, for lack of anyone yet to bury, because it would rather
+  not look, **or because looking would mean confronting a specific, nameable civic failure — insufficient
+  output, an unmet promise, a broken founding value — are four different places, not three.** *(Fourth reason
+  added 2026-08-31: distinct from generic "rather not look" in that it ties to a specific named civic value
+  rather than an unspecified reluctance.)* **A thin invented rite is worse than an honest
+  sentence.**
+- **D.** **The Failure State of the Core Value.** What is this place's central promise; under what circumstance
+  does it become impossible to keep; what grew up around that circumstance; **and does the culture ritualize the
+  failure or refuse to?** *The refusal is often the stronger half.*
+- **E.** **Observance.** Two to four, and **at least one small and unserious.** One ordinary, slightly silly,
+  genuinely enjoyed local holiday does more for a place's livability than a third memorial day.
+
+**Band variance.** **Band 1:** belief is what these specific people believe, and they may disagree — the
+disagreement is the content. **Band 5–6:** belief is a distribution; write the shared thin layer and the
+distribution's shape, not a single creed.
+
+**Failure modes.** Giving every location a bespoke religion. All-solemn observances. Manufacturing thirteen
+divergent funerary traditions in one shared environment, which is its own differentiation failure.
+
+---
+
+# PHASE 7 — ORDER
+
+**Asks:** *How does this place organize work, decide things, pass on skill, and handle the people who do not
+fit?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⭐⭐ **`Division_of_Industry/` — PRIMARY for `7a`; strongest `G3` supply in the project.** ⛔ **READ ITS `README.md` CARVE-OUTS FIRST**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/`
+> - Figures — **`16` Half B**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
+> - Gaps — **`Division_of_Industry_Sweep_2026-08-31.md` §4.4**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md`
+> - Inputs — `01_Burden_Scoring_Model.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/01_Burden_Scoring_Model.md`
+> - Inputs — `08_Volume_Based_Requirement_Reference.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/08_Volume_Based_Requirement_Reference.md`
+> - `National_Medical_and_Care_Institutes.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md`
+> - `Theoretical-Calculations/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Theoretical-Calculations/`
+> - ⭐ **`Industry_Staffing_and_Productivity/`** — ⚠ *SOC tier-marking is ADDITIVE, never a replacement*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Industry_Staffing_and_Productivity/`
+> - ⭐ **`jobs_professions_and_fields/` (SOC)**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/jobs_professions_and_fields/`
+> - **P** `National_Economy_and_Currency.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`
+> - **P** `City_Logistics.md` ⚠ **Scoped to one named city; only its DUAL ECONOMY and currency-pointer sections are general** *(`M-152`)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/City_Logistics.md`
+> - **P** `Factions/` — the `7d` canon check *(existing countercultures and factions sited here)*. ⛔⛔ **It does NOT contain criminal-justice canon** *(corrected 2026-09-16, `M-241`)* — **the only such design is scoped to one other location and self-declares as unfinished, so `7d` must NOT derive a local justice system from it.** ⚠ **Per-area criminal justice is UNDEVELOPED corpus-wide, developer ruling 2026-09-16: write it `TBD`, never as an absence**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/`
+> - **U** `Megacorps/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+**Restores** city template §15 (division of industry) and §21 (political character), and takes prohibition and
+sanction from Phase 1 per `02` §3.3. **Primary phase for Polity and Installation types.**
+
+**Four components.**
+
+**7a — Work and economy.** The division of labor; what it makes; what it sends outward. **Include the
+non-thematic export** — something ordinary, emotionally neutral, and unrelated to the headline function, which
+proves the economy is real rather than allegorical. **And do not force export into goods** where the real export
+is people or expertise.
+
+> ### ⚠ BEFORE writing any sector breakdown, read `00b`'s object-colonization rule
+> **Added 2026-08-31, from a recorded failure.** A sector label must describe **the whole breadth of what that
+> sector means in a place this size**, never one vivid instance of it. *(Recorded: a city assigned 35% of its
+> economy — ~367,500 people — to "heritage preservation" pointed at a single 1899 hut, ~36,000× the real-world
+> effort at that site. A second city assigned its entire education sector to commemorating one person.)*
+>
+> **The fix is to widen the definition, NOT to shrink the sector** — "heritage" properly means stewardship of
+> the past broadly: libraries, civic archives, building conservation, records administration. At 20% that is
+> ordinary; pointed at one object it is absurd. **Write the sector's general breadth first, then name the
+> signature instance as a scoped specialization inside it.** ⛔ *A real site's historic hut, museum or expedition
+> relic is never the signature instance: that is the real site's history, not an input (`DR-28`).*
+>
+> **This is `00b`'s general-population discipline on a second axis** — a narrow *object* standing in for a
+> *sector*, rather than a narrow *role* standing in for a *population*. Same failure, same cause: the vivid
+> instance is what a writer reaches for.
+
+**7b — Governance and decision.** Who decides, by what legitimacy, and how succession works. **The most
+productive question here is not who holds power but *what is unadministrable*** — the rule that cannot actually
+be enforced, the decision nobody is empowered to make, the edge case nobody wrote. **Prohibitions live here**,
+and are distinct from the capability frame's grudging tolerance: a prohibition is a chosen policy with an
+author.
+
+**7c — Knowledge and transmission.** How does someone learn to do the thing this place does? Apprenticeship,
+qualification, the unwritten rules nobody explains — **and what becomes of the ones who cannot learn it.** *(The
+Mentor's standing question, promoted to a phase component because it is too load-bearing to leave to the review
+panel.)*
+
+**7d — Private life, minorities, and counterculture.**
+- **Check canon for an existing counterculture before deriving one.**
+- **Derive from the specific pressure, never from generic rebellion.** *What does this place require of
+  everyone, and who cannot or will not give it?* That population is the counterculture.
+- **Do not default to a refusal.** A counterculture can **refuse** what the place demands, **perform what the
+  place cannot**, or **demand the place's own stated rule be applied more literally than the mainstream applies
+  it.** The second is rarer, more interesting, and much likelier to be missed — **check for it deliberately
+  wherever the capability reading has named a faculty the place lacks**, because that is exactly where someone
+  will be doing it unofficially.
+- **And check whether the dissent is a *population* at all.** It may be that the contradiction sits *inside each
+  person* rather than between factions — in which case there is no counterculture, and the consequence is worth
+  having: such a place **cannot be reformed from within and cannot be opposed from within either, because there
+  is nobody to organize.** Ask: *is the contradiction between groups here, or inside each person?*
+- **Keep it sympathetic, not criminal.** These are people the demand does not fit.
+
+**Sanction proportionality — a hard check.** *(`00d`, generalized.)* Before writing any exclusion or penalty,
+**price it in this location's physical conditions.** The same sanction is not the same act in two places:
+exclusion where outside is lethal is a death sentence; exclusion in a network locus is being unfollowed. **Ask
+what it physically costs the excluded person here, and whether this place would actually pay that price for that
+offense.** And do not scale one person's temperament into a civic sanction — an individual's impatience scales
+to *a smaller room and a shorter hearing*, not to a policy.
+
+**Band variance.** **Band 1:** governance is a conversation between named people, and the interesting question
+is what happens when two of twelve disagree permanently. **Band 6:** this is the primary phase, and the subject
+is the maintenance machinery of the thin shared layer.
+
+---
+
+# PHASE 8 — MAKING
+
+**Asks:** *What does this place cook, sing, wear, build, play, and say?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⚠⚠ **MANDATORY before ANY siligel / coolant / Glitch-Coolant claim**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/`
+> - `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Weapons_and_Tools_Philosophy.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**Governing discipline: native, not transplanted.** This phase covers what the location **itself developed**.
+Read the composition material to know what to write *around*.
+
+**Components.** Cuisine — **all populations present**, and the non-human population's version is the most
+skipped item in this project's entire template · Music · Arts, craft and material culture · Dress and
+appearance · **Play, sports, humor, leisure** · **Language and speech markers** *(city template §8, absent from
+the district set entirely: accent, code-switching, slang, and what dialect reveals; and what marks someone as
+from here)*.
+
+**Process.**
+- **A.** Native layer first, transplanted second, kept visibly separate, then how the two now interact.
+- **B.** **Start from function, not aesthetics** — for dress especially. What would someone doing this place's
+  actual daily work need to wear, and what does that need becoming custom look like after two centuries?
+- **C.** **General-population discipline, hardest here.** A place's professional performers are not its musical
+  culture; a uniform is not its fashion. **This category has failed more often than any other in the district
+  set.**
+  > ### ⚠ And it failed again in a 2026-08-30 test run — in a pass whose author had read `00b` that morning
+  > **Recorded because the recurrence is the point.** A pass offered, as a city's general music, a specific
+  > performance practice tied to one narrow physical circumstance — vivid, real, and not what most residents'
+  > daily musical life is like. **Gate 2 caught it; the author did not.** *(The full worked case is archived
+  > in `Test_Runs/Worked_Examples_Archive/`.)*
+  >
+  > **Reading the discipline does not discharge the discipline.** The failure mode is not ignorance — it is
+  > that **the most vivid available material is almost always the narrow material**, and vividness is what a
+  > pass reaches for when it is writing the phase it thinks of as the fun one.
+  >
+  > **The corrected-answer shape to copy:** ask what the *general* condition of the place does to the category
+  > — density, isolation, scarcity, whatever the location's own spine already established — before reaching for
+  > the vivid minority practice. The narrow, vivid material then survives as **an explicitly-scoped minority
+  > practice on top of** the general answer, per `00b` step 3, never as a replacement for it.
+  >
+  > **Practical rule: write the general answer FIRST, before the interesting one exists to be reached for.**
+- **D.** **Name the axis.** Food across twelve districts runs admission · rank · position-in-a-process · ambient
+  availability · unspoken repair · no cuisine at all · guesthood · duration · attention · inclusion-in-the-count
+  · unpaid time. **Eleven answers, eleven axes, no repeats — which is why the row has never collided.**
+
+**Band variance.** **Band 5–6:** delegate; write the pattern of variation and the few genuinely shared items.
+**Band 1:** what these specific people make, including the fact that one of them is the only person who can.
+
+**Failure mode.** Treating this phase as the fun one and writing it first. It depends on Phases 1–7 and reads
+as decoration without them.
+
+---
+
+# PHASE 9 — POPULATIONS
+
+**Asks:** *What is life here like for each distinct kind of person present, and how do those kinds relate?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** ⚠⚠ **`Laws_of_Robotics.md`** — *binding*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md`
+> - **U** ⚠⚠ **`Robot_Universals/`** — ⭐ **Ch. 13 (city as seat of identity) · Ch. 14 (Gen/Mark)**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/`
+> - **U** `Doll_Representation_Categories.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md`
+> - **P** human-robot relations baseline
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**Generalizes** district Phase 8 (Robot-Specific Culture) and city template §16–17 from "robots and humans" to
+**whatever population categories the setting actually contains.** In this project that is robots and humans; the
+project's own representation framework names four categories of which only one is in use, and any future project
+may have others.
+
+**The lens decision, which must be made explicitly per location type.** The outer-city version anchors robot
+culture in the **founding population the Founding Register names** (never the station's operator or nation); the district version anchors it in **theme/role**, because districts are
+not nation-founded. **Neither is universal.** Decide and state the anchor: what does *this* location's
+non-dominant population organize its culture around — origin, function, the built environment, a shared
+constraint, or a shared exclusion?
+
+**Process.**
+- **A.** Declare the populations present and the lens for each.
+- **B.** Per-population culture, drawing on every prior phase.
+- **C.** **Inter-population relations — find the local inflection, not the national baseline.** Restating the
+  setting's baseline is not a finding. **The strongest available move is that the place reorganizes its
+  population along a different axis entirely** — ask *is there a category here that matters more than kind?* If
+  so, that is the finding, and the inter-kind question answers itself underneath it.
+- **D.** **Dual-tag every finding:** an **inheritance** tag (directly inherited / adapted / genuinely emergent)
+  and a **depth** tag (surface / deep). **Findings clustering entirely in "directly inherited" or entirely in
+  "surface" mean the real work has not happened yet** — that is what the tags are for.
+  > **⚠ Not a target ratio — added 2026-08-31, developer clarification.** This diagnostic
+  > guards against a pass that clusters *entirely* in inherited/surface — i.e., one that never actually
+  > synthesized anything and is only restating canon under new headings. **It is not a signal to hedge or
+  > artificially balance against multiple "genuinely emergent, deep" findings landing in the same phase.**
+  > Developer, verbatim: *"the whole point of this methodology is to build out, extrapolate, and fully develop
+  > locations, places that feel genuinely 'lived in'... multiple 'emergent,' 'genuinely deep' findings and
+  > results is something that's welcome, because those are attributes and characteristics that will make a
+  > location feel real."* **A phase with several emergent/deep findings is a good result, not a ratio needing
+  > correction — flag a finding as weaker only when something specific about it (a failed swap test, a
+  > provisional-assumption dependency, an unresolved contradiction) actually warrants it, never to manufacture
+  > balance against the phase's other findings.**
+- **E.** **Swap test.** ⛔⛔ **RUN THE PEER-FREE FORM.** ***"Would satisfying this replace something SPECIFIC TO
+  THIS PLACE with something that could be true anywhere?"*** **If yes, it has not localized.**
+  > ⛔ **The sibling form — *"swapped for its nearest comparable"* — is a COMPARISON, which the ONE LOCATION law
+  > forbids in a per-location pass** *(developer ruling 2026-09-06; `M-241`)*. ⭐ **The peer-free substitute is
+  > strictly stronger: it catches the generic answer no sibling has written down yet, which a sibling-based
+  > test cannot see coming.** ⏸️ **The sibling form is restored at the TERMINAL differentiation check.**
+
+**Type variance.** For an **Installation**, the population split is often staff/non-staff or
+permanent/rotational rather than by kind, and that split may matter more.
+
+---
+
+# PHASE 10 — CATALOG
+
+**Asks:** *What is actually here — named, specific, and enterable?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** Characters canon
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Characters/`
+> - **P** `Enneagram_Character_Index.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Characters/Enneagram_Character_Index.md`
+> - ⭐ **Zodiac Lens — `Zodiac_Signs_Full_Attributes.md`** *(the technique named the substrate folder and never registered this one)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Zodiac_Signs_Full_Attributes.md`
+> - ⛔ **NO INVENTED PERSON NAMES — role placeholders permanently**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
+**The systematic follow-through on everything above**, and what gives every other phase somewhere to happen.
+
+**Governing premise:** a place is built around a **theme, not a thing.** A caregiving district is not wall-to-wall
+clinics any more than a real government town is wall-to-wall ministries. **Catalog the wider cast refracted
+through the theme, not restating it literally.**
+
+**Four categories, kept separate:**
+1. **Named places and landmarks** — specific, not institution-types.
+2. **Physical things** — what residents own, use, encounter.
+3. **People as role-archetypes** — **binding rule: no invented proper names.** *"A veteran repair-shop owner,"*
+   *"the neighborhood's informal mediator."* The developer names these personally once the roles exist.
+4. **Settings** — atmospheric and situational textures distinct from named landmarks: a kind of street corner,
+   a recurring situation.
+
+**Plus, restored from the city template:** **significant local events** (§30) and **notable figures** (§31, as
+placeholders under the same naming rule).
+
+**Process.**
+- **A.** **List every implied-but-unnamed place, thing, person and setting from Phases 3–8 before inventing
+  anything.** Expect real recoverable material; a resident's routine has to happen somewhere, among someone,
+  using something.
+- **B.** Run the real-world research against the location's full pick list, **prioritizing the lower tiers** —
+  top-tier picks get absorbed into a location's identity summary early and spent, while lower tiers sit
+  unexamined and still hold unspent specificity.
+- **B2.** *(Added 2026-08-31.)* **Run the Zodiac Lens**, as stated here *(`DR-14` keeps the CST file itself
+  out of a ULM pass)*, a second, independent source for this phase: all twelve zodiac signs run as non-binding interrogation prompts
+  against this location's own already-established character, each one asked what person/place/thing it would
+  take here, if anything — **never as an assignment, and never referencing the substrate's own parent set's
+  completed content.** Zero, one, or several results per sign are all legitimate; record nulls with reasons rather than
+  forcing a result to fill every sign.
+  **Person-shaped results AMEND Phase 9 at Step 5** (§0.4) — they are **not** a Phase 9 input, and **Phase 9
+  must never wait on this technique**, which runs six phases after it.
+- **B3.** *(Added 2026-09-16, `DR-8`/`DR-8a`.)* **Determine the location's Planet + Element pair here, now
+  that Phases 1–9 exist.** ⛔ **Do not open `City_Symbol_Assignments.md`, `Planetary_Symbols.md`, or
+  `Robot_Elementals.md` before this step** — they are closed to every earlier phase and to Step −1, per
+  `00_RUNBOOK.md` §C.7. Read the location's own established character from Phases 1–9 first; only then open
+  the three files, check what they already carry (34 of 35 cities have an existing pair), and **confirm it,
+  revise it, or leave it explicitly open** against what the pass actually found. State the reasoning in one or
+  two sentences — this is a determination, not an essay. **Step 5 remains the backstop**: if its own
+  reconciliation pass surfaces a genuine contradiction between this determination and an earlier phase, it is
+  revised there like any other finding.
+- **C.** Organize under the four headings; **name places and things specifically, leave people as roles.**
+- **D.** Check border-adjacency texture where the location abuts a neighbor whose character might bleed across
+  — **a real but easy-to-overuse technique; do not force it.**
+
+**Band variance.** **Band 5–6:** delegate to sub-locations; catalog only what is genuinely national. **Band 0:**
+this phase is large — what is *left* is most of what a ruin has.
+
+> ### ⛔⛔ BAND 5–6's DELEGATION TARGET DOES NOT CURRENTLY EXIST *(added 2026-09-16, `M-241`)*
+> **`DR-4` DEFERS sub-locations corpus-wide** — *"Census I is the governing population figure; `01` §2.2's
+> SUB-LOCATION and distribution 'musts' are DEFERRED."*
+> ⇒ ⛔ **A Band 5–6 pass has nothing to delegate TO.** ✅ **Catalog what is genuinely city-wide and say that the
+> delegation was unavailable.** ⛔⛔ ***Do NOT invent sub-locations to satisfy this rule — that closes a
+> deliberate deferral.***
+
+---
+
+# 11. What the phases do not cover, stated honestly
+
+Recorded so the next pass does not assume completeness.
+
+- **Mechanical and systems design** — quests, encounters, loot, level geometry. This spine produces the material
+  those draw on; it does not produce them.
+- **The physical map.** Adjacency and layout are inputs here, not outputs.
+- **Anything below the location scale** — a single building's interior, an individual character. Characters have
+  their own methodology.
+- **Validation.** The spine has been run on real locations since it was written; the runs and what they found
+  are recorded in `Test_Runs/RUN_LOG.md` and `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`, not here.
