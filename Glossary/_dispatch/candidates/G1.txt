@@ -1,0 +1,1434 @@
+# Candidate terms for area G1: term<TAB>files in this area<TAB>repos overall<TAB>files overall
+Tepenia	139	11	1636
+Tepenian	113	10	1129
+Interwar	90	9	802
+Arcanet	35	9	892
+Real-world	7	9	459
+Worldspace	4	9	722
+Tepenia's	79	8	875
+Long Night War	49	8	854
+Second Interwar Period	48	8	262
+Concordia	23	8	1345
+Tepenians	2	8	123
+Locations-and-Levels	1	8	363
+Upper Earth	23	7	526
+Enneagram	17	7	839
+Amundsen Tower	6	7	279
+Majyao	5	7	77
+Falkland Treaty	4	7	759
+Calethina	3	7	249
+Concordia's	3	7	505
+South Pole	3	7	250
+Bisyugota	2	7	63
+Majyao Bisyugota	2	7	60
+Tepenian-Federation	1	7	264
+Outside-World	1	7	270
+Design Notes	364	6	776
+Subnet	52	6	1029
+Dome Fuji	36	6	359
+Vostok's	21	6	136
+Real-World	20	6	578
+Jeju-do	11	6	258
+Neo-Races-and-Cultures	5	6	81
+Aparast	3	6	86
+Ji-Eun	3	6	135
+Mega-Init	3	6	279
+New Zealand	3	6	258
+Pink Lucy	3	6	87
+Eun Kim	3	6	113
+Ayako	2	6	79
+Calethina's	2	6	173
+Still-	2	6	102
+Planetary Split Brain	2	6	164
+The Falkland Treaty	2	6	35
+Hayashi	1	6	63
+Storyline	1	6	125
+Cross-referenced	1	6	17
+FW	1	6	78
+Megasheet	47	5	530
+McMurdo's	35	5	203
+McMurdo	34	5	409
+Belgrano's	32	5	206
+Neumayer's	32	5	200
+Palmer City	30	5	424
+Dumont	28	5	358
+Lazar	28	5	55
+Janbogo's	27	5	323
+Kunlun's	27	5	214
+Palmer City's	26	5	193
+Shirayuki	25	5	63
+Adare	24	5	279
+Cape Adare	24	5	272
+Mawson's	23	5	191
+Juan Carlos	22	5	178
+Cross-Reference	21	5	422
+Zukelli's	20	5	190
+Denison's	20	5	165
+Amundsen Tower's	20	5	210
+Amundsen Station	18	5	260
+Ross Sea	13	5	196
+Larsemann	12	5	193
+Full Extrapolation	10	5	334
+Novolazarevskaya	9	5	97
+First Interwar Period	9	5	98
+Maitri	7	5	78
+Majyao's	7	5	40
+Palmer Subnet	7	5	76
+Sinian	5	5	147
+Mirny Subnet	5	5	81
+Halley Subnet	5	5	71
+XT	4	5	88
+Sinian Federation	4	5	119
+Reference Synthesis	4	5	305
+The Long Watch	4	5	35
+South Korea	4	5	304
+Terra Nova Bay	4	5	102
+Long Night War's	4	5	100
+The Tower's	4	5	24
+Split Brain	3	5	89
+Ji-Eun's	2	5	31
+Rastra	2	5	97
+Bogo	2	5	62
+Jang	2	5	62
+Kendra Heinrich's	2	5	31
+DLC's	1	5	85
+Griselda	1	5	65
+Hornevian	1	5	324
+Megasheets	1	5	178
+Aarden	1	5	98
+Human-robot	1	5	70
+MIT	1	5	854
+Mawson	40	4	56
+Mirny's	30	4	258
+Dome Fuji's	30	4	152
+Sanay's	25	4	167
+Princess Elisabeth	25	4	183
+Zhongshan's	24	4	186
+Marambio's	24	4	173
+Rothera's	24	4	192
+Zukelli	23	4	48
+Signy's	23	4	128
+Lockroy	22	4	188
+Port Lockroy	22	4	175
+Juan Carlos's	19	4	60
+Lazar's	17	4	130
+Notable Figures	16	4	446
+Machu	14	4	110
+Picchu	14	4	110
+South African	11	4	107
+JARE	10	4	59
+Larsemann Hills	10	4	170
+Air Force	10	4	46
+King George Island	9	4	114
+Significant-tier	8	4	110
+Arrastradoras	8	4	40
+Weddell Sea	8	4	172
+Self-check	7	4	148
+Hut Point	7	4	51
+Bharati	6	4	74
+New Orleans	6	4	77
+Amundsen Station's	6	4	100
+Scott and Fort	6	4	33
+Upper Earth's	5	4	124
+Lake Vostok	5	4	62
+Machu Picchu Border & Customs Authority	5	4	43
+Antarctic Circle	5	4	103
+Janbogo Subnet	5	4	40
+Livingston Island	4	4	68
+Queen Maud Land	4	4	157
+Lake Vostok's	4	4	37
+Positive Outlook	4	4	249
+Petersburg	3	4	40
+Turku	3	4	30
+Subnets	3	4	21
+Byrd Station	3	4	72
+Second Interwar Period's	3	4	25
+Zukelli and Janbogo	3	4	21
+Deepest Cold	3	4	30
+Teahouse	2	4	28
+Arrastradora	2	4	32
+UV	2	4	29
+Byrd	2	4	64
+Fort McMurdo	2	4	43
+Open Questions	2	4	224
+South Africa	2	4	256
+East Antarctic	2	4	131
+Silicon Valley	2	4	26
+Palmer City and Rothera	2	4	26
+The Arcanet	2	4	24
+South Korea's	2	4	17
+Palmer Station	2	4	53
+Arcanet's	1	4	35
+Tower-regulated	1	4	9
+Syowa	1	4	70
+Chinese-French	1	4	14
+Amundsen-Scott	1	4	94
+Demonym	1	4	244
+Rastras	1	4	35
+COMPLETE	1	4	67
+CITY	1	4	198
+WWII	1	4	58
+PLUS	1	4	17
+State of Affairs	381	3	384
+What It Feels Like	72	3	124
+Mirny	56	3	63
+Janbogo	51	3	43
+Sinheung	44	3	43
+Belgrano	43	3	49
+Sanay	38	3	47
+Background-Lore	38	3	138
+Hard Facts	36	3	242
+Neumayer	35	3	44
+But	35	3	43
+Marambio	33	3	37
+Sinheung's	32	3	193
+Rothera	30	3	39
+Zhongshan	30	3	49
+Kunlun	29	3	50
+Second
+Interwar Period	28	3	36
+Signy	26	3	50
+Sayowa	25	3	29
+Denison	23	3	39
+Shirayuki's	21	3	136
+Abowasa's	21	3	59
+Sayowa's	18	3	87
+Lockroy's	18	3	73
+Port Lockroy's	17	3	61
+Adare's	16	3	131
+Cape Adare's	16	3	120
+World Inspirations	15	3	160
+Tower-related	9	3	14
+Ice Cold Buddhism	9	3	97
+Notable-tier	8	3	63
+Prydz	8	3	154
+Petrograd	8	3	21
+Boneyard	7	3	46
+Carsten's	7	3	34
+Competence Without Commentary	7	3	45
+Prydz Bay	7	3	145
+Argentine Air Force	7	3	29
+Dry Valleys	7	3	41
+Adelaide Island	7	3	59
+Tri-Cities	6	3	122
+Vestfold	6	3	75
+Korean-founded	6	3	54
+Roald's	6	3	36
+Nyakkyo	6	3	16
+Mateo	6	3	18
+Ashiato	6	3	30
+SANAE	6	3	69
+Vestfold Hills	6	3	64
+Petrograd Room	6	3	14
+Not Debated	6	3	30
+Borchgrevink's	5	3	39
+Vostok-Kunlun	5	3	25
+Roald	5	3	62
+Zhang	5	3	28
+Novolazarevskaya's	5	3	15
+Jeju	5	3	36
+Glacier-pop	5	3	19
+Machu Picchu Base	5	3	27
+Seymour Island's	5	3	22
+Cape Denison	5	3	68
+Belgrano and Sanay	5	3	37
+Mawson Subnet	5	3	49
+Byrd Subnet	5	3	25
+Position Day	5	3	18
+Halley and Neumayer	5	3	33
+Founders' Watch	5	3	16
+Scotia Sea	5	3	42
+King George Island's	5	3	29
+Bharati Station	5	3	33
+Crossing Quarter	5	3	17
+Ongul	4	3	49
+Halley-subnet	4	3	43
+Neo-Races	4	3	33
+Tyumen	4	3	27
+Royds	4	3	19
+DNA-repair	4	3	10
+FINNARP	4	3	12
+SWEDARP	4	3	10
+Boneyard Times	4	3	36
+Kunlun and Dome Fuji	4	3	56
+Sayowa Junction	4	3	36
+Petrel Island	4	3	42
+Adelaide Island's	4	3	20
+Prince Charles Mountains	4	3	28
+Signy Island	4	3	38
+Little Burgundy Quarter	4	3	13
+Coronation Island	4	3	25
+Full Extrapolation's	4	3	93
+Jules Day	4	3	19
+Janbogo and Sejong	4	3	11
+Hut Point Peninsula	4	3	34
+The Long Memory	4	3	14
+Ernest's Passage	4	3	13
+Needle Down	4	3	13
+Seymour Island	4	3	46
+Methodologists	3	3	23
+Tabarin	3	3	30
+Handoff	3	3	31
+Peninsula-internal	3	3	11
+Waystones	3	3	12
+Bisyugota's	3	3	10
+Katabatic	3	3	62
+HISTORY	3	3	28
+Vostok and Kunlun	3	3	32
+Operation Tabarin	3	3	29
+Finnish and Swedish	3	3	22
+Ross Island	3	3	73
+South Orkney Islands	3	3	53
+Turku Remembrance	3	3	21
+The Name That Outlasted the Founders	3	3	24
+The Tower	3	3	20
+Roald's Landing	3	3	19
+The Joint Founding	3	3	14
+Trade Yard	3	3	17
+Upper
+Earth	3	3	13
+The Schematic	3	3	16
+Independence Day	3	3	29
+Majyao Bisyugota's	3	3	10
+Southern Cross	3	3	18
+Cape Evans and Cape Royds	3	3	14
+Jules Dumont	3	3	22
+The Standing Works	3	3	14
+Most Tepenian	3	3	10
+The Neighbors' Accord	3	3	14
+South American	3	3	30
+Loud Quarter	3	3	12
+The Larsemann Hills	3	3	29
+Ushuaia	2	3	73
+Alt-Rock	2	3	21
+Alt-Pop	2	3	21
+Alt-Grunge	2	3	21
+Hayashi's	2	3	20
+GPS-only	2	3	51
+Fabrication-synthesis	2	3	8
+Basen	2	3	29
+Finnish-Swedish	2	3	33
+Chinese-Primary	2	3	13
+Lemaire	2	3	20
+DIY	2	3	31
+Esperanza	2	3	47
+Casey	2	3	52
+Halley	2	3	45
+Sejong	2	3	28
+Troll	2	3	38
+Scott	2	3	39
+Dumont d'Urville	2	3	44
+Troll Airfield's	2	3	32
+Zhongshan and Shirayuki	2	3	28
+Tepenian Independence Day	2	3	60
+The Petrograd Room	2	3	11
+The Point Where Three Roads	2	3	10
+Grown Together	2	3	16
+Ayako Hayashi's	2	3	19
+Brunt Ice Shelf	2	3	44
+Vision Notes	2	3	129
+Belgrano Highway Extension	2	3	38
+Founders' Turbine	2	3	14
+The Crossing	2	3	39
+Runway Day	2	3	18
+Ice Shelf	2	3	44
+The Methodologists	2	3	18
+Sayowa and Dome Fuji	2	3	18
+South Korean	2	3	19
+Deepest Colds	2	3	7
+Cape Royds	2	3	8
+The Terra Nova Bay	2	3	15
+Lemaire Channel	2	3	15
+The Day We Didn't Wait	2	3	9
+Founders' Airstrip	2	3	13
+South Orkneys	2	3	28
+Cape Town	2	3	68
+The Cold-	2	3	10
+Machu Picchu Border & Customs Authority's	2	3	5
+Marambio and Esperanza	2	3	19
+The Crossing Quarter	2	3	11
+The Long Winter Suite	2	3	9
+John King Davis	2	3	20
+Progress Station	2	3	34
+English and Japanese	2	3	13
+Soviet-era	1	3	17
+Tri-	1	3	41
+Vegas-style	1	3	10
+Borchgrevink	1	3	29
+Primary-tier	1	3	68
+Re-read	1	3	54
+Mawson-subnet	1	3	15
+Upper-Earth-facing	1	3	9
+Vesleskarvet	1	3	39
+Akademgorodok	1	3	28
+Lahti	1	3	9
+Earth-era	1	3	4
+Pre-exile	1	3	13
+Self-sufficiency	1	3	16
+Hay-on-Wye	1	3	12
+Vaskarre	1	3	18
+Solenne	1	3	22
+Anvers	1	3	49
+Belgrano-led	1	3	9
+Verticality	1	3	6
+Mirny-style	1	3	4
+Goudier	1	3	37
+Tobias	1	3	29
+Chinese-founded	1	3	17
+Quality-Control	1	3	4
+FULLY	1	3	31
+PALMER	1	3	26
+MIRNY	1	3	21
+SUBNET	1	3	38
+HALLEY	1	3	26
+BYRD	1	3	27
+JANBOGO	1	3	23
+MAWSON	1	3	24
+CRISPR	1	3	17
+Worth Your Attention	41	2	107
+Therefore	35	2	39
+Who Lives Here	32	2	200
+Abowasa	29	2	24
+Vostok	28	2	33
+Megasheet's	23	2	103
+Princess Elisabeth's	19	2	48
+Design
+Notes	17	2	18
+Cross-Referenced	16	2	84
+GPS-purposes-only	14	2	54
+Japanese-heritage	10	2	28
+What's Actually Open	10	2	57
+Ice Cold Buddhism's	9	2	27
+Old Toby	9	2	17
+One-Line	7	2	196
+Founding-era	7	2	33
+BAS	7	2	189
+Australian Antarctic Division	7	2	71
+Carsten's Landing	7	2	20
+Line Pitch	7	2	190
+Conti	6	2	13
+Dae-ho	6	2	16
+JARE's	6	2	12
+AWI	6	2	35
+AAD	6	2	81
+Endurance Span	6	2	19
+The One-	6	2	178
+Cape Denison's	6	2	17
+Tashiro	5	2	16
+Momoka	5	2	18
+Warrick	5	2	17
+Mei-Ling	5	2	16
+Reiko	5	2	16
+Renata	5	2	15
+DROMLAN	5	2	29
+#6	5	2	15
+Enneagram Read	5	2	148
+Notable Figure	5	2	25
+Founding Elder	5	2	20
+American and Japanese	5	2	11
+Ice Cold Buddhist	5	2	10
+Petrel Island's	5	2	10
+Chinese and American	5	2	9
+Who Lived Here	5	2	14
+Wegener	4	2	18
+Faranda	4	2	16
+Ishihara	4	2	17
+Byrd-founding	4	2	21
+Argentine-heritage	4	2	6
+Zukellesi	4	2	8
+Petersburg's	4	2	11
+Ilkay	4	2	15
+Yelena	4	2	12
+Kalloway	4	2	10
+Voskresenskaya	4	2	13
+Pink Lucy's	4	2	27
+Physical Infrastructure Attributes	4	2	55
+Elisa Faranda	4	2	16
+Hostess Mei-	4	2	12
+Ambassador Reiko Tashiro	4	2	15
+Momoka Ishihara	4	2	17
+Sanay and Troll	4	2	11
+Polar Institute	4	2	8
+Belgrano's and Sanay's	4	2	9
+Janbogo and Zukelli	4	2	15
+Founders' Flight	4	2	14
+Sister Ilkay	4	2	15
+Cradle-network	3	2	8
+Zhao	3	2	15
+Sorensen	3	2	15
+Argentine-founded	3	2	18
+Bandera	3	2	10
+Earth-facing	3	2	10
+Taktsang-style	3	2	8
+Australian-heritage	3	2	20
+Three-Way	3	2	6
+Faranda's	3	2	7
+BAS's	3	2	6
+Okonkwo-Sato	3	2	13
+#4	3	2	4
+#10	3	2	4
+#5	3	2	13
+Urville Sea and Indian Ocean	3	2	17
+Division of Industry	3	2	236
+Kunlun and Vostok	3	2	29
+Ross Island's	3	2	15
+Alfred Wegener Institute	3	2	16
+Scotia Sea's	3	2	20
+The Amundsen Tower's	3	2	8
+Bandera Day	3	2	9
+Expedition Day	3	2	14
+Whoever Holds the Runway	3	2	16
+Dome Fuji Station's	3	2	9
+The Sayowa Junction	3	2	11
+Sayowa and Princess Elisabeth	3	2	8
+Elisa Faranda's	3	2	5
+Zhongshan and Mirny	3	2	14
+Heroic Age	3	2	4
+Argentine and Chilean	3	2	8
+Esperanza and Marambio	3	2	13
+Drake Passage	3	2	40
+Chief Astronomer Renata Okonkwo-	3	2	12
+Standing Stone	3	2	8
+Bellingshausen's	2	2	11
+Holm	2	2	28
+Marchetti	2	2	19
+Aslaug	2	2	12
+Sark	2	2	10
+Head-center	2	2	38
+Schirmacher	2	2	63
+Mega-Init's	2	2	67
+Lazarian	2	2	6
+Atlantic-side	2	2	15
+Norwegian-heritage	2	2	5
+Pieter	2	2	11
+Alsdorf	2	2	9
+Federation-level	2	2	19
+Taktsang's	2	2	6
+Paro	2	2	16
+Jeju's	2	2	14
+Pacific-facing	2	2	13
+Interwar's	2	2	6
+Pacific-corridor	2	2	28
+Fenwick	2	2	8
+Hierro	2	2	8
+Iglesias	2	2	9
+ChemMatCARS	2	2	17
+Russian-descended	2	2	19
+Asian-inflected	2	2	8
+Davis	2	2	51
+#9	2	2	12
+The Warm Ground	2	2	10
+Community Infrastructure	2	2	69
+Made Into	2	2	18
+East Ongul Island	2	2	38
+Adare Peninsula	2	2	25
+Place Decided For You	2	2	17
+First Interwar Period's	2	2	7
+Brunt Ice Shelf's	2	2	8
+Place You'd Choose	2	2	18
+Two Days	2	2	10
+Mawson and Sayowa	2	2	9
+The Full Extrapolation	2	2	6
+Canton System	2	2	11
+First
+Interwar Period	2	2	3
+Twin Cities	2	2	9
+The Hwy	2	2	21
+The Dome Fuji	2	2	5
+Atlantic-side American	2	2	6
+Norwegian Polar Institute	2	2	15
+Saint Roald	2	2	19
+Halley's and Neumayer's	2	2	11
+American Primary	2	2	22
+Competency Enneagram	2	2	29
+As Tepenia's	2	2	4
+Douglas Mawson's	2	2	7
+Ling Sorensen	2	2	12
+Robing Hall	2	2	5
+What the Tower's	2	2	3
+The Ice-	2	2	4
+Dome Fuji Station	2	2	21
+Doctrine and Practice	2	2	6
+Holm Bay	2	2	24
+The Three-	2	2	7
+East Ongul Island's	2	2	9
+Jules Day's	2	2	10
+The Dry Valleys	2	2	6
+Across the Sound	2	2	5
+The Scott	2	2	11
+The Chamber Works	2	2	13
+Southern Ocean	2	2	66
+South Atlantic	2	2	29
+Archivist Mateo Iglesias	2	2	7
+Master Craftsman	2	2	13
+Southeast Asian-inflected	2	2	8
+John King Davis's	2	2	10
+Prydz Bay's	2	2	11
+Local Cultures Section	2	2	20
+Three Parties	2	2	5
+Archivist Yelena Voskresenskaya	2	2	9
+Post-Culture	1	2	111
+Vestfjella	1	2	28
+Aboa	1	2	59
+Vesleskarvet's	1	2	19
+Aparast's	1	2	14
+Devendra	1	2	7
+Course-of-Events	1	2	8
+Subcontinentals	1	2	17
+Renzo	1	2	13
+Priya	1	2	13
+Adorni	1	2	13
+Utsteinen	1	2	43
+Ferreira	1	2	2
+Teodor	1	2	11
+Sun-Rutherford	1	2	4
+Oyelaran-Zhao	1	2	6
+Kunlunite	1	2	14
+Erebus-monitoring	1	2	2
+Scandinavian-adjacent	1	2	3
+Bedford	1	2	12
+Baarle-Hertog	1	2	7
+Heimefrontfjella	1	2	6
+Zurich	1	2	8
+Mate-sharing	1	2	2
+Tokelau	1	2	10
+Belgrano-native	1	2	4
+Zylsberg	1	2	7
+Rotterdam-derived	1	2	5
+SANAE-derived	1	2	5
+After-Hours	1	2	9
+AWI's	1	2	8
+Kryvyi	1	2	10
+Crossing-anniversary	1	2	6
+Concordia-based	1	2	8
+Bora	1	2	9
+Australian-descended	1	2	4
+Scott-trained	1	2	3
+Janbogo-Zukelli	1	2	7
+French-founded	1	2	2
+French-speaking	1	2	2
+Denison-trained	1	2	4
+Smaller-scale	1	2	3
+Arcanet-focused	1	2	3
+Byrdians	1	2	2
+Livre	1	2	5
+Janbogo-subnet	1	2	16
+Petersburg-style	1	2	5
+Boundary-zone	1	2	3
+Punta	1	2	65
+Rothera-trained	1	2	3
+BAS-origin	1	2	2
+Tabarin's	1	2	10
+Argentine-imported	1	2	4
+Hay-on-Wye-style	1	2	6
+Hay-on-Wye's	1	2	5
+Palmer-subnet	1	2	30
+Chinese-descended	1	2	3
+Ningbo-Zhoushan	1	2	5
+Mauna	1	2	12
+Hongdae's	1	2	9
+Tyumen's	1	2	9
+Yat-sen	1	2	11
+Russian-Chinese	1	2	7
+Sato	1	2	3
+Kunlunites	1	2	8
+Korean-Primary	1	2	10
+Daegu's	1	2	7
+Shibuya-kei's	1	2	7
+Russian-language	1	2	13
+CITIES	1	2	88
+NCAR	1	2	3
+CHINARE	1	2	40
+RETIRED	1	2	8
+Course of Events Suggestion	390	1	414
+Order Change	382	1	382
+Historical Vignettes & Informational Sheets	37	1	37
+#11	35	1	35
+Candidate Courses of Events	35	1	35
+Post-settlement	34	1	34
+What Had	34	1	34
+Every City Could Actually Talk	34	1	34
+Now the Whole Country Was Listening	34	1	34
+Fresh Occurrences	34	1	34
+Shortly Before and After the Amundsen Tower's	34	1	34
+Every Other	34	1	34
+What Only Became Possible Once	34	1	34
+What Stayed Inside the Subnet	33	1	33
+Character B's	23	1	23
+Character A's	20	1	20
+Referenced Extrapolation Findings	16	1	55
+What It Feels
+Like	13	1	13
+Physical Infrastructure Attribute	12	1	14
+Synthesis Notes	11	1	59
+Airfield Authority	10	1	12
+City-Type	8	1	61
+Windwright	8	1	25
+Regenerated 2026-07-20	8	1	8
+Old Toby's	8	1	13
+Dome
+Fuji	8	1	10
+Wetherall	7	1	15
+The Catalog	7	1	7
+Reference Synthesis Finding	7	1	26
+Juan
+Carlos's	7	1	9
+Idris	6	1	14
+Manalo	6	1	14
+Declan	6	1	15
+Ratna	6	1	17
+Bellandry's	6	1	11
+Ashgrove-Pryce's	6	1	7
+DRAFTED	6	1	11
+#4 and #10	6	1	6
+Marco Conti	6	1	11
+Therefore Enhancement Opportunities	6	1	6
+City History Enhancement Opportunities	6	1	7
+Second Time	6	1	6
+Chamber Works	6	1	26
+Elisa's Room	6	1	7
+The Wind-	6	1	6
+Ji-woo	5	1	15
+Ferreira-Whitcombe	5	1	14
+Wind-Engineer	5	1	12
+Osric	5	1	13
+Okonkwo-Hale	5	1	15
+Kenji	5	1	12
+Sanay-nexus	5	1	8
+Naledi	5	1	15
+Bellandry	5	1	17
+Wiremu	5	1	11
+Marchenko	5	1	16
+Tower-era	5	1	11
+Zhang's	5	1	6
+Conti's	5	1	6
+Wirawan's	5	1	10
+Baek	5	1	14
+Ji-hoon	5	1	14
+Princess
+Elisabeth's	5	1	9
+Long Odds	5	1	15
+Relay Hardware Vaults	5	1	11
+Idris Wetherall	5	1	12
+Sanay and Abowasa	5	1	5
+Type Parallels	5	1	44
+The Synthesis Notes	5	1	6
+Dome
+Fuji's	5	1	11
+Real Time	5	1	5
+First Time	5	1	5
+Palmer
+City	5	1	8
+Two Different Speeds	5	1	5
+Finally Got	5	1	5
+Full
+
+Following	5	1	5
+As Fort	5	1	6
+Ferreira-Whitcombe's	4	1	4
+Whitcombe-Reyes	4	1	14
+Ollivier-Tanaka	4	1	9
+Yuxuan	4	1	14
+Wirawan	4	1	14
+Amara	4	1	10
+Lian-Marchetti	4	1	10
+Tane	4	1	12
+Soo-jin	4	1	11
+Zyl-Osei	4	1	14
+Bletchley	4	1	11
+Japanese-descended	4	1	8
+Abowasan	4	1	8
+JARE-descended	4	1	4
+Soo-jin's	4	1	5
+Widjaja	4	1	12
+Rookery-Keeper	4	1	12
+Volcanologist	4	1	10
+Guildhall	4	1	12
+Alanna	4	1	11
+Comandante	4	1	11
+Voskresenskaya's	4	1	8
+Kalloway's	4	1	5
+Ishihara's	4	1	5
+#1 and #2	4	1	4
+#2 and #3	4	1	4
+Course of Events	4	1	96
+Han Ji-woo	4	1	11
+Juan
+Carlos	4	1	8
+Princess
+Elisabeth	4	1	12
+Dae-ho Richter	4	1	6
+Wu Lian-	4	1	6
+Elena Manalo	4	1	4
+Bletchley Park	4	1	8
+World
+Inspirations	4	1	4
+Too Big	4	1	7
+Per Finding	4	1	12
+Chief Engineer	4	1	8
+Two Cities	4	1	4
+Two Flags	4	1	4
+What It
+Feels Like	4	1	5
+Volcanologist Dr	4	1	9
+Never Expected	4	1	4
+Alanna Whitcombe-	4	1	7
+Long Record	4	1	11
+Because A's	4	1	4
+Kaminari	3	1	11
+Pre-Exile	3	1	5
+Founding-Expedition	3	1	8
+Mateo's	3	1	4
+Marchetti-Suh	3	1	8
+SANAE's	3	1	3
+Japanese-institutional	3	1	3
+Belgian-heritage	3	1	6
+Tower-bound	3	1	3
+German-descended	3	1	7
+Zhao's	3	1	4
+Sorensen's	3	1	4
+Haruto's	3	1	3
+Wei-Lin's	3	1	4
+Nyakkyo's	3	1	5
+Lian-Marchetti's	3	1	4
+Manalo's	3	1	5
+Calgary-style	3	1	4
+Station-era	3	1	8
+Follow-Up	3	1	3
+Ji-woo's	3	1	3
+Gary-to-Magnitogorsk	3	1	6
+Naledi's	3	1	4
+Villaroel	3	1	9
+Ashgrove-Pryce	3	1	11
+Ezequiel	3	1	8
+Okonkwo-Hale's	3	1	5
+Okonkwo-Sato's	3	1	4
+Ilkay's	3	1	4
+Ji-hoon's	3	1	4
+Ashiato's	3	1	5
+#3 and #4	3	1	3
+#1 and #3	3	1	3
+#1 and #8	3	1	3
+South
+African	3	1	4
+Denison and Casey	3	1	4
+Exile Find Log	3	1	3
+Amundsen
+Station	3	1	5
+Enhancement Opportunities	3	1	7
+Races Catalog	3	1	10
+Wiremu Tane	3	1	4
+Never Gone Dark	3	1	5
+Declan Ferreira-	3	1	4
+Pages From Elsewhere	3	1	4
+Chief Windwright Osric Bellandry	3	1	9
+The Garage That Built the Sound	3	1	5
+Quarries Before Questions	3	1	4
+Ratna Wirawan	3	1	6
+Han Soo-jin	3	1	5
+No Leverage	3	1	5
+The Level Table	3	1	3
+Trade Yard's	3	1	10
+The Catalog's	3	1	4
+Second Time
+
+Following	3	1	3
+Finally Explained	3	1	3
+Who Lives
+Here	3	1	3
+The Hall's	3	1	3
+Palmer
+City's	3	1	9
+One City	3	1	10
+Hard
+Facts	3	1	3
+Sanay and Belgrano	3	1	12
+Position Day's	3	1	8
+Ice Shelf's	3	1	3
+Somewhere Else	3	1	3
+Sinheung and Byrd	3	1	22
+What the Fire Left	3	1	5
+Horseshoe Harbor	3	1	21
+Full Season Later	3	1	3
+Second Interwar
+Period	3	1	4
+Keeper of Hut Point	3	1	3
+Held Together	3	1	3
+What Lucy Learned Downtown	3	1	3
+The Ledger Nobody Elected	3	1	5
+The Rivalry	3	1	4
+Bigger Than the Coast	3	1	4
+Han Soo-jin's	3	1	3
+The Wave That Was Still	3	1	4
+What One Fire Proved	3	1	3
+Wei Zhang's	3	1	4
+Cape
+Adare's	3	1	7
+Esperanza's and Janbogo's	3	1	3
+Majyao's Kettle	3	1	3
+Denison and Dumont	3	1	8
+Chief Wind-	3	1	10
+Rothera and Denison	3	1	3
+Not Against It	3	1	5
+Community Organizer Fiona	3	1	9
+The Weight of All That Digging	3	1	7
+The Panel He Never Explained	3	1	3
+Not Everything the Sea Provides	3	1	4
+Platform Engineer Declan Ferreira-	3	1	10
+The Second Rothera	3	1	4
+The Hedge	3	1	5
+Mateo Villaroel	3	1	4
+Finally Had	3	1	3
+Windwright Guildhall	3	1	6
+Port
+Lockroy's	3	1	11
+Old
+Toby's	3	1	3
+Megasheet and Course of Events	3	1	4
+Chief Engineer Baek Ji-hoon	3	1	9
+Naturalist Ratna Wirawan's	3	1	4
+Turned Sideways	3	1	4
+The Only Other One	3	1	3
+The Harvest Outgrows the Archive	3	1	3
+The Same Eye	3	1	4
+What Feeds the Chambers	3	1	3
+Standing Stone's	3	1	4
+The Only Two Who Crossed	3	1	5
+The City That Didn't Ask	3	1	4
+Foreman Dae-ho Richter	3	1	9
+Wren Kalloway	3	1	5
+Relay Vaults	3	1	6
+Baek Ji-hoon	3	1	4
+Dispatcher Okonkwo-	3	1	4
+City That Never Picked	3	1	3
+Because Casey's	3	1	3
+Because Splinters	3	1	3
+Yoon	2	1	9
+Seo-yeon	2	1	9
+Joos	2	1	10
+Marchenko's	2	1	3
+Rebalanced	2	1	2
+Founding-Adjacent	2	1	2
+Villanueva-Krause	2	1	5
+Steinhoff	2	1	3
+Cadarache	2	1	4
+Zoya	2	1	11
+Muertos-adjacent	2	1	4
+UK-descended	2	1	4
+Petrescu's	2	1	4
+Force-heritage	2	1	2
+Belgrano-built	2	1	2
+Megacity	2	1	5
+Instrument-Craft	2	1	9
+Waypoint	2	1	7
+Half-Forgotten	2	1	3
+Masdar	2	1	7
+Nakamura-Olsen	2	1	7
+Working-Class	2	1	2
+Troll-side	2	1	2
+Halley-end	2	1	2
+SANAE-descended	2	1	2
+Dockworkers	2	1	2
+Warrick's	2	1	2
+Mei-Ling's	2	1	2
+Ice-Core	2	1	7
+Bharati-Station-descended	2	1	7
+Wei-Lin	2	1	11
+Sayowa-based	2	1	4
+Tane's	2	1	3
+Same-Day	2	1	2
+Widjaja's	2	1	3
+Korean-Founded	2	1	5
+Outpaced	2	1	2
+Stayed-Behinds	2	1	2
+Geneva-style	2	1	2
+Buildable	2	1	4
+Wind-Engineering	2	1	2
+Wind-Window	2	1	2
+Civic-Temperament	2	1	2
+Erebus-material	2	1	5
+Kiruna	2	1	16
+UV-therapy	2	1	6
+Villaroel's	2	1	2
+Zyl-Osei's	2	1	2
+Canadian-descended	2	1	2
+Cursus	2	1	9
+Alanna's	2	1	3
+Father-plus-robot-caregiver	2	1	2
+Forty-Three	2	1	2
+Wind-Load	2	1	3
+Windwrights	2	1	2
+British-institutional	2	1	2
+Uribe-Calloway	2	1	5
+Rothera-echoing	2	1	2
+DNA-helix	2	1	2
+African-descended	2	1	4
+Arcanet-connected	2	1	3
+Declan's	2	1	3
+Cold-Tolerance	2	1	2
+Custodianship	2	1	3
+France-descended	2	1	2
+Yuxuan's	2	1	4
+Enabler	2	1	3
+Oyunbaatar's	2	1	3
+Cross-Checked	2	1	2
+Mirny-Sinheung	2	1	3
+Unforced	2	1	2
+Chinese-led	2	1	2
+Renata's	2	1	2
+Dae-ho's	2	1	2
+Glacier-pop's	2	1	2
+Tashiro's	2	1	3
+Yelena's	2	1	3
+Wetherall's	2	1	3
+PAUSED	2	1	3
+ITER	2	1	4
+STRUCK	2	1	15
+fully independent	2	1	2
+#3 and #6	2	1	2
+#5 and #7	2	1	2
+#2 and #4	2	1	2
+Ingrid's Dig	2	1	5
+Whoever Runs It Now	2	1	4
+Background Lore	2	1	2
+Belgrano's Boneyard-	2	1	2
+Session Log	2	1	2
+The Locked Ward	2	1	3
+Statistical Portrait	2	1	2
+Joos Kaminari	2	1	7
+The Read That Held the Line	2	1	4
+The Chart Nobody Filed	2	1	2
+The Schematic With No Name	2	1	3
+Fifth Batch	2	1	2
+The First Broadcast Needle Down	2	1	2
+Palmer City and Byrd	2	1	3
+Runway No One Had Asked	2	1	2
+The Nexus Built	2	1	3
+Ever Sent Beyond Palmer City	2	1	2
+The Trucker Who Timed the Fork	2	1	2
+Heard of It	2	1	2
+The Archivist Who Never Saw	2	1	3
+The Schedule That Broke When	2	1	2
+The First Rastra Didn't Have	2	1	2
+Sixth Batch	2	1	2
+The First Winter Nobody Had	2	1	2
+Turned Down	2	1	2
+Mirny and Casey	2	1	15
+Talk About	2	1	2
+What Old Toby Left Unfinished	2	1	2
+The Director Who Refused	2	1	2
+The Message Whitcombe-	2	1	2
+The Brewer Who Wouldn't Serve	2	1	3
+The Hall That Never Stopped	2	1	2
+Filled With Strangers Who'd Never	2	1	2
+The Inspection Day the Founders Never	2	1	2
+Fourth Batch	2	1	2
+The Archivist Who Filed the Tower	2	1	2
+The Kitchen That Refused	2	1	2
+Seventh Batch	2	1	2
+Byrd and Palmer City	2	1	2
+The Founding-	2	1	5
+The Pilgrims Who Stopped	2	1	2
+The Federation's Memory	2	1	4
+The Question Machu Picchu Base	2	1	2
+Was Sent	2	1	2
+The Proposal the Rest	2	1	2
+Fifth Batch's	2	1	2
+The Forecast	2	1	2
+Technical One	2	1	2
+Reyes Received the Same Day It	2	1	2
+What Gets Decided	2	1	2
+The Room Where Two Stories	2	1	2
+Wasn't Built	2	1	2
+Longer Had	2	1	2
+Tower Fort	2	1	2
+What the Fabrication Yards Sent Out	2	1	2
+The Summer the Lakes Ran High	2	1	2
+The Asteroid Belt	2	1	3
+The Adjustment That Wasn't Routine	2	1	3
+Asked About the Compact	2	1	2
+The Order Neumayer Couldn't Fill	2	1	2
+The Last Mate Before the Crossing	2	1	2
+Harbor Doing Two Jobs	2	1	2
+The Planner Who Gave the Merger	2	1	2
+The Vote That Gave Away	2	1	3
+The Meal That Became	2	1	2
+The Ledger That Finally Reconciled	2	1	2
+The Chambers Dug Before Anyone	2	1	3
+The Cargo Hope Bay Harbor	2	1	2
+The Toast Nobody Wanted	2	1	2
+The Argument That Was the Point	2	1	3
+The Captain Who Tried	2	1	2
+The Apprentice Who Argued With	2	1	2
+The Freight Coordinators Who Moved	2	1	2
+The Ring That Didn't Hold	2	1	2
+The Archive Nobody Thought Twice	2	1	2
+Asked Without Asking Directly	2	1	2
+Plan Around	2	1	2
+The Question Another City's Caregivers	2	1	2
+Sejong's Megasheet	2	1	3
+Notable
+Figures	2	1	3
+Wei Zhang	2	1	2
+Warrick Zhao	2	1	2
+Kenji Suh	2	1	5
+Mateo's Obsession	2	1	3
+Sign Post Forest	2	1	3
+Amara Fischer	2	1	2
+Freya Nakamura-	2	1	3
+Private Correction	2	1	4
+The Ground That Moved	2	1	5
+The City-	2	1	2
+Roald's Landing and Runway Day	2	1	3
+Chief Engineer Margrethe Ollivier-	2	1	5
+Then What	2	1	2
+The Schirmacher Oasis's	2	1	2
+Get Wrong	2	1	5
+What the Wind Can't Grow	2	1	5
+Esperanza's and Marambio's	2	1	3
+Air Force-heritage	2	1	2
+Belgrano and Troll	2	1	4
+Real Time
+
+Troll's	2	1	2
+Been Asked	2	1	2
+Yolanda's Workaround	2	1	2
+The Ritual That Didn't Need	2	1	2
+Manuel
+Belgrano	2	1	2
+The Vote That Wasn't Held	2	1	2
+Command Without	2	1	2
+The Flight That Made Belgrano	2	1	4
+Belgrano-built Arrastradoras	2	1	2
+Records Nobody Called	2	1	4
+Air
+Force	2	1	2
+Five Nations	2	1	2
+Tepenian Lazar's	2	1	2
+The Function That Outlived the Airfield	2	1	2
+Two Settlements	2	1	3
+The Name Worn Down	2	1	4
+Growing Too Fast	2	1	2
+The Planner Who Made It	2	1	2
+The Archive Cross-	2	1	2
+Junction Markets	2	1	3
+Lazar and Fort	2	1	2
+Negotiation Hall	2	1	4
+Craft Workshops	2	1	9
+Ingrid Osei-	2	1	3
+Maintenance Corps	2	1	2
+The Delegation That Came	2	1	2
+The Load-	2	1	3
+The Ones Who Know the Tunnels	2	1	2
+Two Currents Meeting	2	1	2
+Name Half-	2	1	3
+Fall Back On	2	1	4
+Belgian and Japanese	2	1	4
+The Turbine	2	1	5
+Founders' Turbine and The Crossing	2	1	2
+Masdar City	2	1	7
+One Authority	2	1	4
+Runway Day's	2	1	2
+Better Made	2	1	4
+What Fuel Can't Wait For	2	1	2
+Sanay's and Belgrano's	2	1	3
+The Working-	2	1	2
+Troll's and Sinheung's	2	1	2
+Troll's Airfield Authority	2	1	2
+As Troll's	2	1	2
+The Authority	2	1	2
+The Vote	2	1	3
+The Record That Outlives the Old	2	1	2
+Newer Legs	2	1	2
+Trading the Nexus	2	1	2
+One Road	2	1	2
+No Harbor	2	1	2
+The Courier Who Never Stops	2	1	2
+Position Keeper	2	1	2
+By Design	2	1	4
+Whoever Comes Fastest Becomes Family	2	1	2
+One Lab	2	1	2
+The Word That Didn't Blend	2	1	2
+One Roof	2	1	2
+Choosing Not	2	1	2
+Two Names	2	1	2
+But A's	2	1	2
+Not Exemption	2	1	2
+Orchards We Forgot We Grew	2	1	2
+Upper Earth-facing	2	1	4
+The Cost Nobody Complains About	2	1	2
+The Record Nobody Meant	2	1	5
+Competence Without
+Commentary	2	1	2
+The Rhythm They Set Together	2	1	2
+The Nexus Nobody Named After	2	1	2
+The Cable	2	1	2
+Councilor Pieter
+Alsdorf	2	1	2
+City That Had Never Heard	2	1	2
+Function Over Sentiment	2	1	4
+The Feeling Nobody Campaigned For	2	1	2
+Doing It Again	2	1	4
+The Institute That Refused	2	1	4
+Legs That Never Panic	2	1	5
+One Ice Shelf	2	1	2
+Opposite Answers	2	1	2
+Neumayer and Halley	2	1	6
+The City Snapshot	2	1	2
+Ling Sorensen's	2	1	2
+Paro Taktsang's	2	1	2
+Everyone Else's Prosperity	2	1	3
+Mawson and Dome Fuji	2	1	7
+The Reputation That Finally Reached	2	1	2
+Founding Administrator	2	1	2
+Advance
+
+Following	2	1	2
+Whole Country	2	1	2
+Mawson and Halley	2	1	5
+Whoever Arrives	2	1	2
+Australian
+Antarctic Territory	2	1	3
+The Station That Never Went	2	1	3
+Name Kept	2	1	2
+The Hub That Chose Kindness	2	1	3
+Sayowa Junction and Sinheung	2	1	5
+The Part Nobody Points To	2	1	3
+The Name That
+Outlasted the Founders	2	1	3
+The Second Aviation Route Sinheung	2	1	2
+Same Era	2	1	2
+The Archive Nobody Reads Daily	2	1	2
+Two Sites	2	1	4
+The Last Transfer Request	2	1	2
+The One Who Never Left	2	1	2
+Structure and Leadership	2	1	2
+Sayowa and
+Princess Elisabeth	2	1	2
+Name Two Ways	2	1	3
+Small Vessel	2	1	2
+The Ice Road Season	2	1	3
+Haruto's Ledger	2	1	2
+The Junction Tested	2	1	2
+Even Left	2	1	2
+Finally Asked	2	1	2
+The Letter That Took Longer	2	1	2
+The Japanese-heritage	2	1	2
+The Catalog's City-	2	1	2
+Wiremu Tane's	2	1	2
+Course of Events
+   Suggestion	2	1	2
+Casey and Marambio	2	1	2
+The Archive Before Anyone Needed	2	1	2
+The City That Knew It	2	1	2
+Loud City	2	1	2
+Big City That Learned	2	1	2
+Whichever Ship Got Here First	2	1	2
+Borchgrevink's Hut	2	1	8
+Communal Stone Wall's	2	1	5
+The Preservation Instinct Port Lockroy	2	1	2
+The Preservation Standard Port Lockroy	2	1	2
+What Was Coming	2	1	2
+Archivist Elena Manalo	2	1	9
+Pacific-facing Janbogo	2	1	2
+Urville Sent Back	2	1	2
+Gathering House	2	1	2
+Keep the Cold Out	2	1	2
+Jang Bogo Station's	2	1	5
+Chinese and
+French	2	1	2
+Two Traditions	2	1	2
+Whatever Arrives Becomes Ours	2	1	2
+Unified Korea and South Korea	2	1	2
+City That Never Says No	2	1	2
+The Water That Never Freezes	2	1	2
+Architect Wu Lian-	2	1	6
+The Calibration Question Scott Answered	2	1	2
+The Huts	2	1	2
+Generations of Fort	2	1	2
+Ash and Ice	2	1	2
+The Stayed-	2	1	2
+The Convergence Boom	2	1	2
+The Mountain Doesn't Care	2	1	2
+One Standard	2	1	2
+Logistics Coordinator Amara Fischer	2	1	6
+The Unnamed Ones	2	1	3
+Marco Conti's	2	1	2
+American Antarctic Program's	2	1	4
+Not Power	2	1	3
+The Skeleton	2	1	2
+The Comms Charter	2	1	2
+Cape Evans
+and Cape Royds	2	1	2
+Wherever You Go	2	1	2
+Rivals Who Never Really Competed	2	1	2
+What You Brought	2	1	2
+The Island Economy	2	1	2
+Language That Never Needed Defending	2	1	2
+The Bridge Nobody Could Agree	2	1	2
+Finally Asked Directly	2	1	2
+Reachable Only	2	1	2
+The Manifest Dumont	2	1	2
+Mirny's Windwright Guildhall	2	1	5
+What the Wind Statistics Actually Mean	2	1	2
+Building Around the Wind	2	1	2
+Nobody Believes Us Unless We	2	1	2
+Name Worth Living Up To	2	1	2
+Held Down	2	1	2
+Engineer Wei Zhang	2	1	7
+One Structure	2	1	5
+The Reputation That Traveled Ahead	2	1	2
+Word of Cape Denison's	2	1	2
+Kowloon Walled City	2	1	18
+Measuring What Fort	2	1	3
+Quiet On Purpose	2	1	3
+Not the Capital	2	1	2
+Two Saints	2	1	2
+Kept Small	2	1	2
+Three Kilometers	2	1	2
+Not By Accident	2	1	3
+The Sting	2	1	2
+Hut Point Independence Day	2	1	3
+Never Had	2	1	2
+Scott and Signy	2	1	2
+Fourth City
+
+Building	2	1	2
+The Dispute Fort	2	1	2
+The Civic-	2	1	2
+West Antarctic Ice Sheet's	2	1	5
+Richard's Marker	2	1	10
+Palmer City and Marambio	2	1	2
+Physical
+Infrastructure Attributes	2	1	2
+Chambers From	2	1	3
+Belgrano's Gift	2	1	4
+Five Trades	2	1	3
+Peninsula and South America	2	1	2
+Buried Before It Was Built	2	1	2
+The Fleet That Grounded Itself	2	1	4
+Nothing Unusual Yet	2	1	2
+Founders'
+Airstrip	2	1	2
+Not About the Ground	2	1	4
+Alanna's Classroom	2	1	3
+Weeks Away	2	1	3
+The Shipping Partner Across the Bay	2	1	2
+Whoever Sacrificed	2	1	2
+Hope Bay Harbor	2	1	6
+From Memory	2	1	2
+See It	2	1	2
+What the Archive Room Held	2	1	3
+An Agreement Neither Side Announces	2	1	3
+Records From	2	1	2
+Petrograd Room's	2	1	6
+Little Burgundy
+Quarter	2	1	2
+Border Authority	2	1	3
+Window Facing Out	2	1	4
+Han
+Ji-woo's	2	1	2
+Finally Named	2	1	2
+Coordinator Han Ji-woo	2	1	6
+Everyone's Distinct	2	1	4
+Nobody's Alone	2	1	4
+But Character	2	1	2
+The Production Schedule That Finally	2	1	2
+Person
+
+Following	2	1	2
+First Time
+
+Once	2	1	2
+Three Weeks	2	1	2
+Two Shifts	2	1	5
+Built On	2	1	2
+Testing the Design	2	1	3
+Person
+
+An	2	1	2
+Third Time	2	1	2
+The Long Record Entry That	2	1	2
+Communal Stone Wall	2	1	5
+Living In	2	1	2
+He Didn't Live	2	1	2
+Fast Words	2	1	2
+Two Islands	2	1	2
+Nobody's In	2	1	2
+The Question Scott Answered With	2	1	2
+El Hierro	2	1	7
+Signy Island's	2	1	5
+Long Record and Juan Carlos's	2	1	2
+City That Never Had	2	1	2
+Quiet Enough	2	1	2
+Records Kept	2	1	3
+Once
+
+Following	2	1	2
+Two Docks	2	1	2
+Comandante Ezequiel	2	1	5
+Bulk Here	2	1	4
+Mind and Hand	2	1	2
+Dispatcher
+Okonkwo-	2	1	2
+Right After the Expansion	2	1	3
+Breadbasket of Tepenia	2	1	5
+Besides the Road	2	1	2
+Renata Okonkwo-	2	1	4
+Standing
+Stone	2	1	2
+What Mirny Sends	2	1	3
+Paint What You See	2	1	2
+The Relay Vaults Question Mirny	2	1	2
+Full Season	2	1	2
+Make
+
+Following	2	1	2
+The Quarter With No Name	2	1	2
+Founding Administrator Wren
+Kalloway	2	1	2
+The Man Who Enabled Others	2	1	2
+Building With the Land	2	1	5
+The Wish Nobody Says Out	2	1	3
+Thirteen Flags	2	1	2
+Directly
+
+Following	2	1	2
+Because Davis's	2	1	2
+Quarry Return Toast	2	1	2
+Name For	2	1	2
+Rough Around the Edges	2	1	2
+Quiet Pride	2	1	2
+Casey's Splinters	2	1	7
+Machinery That Never Quite Stops	2	1	2
+What the Subnet Is Built From	2	1	2
+Not One Nation	2	1	2
+The Tower That Never Comes	2	1	2
+An Expansion Two Centuries Apart	2	1	3
+Two Faiths	2	1	3
+The Considered Departure	2	1	2
+Chief Astronomer Renata
+Okonkwo-	2	1	2
+The Weight	2	1	4
+The Meaning	2	1	2
+From Broad Industry	2	1	2
+Dae-ho
+Richter	2	1	2
+Claim Secured	2	1	2
+Baek Ji-hoon's	2	1	3
+Shirayuki's and Sinheung's	2	1	4
+Three Neighbors	2	1	3
+Why Everyone Wants	2	1	2
+Ones Who Left	2	1	2
+Momoka Ishihara's	2	1	2
+Clean Streets	2	1	2
+Notes Left	2	1	2
+Equipment That Neither Outpost Can	2	1	3
+Legend Inherited	2	1	3
+Long Odds Is Never Wrong	2	1	2
+The Night Splinters Filled Up	2	1	2
+Two Roads	2	1	2
+The Circle's Own Weather Station	2	1	2
+Whoever Passes Through	2	1	2
+Bar Too Big	2	1	2
+Antarctic Circle's	2	1	2

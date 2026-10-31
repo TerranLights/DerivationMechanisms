@@ -1,0 +1,240 @@
+STATUS: COMPLETE
+
+# Merge progress: N-R
+
+Coordinator notes received: Also-called names separated by "; " with notes in parentheses; Red Spiral author ruling 2026-10-30 (medical organization, former name Red Nebula); hold in-world terms sourced only from TheCryptographHelixDD (2026-10-30).
+
+Alias entries whose main entry lives in another range (written as short entries that point to it; the main name is NOT put under Also called, so the stub script does not redirect the main name here). The coordinator may turn these into stubs once the main entries list them under Also called:
+- New Antarctica -> Tepenia (S-T)
+- Neutral 13th District -> Concordia Central Hub / Axis Mundi / the Hub (A-C, D-H)
+- Princess Elisabeth -> Utstein (U-Z); my entry carries the SouthernLights details (zero-emissions city, underground mini-infrastructure, destroyed 2812)
+
+Renamed cities whose current name is in my range (old name under Also called): Pergamino (Juan Carlos, filed under I-M), Puerto Abrigo (Port Lockroy).
+
+## Groups merged as one term
+- Narrow Door / The Narrow Door, plus Merit Board Audit (filed under I-M) -> The Narrow Door
+- Near-Pariah ending (O) + Near-Pariah Endings (G4) -> Near-Pariah Endings
+- Needle Down + The Records -> Needle Down (The Records is the placeholder name)
+- National currency (Tepenia) + Federation Watt (filed under D-H, retired placeholder) -> National currency (Tepenia)
+- Neighbors' Accord (three spellings) -> The Neighbors' Accord
+- Neo-race (G2 method row + S group row) -> Neo-race
+- Neon Nomads (four rows) + Highway Clans -> The Neon Nomads
+- Nerve (G2, G4, S) -> Nerve (Determination, Toronto Fell Out's version, under Also called)
+- Neumayer (G1, G3b, S, T) -> Neumayer
+- Neumayeran + Neumayerite -> Neumayeran
+- Neural Overclock (G2, G4, S); Neural Strain (G2, S)
+- Neutral transshipment hubs (G3a, G3b)
+- New Antarctica (G2, T)
+- New North America (C, T)
+- No Good Endings (G2, G4, M, O, S) + Ending Distribution law / Ending Distribution and Cost Calibration / Bittersweet-only
+- No Level-Scaling (G2, T)
+- No Mercy (G2, O)
+- No National Stereotypes + No National Stereotypes (GPS law) + No National Stereotypes (NNS) + GPS law / GPS-only rule / GPS-purposes-only rule (filed under D-H) -> No National Stereotypes
+- No Subcontinentals (G3b, T)
+- NODE (G2, S)
+- Non-malice rule (G2, G4)
+- Nuclear War of 2083 (C, O, S, T) + the 2083 war / the Great War / Global Great War of 2083
+- Nyakkyo (G1, G3b, S) + the Still Point
+- O'Neill Cylinder (C, G2, G3b)
+- Off-World Evacuees (C, G2, G3b, G4, S, T)
+- Office of the Federal Registry (G3a, G3b)
+- Official Population Census (G3b, G4)
+- OOLSD (C, M)
+- Open Frame Project (G3a, S, T) -> The Open Frame Project
+- Operating-hours law (C, G3b) + Operating-hours law (05:00 to 14:59) (M) + hours law / worldbuilding hours -> Operating-hours law
+- Orbital infrastructure (G3a) + Orbital tier (S, T) -> Orbital tier (Orbital build stages kept as its own entry)
+- Orbital Era / Orbital era SPLIT: G3a row + the census sense of "Pre-Orbital Era / Orbital Era" -> Orbital Era; G2 row (the Neo-Races Orbital_Cryptograph_Helix_Era folder) -> Orbital Cryptograph Helix Era
+- Ossuary SPLIT: G4 row (Goth sacred site, Grand Ossuary Cathedral) -> Ossuary (Goth sacred site); S row + Ossuary (Tepenian) / Tepenian ossuary (G2, G3b) -> Ossuary (Tepenian)
+- Outer Tepenia (G4, game series) + Outer Tepenia (territory) (S) + Terragenesis (filed under S-T, former name) -> Outer Tepenia
+- Overclock Martyrs (G3a, G4, S, T) -> The Overclock Martyrs
+- Overcrowding Decision (G3a, G4, S, T) -> The Overcrowding Decision
+- Palmer City (C, G1, G3b, S, T)
+- Palmer Subnet / Palmer subnet (G1, G3a, G3b, S, T)
+- Palmerian (G2, G3b)
+- Pariah ending (O) + Pariah Failsafe (G2) + Pariah Failsafes (G4) -> Pariah Failsafes
+- Past perks + glitching perks
+- Peer-free substitutes + no-sibling substitutes
+- Pennsylvania/Virginia test (G2, T)
+- People's Democratic Republic of Cascadia (C, T) + Republic of Cascadia / Cascadia Republic / New Republic of Cascadia
+- People's Democratic Republic of New England (C, O, T)
+- Pergamino (G1, G3b, T) + Juan Carlos (filed under I-M, former name; its rows folded in) -> Pergamino
+- Perpetual Emergency (G3a, G4) -> The Perpetual Emergency
+- Persisted Aesthetic Holidays (G2, G4)
+- Personal Questline + Companion Quest (filed under A-C)
+- Personal Questline Design Rule (G2, O)
+- Personality Module (G2, G3b, T)
+- Petrograd Room (G1, G3b, S) -> The Petrograd Room
+- Phase Spine (G3b, M)
+- Physics fidelity rule (C, M)
+- Picnic Passage (S) + Picnic Passage causeway (G1, G3b) -> Picnic Passage causeway
+- Placeholder Naming Convention (TBN) + TBN / TBN (To Be Named) (filed under S-T)
+- Planet + Element (city symbol pair) + City Symbolic Substrate (filed under A-C)
+- Planetary Split Brain (C, G1, G2, G3a, G3b, G4, S, T) + the Split Brain / PSB
+- Planetary Symbols (G3b) + Planetary Symbols (Robot Planetary Symbols) (M)
+- Player-Necessity Rule (G2, M)
+- Player Re-Spec (G2, S)
+- Pointer Manifest / Pointer manifest (C, M)
+- Polydimensional Animism (G2, G3b, G4, S)
+- Position Archive (G1, G3b) -> The Position Archive
+- Position Day (G1, G3b, S)
+- Pre-Activation + Post-Activation / Pre-Falkland Treaty + Post-Exile / Tepenia Era (C, G2) folded into Personal timeline periods (T) as its section headings
+- Post-Solar eras (C, S, T) + Post-Solar / Colonization Era (G2, the character-timeline label) -> Post-Solar eras
+- post-culture (G3b) + Post-Culture Identity (G2) -> Post-culture
+- Post-Romance Mini-Questline (G2, O)
+- The Power Core: Power Core (G2, T, the power system) + The Power Core (G3a, S, District 5's name) -> one entry with both senses, plus The Core
+- Pragmatics / Pragmatics, the (G2, G4) -> The Pragmatics (kept separate from The Pragmatists, a different faction)
+- Prairie Federation (C, T)
+- Pre-Orbital Era / Orbital Era (G3b) SPLIT -> Pre-Orbital Era (P) and the census sense of Orbital Era (O)
+- Pre-Trip Inspection (G3b, M)
+- Precision Maintenance (G2, O)
+- Primary / Significant / Notable tiers (G1, G3b) + Primary tier (G2) + Notable tier (G2) + Significant tier (filed under S-T) -> Primary, Significant and Notable tiers
+- Puerto Abrigo (G1, G3b, T) + Port Lockroy (G1, S, T) + Lockroyan (filed under I-M, mentioned in Open only) -> Puerto Abrigo
+- Quebec (O) + Quebec (post-war nation) (C) -> Quebec (post-war nation)
+- The Question of the Unbroken Name (G3b, S)
+- Quick Capture Seed (G2, M)
+- Quiet City, the / the Quiet City (G2, G3b) -> The Quiet City
+- Quiet Shift, the / The Quiet Shift (G2, G4, S, T) -> The Quiet Shift
+- Rastra (C, G1, G2, G3a, G3b, G4, S, T) + las Arrastradoras (Belgrano's official term; the Arrastradora groups are filed under A-C) -> Rastra
+- Rationing of Grief (G3a, S, T) -> The Rationing of Grief
+- Rebirth Ritual (G2, S); Rebuilt marker (G2, S)
+- Recalibration Underground + The Robot Rights Underground (former name)
+- Reclaimed Record (G2, T) -> The Reclaimed Record
+- Reclaimers (G2, G4, S) -> The Reclaimers
+- Recognition Cascade (G3a, G4)
+- Real-World Basis Extrapolation Method (G3a) + RWBEM / Real-World Basis Extrapolation Method (RWBEM) (G3b, M) -> RWBEM
+- Red Spiral / Red Spiral, the (C, G2, G4, S, T) + Red Nebula (former name) -> Red Spiral, written to the author's 2026-10-30 ruling (medical organization)
+- Relung Panen + Bunger Hills City (former placeholder)
+- Relung Panen Cargo Airport (G3a, G3b)
+- Remorseful / Remorseful, the (G2, G4) -> The Remorseful
+- Repo Scope (T) + Repo Scope (when, where, who) (M) -> Repo Scope
+- Republic of Alaska (C, T) + Alaska Republic
+- Republic of Hawaii (M) + Sovereign Republic of Hawaii under Also called. NOTE for coordinator: Sovereign Republic of Hawaii also has its own group in S-T; the two entries describe one polity and should be reconciled (the Timeline's name is the more authoritative title)
+- Republic of Sonora (C, S, T) + La República de Sonora
+- Research Union (C, T) + Research Unions (G3b) -> Research Union
+- Retroactive Mechanism (G3b, M) + Process F
+- Review Panel (G3a, G3b, M) + Review Panel observers (G3a) -> Review Panel
+- Robot-Aligned Endings / Robot-Aligned endings (G2, G4)
+- Robot coffee (C, G2, S)
+- Robot Elementals (G3b, M) + The Eight Elements of Tepenia
+- Robot legal personhood (C) + Robot personhood (T) -> Robot personhood
+- Robot Universals (G2, M, T)
+- Romance Exclusivity (Monogamy Rule) (G2) + Monogamy Rule (filed under I-M, area O row) -> Romance Exclusivity (Monogamy Rule)
+- Romance-unlocked homes (G3a) + Romance-unlocked player homes (G2) + Romance Reward (companion player home) (G2) -> Romance-unlocked homes
+- Rothera (C, G1, G3b, S, T)
+- Rothera Airport (G3b) + Bonner Airstrip (filed under A-C) -> Rothera Airport
+- Rotheran (G2, G3b)
+- Rue de la Réception (G3b, S)
+- Runway Day (G1, G3b, S)
+- Not merged on purpose: Off the Record (TFO) and Narrative Ghost (GDD), Outlander (TFO) and Frontier Hardened (GDD, D-H): renamed forks in different games, each with its own entry and a pointer
+
+## Groups dropped
+- Named Machine Registries: brainstorm-only (2026-07-29 Community Infrastructure & Social Life list)
+- National Space Association: one-off mention in a song prompt, never defined, appears in no other file
+- Neighborhood Resonance Festivals: brainstorm-only (2026-07-29 list)
+- Neumayer connector: an unnamed connector road (the file says it has no name); a description, not a term
+- Neutral Ground Negotiation Suites: brainstorm-only (2026-07-29 list)
+- New Arrival Floor-Zero Suppers: brainstorm-only (2026-07-29 list)
+- Newcomer Welcome Kitchens: brainstorm-only (2026-07-29 list)
+- Open Door Hour: brainstorm-only (2026-07-29 list)
+- Origin-Blind Boarding Houses: brainstorm-only (2026-07-29 list)
+- Origin-Blind Suppers: brainstorm-only (2026-07-29 list)
+- Overclocked Frame Retirement Homes: brainstorm-only (2026-07-29 list)
+- The Overflow Welcome Office: brainstorm-only (2026-07-29 list)
+- Paired Creches: brainstorm-only (2026-07-29 list)
+- The Patch Archive: brainstorm-only (2026-07-29 list)
+- Patch-Spotting Walks: brainstorm-only (2026-07-29 list)
+- Patched-Frame Salvage Yards: brainstorm-only (2026-07-29 list)
+- Per-Crew Mess Halls: brainstorm-only (2026-07-29 list)
+- Precedent Archives: brainstorm-only (2026-07-29 list)
+- The Precedent Reading Circle: brainstorm-only (2026-07-29 list)
+- Preserve Cellars: brainstorm-only (2026-07-29 list)
+- Private Opinion Nights: brainstorm-only (2026-07-29 list)
+- Production Death Memorial Corrections: brainstorm-only (2026-07-29 list)
+- Prototype Graveyards: brainstorm-only (2026-07-29 list)
+- Prototype Show-and-Tell Nights: brainstorm-only (2026-07-29 list)
+- The Quiet Hour Rivalry Truce: brainstorm-only (2026-07-29 list)
+- Quiet Hour Storytelling: brainstorm-only (2026-07-29 list)
+- The Quiet Register: brainstorm-only (2026-07-29 list)
+- Quiet Solidarity Signals: brainstorm-only (2026-07-29 list)
+- The Quiet Syncretic Gatherings: brainstorm-only (2026-07-29 list)
+- Rank-Reading Salons: brainstorm-only (2026-07-29 list)
+- Rank-Reading Tailor Houses: brainstorm-only (2026-07-29 list)
+- Reach Redistribution Gifting: brainstorm-only (2026-07-29 list)
+- The Recognition Registrar's Office: brainstorm-only (2026-07-29 list)
+- The Records: no separate entry; merged into Needle Down (placeholder name)
+- Research Cluster Potlucks: brainstorm-only (2026-07-29 list)
+- Resonance Chambers: brainstorm-only (2026-07-29 list)
+- Running Hot Boards: brainstorm-only (2026-07-29 list)
+- Port Lockroy: no separate entry; merged into Puerto Abrigo (renamed city)
+
+## Held: pre-Tepenian Cryptograph Helix
+(author instruction 2026-10-30: in-world terms whose only source is TheCryptographHelixDD; entries removed or never written)
+- Neo-Debrecen (Martian city)
+- Neo-Marosvásárhely (Martian city)
+- Neo-neo-race (off-world composite people)
+- Neo-Zalaegerszeg (Martian city)
+- New Rovaniemi (Martian city)
+- New Szeged (Martian city)
+- New Szolnok (Martian city)
+- New Turku (Martian city)
+- Piano-key computer (Earthtech technology)
+- Psychological cell algorithm (Earthtech surveillance model)
+- Psychoschizoid break (meme-induced self-fracture)
+- Resistance (Cryptograph Helix) (the series' protagonist confederation; outsiders call it the Altay Nation)
+- Russian Mafia (the first DNA Mafia)
+
+## Conflicts for the author
+- The Narrow Door vs. Merit Board Audit: Timeline TODO still uses the old name and flags it shaky; GDD confirmed the mechanism 2026-07-29.
+- National currency: GDD Parallel_Economies_Survey still calls energy/charge the confirmed currency; the retired Federation Watt survives in CurrentNovelDocs, SouthernLights and TorontoFellOutGDD copies.
+- Neumayer's founders: older Halley_Subnet_Reference says German exiles; the Founding Register (DR-35) says the Netherlands and Austro-Bavaria. Demonym Neumayeran vs. Neumayerite unsettled.
+- Neural Overclock: three GDD write-ups disagree on duration (1-3 vs. 3-5 turns) and a stat-8 gate; third mode is Hyperthread in the GDD, Overclock in Outer Tepenia 1's copy.
+- Neutral 13th District still uncorrected in Main_Story-Hook_Progression.md and the tie-ins summary table.
+- No Good Endings: Game_Design_Principles.md and Outer Tepenia 1 state it more strictly ("bittersweet at best") than Companion_System.md (good endings allowed at real cost).
+- No Level-Scaling is not filed in the Timeline's Universal Design Laws.
+- NODE: perks Math Wrath and Processing Overdrive cost AP vs. Processing Cycles; torso target "Core Frame" (GDD) vs. "Main Chassis" (Outer Tepenia).
+- Non-malice rule vs. Energy_Grid_Failure_Rationale.md reasons 6 and 15 (districts sabotaging or profiting from the grid crisis).
+- Nuclear War of 2083: Timeline README names USA and China plus Uganda; World_History_Reference lists combatants TBD. Names ("the Great War", "Global Great War of 2083") and an old Streetside email's September 16 date.
+- Off-World Evacuees: novels' ~12 million emigrants vs. Census II's 10,104,964 orbital population (GDD TODO has an older ~11.36M); Mars colonization still planned at game present (Timeline) vs. begun in the Second Interwar Period (Helix-derived note; OOLSD AP-5).
+- Office of the Federal Registry in Concordia vs. the pre-war seat of government at Fort McMurdo (DR-21); possibly compatible.
+- Old Core Institutional Quarter vs. Overflow District (Lazar): spec and megasheet disagree on which is denser.
+- Ossuary: older Goth "metal bones" sacred-site text vs. the 2026-09-07 mixed robot-and-human ruling; city files not checked.
+- Ossuary Resonance: three GDD versions (Skills.md, Regular_Perks, Challenge_Perks) disagree.
+- The Overclock Martyrs: SouthernLights says founding-era event; Timeline dates it 2812.
+- Operating-hours law: scope stated five different ways (master plan, Europe intake, OOLSD README, RFC, GDD rulings log); slang-synthesis uses a different window.
+- The Operators: one name for two factions (Libra and the Markets).
+- Palmer subnet: the GDD's 2026-10-03 renames (Pergamino, Puerto Abrigo, Contrapunto) vs. the Timeline location list, SouthernLights and Background-Lore still using Juan Carlos, Port Lockroy, Sejong.
+- Palmerian (spec, 2026-07-04) vs. the Neo-Races catalog's undecided "Palmerite or Palmerian".
+- Parallel economies survey's energy/charge baseline vs. DR-3.
+- People's Democratic Republic of Cascadia: renaming date (Republic -> PDR) and capital (San Francisco, Los Angeles or Portland) open; Ric Alarcón's border crossing on the post-war map.
+- Pergamino: Spanish founders ruled out vs. Background-Lore chain #10 "What Spain Kept".
+- Personality Module vs. the Doll Visual Design Canon's "central personality module": same part or not.
+- Planetary Split Brain: questline (GDD README, Dev-Road-Map phase 5) vs. background only (DLC_PSB_Framework.md).
+- Planetary Symbols: eleven members (file, ULM register) vs. ten (City_Symbol_Assignments, CST cross-check, Local Robot Culture checklist); in-world use not stated.
+- Polar night depression: dark season April-July (City Logistics) vs. May-August (districts document).
+- Polydimensional Animism: README says working copy, TODO says reviewed and published; SouthernLights says brainstorm only; TODO still names Princess Elisabeth as a Cyclical stronghold.
+- Port of Sanay: ruling dated 2026-09-01 (spec) vs. 2026-09-05 (Ports.md); older megasheet and Timeline trucking file put the port in the lower city below the cliffs.
+- Post-Solar eras: Outer Tepenia 1 about 1,000 years after the Cryptograph Helix vs. continuity guidelines "likely several generations".
+- Post-war México: Coahuila, Nuevo León and Tamaulipas unclaimed (older files) vs. given to México (newer file); Sonora proposals still flag it open.
+- The Power Core: district name still marked TBN in the canon heading; "The Core" in the Ultra-Megasheet and SouthernLights.
+- Position Day: annual survey ritual (SouthernLights) vs. observance of the latest relocation (GDD).
+- Precision Maintenance: perk in the GDD vs. still a skill in Outer Tepenia 1; two perks still cite the old skill.
+- Pre-war: which war is meant (2083, War of Upper Earth, Long Night War) depends on the file.
+- Puerto Abrigo: Census I 128,887 (Palmer reference, 2026-09-02) vs. reduced figures (census, 2026-09-05; Census II 691); Background-Lore assumes the older UK-founded city.
+- The Proryv may be stale after the Ariun Nuur rename (DR-42) and founder rulings (DR-47).
+- Toronto Fell Out's universe (recorded under Quarantine perimeter): area O says Tepenian (author, 2026-07-29, Great Lakes DMZ, 2097); one G2 helper says not Tepenian.
+- Quebec (post-war nation): treaty/signatory status open in the Timeline.
+- Rastra: 8-wheeled (Timeline, Michelle Stanton README) vs. tracked chassis (all other files); early "post-Soviet-style" Arcanet-builder origin vs. the 2026-07-03 Belgrano/Byrd Expedition origin; Neumayer credited with the original design in the cross-city patterns file.
+- The Rationing of Grief: SouthernLights Storyline/Timeline.md (2026-07-10) still has Cancer simply refusing; Timeline and GDD corrected it 2026-08-07.
+- The Reclaimed Record: Timeline canon (Kendra Heinrich's Timeline file) or project canon; the GDD flags the Capricorn link as unsettled.
+- R-xx: one prefix for two different numbering systems (per-pass docket items vs. global revisit items).
+- Red Spiral: Faction_Devotion_Endings.md (FD-2) still frames it as a revolutionary political faction; the author confirmed the medical reading on 2026-10-30, so FD-2 needs revising. Ayako Hayashi's song gives her an art-and-philosophy role.
+- Republic of Alaska: Timeline "Republic of Alaska" vs. CurrentNovelDocs "Alaska Republic"; Starlit Engines character sheets and the Vancouver file disagree on the novel's era; Holly Caldwell's song calls it neutral.
+- Review Panel: Step 7 (Concordia district file) vs. Step 8 (ULM runbook); two definitions of "unmet".
+- Regional currencies: SouthernLights and old copies still say energy scrip, which the GDD no longer allows.
+- Robot Elementals: Magnetism (elements file) vs. Electromagnetism (DR-1); six or seven one-word labels under review; design tool (canon-tier legend) vs. a robot practice (robot-culture method).
+- Robot religions: six (SouthernLights; GDD Robot_Religions folder) vs. five (the robot-universal floor in Robot_Culture_Toolkit_Status_Reference.md).
+- Robot-only city: Kunlun's spec still says "robot-majority or robot-only"; the Neo-Races tracker says Vostok (Ariun Nuur) is 100% robot while the census gives Ariun Nuur 141,755 humans.
+- Robot-only staging station: how stage 1's material reached orbit before Amundsen Tower existed (GDD TODO says orbit was reachable only by the Tower).
+- Robot Universals: DM COPIED_FROM.md says copied, not moved, but the Timeline now holds only the summary; Hybrid-Anthro_Culture and the Local Robot Culture Methodology still point at the Timeline's old Robot_Universals folder.
+- Rothera's founders: North American and Argentine industrial workers (GDD DR-20, DR-44) vs. "Argentina-founded" (Timeline trucking-network file); British founders ruled out but assumed by non-canon Background-Lore chain #8.
+- Rothera Airport: "Bonner" is a real-world placeholder name flagged for the landmark-renaming pass.

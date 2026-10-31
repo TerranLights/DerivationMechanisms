@@ -1,0 +1,1502 @@
+# Candidate terms for area M: term<TAB>files in this area<TAB>repos overall<TAB>files overall
+Tepenia	120	11	1636
+Doll-Fi	99	11	317
+InnerTepeniaGDD	111	10	374
+Inner Tepenia	92	10	451
+Tepenian	71	10	1129
+Worldspace	151	9	722
+Interwar	102	9	802
+Arcanet	71	9	892
+Real-world	20	9	459
+Outer Tepenia	11	9	108
+Cryptograph	5	9	90
+Cryptograph Helix	5	9	73
+Game-Mechanics	3	9	117
+Locations-and-Levels	126	8	363
+TepenianUniverseTimeline	43	8	271
+not	41	8	306
+Tepenia's	15	8	875
+Second Interwar Period	11	8	262
+Long Night War	10	8	854
+Tepenians	4	8	123
+DR	118	7	652
+Tepenian-Federation	85	7	264
+Outside-World	85	7	270
+Enneagram	77	7	839
+Calethina	33	7	249
+Falkland Treaty	23	7	759
+Concordia's	16	7	505
+South Pole	11	7	250
+Amundsen Tower	11	7	279
+Dev-Road-Map	9	7	77
+Upper Earth	8	7	526
+Siligel	6	7	257
+Frostlands	5	7	363
+Repo	4	7	57
+TheCryptographHelixDD	4	7	13
+Inner Tepenia's	4	7	129
+Majyao	3	7	77
+Bisyugota	2	7	63
+DJ	2	7	33
+Majyao Bisyugota	2	7	60
+Sci-Fi	1	7	36
+TerranLights	1	7	23
+Cross-reference	1	7	61
+PR	1	7	66
+U.R.U.K.	1	7	32
+Second Interwar	69	6	323
+Real-World	54	6	578
+Dome Fuji	42	6	359
+Centauri	16	6	35
+Neo-Races-and-Cultures	15	6	81
+New Zealand	15	6	258
+Calethina's	11	6	173
+GDD's	11	6	69
+New Centauri	11	6	22
+Pink Lucy	10	6	87
+Still-	9	6	102
+Jeju-do	8	6	258
+CurrentNovelDocs	8	6	42
+No National Stereotypes	8	6	113
+Storyline	7	6	125
+Ji-Eun	7	6	135
+ACT	6	6	89
+Eun Kim	6	6	113
+Ayako	5	6	79
+Vostok's	5	6	136
+FW	5	6	78
+Planetary Split Brain	5	6	164
+Hayashi	4	6	63
+SouthernLights	4	6	12
+Long-term	4	6	43
+Trisha Miller	4	6	46
+Ayako Hayashi	4	6	61
+Villena	3	6	64
+Hiresvett	3	6	50
+Status	3	6	197
+Villena Hiresvett	3	6	50
+Michelle Stanton	3	6	78
+Kendra Heinrich	3	6	94
+Southern Lights	3	6	32
+Aparast	2	6	86
+Long-Term	2	6	41
+Undergrid	2	6	403
+Mundi	2	6	94
+Mega-Init	2	6	279
+WebTV	2	6	9
+High	2	6	9
+The Falkland Treaty	2	6	35
+Axis Mundi	2	6	94
+Unified Korea	2	6	71
+Vosora	1	6	108
+Core-Mechanics	1	6	81
+Cross-referenced	1	6	17
+Post-war	1	6	73
+Roadmap	1	6	29
+ONE	71	5	366
+END	62	5	793
+Theoretical-Calculations	60	5	178
+FOR	58	5	353
+TWO	53	5	170
+Megasheet	51	5	530
+Megacorps	49	5	134
+Timeline Eras	49	5	116
+Shirayuki	43	5	63
+The Second Interwar Period	40	5	98
+Dumont	39	5	358
+|	36	5	250
+Adare	35	5	279
+Cape Adare	33	5	272
+CANON	31	5	126
+Palmer City	31	5	424
+McMurdo	29	5	409
+and	29	5	98
+Lazar	28	5	55
+Amundsen Station	28	5	260
+FROM	25	5	281
+Concordia-City	24	5	102
+Juan Carlos	21	5	178
+README's	20	5	43
+Janbogo's	19	5	323
+STATION	19	5	92
+the	19	5	32
+RESOLVED	17	5	146
+Larsemann	16	5	193
+Denison's	16	5	165
+NAME	16	5	153
+South Korea	14	5	304
+DEFERRED	13	5	70
+Ross Sea	13	5	196
+Neumayer's	12	5	200
+Megasheets	11	5	178
+STATED	11	5	80
+both	10	5	30
+Griselda	9	5	65
+Zukelli's	9	5	190
+Kunlun's	9	5	214
+Human-robot	9	5	70
+PROPOSED	9	5	78
+GO	9	5	112
+after	9	5	15
+Palmer City's	9	5	193
+Mawson's	8	5	191
+Belgrano's	8	5	206
+Sinian	8	5	147
+TCY	8	5	100
+American English	8	5	39
+Momo	7	5	40
+Terra Nova Bay	7	5	102
+Quick Reference	7	5	40
+Questlines	6	5	241
+McMurdo's	6	5	203
+Novolazarevskaya	6	5	97
+Amundsen Tower's	6	5	210
+Griselda Alejandra	6	5	59
+Aarden	5	5	98
+XT	5	5	88
+Sinian Federation	5	5	119
+First Interwar Period	5	5	98
+Maggie Aarden	5	5	87
+HyperHedral	4	5	27
+Abramentes	4	5	15
+Ultra-Megasheet	3	5	81
+Sonora	3	5	58
+Singaporean	3	5	12
+Bogo	3	5	62
+Jang	3	5	62
+Aarden's	3	5	73
+Medium	3	5	8
+Troll Airfield	3	5	58
+Full Extrapolation	3	5	334
+Tepenian Universe	3	5	21
+Maggie Aarden's	3	5	70
+Rastra	2	5	97
+Cross-Reference	2	5	422
+Eirwyn	2	5	25
+Majyao's	2	5	40
+Cardoss	2	5	25
+Post-Solar	2	5	84
+RA	2	5	15
+Low	2	5	7
+South America	2	5	106
+Mirny Subnet	2	5	81
+Belgrano Station	2	5	17
+Jang Bogo Station	2	5	39
+The Eyes of Gold	2	5	30
+The Cryptograph Helix	2	5	19
+Gameplay	1	5	114
+Hardcore	1	5	52
+Midwestland	1	5	77
+Truby	1	5	54
+Hana	1	5	37
+Antarctican	1	5	22
+Morikawa	1	5	23
+Truby's	1	5	16
+In-game	1	5	12
+In-world	1	5	22
+Gynoid	1	5	43
+Garcelle	1	5	30
+Generalist	1	5	9
+Blocking-Decisions	1	5	58
+FR	1	5	28
+A.R.U.T	1	5	22
+MIT	1	5	854
+CLOSING	1	5	27
+ULM	133	4	454
+OPEN	103	4	701
+ONLY	67	4	258
+ARE	64	4	197
+LAW	63	4	261
+Concordia	62	4	39
+Inspirational-Influences	58	4	295
+AT	55	4	156
+CITY	44	4	198
+Mawson	40	4	56
+FIT	39	4	96
+Ice-Cold	35	4	125
+—	35	4	190
+ACCESS	34	4	52
+BY	33	4	201
+Zukelli	32	4	48
+Princess Elisabeth	30	4	183
+Lockroy	27	4	188
+Port Lockroy	26	4	175
+Notable Figures	22	4	446
+HERE	20	4	98
+Mirny's	19	4	258
+PER	19	4	62
+Polydimensional	18	4	61
+FACTOR	18	4	99
+Polydimensional Animism	18	4	57
+COMPLETE	16	4	67
+CLOSE	16	4	163
+Current Status	16	4	98
+Larsemann Hills	15	4	170
+Worldbuilding	13	4	34
+WORLD	13	4	53
+SITE	12	4	50
+Signy's	11	4	128
+Dome Fuji's	11	4	152
+Open Questions	11	4	224
+Amundsen Station's	11	4	100
+Robot Universals	11	4	77
+Lazar's	10	4	130
+Amundsen-Scott	10	4	94
+Cross-Subnet	10	4	16
+SOC	10	4	74
+REVIEW	10	4	45
+Cold Buddhism	10	4	92
+Antarctic Peninsula	10	4	157
+Marambio's	9	4	173
+Sanay's	9	4	167
+Machu	9	4	110
+Picchu	9	4	110
+Rothera's	9	4	192
+SE	9	4	101
+WITHOUT	9	4	184
+WHO	9	4	53
+Byrd	9	4	64
+no	9	4	35
+Antarctic Circle	9	4	103
+Zhongshan's	8	4	186
+Anthros	8	4	47
+USE	8	4	180
+Fort McMurdo	8	4	43
+, and	8	4	42
+Weddell Sea	8	4	172
+South Africa	8	4	256
+Syowa	7	4	70
+Bharati	7	4	74
+The Lover	7	4	68
+Mountain Pass	7	4	101
+Machu Picchu Airport	7	4	48
+Tepenian Federation	7	4	64
+Palmer Station	7	4	53
+Phase-	6	4	79
+Mirny-subnet	6	4	31
+WWII	6	4	58
+DEEP	6	4	20
+PLAN	6	4	20
+Queen Maud Land	6	4	157
+King George Island	6	4	114
+United States	6	4	51
+FINAL	5	4	90
+CD	5	4	20
+one	5	4	25
+Mount Erebus	5	4	32
+Lake Vostok	5	4	62
+Deepest Cold	5	4	30
+Picnic Passage	5	4	33
+Neumayer Station	5	4	30
+Akina	4	4	40
+Re-check	4	4	8
+Hut Point	4	4	51
+East Antarctic	4	4	131
+Cascadia	3	4	79
+Subnets	3	4	21
+Post-Falkland	3	4	120
+Dolliverse	3	4	12
+UV	3	4	29
+PLUS	3	4	17
+SOCIAL	3	4	97
+DECISION	3	4	62
+LOST	3	4	51
+ROAD	3	4	61
+Total	3	4	23
+Confirmed	3	4	7
+Byrd Station	3	4	72
+Livingston Island	3	4	68
+Republic of Sonora	3	4	34
+Human Universals	3	4	7
+Vostok Station	3	4	30
+East Antarctic Plateau	3	4	71
+Falkland Islands	3	4	44
+James Scott Bell	3	4	11
+Significant-tier	2	4	110
+Industrias	2	4	6
+Rastras	2	4	35
+Generational	2	4	44
+NEED	2	4	98
+JARE	2	4	59
+GB	2	4	10
+YYYY	2	4	200
+DC	2	4	31
+EA	2	4	9
+MAIN	2	4	65
+CARE	2	4	56
+CH	2	4	9
+AU	2	4	41
+NOTES	2	4	15
+PT	2	4	6
+Open	2	4	10
+New Orleans	2	4	77
+Machu Picchu Border & Customs Authority	2	4	43
+People's Democratic Republic of Cascadia	2	4	19
+Eirwyn Cardoss	2	4	19
+The Long Night War	2	4	103
+East Antarctica	2	4	74
+Antarctic Treaty	2	4	50
+The Japanese	2	4	5
+Super-Ultra-Megasheet	1	4	28
+Baldur's	1	4	20
+Character-Creation	1	4	42
+Petersburg	1	4	40
+Echota	1	4	18
+Self-check	1	4	148
+DLCs	1	4	70
+Upper-Earth	1	4	38
+DLC-specific	1	4	13
+Pre-war	1	4	51
+Demonym	1	4	244
+Kharkovchanka	1	4	25
+Teahouse	1	4	28
+Arrastradoras	1	4	40
+Turku	1	4	30
+Arrastradora	1	4	32
+Cross-references	1	4	16
+Completion-Matrix	1	4	33
+Attunement	1	4	21
+Terraforming	1	4	10
+Experiential	1	4	4
+SA	1	4	23
+LICENSE	1	4	324
+COUNTER	1	4	44
+NP	1	4	11
+NIGHT	1	4	51
+ML	1	4	11
+IMAGE	1	4	48
+CHECK	80	3	253
+GAP	79	3	108
+SH	78	3	81
+CLAUDE	75	3	134
+THIS	75	3	332
+RWBEM	62	3	170
+CST	61	3	176
+Mirny	60	3	63
+Founding Register	56	3	198
+AN	52	3	330
+Janbogo	51	3	43
+ANY	50	3	266
+RIGHT	49	3	66
+Background-Lore	47	3	138
+BOTH	46	3	155
+PART	44	3	187
+HELD	44	3	74
+ITS	43	3	115
+Sinheung	42	3	43
+OTHER	42	3	207
+Zhongshan	41	3	49
+Laws of Robotics	39	3	113
+Belgrano	38	3	49
+Neumayer	38	3	44
+FORCED	38	3	99
+Kunlun	36	3	50
+Denison	35	3	39
+Universal Location Methodology	34	3	44
+Sanay	33	3	47
+True Believer	33	3	79
+READ	32	3	244
+or	32	3	48
+Marambio	30	3	37
+Real-	30	3	108
+Rothera	29	3	39
+Sayowa	29	3	29
+RULE	28	3	76
+Signy	27	3	50
+THEN	27	3	48
+Notable Locations	27	3	194
+Sinheung's	26	3	193
+ULM's	26	3	84
+Re-read	25	3	54
+RQ	25	3	26
+POST	24	3	98
+WAR	24	3	49
+SET	23	3	68
+AS	21	3	288
+REAL	20	3	103
+PENDING	20	3	33
+MISSING	19	3	81
+Abrigo	17	3	150
+STANDING	17	3	71
+SCOPE	17	3	76
+Puerto Abrigo	17	3	146
+TIME	16	3	89
+RE	16	3	86
+HAR	16	3	22
+LINE	16	3	133
+Shirayuki's	15	3	136
+FOUR	15	3	97
+Adare's	14	3	131
+SO	14	3	69
+| ✅	14	3	57
+Enneagram Character Index	14	3	56
+Tri-Cities	13	3	122
+DONE	13	3	52
+PROGRESS	13	3	71
+STOCK	13	3	38
+TIER	13	3	63
+Geographic Basis	13	3	77
+Character & Culture	13	3	74
+AMUNDSEN	12	3	24
+SUBNET	12	3	38
+WITH	12	3	228
+BUT	12	3	331
+,	12	3	40
+Cross-check	11	3	105
+BE	11	3	220
+RECORD	11	3	46
+Casey	11	3	52
+Cape Adare's	11	3	120
+Cymatics	10	3	54
+DESIGN	10	3	47
+REMOVED	10	3	30
+Halley	10	3	45
+Prydz	9	3	154
+CHANGE	9	3	115
+SINGLE	9	3	23
+CROSS	9	3	27
+PA	9	3	61
+FREEDOM	9	3	32
+Prydz Bay	9	3	145
+Brunt Ice Shelf	9	3	44
+READMEs	8	3	24
+Ongul	8	3	49
+Neo-Races	8	3	33
+CIN	8	3	53
+ORIGIN	8	3	32
+SANAE	8	3	69
+PALMER	8	3	26
+HALLEY	8	3	26
+BYRD	8	3	27
+JANBOGO	8	3	23
+MAWSON	8	3	24
+LIVES	8	3	21
+BLOCKED	8	3	42
+GOES	8	3	15
+FIVE	8	3	41
+MW	8	3	66
+Sejong	8	3	28
+Dumont d'Urville	8	3	44
+Vision Notes	8	3	129
+Sayowa's	7	3	87
+Elven	7	3	10
+FULLY	7	3	31
+MB	7	3	41
+MATERIAL	7	3	71
+MAP	7	3	19
+GENERAL	7	3	27
+RECORDS	7	3	19
+West Antarctica	7	3	49
+West Antarctic	7	3	28
+Sayowa Junction	7	3	36
+Ross Island	7	3	73
+Local Cultures	7	3	82
+Hut Point Peninsula	7	3	34
+Coats Land	7	3	50
+Robertson Land	7	3	36
+Great War	7	3	10
+Elven Steel	7	3	9
+To-Do	6	3	24
+Halley-subnet	6	3	43
+Three-way	6	3	10
+IF	6	3	38
+IDENTITY	6	3	102
+KB	6	3	26
+FAIL	6	3	52
+ES	6	3	23
+FOUNDING	6	3	48
+LATER	6	3	62
+LINK	6	3	23
+SW	6	3	37
+DV	6	3	9
+RO	6	3	10
+PRIOR	6	3	15
+SG	6	3	11
+ROBOT	6	3	31
+CP	6	3	23
+SC	6	3	10
+Scott	6	3	39
+every	6	3	17
+Cape Denison	6	3	68
+Scott Station	6	3	38
+First Interwar	6	3	41
+Ice Shelf	6	3	44
+Trinity Peninsula	6	3	34
+English and Japanese	6	3	13
+Asteroid Belt	6	3	21
+Vestfold	5	3	75
+Fremantle	5	3	62
+Lockroy's	5	3	73
+Anvers	5	3	49
+Wiencke	5	3	33
+Zucchelli	5	3	62
+FOOD	5	3	31
+TYPE	5	3	30
+LIVE	5	3	51
+CA	5	3	19
+YOU	5	3	129
+ANCESTRY	5	3	18
+INDEX	5	3	10
+SL	5	3	16
+Esperanza	5	3	47
+before	5	3	22
+Troll	5	3	38
+Hope Bay	5	3	42
+Kunlun and Dome Fuji	5	3	56
+Vestfold Hills	5	3	64
+Scott South Pole Station	5	3	34
+Marie Byrd Land	5	3	32
+Law of One Location	5	3	67
+The Inner Tepenia	5	3	6
+Tabarin	4	3	30
+Basen	4	3	29
+Non-Transfer	4	3	7
+Rotheran	4	3	15
+Long-lived	4	3	8
+Japan-founded	4	3	13
+Australasian	4	3	27
+Machina	4	3	53
+One-line	4	3	82
+SIGN	4	3	23
+START	4	3	25
+CC	4	3	18
+CO	4	3	28
+TRANSFER	4	3	8
+NZ	4	3	51
+SEARCH	4	3	136
+PRESENT	4	3	33
+CONFLICT	4	3	29
+CM	4	3	13
+BETTER	4	3	16
+FIND	4	3	86
+Palmer	4	3	15
+three	4	3	18
+→	4	3	32
+Operation Tabarin	4	3	29
+Port Lockroy's	4	3	61
+Petrel Island	4	3	42
+Halley and Neumayer	4	3	33
+Australia and New Zealand	4	3	17
+Anvers Island	4	3	41
+Seymour Island	4	3	46
+Miles Davis Boulevard	4	3	25
+Wiencke Island	4	3	31
+Ex Machina	4	3	50
+Fundamental Laws	4	3	6
+Borchgrevink	3	3	29
+Carsten's	3	3	34
+Carsten	3	3	31
+Roald	3	3	62
+Finnish-Swedish	3	3	33
+Lemaire	3	3	20
+Goudier	3	3	37
+Belgranian	3	3	9
+Streetside	3	3	35
+TEPENIA	3	3	24
+DEAD	3	3	41
+AB	3	3	9
+BASELINE	3	3	15
+RB	3	3	13
+RETURN	3	3	108
+REACH	3	3	13
+REFUSAL	3	3	30
+WORDS	3	3	14
+FLAG	3	3	8
+first	3	3	13
+is	3	3	57
+After	3	3	6
+Manuel Belgrano	3	3	13
+Southern Pole of Inaccessibility	3	3	19
+Corrected	3	3	5
+Lemaire Channel	3	3	15
+Syowa Station	3	3	30
+Machu Picchu	3	3	27
+Founding Story	3	3	14
+Prince Charles Mountains	3	3	28
+Byrd Subnet	3	3	25
+Signy Island	3	3	38
+Coronation Island	3	3	25
+South Orkneys	3	3	28
+Marambio and Esperanza	3	3	19
+Angkor Wat	3	3	18
+Davis Coast	3	3	28
+International Archive	3	3	5
+The Act	3	3	19
+Oedipal Child	3	3	37
+Streetside Harmonies	3	3	35
+Ushuaia	2	3	73
+God-mind	2	3	23
+Tri-	2	3	41
+Cross-City	2	3	83
+Korean-founded	2	3	54
+GPS-only	2	3	51
+China-Primary	2	3	32
+Handoff	2	3	31
+Tyumen	2	3	27
+Mawson-subnet	2	3	15
+Jeju	2	3	36
+Royds	2	3	19
+Katabatic	2	3	62
+Hay-on-Wye	2	3	12
+Chinese-founded	2	3	17
+Marambian	2	3	12
+French-Italian	2	3	12
+Robot-Specific	2	3	143
+Flinders	2	3	8
+Australian-founded	2	3	8
+Korea-founded	2	3	10
+First-generation	2	3	7
+Crossref	2	3	15
+Proc	2	3	6
+Ecol	2	3	5
+Physiol	2	3	5
+PubMed	2	3	8
+Elsevier	2	3	6
+Federation-era	2	3	4
+Anti-stereotype	2	3	33
+Gaelic-language	2	3	4
+TIMELINE	2	3	10
+OCR	2	3	41
+HISTORY	2	3	28
+CRISPR	2	3	17
+LAND	2	3	12
+HTTP	2	3	276
+TITLE	2	3	13
+RM	2	3	15
+PI	2	3	8
+AR	2	3	12
+WA	2	3	21
+CSIRO	2	3	13
+PhD	2	3	11
+MR	2	3	12
+PMC	2	3	31
+AK	2	3	4
+HB	2	3	6
+EV	2	3	4
+REGIONAL	2	3	5
+GM	2	3	25
+DE	2	3	10
+INITIAL	2	3	38
+third	2	3	9
+all	2	3	15
+The King	2	3	12
+The Hero	2	3	13
+Step 3	2	3	11
+never	2	3	9
+Before	2	3	5
+Elves	2	3	4
+Sinian Federation's	2	3	13
+Urville Sea	2	3	29
+Ice Cold Buddhism	2	3	97
+Tepenian Saints	2	3	31
+Industrias Abramentes	2	3	4
+South Orkney Islands	2	3	53
+Tepenian Independence Day	2	3	60
+Hangul Day	2	3	18
+Neon Nomads	2	3	19
+Dry Valleys	2	3	41
+Adelaide Island	2	3	59
+Second
+Interwar Period	2	3	36
+Trade Yard	2	3	17
+Cape Royds	2	3	8
+Cape Evans	2	3	7
+Independence Day	2	3	29
+Cape Town	2	3	68
+Kunlun Station	2	3	26
+Personality Module	2	3	14
+South Shetland Islands	2	3	44
+Goudier Island	2	3	34
+Map Files	2	3	18
+National Economy and Currency	2	3	42
+Douglas Mawson	2	3	16
+Mexican Spanish	2	3	10
+Janbogo Highway	2	3	33
+The Dreamer	2	3	9
+Mario Zucchelli Station	2	3	34
+Mission Control	2	3	9
+The Tepenian Federation	2	3	9
+Carsten Borchgrevink	2	3	12
+The Primary	2	3	6
+Notable-tier	1	3	63
+Per-Nation	1	3	128
+Ultra-Megasheets	1	3	28
+Cross-District	1	3	30
+Tepenia-wide	1	3	117
+Borchgrevink's	1	3	39
+Hayashi's	1	3	20
+Vostok-Kunlun	1	3	25
+Reference-Images	1	3	12
+Context-sensitive	1	3	3
+AI-generated	1	3	9
+Zhang	1	3	28
+Fabrication-synthesis	1	3	8
+Akademgorodok	1	3	28
+Lahti	1	3	9
+Mateo	1	3	18
+DNA-repair	1	3	10
+Robot-specific	1	3	14
+Harald	1	3	19
+Shenzhen	1	3	19
+Andrade	1	3	3
+Cold-adapted	1	3	3
+Load-bearing	1	3	11
+Glitch-coolant	1	3	22
+Post-	1	3	18
+Papua	1	3	15
+Baja	1	3	18
+Centre	1	3	20
+Korean-founding	1	3	5
+Acta	1	3	25
+ResearchGate	1	3	25
+Univ	1	3	24
+Operating-hours	1	3	3
+ScienceDirect	1	3	23
+Syst	1	3	4
+OpenAlex	1	3	11
+Astrobiology	1	3	6
+DOIs	1	3	5
+Prog	1	3	6
+Revista	1	3	11
+McCabe	1	3	9
+Valle	1	3	4
+RePEc	1	3	6
+Norte	1	3	12
+Jeju-Do	1	3	16
+Jeju-do-style	1	3	4
+New-Echota-style	1	3	6
+Antarctic-Treaty	1	3	4
+Appl	1	3	5
+Per-book	1	3	13
+Audiocasts	1	3	3
+Parallel-Earth	1	3	3
+OS	1	3	45
+TREATY	1	3	5
+CORE	1	3	20
+ZL	1	3	7
+TL	1	3	17
+CSM	1	3	5
+TLS	1	3	45
+CS	1	3	18
+WS	1	3	10
+SSL	1	3	34
+DP	1	3	6
+CR	1	3	15
+LH	1	3	3
+GA	1	3	11
+RV	1	3	47
+STAGE	1	3	8
+FAO	1	3	23
+MASTER	1	3	38
+NE	1	3	43
+MO	1	3	3
+UNKNOWN	1	3	16
+DOI	1	3	22
+DM	1	3	10
+IQR	1	3	4
+RH	1	3	6
+NL	1	3	6
+PNAS	1	3	28
+RS	1	3	14
+AL	1	3	4
+RL	1	3	12
+AE	1	3	3
+IA	1	3	3
+NCBI	1	3	3
+LMU	1	3	3
+WEB	1	3	7
+MRI	1	3	4
+OA	1	3	6
+UCL	1	3	4
+AAM	1	3	4
+IL	1	3	4
+TAKE	1	3	82
+SPACE	1	3	7
+TB	1	3	11
+ER	1	3	3
+IC	1	3	3
+FACTIONS	1	3	4
+FLIGHT	1	3	14
+GR	1	3	4
+HJ	1	3	3
+Pre-Trip	95	2	225
+READER	94	2	305
+Subnet	75	2	108
+BUILT	61	2	124
+SOURCE	60	2	147
+YET	60	2	113
+Relung	59	2	186
+THAT	58	2	162
+FILE	57	2	206
+BEFORE	57	2	196
+OWN	53	2	179
+LOCATION	52	2	184
+CITIES	52	2	88
+ALREADY	52	2	88
+DOES	47	2	126
+COMNAP	47	2	89
+SAME	46	2	156
+Panen	45	2	170
+RUN	45	2	128
+Relung Panen	45	2	169
+Datasheet	44	2	742
+WRITTEN	44	2	88
+UTC	43	2	208
+PRIMARY	43	2	189
+Santa Luce	43	2	181
+Vostok	40	2	33
+LOG	40	2	107
+LOC	40	2	41
+Precip	39	2	118
+OPERATOR	39	2	54
+Robot Physiology	39	2	118
+Ice-	38	2	125
+INVENTED	37	2	50
+WHAT	37	2	161
+MERGE	37	2	56
+SIZE	36	2	50
+ACCURACY	36	2	41
+ALWAYS	36	2	43
+AMENDED	35	2	57
+TERMS	33	2	44
+Ariun	31	2	199
+PASS	31	2	14
+AMERICAN	31	2	35
+DerivationMechanisms	30	2	727
+Nuur	30	2	185
+TRACKER	30	2	47
+TRUTH	30	2	33
+COLD	29	2	101
+Review Panel	28	2	110
+NONE	27	2	105
+Ariun Nuur	27	2	176
+Zodiac Lens	27	2	120
+REQUIRED	26	2	86
+Abowasa	25	2	24
+PRE	25	2	101
+RESOLVE	25	2	61
+FULL	23	2	82
+RESERVED	23	2	6
+Panen's	22	2	61
+INPUT	22	2	93
+TOTAL	21	2	22
+THREE	21	2	104
+Santa Luce's	21	2	72
+OVER	20	2	40
+WHERE	20	2	63
+WF	20	2	53
+A	20	2	30
+Relung Panen's	20	2	56
+WAS	19	2	112
+BAS	19	2	189
+LAST	19	2	105
+LAYERING	19	2	25
+Division-of-Industry	18	2	117
+Modern Hawaiian	18	2	21
+Division of Industry	18	2	236
+CANNOT	17	2	111
+Robot Religions	17	2	60
+CULTURE	16	2	85
+DEPTH	16	2	44
+CLOSED	16	2	77
+SHAPE	16	2	59
+EXISTS	16	2	83
+FINDING	16	2	85
+FORM	15	2	48
+THERE	15	2	88
+AFTER	15	2	45
+CASEY	15	2	20
+;	15	2	50
+| ⛔	15	2	68
+Later-era	14	2	47
+SECOND	14	2	61
+NEXT	14	2	36
+Second-order	13	2	24
+First-order	13	2	21
+OUT	13	2	217
+DEFAULT	13	2	25
+STATUS	13	2	90
+RULED	13	2	75
+ORDER	13	2	46
+·	13	2	51
+Borrowed Form	13	2	43
+The Review Panel	13	2	127
+Ports	13	2	15
+Falkland-era	12	2	13
+NOW	12	2	41
+FRAME	12	2	50
+National Holidays	12	2	56
+Aboa	11	2	59
+AWS	11	2	69
+MAY	11	2	42
+NAMED	11	2	55
+SOURCES	11	2	41
+SESSION	11	2	31
+SEA	11	2	30
+SHARED	11	2	41
+ROOT	11	2	23
+LARGEST	11	2	30
+Davis	11	2	51
+| ⭐	11	2	66
+| ⛔⛔	11	2	28
+The Temple	11	2	27
+Interstitial	10	2	6
+Ilocano	10	2	12
+NOAA	10	2	88
+TEMPLATE	10	2	17
+QUESTION	10	2	47
+SETTLED	10	2	32
+GATE	10	2	146
+CORRECT	10	2	66
+DISTRICT	10	2	19
+CLIMATE	10	2	19
+DERIVED	10	2	102
+WMO	10	2	109
+LIMIT	10	2	67
+Mountain Pass Airport	10	2	55
+The Zodiac Lens	10	2	15
+Pre-	9	2	55
+Corpus-wide	9	2	48
+THAN	9	2	62
+RESEARCH	9	2	49
+DATA	9	2	69
+BASIS	9	2	17
+RELIABLE	9	2	93
+HUMAN	9	2	25
+CAN	9	2	49
+FOUND	9	2	105
+EXIST	9	2	58
+NON	9	2	37
+WHOLE	9	2	30
+Robot Elementals	9	2	22
+Economy & Industry	9	2	90
+Wilkes Land	9	2	65
+Middle Hawaiian	9	2	10
+Schirmacher	8	2	63
+RWBEM's	8	2	14
+POINT	8	2	33
+THINGS	8	2	45
+ORIGINAL	8	2	17
+SURFACE	8	2	41
+SPLIT	8	2	38
+ANTI	8	2	13
+AGAINST	8	2	34
+ADD	8	2	18
+INPUTS	8	2	51
+INSIDE	8	2	42
+SUBJECT	8	2	17
+PROTOCOL	8	2	53
+REMAIN	8	2	12
+Schirmacher Oasis	8	2	47
+Per-nation	7	2	47
+Re-derive	7	2	13
+REGISTER	7	2	24
+DAY	7	2	31
+ALSO	7	2	29
+PROVIDED	7	2	4
+FUTURE	7	2	51
+WHOSE	7	2	28
+METHOD	7	2	44
+FLAGGED	7	2	80
+WIND	7	2	88
+MEANS	7	2	26
+FINDINGS	7	2	32
+TEXT	7	2	16
+UT	7	2	16
+NEEDED	7	2	13
+ADDS	7	2	15
+FIGURES	7	2	23
+MEMORY	7	2	49
+ENG	7	2	7
+ANIMAL	7	2	8
+The Elder	7	2	67
+Australian Antarctic Division	7	2	71
+Creole English	7	2	8
+Under D-	7	2	7
+Wasa	6	2	49
+Maitri	6	2	4
+Okinawan	6	2	7
+Unused-Tier	6	2	9
+Torquay	6	2	15
+Re-run	6	2	52
+Orchestrator	6	2	17
+Programmatic	6	2	7
+Handwaves	6	2	7
+MORE	6	2	78
+SPECIFIC	6	2	32
+TEPENIAN	6	2	24
+NEUTRAL	6	2	13
+PURPOSE	6	2	164
+DOM	6	2	61
+REST	6	2	35
+MY	6	2	20
+FACTS	6	2	19
+OCCUPIES	6	2	12
+EXISTING	6	2	15
+FOUNDED	6	2	35
+DENISON	6	2	16
+RESUME	6	2	20
+RATHER	6	2	35
+OUTSIDE	6	2	26
+WORKED	6	2	21
+KL	6	2	8
+BOUND	6	2	13
+TOUCHED	6	2	14
+The Unrecognized Instrument	6	2	10
+NOT	6	2	18
+G7	6	2	19
+Mountain Cut Throughway	6	2	34
+Commonwealth Bay	6	2	43
+Tier Mine	6	2	9
+Necessity Before Meaning	6	2	10
+Retroactive Mechanism	6	2	45
+The Passer-	6	2	65
+Jan Juc	6	2	14
+Scott Base	6	2	49
+Byrd and Vostok	6	2	8
+The Step	6	2	52
+Precip Probability	6	2	83
+Temp Range	6	2	81
+Alpha Centauri	6	2	7
+Unremarked	5	2	9
+Atka	5	2	22
+Orcadas	5	2	20
+Hometown-	5	2	18
+Read-only	5	2	11
+REALISM	5	2	9
+CLAIM	5	2	162
+PATH	5	2	27
+RESOLVES	5	2	51
+HIT	5	2	16
+SURVIVES	5	2	16
+REASON	5	2	23
+CNC	5	2	10
+BACK	5	2	18
+ROCK	5	2	42
+ABSENCE	5	2	26
+VERIFIED	5	2	22
+SAYOWA	5	2	12
+SCOTT	5	2	15
+EXAMPLE	5	2	18
+ANALOG	5	2	6
+DF	5	2	6
+four	5	2	10
+against	5	2	8
+G8	5	2	22
+, plus	5	2	6
+Casey Station	5	2	37
+East Ongul Island	5	2	38
+Native Before Transplanted	5	2	7
+Unremarked Persistence	5	2	8
+Core Value	5	2	39
+The Phase	5	2	17
+James Ross Island	5	2	20
+King Sejong	5	2	14
+Social Contract	5	2	63
+Research Log	5	2	57
+Avg Precip	5	2	80
+Review Panel's	5	2	7
+Urville and Zukelli	5	2	7
+Tepenian Hawaiian	5	2	6
+Dronning	4	2	23
+Federation-wide	4	2	48
+Holme	4	2	25
+Australian-heritage	4	2	20
+Jutulsessen	4	2	28
+Isla	4	2	32
+Vincennes	4	2	52
+Siegel	4	2	8
+Micro-Practice	4	2	6
+Record-Keeping	4	2	8
+Non-Thematic	4	2	6
+Terre	4	2	17
+Cinque	4	2	14
+General-population	4	2	29
+Idelsk-Uralia	4	2	36
+Georg	4	2	11
+Tier-	4	2	11
+PRIORITY	4	2	17
+LOOKS	4	2	11
+BUILDER	4	2	11
+THEY	4	2	38
+DID	4	2	54
+STANDARD	4	2	22
+TR	4	2	35
+FIXES	4	2	11
+UPDATE	4	2	18
+NULL	4	2	36
+SUMMARY	4	2	26
+FACT	4	2	43
+SHARES	4	2	10
+LEAD	4	2	7
+PREMISE	4	2	13
+BROAD	4	2	8
+ADOPTED	4	2	33
+CHANGED	4	2	25
+FIELD	4	2	10
+ABOWASA	4	2	9
+SY	4	2	9
+ABSENT	4	2	61
+ITEM	4	2	24
+LONGER	4	2	11
+OPENED	4	2	51
+PROBLEM	4	2	23
+NW	4	2	43
+QUERY	4	2	16
+URVILLE	4	2	10
+DUMONT	4	2	10
+COULD	4	2	23
+FAILS	4	2	22
+LOOKING	4	2	8
+CAPE	4	2	12
+TROLL	4	2	8
+LAZAR	4	2	7
+POINTER	4	2	9
+UPDATED	4	2	13
+HW	4	2	12
+Corridor	4	2	9
+REQUESTED	4	2	13
+six	4	2	8
+The Ruler	4	2	63
+G3	4	2	17
+G5	4	2	18
+G1	4	2	17
+G4	4	2	19
+G6	4	2	15
+G2	4	2	22
+Georg von Neumayer	4	2	8
+Structure	4	2	7
+Vessel	4	2	5
+bend	4	2	6
+Ross Ice Shelf	4	2	42
+Primary China	4	2	13
+Adare Peninsula	4	2	25
+Holme Bay	4	2	22
+Cultural Spec Sheet	4	2	90
+Japan Primary	4	2	14
+Casey and Mirny	4	2	19
+Vincennes Bay	4	2	19
+Ancient Hawaiian	4	2	5
+Cultural Synthesis Techniques	4	2	6
+Thematic Export	4	2	6
+Robot Planetary Symbols	4	2	5
+Bounded Personal Franchise	4	2	6
+World Basis Extrapolation Method	4	2	7
+Asymmetric Record-	4	2	6
+The Composition Merge	4	2	7
+Cinque Terre	4	2	13
+Population Share Check	4	2	5
+The Acts	4	2	12
+Layering Law	4	2	4
+Abowasian	3	2	16
+Vestfjella	3	2	28
+Subglacial	3	2	11
+Robot-only	3	2	7
+DLC-Questlines	3	2	15
+Holm	3	2	28
+Janbogo-subnet	3	2	16
+Palmer-subnet	3	2	30
+Sayowan	3	2	10
+Sanda	3	2	11
+Sejongite	3	2	15
+Australia-to-Antarctica	3	2	8
+Nella	3	2	23
+Mars-era	3	2	4
+Magna	3	2	17
+Meridia	3	2	17
+Lombardia	3	2	17
+Novo	3	2	18
+Japan-FOUNDED	3	2	18
+Aboa-Wasa	3	2	8
+Hallite	3	2	5
+SendMessage	3	2	53
+Compositional	3	2	5
+FRESH	3	2	11
+STP	3	2	16
+UP	3	2	32
+REPO	3	2	10
+ACTS	3	2	15
+DOWN	3	2	16
+REQUIRES	3	2	25
+RETIRED	3	2	8
+CI	3	2	72
+DIRECT	3	2	21
+FT	3	2	6
+LESS	3	2	10
+NEAR	3	2	15
+MARKED	3	2	10
+FAR	3	2	6
+SHALLOW	3	2	5
+BLOCKING	3	2	12
+SHARE	3	2	15
+GAPS	3	2	16
+ELAPSED	3	2	4
+CULTURAL	3	2	84
+PHYSICAL	3	2	40
+FAILED	3	2	26
+RP	3	2	34
+FORT	3	2	8
+GOVERNS	3	2	21
+INVERTED	3	2	10
+ZUKELLI	3	2	9
+SANAY	3	2	12
+DOME	3	2	16
+SEMI	3	2	7
+REJECTED	3	2	26
+PARTLY	3	2	26
+SANTA	3	2	5
+PRINCESS	3	2	7
+KOPRI	3	2	22
+HOLD	3	2	11
+MOVED	3	2	8
+WEAR	3	2	11
+CHOSEN	3	2	19
+LOAD	3	2	31
+BEARING	3	2	25
+ORDINARY	3	2	20
+LIFE	3	2	30
+RF	3	2	47
+IDEAS	3	2	6
+NM	3	2	9
+CAP	3	2	10
+DAVIS	3	2	25
+ACTUAL	3	2	14
+BUDGET	3	2	11
+KM	3	2	4
+NEUMAYER	3	2	11
+FUJI	3	2	11
+ADARE	3	2	8
+ROBOTS	3	2	17
+CLOTHING	3	2	7
+STEPS	3	2	11
+FIELDS	3	2	13
+INFERRED	3	2	4
+RECALLED	3	2	3
+Australia	3	2	22
+Step 7	3	2	9
+not edited	3	2	5
+⇒	3	2	34
+T2	3	2	4
+T1	3	2	4
+T3	3	2	4
+query	3	2	5
+sources	3	2	6
+Maitri Station	3	2	20
+Halley Research Station	3	2	8
+Network locus	3	2	6
+thin	3	2	7
+Troll Station	3	2	7
+Troll Base	3	2	10
+M-3	3	2	3
+Aboa Station	3	2	26
+Marambio Airport	3	2	16
+Wasa Research Station	3	2	26
+Princess Elizabeth Land	3	2	13
+Sayowa Spur	3	2	17
+Cymatics Reverence	3	2	25
+Endurance Span	3	2	19
+The Second Interwar	3	2	14
+Seasonal Rhythms	3	2	10
+Holm Bay	3	2	24
+Isla Marambio	3	2	11
+Japanese and Tagalog	3	2	4
+Failure State	3	2	30
+Ambiguous Universal Object	3	2	5
+Universal Micro-	3	2	5
+Characteristic Plausibility	3	2	5
+Political Character	3	2	13
+Climate Character	3	2	8
+Moore & Gillette	3	2	46
+Life Arcs	3	2	47
+Prince Gustav Channel	3	2	16
+Pole of Inaccessibility	3	2	12
+Magna Lombardia and Meridia	3	2	14
+The Census	3	2	12
+Magna Lombardia	3	2	15
+King Sejong Station	3	2	18
+Avg Temp	3	2	80
+The M-	3	2	4
+The Sayowa	3	2	8
+Troll Research Station	3	2	13
+Phase Spine	3	2	38
+Step D's	3	2	7
+Gate I's Originated	3	2	3
+Step B's	3	2	3
+Intermarium	2	2	30
+GPS-purposes-only	2	2	54
+TBDs	2	2	18
+Flatland	2	2	5
+Adinkras	2	2	12
+Japanese-heritage	2	2	28
+Federation-level	2	2	19
+Kryvyi	2	2	10
+Paro	2	2	16
+Mauna	2	2	12
+Rondane	2	2	32
+Trogir	2	2	15
+Varna	2	2	16
+Taktsang	2	2	14
+Potala	2	2	15
+Keelung	2	2	12
+Palmerian	2	2	14
+Kerguelen	2	2	15
+Budd	2	2	50
+Mage	2	2	51
+Endpoints	2	2	17
+Palma	2	2	12
+Sakoda	2	2	3
+Origin-ethnicities	2	2	4
+Weiland's	2	2	22
+Per-	2	2	14
+Austro-Bavaria	2	2	15
+Buenos	2	2	38
+Ridley	2	2	13
+Bunbury	2	2	14
+Slovene	2	2	3
+Serbo-Croatian	2	2	3
+Rioplatense	2	2	6
+Founding-Nation	2	2	9
+IceCube	2	2	15
+Gallen	2	2	10
+CityName	2	2	6
+Vicecomodoro	2	2	7
+Bellingshausen	2	2	23
+Percussive	2	2	3
+Ibrahim	2	2	6
+Mariscal	2	2	3
+CSVs	2	2	11
+Philopatry	2	2	3
+Behav	2	2	3
+Sanaian	2	2	4
+Station-builder	2	2	3
+Self-caught	2	2	5
+Grand-Timeline	2	2	4
+Aust	2	2	3
+Developer-confirmed	2	2	5
+Persons-known-by-sight	2	2	2
+Akina's	2	2	3
+Twenty-four	2	2	2
+Selandriel	2	2	5
+Lumorndaer	2	2	3
+Shardfall	2	2	3
+Hybrid-	2	2	3
+PeerJ	2	2	3
+Naturwissenschaften	2	2	3
+Free-living	2	2	3
+Vestibular	2	2	5
+Psychol	2	2	3
+Biol	2	2	3
+Evol	2	2	3
+DNA-as-tech	2	2	9
+REMOVE	2	2	7
+DdU	2	2	16
+STARTED	2	2	15
+HIGH	2	2	24
+NN	2	2	13
+POSSIBLE	2	2	10
+BREAK	2	2	10
+LOW	2	2	15
+AAD	2	2	81
+EXILE	2	2	14
+CHANGES	2	2	45
+ACTION	2	2	138
+ISC	2	2	17
+CT	2	2	4
+LET	2	2	10
+DATE	2	2	14
+ARM	2	2	5
+APPLIES	2	2	10
+STARTING	2	2	11
+EXTREME	2	2	5
+ABLE	2	2	5
+POOL	2	2	9
+BOUNDARY	2	2	16
+SYSTEM	2	2	14
+ITEMS	2	2	13
+PATTERNS	2	2	7
+GROUNDED	2	2	5
+LISTS	2	2	6
+WINTER	2	2	14
+LEGAL	2	2	13
+PORTS	2	2	6
+VOSTOK	2	2	7
+AARI	2	2	44
+CUT	2	2	19
+ARRIVAL	2	2	19
+CAVEAT	2	2	8
+SOURCED	2	2	63
+THOSE	2	2	7
+GI	2	2	4
+ERA	2	2	15
+NSW	2	2	7
+WEATHER	2	2	9
+UKAHT	2	2	8
+LINEAGE	2	2	10
+CONTRAST	2	2	9
+DROPPED	2	2	14
+HG	2	2	3
+PF	2	2	13
+SUD	2	2	3
+ASS	2	2	5
+ROUTE	2	2	13
+REFRAME	2	2	5
+EXCLUDE	2	2	5
+BELGRANO	2	2	9
+KUNLUN	2	2	7
+MCMURDO	2	2	5
+SETTING	2	2	18
+HIGHEST	2	2	7
+CHOICE	2	2	10
+YEARS	2	2	7
+NOTABLE	2	2	8
+WORD	2	2	8
+LONG	2	2	22
+LOCALLY	2	2	7
+PERSONAL	2	2	9
+HID	2	2	4
+INTERNAL	2	2	14
+GROUPS	2	2	18
+NEARLY	2	2	3
+GOVERN	2	2	5
+MEDIATED	2	2	2
+OMIT	2	2	2
+TANA	2	2	6
+IFN	2	2	3
+REM	2	2	3
+only	2	2	17
+two	2	2	13
+open	2	2	14
+entirely	2	2	4
+Step F	2	2	3
+AFTER composition is established	2	2	4
+BEFORE composition is established	2	2	4
+rejected	2	2	10
+The Crone	2	2	7
+The Queen	2	2	7
+— a	2	2	8
+mechanism	2	2	4
+Parent	2	2	13
+Rothera Airport	2	2	8
+plateau	2	2	4
+below	2	2	4
++5	2	2	8
+T4	2	2	3
+T6	2	2	3
+T5	2	2	4
+partly	2	2	4
+ten	2	2	5
+baseline	2	2	4
+, a	2	2	5
+deferred	2	2	38
+GPS law	2	2	34
+Type	2	2	29
+Enclosed	2	2	8
+D-1	2	2	3
+Step 0	2	2	5
+Q-27	2	2	3
+Population composition	2	2	4
+cultural	2	2	2
+Where	2	2	4
+Order	2	2	3
+T8	2	2	2
+replaces	2	2	2

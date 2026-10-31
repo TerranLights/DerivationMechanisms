@@ -15,3 +15,10 @@ __pycache__/
 
 # Local-only source material (videos, captions, other people's texts): never committed.
 **/source_reference (local only, not in git)/
+
+# Glossary sweep working material, kept local: the raw harvest tables and merge
+# inputs still carry framings the author rejected, held Cryptograph Helix terms
+# and brainstorm lists. The merge progress logs (*.progress.md) are committed.
+Glossary/_harvest/
+Glossary/_merge/*
+!Glossary/_merge/*.progress.md

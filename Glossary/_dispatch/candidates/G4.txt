@@ -1,0 +1,1507 @@
+# Candidate terms for area G4: term<TAB>files in this area<TAB>repos overall<TAB>files overall
+Tepenia	77	11	1636
+GDD	19	11	242
+Doll-Fi	9	11	317
+Tepenian	39	10	1129
+Inner Tepenia	34	10	451
+InnerTepeniaGDD	1	10	374
+Arcanet	57	9	892
+Game-Mechanics	27	9	117
+Worldspace	22	9	722
+Interwar	10	9	802
+Real-world	9	9	459
+Outer Tepenia	4	9	108
+Cryptograph	2	9	90
+Cryptograph Helix	2	9	73
+Tepenia's	65	8	875
+Long Night War	32	8	854
+not	27	8	306
+Locations-and-Levels	9	8	363
+Second Interwar Period	7	8	262
+Tepenians	6	8	123
+TepenianUniverseTimeline	6	8	271
+Frostlands	78	7	363
+PR	43	7	66
+Concordia's	37	7	505
+Inner Tepenia's	22	7	129
+Upper Earth	22	7	526
+Siligel	18	7	257
+DR	18	7	652
+Amundsen Tower	16	7	279
+Enneagram	15	7	839
+Falkland Treaty	15	7	759
+South Pole	14	7	250
+Sci-Fi	10	7	36
+Dev-Road-Map	7	7	77
+Majyao	6	7	77
+Great Corruption	6	7	63
+Bisyugota	5	7	63
+TerranLights	5	7	23
+Tepenian-Federation	5	7	264
+Cross-reference	5	7	61
+Majyao Bisyugota	5	7	60
+Outside-World	4	7	270
+Repo	4	7	57
+U.R.U.K.	2	7	32
+Subnet	128	6	1029
+Design Notes	113	6	776
+Undergrid	92	6	403
+Janbogo	63	6	824
+Mirny	55	6	807
+Power Core	36	6	136
+NPCs	34	6	198
+Zhongshan	30	6	471
+Transformative	28	6	134
+Calethina's	25	6	173
+Storyline	24	6	125
+Planetary Split Brain	20	6	164
+Dome Fuji	19	6	359
+Core-Mechanics	17	6	81
+Ji-Eun	15	6	135
+Kendra Heinrich	15	6	94
+Aparast	12	6	86
+Post-war	12	6	73
+Mega-Init	11	6	279
+Jeju-do	10	6	258
+Vosora	10	6	108
+Eun Kim	10	6	113
+Eyes of Gold	10	6	72
+Tanslock	9	6	80
+Vostok	9	6	295
+Mundi	9	6	94
+Axis Mundi	9	6	94
+Real-World	8	6	578
+Michelle Stanton	8	6	78
+Pink Lucy	8	6	87
+Torre	7	6	71
+Seica	7	6	51
+Villena	7	6	64
+Favi	7	6	76
+Vostok's	7	6	136
+Red Spiral	7	6	34
+The Markets	7	6	97
+Calethina's Lab	7	6	41
+Ayako	6	6	79
+Naizelle	6	6	61
+Fenny	6	6	45
+FW	6	6	78
+War of Upper Earth	6	6	176
+Second Interwar	6	6	323
+Hayashi	5	6	63
+Long-Term	5	6	41
+Hiresvett	5	6	50
+Cenilaithe	5	6	42
+New Zealand	5	6	258
+Seica Cenilaithe	5	6	41
+Villena Hiresvett	5	6	50
+Ayako Hayashi	5	6	61
+Unified Korea	5	6	71
+Neo-Races-and-Cultures	4	6	81
+Still-	4	6	102
+Trisha Miller	4	6	46
+Roadmap	3	6	29
+GDD's	3	6	69
+Cross-referenced	2	6	17
+CurrentNovelDocs	2	6	42
+Press-Outreach	2	6	8
+Blood River Tea	2	6	19
+No National Stereotypes	2	6	113
+The Falkland Treaty	2	6	35
+SouthernLights	1	6	12
+Long-term	1	6	43
+STORY	1	6	63
+FOR	151	5	353
+Questline	144	5	526
+FROM	131	5	281
+No Good Endings	112	5	134
+Design Philosophy	106	5	322
+AST	60	5	65
+Questlines	56	5	241
+Full Extrapolation	55	5	334
+Nerve	39	5	130
+Cross-Reference	38	5	422
+Engine	38	5	123
+Belgrano	33	5	508
+Janbogo's	32	5	323
+Calethina	32	5	11
+Reference Synthesis	32	5	305
+Neumayer	31	5	406
+Black Market	31	5	134
+Kunlun	30	5	430
+Mawson	29	5	513
+Sanay	28	5	359
+MACHINE	28	5	275
+Mirny Subnet	27	5	81
+Halley Subnet	27	5	71
+Palmer Subnet	27	5	76
+McMurdo	26	5	409
+Dumont	24	5	358
+Shirayuki	24	5	63
+Signy	24	5	250
+Palmer City	24	5	424
+Marambio	23	5	343
+Kunlun's	20	5	214
+END	20	5	793
+NAME	20	5	153
+Belgrano's	19	5	206
+Adare	19	5	279
+Neumayer's	19	5	200
+AP	19	5	87
+Cape Adare	19	5	272
+SPECIAL	18	5	37
+DLC's	17	5	85
+Lazar	17	5	318
+Zukelli's	16	5	190
+Rastra	16	5	97
+Palmer City's	15	5	193
+McMurdo's	13	5	203
+Amundsen Tower's	13	5	210
+Denison's	12	5	165
+Amundsen Station	12	5	260
+Ultra-Megasheet	10	5	81
+Mawson's	10	5	191
+The Labs	10	5	100
+Megasheet	9	5	530
+Larsemann	9	5	193
+Veilkeepers	9	5	33
+Ross Sea	9	5	196
+New Vegas's	9	5	39
+Quick Reference	9	5	40
+Theoretical-Calculations	8	5	178
+Sinian	8	5	147
+RESOLVED	8	5	146
+Long Night War's	8	5	100
+Eun Kim's	8	5	35
+The Vigil	8	5	27
+Implementation Notes	8	5	28
+Cymaticist	7	5	43
+XT	7	5	88
+Sinian Federation	7	5	119
+Troll Airfield	7	5	58
+Gameplay	6	5	114
+Megasheets	6	5	178
+Sayowa	6	5	214
+Novolazarevskaya	6	5	97
+Main-Story	6	5	19
+Melee	6	5	38
+Falkland Treaty's	6	5	72
+Ji-Eun's	5	5	31
+Cross-district	5	5	28
+Meyzan	5	5	26
+Gyeong-ja	5	5	18
+Concordia-City	5	5	102
+Lyuba	5	5	33
+TCY	5	5	100
+HUD	5	5	17
+Gyeong-ja Yun	5	5	16
+Kendra Heinrich's	5	5	31
+Split Brain	5	5	89
+The Quiet Shift	5	5	20
+Star War	5	5	57
+Maitri	4	5	78
+Aarden	4	5	98
+Hardcore	4	5	52
+Momo	4	5	40
+Yocazhda	4	5	24
+Baranova	4	5	29
+Aarden's	4	5	73
+Hub-born	4	5	46
+FR	4	5	28
+ONE	4	5	366
+VIP	4	5	23
+both	4	5	30
+and	4	5	98
+Tolerance Pact	4	5	35
+The Long Watch	4	5	35
+South Korea	4	5	304
+Juan Carlos	4	5	178
+Meyzan Yocazhda	4	5	24
+The Long Night War's	4	5	15
+Maggie Aarden	4	5	87
+Hardcore Mode	4	5	51
+Maggie Aarden's	4	5	70
+The Veilkeepers	4	5	19
+Griselda	3	5	65
+README's	3	5	43
+Self-Pres	3	5	29
+Midwestland	3	5	77
+Repurposing	3	5	17
+Mei-Li	3	5	25
+Majyao's	3	5	40
+DEFERRED	3	5	70
+|	3	5	250
+South America	3	5	106
+Terra Nova Bay	3	5	102
+Griselda Alejandra	3	5	59
+The Signal	3	5	13
+The Power Core	3	5	39
+Eyes of Gold's	3	5	25
+The Tower's	3	5	24
+Calethina's Engineering & Activation Lab	3	5	20
+The Dimming	3	5	27
+The Year of Silence	3	5	27
+No One Left Behind	3	5	37
+The Tolerance Pact	3	5	23
+The Treaty Scholars	3	5	12
+Eirwyn	2	5	25
+Singaporean	2	5	12
+Subvariant	2	5	209
+Vosora's	2	5	26
+Hana	2	5	37
+Cardoss	2	5	25
+In-world	2	5	22
+Blocking-Decisions	2	5	58
+A.R.U.T	2	5	22
+RA	2	5	15
+Vosora Lashár Tanslock	2	5	11
+after	2	5	15
+First Interwar Period	2	5	98
+Hana Jinn	2	5	27
+The Cradle	2	5	22
+Character Name	2	5	764
+During the Long Night War	2	5	21
+The Great Corruption	2	5	29
+The Overclock Martyrs	2	5	18
+The Living Network Experiment	2	5	11
+The Eyes of Gold	2	5	30
+B-Story	1	5	28
+Hornevian	1	5	324
+Megacorps	1	5	134
+Sonora	1	5	58
+HyperHedral	1	5	27
+Truby	1	5	54
+Antarctican	1	5	22
+Abramentes	1	5	15
+YouTuber	1	5	5
+Human-robot	1	5	70
+Bogo	1	5	62
+Jang	1	5	62
+Morikawa	1	5	23
+High-risk	1	5	13
+In-game	1	5	12
+Medium-High	1	5	18
+Generalist	1	5	9
+CANON	1	5	126
+TWO	1	5	170
+STATION	1	5	92
+LICENSE	319	4	324
+USE	146	4	180
+Self-check	135	4	148
+WITHOUT	130	4	184
+Minmax	118	4	365
+Concordia	113	4	39
+Document Status	105	4	325
+Iron Nomad	58	4	176
+Ronin	48	4	152
+Humanity	42	4	130
+Investigation	42	4	130
+Calculation	40	4	129
+Agility	39	4	123
+Pre-War	37	4	316
+Might	36	4	112
+Exosuit	35	4	108
+Hackable	35	4	107
+Rothera	28	4	360
+Raw Survival	28	4	126
+District-Specific	27	4	86
+Performative	27	4	110
+Sinheung	26	4	410
+Mirny's	25	4	258
+Zhongshan's	20	4	186
+Zukelli	20	4	48
+BY	20	4	201
+FNV	19	4	79
+Sanay's	18	4	167
+Signy's	18	4	128
+ARE	18	4	197
+Marambio's	17	4	173
+Rothera's	17	4	192
+Mountain Pass	14	4	101
+High Agility	14	4	47
+MAC	13	4	21
+Open Questions	12	4	224
+New Vegas	12	4	93
+High Humanity	12	4	41
+Lazar's	11	4	130
+DLCs	11	4	70
+Wild Child	11	4	60
+Dome Fuji's	11	4	152
+Upper Earth's	11	4	124
+Cross-DLC	10	4	29
+ULM	10	4	454
+Identity Fragmentation	10	4	29
+Bonded Lattice	9	4	34
+Janbogo Subnet Nexus	9	4	78
+The Hub	9	4	53
+Ice-Cold	8	4	125
+Atlantic Coastal Region	8	4	36
+Cold Buddhism	8	4	92
+High Calculation	8	4	34
+Machu	7	4	110
+Picchu	7	4	110
+Cymaticists	7	4	32
+Speedrun	7	4	27
+ONLY	7	4	258
+Echoes of Amundsen	7	4	24
+Larsemann Hills	7	4	170
+Amundsen Station's	7	4	100
+Tepenian Federation	7	4	64
+The Frostlands	7	4	96
+The Hub's	7	4	34
+High Investigation	7	4	25
+Super-Ultra-Megasheet	6	4	28
+Lockroy	6	4	188
+Character-Creation	6	4	42
+YYYY	6	4	200
+Notable Figures	6	4	446
+Lake Vostok	6	4	62
+Suspended Compact	6	4	41
+Central Hub	6	4	34
+Bridge Memorial	6	4	37
+Antarctic Peninsula	6	4	157
+High Might	6	4	25
+Ossuary	5	4	38
+Significant-tier	5	4	110
+Baldur's	5	4	20
+Polydimensional	5	4	61
+Pre-war	5	4	51
+Amundsen-Scott	5	4	94
+Secret-Endings	5	4	22
+Side-Content	5	4	15
+Fabricators	5	4	15
+Arrastradora	5	4	32
+Failsafe	5	4	17
+Baldur's Gate	5	4	19
+Weddell Sea	5	4	172
+Princess Elisabeth	5	4	183
+Polydimensional Animism	5	4	57
+Lake Vostok's	5	4	37
+Machu Picchu Border & Customs Authority	5	4	43
+Black Silence	5	4	36
+The Undergrid	5	4	59
+Archive of Final Confessions	5	4	48
+South African	5	4	107
+East Antarctic	5	4	131
+Independent Lattice	5	4	20
+The Long Night War	5	4	103
+The Lattice	5	4	21
+Deep Level	5	4	35
+High Nerve	5	4	17
+Syowa	4	4	70
+Demonym	4	4	244
+COMPLETE	4	4	67
+EMP	4	4	31
+OPEN	4	4	701
+LAW	4	4	261
+CLOSE	4	4	163
+New Orleans	4	4	77
+Twin Channels	4	4	26
+Byrd Station	4	4	72
+Overcrowding Decision	4	4	31
+Port Lockroy	4	4	175
+Queen Maud Land	4	4	157
+Grand Transit Exchange	4	4	25
+Hut Point	4	4	51
+The Amundsen Tower	4	4	21
+Lyuba Baranova	4	4	23
+Thermal Distribution Junction	4	4	13
+The Deep Level	4	4	25
+The Mother's Circuit	4	4	18
+Petersburg	3	4	40
+Jury-Rigging	3	4	19
+Orbital-Infrastructure	3	4	12
+Rastras	3	4	35
+Arrastradoras	3	4	40
+General-Overview-Notes	3	4	28
+TBN-district	3	4	46
+Jury-Rig	3	4	21
+AWOL	3	4	47
+SOC	3	4	74
+PASS	3	4	153
+CITY	3	4	198
+AT	3	4	156
+DC	3	4	31
+The Flood	3	4	24
+Livingston Island	3	4	68
+Atlantic City	3	4	24
+Calethina Devotion	3	4	9
+Machu Picchu Airport	3	4	48
+Medium Priority	3	4	7
+Las Vegas	3	4	28
+High Priority	3	4	6
+King George Island	3	4	114
+Antarctic Circle	3	4	103
+Scott and Fort	3	4	33
+Internal Conflict	3	4	82
+The Found	3	4	11
+The Rastra	3	4	14
+Rigging & Repurposing	3	4	13
+Midnight War	3	4	200
+Action Points	3	4	13
+Guiding Principles	3	4	17
+Frost Ascetics	3	4	15
+Long Night	3	4	207
+The Suspended Compact	3	4	21
+The Archive of Final Confessions	3	4	23
+Light Against the Long Night	3	4	17
+Truth Markets	3	4	18
+Forbidden Archive War	3	4	28
+Neutral District	3	4	10
+Core Theme	3	4	11
+High Engine	3	4	17
+Phase-	2	4	79
+Inspirational-Influences	2	4	295
+Lockpick	2	4	12
+Arcanet's	2	4	35
+Echota	2	4	18
+Tower-regulated	2	4	9
+Present-day	2	4	31
+Upper-Earth	2	4	38
+Chinese-French	2	4	14
+DLC-specific	2	4	13
+Braun	2	4	29
+District-specific	2	4	40
+Worldbuilding	2	4	34
+Teahouse	2	4	28
+MacGuffin	2	4	15
+Akina	2	4	40
+Romanceable	2	4	13
+Bharati	2	4	74
+Turku	2	4	30
+Russian-run	2	4	21
+AST-only	2	4	5
+Data-driven	2	4	6
+Subnets	2	4	21
+Replayability	2	4	103
+Post-romance	2	4	12
+Mirny-subnet	2	4	31
+Recruitable	2	4	11
+Technocratic	2	4	7
+Roleplaying	2	4	10
+FIT	2	4	96
+SE	2	4	101
+REVIEW	2	4	45
+SA	2	4	23
+UV	2	4	29
+GB	2	4	10
+CD	2	4	20
+—	2	4	190
+, and	2	4	42
+in addition to	2	4	9
+Merit Board Audit	2	4	15
+Second Interwar Period's	2	4	25
+South Africa	2	4	256
+Current Status	2	4	98
+Juan Carlos's	2	4	60
+Zukelli and Janbogo	2	4	21
+The Warm Circuit	2	4	17
+Russian-run Novolazarevskaya	2	4	20
+Companion Potential	2	4	138
+Precision Maintenance & Repair	2	4	16
+Deepest Cold	2	4	30
+Positive Outlook	2	4	249
+Palmer City and Rothera	2	4	26
+Picnic Passage	2	4	33
+The Reclaimers	2	4	9
+The Siligel Purists	2	4	9
+Concordia Ultra-	2	4	15
+The Bridge Memorial	2	4	18
+Surveillance Files	2	4	16
+Siligel Rush	2	4	22
+The Chorus	2	4	12
+Decentralized Systems Design	2	4	17
+Frontier Survival & Cold Adaptation	2	4	16
+Sonic Resonance	2	4	11
+The Ghost	2	4	11
+Ripple Weaver	2	4	11
+The Last Builders	2	4	8
+Frontier Hardened	2	4	9
+Main Quest	2	4	8
+Governance & Control	2	4	7
+Technocratic Renewal	2	4	7
+Low Nerve	2	4	10
+Rig Virtuoso	2	4	8
+Narrative Lattice	2	4	9
+Data Ghost	2	4	10
+Lone Lattice	2	4	8
+Burn and Rebuild	2	4	8
+The Eternal Engine	2	4	10
+The Iron Nomad	2	4	14
+The Phantom Courier	2	4	12
+Data Archaeology	2	4	18
+Environmental Exploitation & Ripple Reading	2	4	12
+Zukelli-descended	1	4	17
+Intermaria	1	4	24
+Dufay	1	4	31
+Favi's	1	4	21
+Cascadia	1	4	79
+Industrias	1	4	6
+Kharkovchanka	1	4	25
+Zhuldyz	1	4	22
+Re-check	1	4	8
+Kappa	1	4	21
+Reframed	1	4	22
+Cross-references	1	4	16
+Calculation-based	1	4	5
+Non-Recruitable	1	4	5
+Uruk	1	4	8
+High-stakes	1	4	9
+Completion-Matrix	1	4	33
+Storytelling	1	4	12
+Post-War	1	4	48
+Near-death	1	4	9
+Attunement	1	4	21
+Sino-Russian	1	4	20
+Sub-	1	4	7
+Dual-Outcome	1	4	17
+Eira	1	4	16
+Survivalist	1	4	8
+High-Level	1	4	5
+Playstyle	1	4	7
+Veilkeeper	1	4	6
+HQ	1	4	20
+NEED	1	4	98
+CSA	1	4	41
+HERE	1	4	98
+MIA	1	4	43
+WWII	1	4	58
+DEEP	1	4	20
+EA	1	4	9
+WORLD	1	4	53
+NP	1	4	11
+ACCESS	1	4	52
+HTTP	211	3	276
+BE	148	3	220
+AS	146	3	288
+ANY	144	3	266
+PROVIDED	142	3	185
+OTHER	131	3	207
+AN	130	3	330
+WITH	129	3	228
+Minmax Build	111	3	324
+Disillusioned Aries Overclock Trainer	84	3	252
+Rogue Courier	83	3	249
+Underground Augmentation Artisan	83	3	249
+Retired Sagittarius Scout	82	3	246
+Build Focus	79	3	237
+Not My Fucking Problem	70	3	210
+Net-Runner	64	3	192
+Capricorn Exile	63	3	189
+Anonymous Gemini Net-	62	3	186
+Independent Caravan Protector	62	3	186
+Rogue Psychologist	60	3	180
+Cross-City	58	3	83
+Target Endings	56	3	168
+Capricorn District	47	3	142
+Unbreakable Ronin	47	3	141
+Aries District	46	3	140
+Virgo District	46	3	140
+Gemini District	46	3	140
+Scorpio District	46	3	140
+Cancer District	46	3	140
+Taurus District	46	3	138
+World Trigger	45	3	132
+Libra District	45	3	138
+Leo District	45	3	138
+Aquarius District	45	3	138
+Sagittarius District	45	3	135
+Pisces District	45	3	135
+Special Interactions & Quest Triggers	44	3	132
+District Interactions	44	3	132
+Architect of Collapse	40	3	120
+OS	37	3	45
+Virgo Undergrid	37	3	115
+Alternate Minmax Endings	37	3	110
+High-Speed	36	3	109
+Young Runner & Data Smuggler	36	3	108
+Information Broker	36	3	108
+Micro-Reactor	35	3	105
+Strongly supports	35	3	105
+Hidden Server Vault	35	3	105
+Derelict Armored Nomad Convoy Wreck	35	3	105
+Environmental Triggers	35	3	105
+Encrypted Overland Route Data Cache	35	3	105
+Hackable Aries Micro-	35	3	105
+War Military Exosuit Prototype	35	3	105
+Glitching Pre-	35	3	105
+Ancient Mobility Rig Testing Ground	35	3	105
+Predictive Survival Algorithms	35	3	105
+Abandoned High-	35	3	105
+Speed Maintenance Rail	35	3	105
+Sealed Gemini	34	3	102
+Phantom Courier	34	3	102
+Research Assistant	34	3	102
+Multi-stage	33	3	102
+POST	33	3	98
+Weather-beaten	30	3	90
+Relic Hunter	30	3	90
+Last Shepherd	29	3	87
+Beloved Exile	28	3	84
+Wandering Guardian	28	3	84
+THIS	27	3	332
+Eternal Engine	27	3	84
+TLS	26	3	45
+Build Overview	26	3	78
+Specific Special	26	3	78
+Special Interactions and Questlines	26	3	78
+Unique Interactions	26	3	78
+Communication Nexus	26	3	78
+World Triggers	26	3	78
+Protective Sanctuary	26	3	78
+Triggers and Questlines	26	3	78
+Local Cultures	23	3	82
+Young Runner	23	3	69
+Tobias	22	3	29
+TBD-NPC – Worker (Capricorn)	22	3	66
+TBD-NPC – Caregiver (Cancer)	22	3	66
+TBD-NPC – Capricorn Exile	22	3	66
+Low Minmax Builds	22	3	66
+Caravan Protector	22	3	66
+High Minmax Builds	22	3	66
+Abrigo	21	3	150
+Puerto Abrigo	20	3	146
+Forge Lord	19	3	57
+IF	18	3	38
+SSL	15	3	34
+Adare's	14	3	131
+Scrap-filled	14	3	42
+CS	14	3	18
+Sinheung's	13	3	193
+FNV's	13	3	35
+START	13	3	25
+TBD-NPC (Engineer in Aries)	13	3	39
+Shadow Practitioner	13	3	39
+Frontier Guide	13	3	39
+Three Low Stats	13	3	39
+Shirayuki's	12	3	136
+ES	12	3	23
+TBD-NPC (Caregiver in Cancer)	12	3	36
+TBD-NPC	12	3	36
+Minor Negative Effects	12	3	33
+Mawson Subnet	12	3	49
+Neighborhood Resident	12	3	36
+Main Negative Effect	12	3	33
+Denison	11	3	39
+TBD-NPC (Worker in Capricorn)	11	3	33
+TBD-NPC (Stagehand in Leo)	11	3	33
+The End	11	3	31
+Cape Adare's	11	3	120
+KB	10	3	26
+Bridge Unit	10	3	31
+RWBEM	9	3	170
+CST	9	3	176
+CA	9	3	19
+low Engine (≤3)	9	3	27
+low Might (≤3)	9	3	27
+Tone-deaf	8	3	24
+FD	8	3	18
+TYPE	8	3	30
+West Antarctica	8	3	49
+Faction Devotion	8	3	18
+Belgrano and Sanay	8	3	37
+The Great Blackout	8	3	22
+Cancer and Taurus	8	3	36
+Tri-Cities	7	3	122
+Level-up	7	3	20
+MB	7	3	41
+HISTORY	7	3	28
+all	7	3	15
+Early Access	7	3	27
+The Heating Grid Failure	7	3	14
+Great Blackout	7	3	17
+Prydz	6	3	154
+Near-Pariah	6	3	14
+NPC's	6	3	17
+GDScript	6	3	9
+RNG	6	3	12
+DEAD	6	3	41
+WS	6	3	10
+except	6	3	10
+first	6	3	13
+low Agility (≤3)	6	3	18
+low Nerve (≤3)	6	3	18
+Siligel Purists	6	3	17
+Neon Nomads	6	3	19
+What It Feels Like	6	3	124
+Use Might	6	3	18
+Requires Nerve	6	3	18
+Boneyard	5	3	46
+Failsafes	5	3	13
+READMEs	5	3	24
+Robot-Aligned	5	3	13
+Re-Spec	5	3	18
+GDExtension	5	3	7
+Cell-Fed	5	3	8
+Built-in	5	3	11
+Humanity-driven	5	3	28
+Engine-rebuilds	5	3	15
+DONE	5	3	52
+DT	5	3	21
+NCR	5	3	20
+CR	5	3	15
+TBD-NPC (Anonymous Gemini Net-Runner)	5	3	15
+Boneyard Times	5	3	36
+Decision Required	5	3	13
+Competence Without Commentary	5	3	45
+Prydz Bay	5	3	145
+Bypass Design Law	5	3	15
+Memory Weavers	5	3	11
+Belgrano Highway Extension	5	3	38
+Arc Weapons	5	3	8
+District Idolized	5	3	13
+Requires Might	5	3	15
+Eternal Seeker	5	3	15
+The The Vigil	5	3	15
+Trigger Condition
+
+These	5	3	14
+Blocking Decision	5	3	23
+Notable-tier	4	3	63
+Black-Market	4	3	26
+Off-world	4	3	11
+Lockroy's	4	3	73
+To-Do	4	3	24
+Korean-founded	4	3	54
+RPGs	4	3	6
+Roald	4	3	62
+Solenne	4	3	22
+Ultra-Megasheet's	4	3	34
+Undergrid's	4	3	24
+Engine-optimize	4	3	12
+Engine-rebuilding	4	3	12
+Fear-driven	4	3	12
+Engine-crafts	4	3	12
+CLAUDE	4	3	134
+PROGRESS	4	3	71
+TL	4	3	17
+HAR	4	3	22
+CC	4	3	18
+DRAFT	4	3	670
+before	4	3	22
+,	4	3	40
+always	4	3	7
+Hidden Paths	4	3	9
+Troll Airfield's	4	3	32
+Scott Station	4	3	38
+Isolation Crisis	4	3	11
+Signal Weapons	4	3	8
+Upper Earth Defectors	4	3	14
+Design Principles	4	3	9
+Shadow Forger	4	3	12
+District Idolized Endings	4	3	10
+Design Philosophy
+
+Every	4	3	9
+Iron Gardeners	4	3	8
+Per-Nation	3	3	128
+Cross-District	3	3	30
+God-mind	3	3	23
+Tepenia-specific	3	3	16
+Tri-	3	3	41
+Borchgrevink's	3	3	39
+Vestfold	3	3	75
+Frostlander	3	3	14
+Re-spec	3	3	8
+Novac	3	3	6
+Cymatics	3	3	54
+Real-	3	3	108
+Scalable	3	3	9
+Soft-Hearted	3	3	7
+Vaskarre	3	3	18
+Bladed	3	3	12
+CRPGs	3	3	6
+Zucchelli	3	3	62
+One-liner	3	3	119
+Metadata	3	3	5
+Trauma-Bearers	3	3	17
+High-Stakes	3	3	10
+Engine-fabricate	3	3	9
+Engine-rebuild	3	3	9
+Engine-stabilizing	3	3	9
+NV	3	3	13
+GW	3	3	48
+NYC	3	3	12
+OCR	3	3	41
+LOD	3	3	11
+WC	3	3	11
+EM	3	3	10
+LIVE	3	3	51
+YOU	3	3	129
+Universal Location Methodology	3	3	44
+low Calculation (≤3)	3	3	9
+low Investigation (≤3)	3	3	9
+low Humanity (≤3)	3	3	9
+How it unfolds	3	3	8
+Requirements	3	3	10
+Old World Blues	3	3	9
+Notable Locations	3	3	194
+The Boneyard Times	3	3	12
+Unbroken Name	3	3	15
+Primary Purpose	3	3	12
+Might and Nerve	3	3	7
+World History Reference	3	3	6
+Treaty Archive Vaults	3	3	20
+Universal Simulation Theory	3	3	8
+Main Negative	3	3	8
+Ice Cold Buddhism	3	3	97
+The Question	3	3	8
+Libra's Surveillance Files	3	3	9
+Zhongshan and Shirayuki	3	3	28
+Tepenian Saints	3	3	31
+Indian Ocean	3	3	66
+Palmer City Elva	3	3	19
+Vestfold Hills	3	3	64
+Ross Island	3	3	73
+South Orkney Islands	3	3	53
+The Government District	3	3	26
+The Bridge Unit	3	3	7
+Ghost Protocol	3	3	13
+Still Open	3	3	16
+Hearted Devil	3	3	7
+Merciful Thug	3	3	7
+Halley and Neumayer	3	3	33
+Trade Yard	3	3	17
+Bladed Melee	3	3	10
+Drain Weapons	3	3	6
+Minor Negatives	3	3	8
+Fed Weapons	3	3	6
+Heavy Weapons	3	3	6
+Structural Ordnance	3	3	8
+Thermal Weapons	3	3	6
+Eternal Winter Collective	3	3	10
+The Janbogo	3	3	28
+Recognition Cascade	3	3	13
+Solenne Vaskarre	3	3	16
+The Cymaticist	3	3	10
+Mother's Circuit	3	3	32
+Clinical School	3	3	14
+Triage Realists	3	3	10
+Memory Keepers	3	3	15
+Scorpio's Archive of Final Confessions	3	3	16
+Verification Faction	3	3	16
+True Believers	3	3	15
+The Deep Level's	3	3	19
+True Believer	3	3	79
+The Living Network	3	3	10
+Janbogo's Truth Markets	3	3	11
+Requires Investigation	3	3	8
+Final Climax	3	3	7
+Starting Location	3	3	7
+Might and Engine	3	3	9
+Might and Agility	3	3	9
+Frontier Scout	3	3	9
+Underground Augmenter	3	3	9
+Failed Experiment Survivor	3	3	9
+Underground Archivist	3	3	9
+Investigate the Archive of Final Confessions	3	3	9
+Care Leader	3	3	9
+Independent Caravan Leader	3	3	9
+Family Head	3	3	9
+Overworked Engineer	3	3	9
+Scorpio's Forbidden Archive	3	3	9
+Trigger Condition	3	3	5
+Gemini's Truth Markets	3	3	7
+Completion Matrix	3	3	29
+Treaty Scholars	3	3	9
+World Depth	3	3	48
+Fallout-Design-Reference	2	3	5
+No-One-Left-Behind	2	3	10
+Ultra-Megasheets	2	3	28
+Gannon	2	3	7
+Soviet-era	2	3	17
+Calc	2	3	22
+World-Depth	2	3	14
+Tepenia-wide	2	3	117
+Sayowa's	2	3	87
+Syncretic	2	3	26
+Solarnet	2	3	8
+Discoverability	2	3	15
+Off-World	2	3	26
+Zhongshanese	2	3	13
+Ongul	2	3	49
+Enneagram-based	2	3	7
+Background-Lore	2	3	138
+Hayashi's	2	3	20
+Coldshock	2	3	6
+English-only	2	3	5
+Borchgrevink	2	3	29
+Fremantle	2	3	62
+Interstitial	2	3	18
+Seica's	2	3	15
+Primary-tier	2	3	68
+Halley-subnet	2	3	43
+GPS-only	2	3	51
+Lockpicking	2	3	6
+Carsten	2	3	31
+Petrograd	2	3	21
+Three-tier	2	3	7
+China-Primary	2	3	32
+Framejacking	2	3	18
+AI-generated	2	3	9
+Re-read	2	3	54
+Roleplay	2	3	7
+Trade-Offs	2	3	8
+Trade-offs	2	3	9
+Nanotech	2	3	11
+Cross-Regional	2	3	12
+Cold-Side	2	3	8
+Hub-based	2	3	8
+Consolidationists	2	3	11
+Dual-Network	2	3	20
+Consolidationist	2	3	12
+Taurus-style	2	3	5
+Medium-high	2	3	28
+Russian-founded	2	3	14
+Japan-Primary	2	3	28
+Tepenian-era	2	3	20
+Boneyarders	2	3	13
+ULM's	2	3	84
+Hub-specific	2	3	6
+Traversal	2	3	7
+Unverifiable	2	3	6
+Bittersweet-only	2	3	5
+Long-Duration	2	3	8
+High-Stress	2	3	6
+Low-stat	2	3	8
+Endurance-Based	2	3	7
+Engine-build	2	3	6
+Engine-stabilize	2	3	6
+Engine-upgrade	2	3	6
+Engine-overclocking	2	3	6
+Might-equivalent	2	3	6
+Humanity-aligned	2	3	6
+Engine-reconstruct	2	3	6
+Path-Specific	2	3	6
+Self-augmentation	2	3	6
+Idolization	2	3	7
+BOTH	2	3	155
+CHANGE	2	3	115
+FORCED	2	3	99
+PART	2	3	187
+ROI	2	3	5
+CIN	2	3	53
+CHECK	2	3	253
+READ	2	3	244
+EMPTY	2	3	167
+RE	2	3	86
+HF	2	3	34
+TITLE	2	3	13
+LINE	2	3	133
+DP	2	3	6
+RM	2	3	15
+MINOR	2	3	14
+PI	2	3	8
+STANDING	2	3	71
+LINK	2	3	23
+Japanese	2	3	6
+bittersweet endings	2	3	5
+Overview	2	3	9
+Possible Hooks	2	3	27
+Immediate Settings	2	3	8
+Stat Recap	2	3	8
+Interaction Types	2	3	8
+Computation	2	3	6
+lightning-fast strategic fabricator	2	3	6
+TBD-NPC (Disillusioned Aries Engineer)	2	3	6
+Hated or Vilified	2	3	6
+tiered and exclusive	2	3	4
+Tentative	2	3	4
+late	2	3	6
+Coastal Cut	2	3	21
+Behind Registry	2	3	10
+Character Creation	2	3	9
+Population & Composition	2	3	87
+Nation Breakdown	2	3	120
+Other Cities	2	3	84
+Urville Sea	2	3	29
+Warmer Ground	2	3	12
+West Antarctic	2	3	28
+Machu Picchu	2	3	27
+Arcade Gannon	2	3	6
+Geographic Basis	2	3	77
+Sayowa Junction	2	3	36
+Vostok and Kunlun	2	3	32
+The Threshold	2	3	6
+Character & Culture	2	3	74
+The Furthest Signal	2	3	10
+Founding Story	2	3	14
+Do List	2	3	4
+Finnish and Swedish	2	3	22
+Petrel Island	2	3	42
+Red Spiral's	2	3	8
+Narrative Ghost	2	3	17
+Tepenian Independence Day	2	3	60
+Hard Facts	2	3	242
+Adelaide Island's	2	3	20
+Turku Remembrance	2	3	21
+Robert Falcon Scott	2	3	20
+Prince Charles Mountains	2	3	28
+Ayako Hayashi's	2	3	19
+Core Loop	2	3	5
+Stabilize Concordia	2	3	5
+The Amundsen Resonance Effect	2	3	7
+Independence Day	2	3	29
+The Cold-	2	3	10
+The Cross-	2	3	9
+The Long Record	2	3	14
+Player Re-	2	3	5
+What This Is	2	3	13
+Inner Tepenia-specific	2	3	14
+Long Guns	2	3	5
+Roald Amundsen	2	3	12
+Taurus and Leo	2	3	16
+Social Contract & Unwritten Rules	2	3	78
+Heating Grid Failure	2	3	8
+Concordia Central Hub	2	3	34
+Third Expansion Collapse	2	3	23
+Janbogo Highway	2	3	33
+The Speed of Truth	2	3	10
+Historical Pressures	2	3	15
+Registry Collapse	2	3	11
+Deep Level's	2	3	18
+Deep Level Keepers	2	3	7
+Speed Faction	2	3	14
+Network Operator	2	3	9
+Memory Keeper	2	3	12
+Libra and Pisces	2	3	9
+Aries and Libra	2	3	7
+Information Warfare	2	3	18
+Cancer's and Scorpio's	2	3	7
+The Pisces	2	3	7
+The Forbidden Archive	2	3	8
+The South Pole	2	3	14
+Mario Zucchelli Station	2	3	34
+Power Grid Control Center	2	3	9
+Idolized and Vilified	2	3	8
+The Calethina Accord	2	3	7
+Lonesome Road	2	3	9
+Honest Hearts	2	3	8
+The True Believer	2	3	6
+The Spark	2	3	5
+Distribution Philosophy	2	3	5
+From Scorpio	2	3	6
+End of Act	2	3	6
+Starting Point	2	3	6
+Maximum Freedom	2	3	6
+In Sagittarius	2	3	6
+From Taurus	2	3	6
+The Goths	2	3	6
+Main Story Progression	2	3	6
+Lattice Federation	2	3	5
+Just Works	2	3	6
+The Dying Light	2	3	6
+The Last Forge	2	3	6
+Main Story Paths	2	3	6
+The Bridge Protocol	2	3	6
+Dialogue & Social Encounters	2	3	7
+Exploration & Investigation	2	3	7
+Exploration & Movement	2	3	8
+General Notes	2	3	13
+Stress Situations	2	3	6
+Exploration & Puzzles	2	3	8
+Crafting & Tech	2	3	7
+Exploration & Environment	2	3	8
+Combat & High-	2	3	6
+Social & Roleplaying	2	3	8
+Stat Interactions	2	3	8
+Dialogue & Interrogation	2	3	7
+Combat & Action	2	3	8
+Combat & Confrontations	2	3	8
+Dialogue & Social	2	3	8
+Crafting & Repair	2	3	8
+Using Calculation	2	3	6
+Requires Calculation	2	3	6
+Experimental Optimizer	2	3	6
+Use Calculation	2	3	6
+Frontier Mechanic	2	3	6
+Disillusioned Maintenance Strategist	2	3	6
+Use Agility	2	3	6
+Nerve and Might	2	3	6
+Use Investigation	2	3	6
+Shadow Operator	2	3	6
+Refugee Leader	2	3	6
+Disillusioned Engineer	2	3	6
+Industrial Saboteur	2	3	6
+Use Nerve	2	3	6
+Disillusioned Courier	2	3	6
+Trauma Survivor	2	3	6
+Frontier Settler	2	3	6
+Use Humanity	2	3	6
+Disillusioned Artist	2	3	6
+Experiment Survivor	2	3	6
+Using Investigation	2	3	6
+Market Relic Dealer	2	3	6
+Disillusioned Aries Engineer	2	3	6
+Virgo Master Maintainer	2	3	6
+Cancer Care Archivist	2	3	6
+Gemini Data Archaeologist	2	3	6
+Capricorn Scrap Forger	2	3	6
+Only Way Through	2	3	5
+The Sagittarius	2	3	6
+Evidence Forging	2	3	6
+Design Philosophy
+
+These	2	3	6
+Ending Name	2	3	6
+Pariah Failsafes	2	3	6
+The Witness	2	3	6
+The Pariah	2	3	6
+Pariah Endings	2	3	6
+Minmax Endings	2	3	6
+Simplified Chinese	2	3	7
+Ushuaia	1	3	73
+Dongbei	1	3	8
+Alt-Rock	1	3	21
+Alt-Pop	1	3	21
+High-Output	1	3	7
+Intermarian	1	3	7
+Reachability	1	3	17
+Recomputed	1	3	7
+Methodologists	1	3	23
+Alt-Grunge	1	3	21
+Non-immigrants	1	3	4
+Tabarin	1	3	30
+Vegas-style	1	3	10
+Abowasa's	1	3	59
+Leyline	1	3	14
+Step-by-Step	1	3	7
+Mislabeling	1	3	5
+Vostok-Kunlun	1	3	25
+Three-stage	1	3	3
+Carsten's	1	3	34
+Route-Keeper	1	3	4
+Reference-Images	1	3	12
+Neo-Races	1	3	33
+Camila	1	3	5
+Cross-project	1	3	6
+Hana's	1	3	9
+Concordia-set	1	3	6
+AP-driven	1	3	5
+Re-speccing	1	3	4
+AI-assisted	1	3	5
+High-quality	1	3	4
+Context-sensitive	1	3	3
+Roald's	1	3	36
+Zhang	1	3	28
+Novolazarevskaya's	1	3	15
+Basen	1	3	29
+Bisyugota's	1	3	10
+Katabatic	1	3	62
+Self-sufficiency	1	3	16
+Belgrano-led	1	3	9
+Verticality	1	3	6
+Chinese-founded	1	3	17
+Rastra-repair	1	3	6
+Foundational	1	3	22
+Act-	1	3	16
+Disassembly	1	3	6
+Capstone	1	3	10
+Andrade	1	3	3
+Sykes-Picot	1	3	8
+Danzig	1	3	4
+Lausanne	1	3	5
+Locarno	1	3	5
+Cold-adapted	1	3	3
+French-Italian	1	3	12
+Pre-romance	1	3	4
+Non-interruption	1	3	4
+Examinable	1	3	3
+Missed-but-not-failed	1	3	4
+Quest-Building	1	3	4
+Spiral-related	1	3	3
+Post-Romance	1	3	8
+Mini-Questlines	1	3	4
+Calculation-relevant	1	3	3
+Robot-Universal	1	3	7
+Cross-media	1	3	3
+Unglamorous	1	3	6
+Cost-of-living	1	3	3
+Romance-Unlocked	1	3	7
+Naizelle's	1	3	11
+Backroom	1	3	6
+Robot-Specific	1	3	143
+Per-District	1	3	13
+District-Quest-NPCs	1	3	8
+Mentorship	1	3	7
+Hub-arrived	1	3	14
+Fluid-frame	1	3	5
+Dream-tech	1	3	6
+Tribalists	1	3	8
+Burned-out	1	3	5
+Reframe	1	3	15
+Indie	1	3	7
+Japanese-founded	1	3	10
+Deep-dive	1	3	4
+Decision-Making	1	3	4
+Dctr	1	3	6
+In-Game	1	3	40
+Torre's	1	3	6
+Instinctual	1	3	98
+Self-sufficient	1	3	5
+Archive-narrator	1	3	6
+Player-Driven	1	3	5
+RAID-distributed	1	3	8
+Self-Fulfilling	1	3	4
+Bond-standard	1	3	5
+Lethality	1	3	8
+Military-grade	1	3	4
+Syne	1	3	4
+Auld	1	3	4
+Deniable	1	3	4
+Screenwriting	1	3	9
+Oathbearers	1	3	3
+Edgewalkers	1	3	3
+Findable	1	3	3
+Fallout-style	1	3	9
+Weak-Willed	1	3	3
+Problem-Solving	1	3	3
+High-stat	1	3	4
+Brute-Force	1	3	4
+Hyper-Aware	1	3	3
+De-escalation	1	3	6
+Near-Endless	1	3	4
+Near-Perfect	1	3	4
+Engine-converting	1	3	3
+Computation-optimizing	1	3	3
+Nerve-equivalent	1	3	3
+Risk-Tolerant	1	3	3
+Engine-optimizes	1	3	3
+Engine-convert	1	3	3
+Engine-overclock	1	3	3
+Engine-upgrades	1	3	3
+Engine-modifies	1	3	3
+Engine-repairing	1	3	3
+Engine-building	1	3	3
+Engine-builds	1	3	3
+Net-runners	1	3	3
+Safehouse	1	3	3
+Engine-repurpose	1	3	3
+Engine-repairs	1	3	3
+Engine-upgrading	1	3	3
+Engine-restoring	1	3	3
+Non-Cymaticist	1	3	3
+Cross-faction	1	3	3
+Doesn	1	3	3
+Veilwalker	1	3	3
+Icewalker's	1	3	3
+Icewalker	1	3	3
+Untraceable	1	3	3
+Counter-offer	1	3	3
+Pariah-adjacent	1	3	3
+Uplink	1	3	3
+All-out	1	3	3
+Calethina-backed	1	3	3
+Calethina-related	1	3	3
+Stealth-acquire	1	3	3
+God-Mode	1	3	3
+Stage-by-Stage	1	3	3
+Walkthrough	1	3	3
+Gemini-level	1	3	3
+Blackout-granted	1	3	3
+Unfiled	1	3	3
+Uncorrupted	1	3	3
+Trans-district	1	3	3
+Faction-specific	1	3	3
+Pre-city	1	3	3
+Nomad-claimed	1	3	3
+Concordia-era	1	3	3
+Uncrackable	1	3	3
+Extralegal	1	3	3
+Truth-finder	1	3	3
+Sub-branches	1	3	3
+Two-stat	1	3	3
+Single-stat	1	3	3
+NPC-initiated	1	3	5
+Level-Up	1	3	10
+Turn-based	1	3	5
+Endgame	1	3	4
+TikTok	1	3	4
+ROI-per-capita	1	3	4
+RPG-genre	1	3	4
+Projekt's	1	3	4
+CRPG-genre	1	3	4
+Steam-first	1	3	4
+World-building	1	3	3
+World-Building	1	3	18
+Quests-and-Story	1	3	4
+Pre-Phase	1	3	10
+TREATY	1	3	5
+LEO	1	3	39
+CORE	1	3	20
+DESIGN	1	3	47
+FOOD	1	3	31
+PRODUCED	1	3	73
+ZL	1	3	7
+FULLY	1	3	31
+WRONG	1	3	101
+ITS	1	3	115
+IDENTITY	1	3	102
+GAP	1	3	108
+ORIGIN	1	3	32
+TIME	1	3	89
+TIMELINE	1	3	10
+RIGHT	1	3	66
+STOCK	1	3	38
+SANAE	1	3	69
+RTX	1	3	3
+CSM	1	3	5
+PALMER	1	3	26
+MIRNY	1	3	21
+SUBNET	1	3	38
+HALLEY	1	3	26
+BYRD	1	3	27
+JANBOGO	1	3	23
+MAWSON	1	3	24
+AC	1	3	8
+LAND	1	3	12
+SIGN	1	3	23
+CALL	1	3	18
+REMOVED	1	3	30
+CAST	1	3	31
+PD	1	3	29
+CN	1	3	20
+ARG	1	3	16
+LH	1	3	3
+AB	1	3	9
+GA	1	3	11
+ILO	1	3	5
+SMG	1	3	12
+SET	1	3	68
+SO	1	3	69
+RECORD	1	3	46
+AR	1	3	12
+PENDING	1	3	33
+OVERVIEW	1	3	4
+RAID	1	3	9
+GENERAL	1	3	27
+PRIOR	1	3	15
+THEN	1	3	48
+PASSIVE	1	3	9
+FACTIONS	1	3	4
+VO	1	3	5
+OUT	145	2	217
+PURPOSE	142	2	164
+ACTION	129	2	138
+CLAIM	128	2	162
+JS	109	2	118
+And Then	98	2	100
+AMD	64	2	65
+DOM	55	2	61
+In	48	2	52
+CI	46	2	72
+URI	43	2	44
+FF	31	2	33
+Ariun	30	2	199
+TJ	30	2	31
+Example	29	2	30
+Nuur	28	2	185
+ISO	28	2	37
+Ariun Nuur	27	2	176
+ASCII	26	2	32
+GMT	25	2	31
+IP	24	2	41
+Ross Subnet	22	2	31
+BOM	21	2	23
+Santa Luce	19	2	181
+Contrapunto	17	2	166
+UTC	17	2	208
+CPU	17	2	18
+DATA	16	2	69
+Pergamino	15	2	131
+CHANGES	15	2	45
+XML	15	2	22
+NODE	14	2	38
+TR	14	2	35
+ISC	14	2	17
+LOSS	14	2	25
+CAUSED	14	2	16
+DIRECT	14	2	21
+Table of Contents	14	2	15
+DEV	13	2	15
+Standalone	11	2	33
+CDN	11	2	14
+FILE	10	2	206
+AWS	10	2	69
+Bedford	9	2	12
+Andrey	9	2	11
+PATH	9	2	27
+#6	9	2	15
+#5	9	2	13
+#9	9	2	12
+#7	9	2	11
+#22	9	2	10
+#16	9	2	10
+#20	9	2	10
+#19	9	2	10
+#18	9	2	10
+#21	9	2	10
+#12	9	2	10
+#23	9	2	10
+#26	9	2	10
+Reference Finding	9	2	66
+CSP	8	2	9
+FS	8	2	11
+REST	8	2	35
+Santa Luce's	8	2	72
+DerivationMechanisms	7	2	727
+First-pass	7	2	14
+Frequently Asked Questions	7	2	8
+Abowasa	6	2	24
+Recalibration	6	2	38
+Autoload	6	2	7
+OOLSD	6	2	24
+TOC	6	2	15
+GC	6	2	17
+ENGINE	6	2	11
+GH	6	2	7
+NTP	6	2	10
+PEM	6	2	7
+WWW	6	2	7
+LEGACY	6	2	9
+only	6	2	17
+Finding 7	6	2	14
+Archivist's Trail	6	2	19
+Output Checklist	6	2	117
+Post-Culture	5	2	111
+Adinkra	5	2	22
+DLC-Questlines	5	2	15
+APManager	5	2	7
+Necrotic	5	2	8
+Watanabe	5	2	7
+RAM	5	2	8
+EST	5	2	7
+RUN	5	2	128
+BEFORE	5	2	196
+MAY	5	2	42
+SS	5	2	15
+SHA	5	2	7
+The Archivist's Trail	5	2	22
+Adinkra Codex	5	2	20
+Chamber Crisis	5	2	14
+Great Khans	5	2	10
+Notable Figure	5	2	25
+Janbogo Region	5	2	27
+DistrictResource	4	2	6
+Per-district	4	2	17
+Decouple	4	2	5
+Kieffer	4	2	6
+Third-party	4	2	5
+DLC-scale	4	2	7
+LE	4	2	5
+IMAP	4	2	5
+JSC	4	2	21
+CLOSED	4	2	77
+ESC	4	2	5
+DOT	4	2	9
+GS	4	2	5
+SOURCE	4	2	147
+ESR	4	2	7
+tested	4	2	5
+pre	4	2	5
+do	4	2	11
+Culture Identity	4	2	109
+Division of Industry	4	2	236
+Community Infrastructure	4	2	69
+Natural Earth	4	2	11
+Mawson Region	4	2	11
+Marambio's and Esperanza's	4	2	9

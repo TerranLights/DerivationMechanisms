@@ -1,0 +1,1522 @@
+# Candidate terms for area G3a: term<TAB>files in this area<TAB>repos overall<TAB>files overall
+Tepenia	55	11	1636
+Doll-Fi	5	11	317
+GDD	5	11	242
+Tepenian	44	10	1129
+Inner Tepenia	3	10	451
+InnerTepeniaGDD	1	10	374
+Interwar	84	9	802
+Arcanet	56	9	892
+Real-world	31	9	459
+Worldspace	18	9	722
+Game-Mechanics	6	9	117
+Cryptograph	1	9	90
+Long Night War	94	8	854
+Second Interwar Period	61	8	262
+Tepenia's	54	8	875
+not	26	8	306
+Locations-and-Levels	11	8	363
+Tepenians	11	8	123
+TepenianUniverseTimeline	9	8	271
+Concordia's	127	7	505
+Enneagram	64	7	839
+Frostlands	56	7	363
+Siligel	38	7	257
+Falkland Treaty	33	7	759
+Upper Earth	26	7	526
+South Pole	21	7	250
+Amundsen Tower	16	7	279
+Great Corruption	15	7	63
+DR	13	7	652
+Outside-World	11	7	270
+Tepenian-Federation	8	7	264
+Calethina	6	7	249
+TerranLights	5	7	23
+Repo	5	7	57
+Dev-Road-Map	4	7	77
+Bisyugota	3	7	63
+Majyao	3	7	77
+Majyao Bisyugota	3	7	60
+Cross-reference	1	7	61
+Mega-Init	116	6	279
+Status	57	6	197
+Real-World	53	6	578
+Undergrid	46	6	403
+Mundi	41	6	94
+Axis Mundi	41	6	94
+The Markets	38	6	97
+Subnet	36	6	1029
+Calethina's	24	6	173
+Dome Fuji	23	6	359
+Transformative	19	6	134
+New Zealand	19	6	258
+Calethina's Lab	18	6	41
+Power Core	18	6	136
+Second Interwar	17	6	323
+NPCs	13	6	198
+War of Upper Earth	11	6	176
+Storyline	10	6	125
+Long-term	7	6	43
+Vostok	6	6	295
+Neo-Races-and-Cultures	5	6	81
+Torre	5	6	71
+Post-war	5	6	73
+Jeju-do	4	6	258
+Still-	4	6	102
+Michelle Stanton	4	6	78
+Planetary Split Brain	4	6	164
+The Falkland Treaty	4	6	35
+Vosora	3	6	108
+Naizelle	3	6	61
+Seica	3	6	51
+Tanslock	3	6	80
+Villena	3	6	64
+Favi	3	6	76
+Core-Mechanics	3	6	81
+Ji-Eun	3	6	135
+Hiresvett	3	6	50
+Vostok's	3	6	136
+Cenilaithe	3	6	42
+Cross-referenced	3	6	17
+CurrentNovelDocs	3	6	42
+Fenny	3	6	45
+FW	3	6	78
+Pink Lucy	3	6	87
+Seica Cenilaithe	3	6	41
+Villena Hiresvett	3	6	50
+Eun Kim	3	6	113
+Design Notes	3	6	776
+Kendra Heinrich	3	6	94
+Southern Lights	3	6	32
+Ayako	2	6	79
+Aparast	2	6	86
+Real-time	2	6	15
+Red Spiral	2	6	34
+Eyes of Gold	2	6	72
+Hayashi	1	6	63
+Self-Preservational	1	6	58
+GDD's	1	6	69
+Megasheet	139	5	530
+Cross-Reference	116	5	422
+Full Extrapolation	98	5	334
+Reference Synthesis	88	5	305
+Zukelli	52	5	381
+The Labs	40	5	100
+Megasheets	38	5	178
+Palmer City	31	5	424
+Falkland Treaty's	29	5	72
+McMurdo	26	5	409
+Tolerance Pact	25	5	35
+Hub-born	24	5	46
+Ultra-Megasheet	22	5	81
+Star War	22	5	57
+Dumont	21	5	358
+Questline	20	5	526
+Black Market	20	5	134
+Aarden's	19	5	73
+Maggie Aarden's	19	5	70
+Janbogo's	18	5	323
+Long Night War's	18	5	100
+Shirayuki	17	5	63
+Amundsen Tower's	17	5	210
+Lazar	16	5	55
+Neumayer's	16	5	200
+No One Left Behind	16	5	37
+Sayowa	15	5	214
+The Power Core	15	5	39
+South America	15	5	106
+Ross Sea	15	5	196
+Mawson's	14	5	191
+Adare	14	5	279
+Cape Adare	14	5	272
+The Dimming	14	5	27
+|	13	5	250
+Amundsen Station	13	5	260
+The Year of Silence	13	5	27
+Belgrano's	12	5	206
+Cross-district	11	5	28
+Cymaticist	11	5	43
+The Tolerance Pact	11	5	23
+Palmer City's	11	5	193
+The Great Corruption	11	5	29
+Larsemann	10	5	193
+Denison's	10	5	165
+South Korea	10	5	304
+Zukelli's	9	5	190
+Rastra	9	5	97
+Novolazarevskaya	9	5	97
+RESOLVED	9	5	146
+FOR	9	5	353
+and	9	5	98
+The Overclock Martyrs	9	5	18
+The Third Expansion Collapse	9	5	15
+Aarden	8	5	98
+Terra Nova Bay	8	5	102
+Maggie Aarden	8	5	87
+Calethina's Engineering & Activation Lab	8	5	20
+Truby	7	5	54
+Juan Carlos	7	5	178
+The Black Silence	7	5	13
+Concordia-City	6	5	102
+Bogo	6	5	62
+Jang	6	5	62
+ONE	6	5	366
+the	6	5	32
+CANON	5	5	126
+STATION	5	5	92
+MIT	5	5	854
+The Overcrowding Decision	5	5	12
+Kunlun's	4	5	214
+McMurdo's	4	5	203
+Abowasa	4	5	179
+Truby's	4	5	16
+MACHINE	4	5	275
+TWO	4	5	170
+The Cradle	4	5	22
+American English	4	5	39
+DEFERRED	3	5	70
+NAME	3	5	153
+XT	3	5	88
+both	3	5	30
+Kendra Heinrich's	3	5	31
+North America	3	5	49
+The Living Network Experiment	3	5	11
+Quick Reference	3	5	40
+Timeline Eras	3	5	116
+DLC's	2	5	85
+Gameplay	2	5	114
+Meyzan	2	5	26
+Lyuba	2	5	33
+Majyao's	2	5	40
+Baranova	2	5	29
+TCY	2	5	100
+FR	2	5	28
+FROM	2	5	281
+VIP	2	5	23
+During the Long Night War	2	5	21
+The Second Interwar Period	2	5	98
+Ji-Eun's	1	5	31
+Maitri	1	5	78
+Theoretical-Calculations	1	5	178
+Hornevian	1	5	324
+Sinian	1	5	147
+Self-Pres	1	5	29
+Veilkeepers	1	5	33
+Repurposing	1	5	17
+Mei-Li	1	5	25
+Momo	1	5	40
+Main-Story	1	5	19
+Yocazhda	1	5	24
+Antarctican	1	5	22
+Human-robot	1	5	70
+High-risk	1	5	13
+END	1	5	793
+AP	1	5	87
+RA	1	5	15
+AST	1	5	65
+STATED	1	5	80
+GO	1	5	112
+Concordia	151	4	39
+Notable Figures	64	4	446
+Demonym	57	4	244
+Pre-War	53	4	316
+The Frostlands	42	4	96
+Post-Falkland	37	4	120
+Mawson	36	4	56
+The Undergrid	28	4	59
+Post-War	27	4	48
+Janbogo Subnet Nexus	27	4	78
+The Hub	26	4	53
+LAW	25	4	261
+Sinheung	23	4	410
+Suspended Compact	23	4	41
+Bridge Memorial	21	4	37
+Perpetual Emergency	21	4	26
+Black Silence	20	4	36
+Archive of Final Confessions	20	4	48
+Raw Survival	20	4	126
+Forbidden Archive War	20	4	28
+PASS	19	4	153
+Positive Outlook	19	4	249
+Pre-war	17	4	51
+Taurus	17	4	31
+Twin Channels	17	4	26
+Antarctic Treaty	17	4	50
+Siligel Rush	17	4	22
+South Africa	16	4	256
+Overcrowding Decision	16	4	31
+King George Island	16	4	114
+Deep Level	16	4	35
+Antarctic Peninsula	15	4	157
+The Hub's	15	4	34
+Marambio's	14	4	173
+TBN-district	14	4	46
+ULM	14	4	454
+The Flood	14	4	24
+Capricorn	14	4	33
+Rationing of Grief	14	4	20
+—	12	4	190
+South African	12	4	107
+Central Council Plaza	12	4	17
+Rastras	11	4	35
+Performative	11	4	110
+The Twin Channels	11	4	16
+Surveillance Files	11	4	16
+Mirny's	10	4	258
+Larsemann Hills	10	4	170
+Weddell Sea	10	4	172
+Queen Maud Land	10	4	157
+Grand Transit Exchange	10	4	25
+Zhongshan's	9	4	186
+The Lover	9	4	68
+The Surveillance Files	9	4	14
+Robot Universals	9	4	77
+COMPLETE	8	4	67
+Livingston Island	8	4	68
+Open Questions	8	4	224
+East Antarctica	8	4	74
+The Bridge Memorial	8	4	18
+Machu	7	4	110
+Picchu	7	4	110
+SE	7	4	101
+ONLY	7	4	258
+SA	7	4	23
+Virgo	7	4	27
+Mountain Pass	7	4	101
+Central Hub	7	4	34
+South Shetlands	7	4	36
+Aries and Capricorn	7	4	12
+The Suspended Compact	7	4	21
+Truth Markets	7	4	18
+The Deep Level	7	4	25
+Super-Ultra-Megasheet	6	4	28
+Lockroy	6	4	188
+Rothera's	6	4	192
+Present-day	6	4	31
+Syowa	6	4	70
+ARE	6	4	197
+, and	6	4	42
+Princess Elisabeth	6	4	183
+Long Night	6	4	207
+Concordia Ultra-	6	4	15
+Early Arcanet Construction	6	4	10
+Falkland Treaty Era	6	4	193
+Inspirational-Influences	5	4	295
+Arcanet's	5	4	35
+DLCs	5	4	70
+CITY	5	4	198
+OPEN	5	4	701
+HERE	5	4	98
+Port Lockroy	5	4	175
+East Antarctic	5	4	131
+Hong Kong	5	4	23
+Falkland Islands	5	4	44
+The Golden Ring	5	4	12
+We Keep You Alive	5	4	13
+The Mother's Circuit	5	4	18
+Lazar's	4	4	130
+Upper-Earth	4	4	38
+Arrastradora	4	4	32
+BY	4	4	201
+AT	4	4	156
+WWII	4	4	58
+AU	4	4	41
+Byrd	4	4	64
+Juan Carlos's	4	4	60
+Air Force	4	4	46
+Latin American	4	4	20
+Concordia Station	4	4	27
+The First Collective	4	4	8
+The Archive of Final Confessions	4	4	23
+United States	4	4	51
+Sanay's	3	4	167
+Cymaticists	3	4	32
+Signy's	3	4	128
+Side-Content	3	4	15
+Arrastradoras	3	4	40
+Bharati	3	4	74
+Cross-references	3	4	16
+Storytelling	3	4	12
+Jury-Rig	3	4	21
+Near-death	3	4	9
+UV	3	4	29
+SITE	3	4	50
+WHO	3	4	53
+Merit Board Audit	3	4	15
+Dome Fuji's	3	4	152
+Second Interwar Period's	3	4	25
+Machu Picchu Airport	3	4	48
+Amundsen Station's	3	4	100
+Tepenian Federation	3	4	64
+Internal Conflict	3	4	82
+Deepest Cold	3	4	30
+The Long Night War	3	4	103
+The Falkland Treaty's	3	4	16
+Palmer Station	3	4	53
+East Antarctic Plateau	3	4	71
+Engineering & Activation Lab	3	4	12
+Light Against the Long Night	3	4	17
+Neumayer Station	3	4	30
+Phase-	2	4	79
+Zukelli-descended	2	4	17
+Amundsen-Scott	2	4	94
+Kharkovchanka	2	4	25
+Worldbuilding	2	4	34
+Villena's	2	4	13
+Generational	2	4	44
+HQ	2	4	20
+CSA	2	4	41
+REVIEW	2	4	45
+USE	2	4	180
+FINAL	2	4	90
+MAC	2	4	21
+WITHOUT	2	4	184
+YYYY	2	4	200
+DC	2	4	31
+Fort McMurdo	2	4	43
+Last Updated	2	4	16
+Design Note	2	4	14
+Open	2	4	10
+New Orleans	2	4	77
+Zukelli and Janbogo	2	4	21
+Scott and Fort	2	4	33
+City Megasheets	2	4	26
+Companion Potential	2	4	138
+The Amundsen Tower	2	4	21
+Transcontinental Highway	2	4	25
+Janbogo Subnet	2	4	40
+Silicon Valley	2	4	26
+Palmer City and Rothera	2	4	26
+The Lattice	2	4	21
+Scorpio's Goth	2	4	7
+South Shetland	2	4	11
+The Antarctic Treaty	2	4	8
+Ossuary	1	4	38
+Baldur's	1	4	20
+Character-Creation	1	4	42
+Echota	1	4	18
+Tower-regulated	1	4	9
+Polydimensional	1	4	61
+Braun	1	4	29
+Secret-Endings	1	4	22
+Favi's	1	4	21
+District-specific	1	4	40
+District-Specific	1	4	86
+Teahouse	1	4	28
+Akina	1	4	40
+Ice-Cold	1	4	125
+Re-check	1	4	8
+Subnets	1	4	21
+Workspace	1	4	5
+Working-class	1	4	16
+Steampunk	1	4	22
+High-stakes	1	4	9
+Cymatic	1	4	7
+Completion-Matrix	1	4	33
+Minmax-Builds	1	4	13
+Cryogenic	1	4	8
+Lyubochka	1	4	6
+Cross-Subnet	1	4	16
+Mirny-subnet	1	4	31
+FIT	1	4	96
+EMP	1	4	31
+DEEP	1	4	20
+COUNTER	1	4	44
+SOCIAL	1	4	97
+EA	1	4	9
+MAIN	1	4	65
+DECISION	1	4	62
+PER	1	4	62
+WORLD	1	4	53
+NP	1	4	11
+ACCESS	1	4	52
+CH	1	4	9
+Hard Facts	89	3	242
+Janbogo	69	3	43
+Vision Notes	62	3	129
+Worth Your Attention
+
+The	44	3	107
+Belgrano	40	3	49
+World Inspirations	36	3	160
+Neumayer	35	3	44
+Zhongshan	27	3	49
+Marambio	27	3	37
+Rothera	26	3	39
+Mirny	25	3	63
+Regional-Characteristics	22	3	24
+Year of Silence	22	3	28
+Denison	21	3	39
+Syncretic	21	3	26
+Kunlun	21	3	50
+HF	21	3	34
+Cross-District	20	3	30
+Mother's Circuit	20	3	32
+Sanay	19	3	47
+Robot-Specific	19	3	143
+The Government District	19	3	26
+Concordia Central Hub	17	3	34
+Cancer and Scorpio	17	3	20
+Signy	16	3	50
+Leo	16	3	26
+Cape Town	16	3	68
+Third Expansion Collapse	16	3	23
+Overclock Martyrs	16	3	20
+Identity Collapse Epidemic	15	3	20
+Hub-Born	14	3	16
+CLAUDE	14	3	134
+Indian Ocean	14	3	66
+Why
+
+The	14	3	21
+Living Network Experiment	14	3	19
+Failed Utopias	14	3	17
+Black-Market	13	3	26
+Abrigo	13	3	150
+Dual-Network	13	3	20
+SANAE	13	3	69
+Puerto Abrigo	13	3	146
+Scorpio	13	3	24
+Cancer	13	3	30
+Libra's Suspended Compact	13	3	23
+Gemini's Twin Channels	13	3	16
+Deep Level's	13	3	18
+Sayowa's	12	3	87
+Pisces	12	3	24
+The Flood's	12	3	15
+Southern Hemisphere	12	3	23
+What It Feels Like	12	3	124
+The Star War	12	3	21
+The Insulation Schism	12	3	14
+Network Operators	12	3	16
+Hub-arrived	11	3	14
+RWBEM	11	3	170
+CST	11	3	176
+NZ	11	3	51
+Aries	11	3	26
+Cancer and Taurus	11	3	36
+Born Identity	11	3	13
+The Deep Level's	11	3	19
+Shirayuki's	10	3	136
+Fremantle	10	3	62
+Cymatics	10	3	54
+Real-	10	3	108
+Janbogo-city	10	3	14
+Undergrid's	10	3	24
+SANAP	10	3	20
+Libra	10	3	23
+Gemini	10	3	24
+Golden Ring	10	3	15
+Full Extrapolation's	10	3	93
+Western Australia	10	3	20
+Taurus and Leo	10	3	16
+Siligel Rush and Bust	10	3	16
+Sinheung's	9	3	193
+THIS	9	3	332
+HTTP	9	3	276
+SW	9	3	37
+Aquarius	9	3	21
+Treaty Archive Vaults	9	3	20
+Early Federation Boom	9	3	13
+The Perpetual Emergency	9	3	13
+Falkland Trauma Integration	9	3	12
+Open Frame Project	9	3	13
+Trauma-Bearers	8	3	17
+Centre	8	3	20
+AS	8	3	288
+Sagittarius	8	3	22
+South American	8	3	30
+Marie Byrd Land	8	3	32
+Historical Pressures	8	3	15
+The Forbidden Archive War	8	3	10
+The Rationing of Grief	8	3	12
+Surveillance Faction	8	3	14
+True Believers	8	3	15
+Prydz	7	3	154
+Discoverability	7	3	15
+WA	7	3	21
+True Neutral	7	3	11
+Dream & Vice	7	3	11
+The Identity Collapse Epidemic	7	3	9
+Warm Side	7	3	10
+Star War's	7	3	11
+War Centralization	7	3	10
+Goth School	7	3	13
+Speed Faction	7	3	14
+Cold Side	7	3	13
+Foundational	6	3	22
+Cross-Regional	6	3	12
+Kakheti	6	3	8
+Consolidationist	6	3	12
+Machu Picchu	6	3	27
+Cape Denison	6	3	68
+Jang Bogo	6	3	33
+Recognition Cascade	6	3	13
+Early Federation Visionary Period	6	3	9
+The Wartime Production Deaths	6	3	8
+The Siligel Rush and Bust	6	3	8
+Foundational Planning	6	3	9
+Intimate Underground	6	3	12
+Memory Keepers	6	3	15
+Verification Faction	6	3	16
+Contamination Events	6	3	9
+Tri-Cities	5	3	122
+To-Do	5	3	24
+Akademgorodok	5	3	28
+Robot-specific	5	3	14
+Multi-Generational	5	3	7
+Ultra-Megasheet's	5	3	34
+Black-market	5	3	10
+Per-District	5	3	13
+Consolidationists	5	3	11
+Prohibition-era	5	3	10
+Harbour	5	3	15
+Revista	5	3	11
+NYC	5	3	12
+OCR	5	3	41
+NSF	5	3	47
+RV	5	3	47
+three	5	3	18
+Yes	5	3	53
+→	5	3	32
+The King	5	3	12
+Prydz Bay	5	3	145
+West Antarctica	5	3	49
+Adelaide Island	5	3	59
+Southern Cross	5	3	18
+North Sea	5	3	13
+Concordia Undergrid	5	3	15
+The Two-	5	3	10
+Registry Collapse	5	3	11
+The Contamination Events	5	3	7
+The Bonded Pair Registry Collapse	5	3	7
+Grand Performance	5	3	7
+Clinical School	5	3	14
+Speed Faction's	5	3	7
+Native American	5	3	7
+True Believer	5	3	79
+Memory Keeper	5	3	12
+Tepenia-wide	4	3	117
+Anvers	4	3	49
+Shibuya	4	3	22
+Shenzhen	4	3	19
+Hub-based	4	3	8
+Multi-generational	4	3	7
+Tribalists	4	3	8
+Ciudad	4	3	11
+WWII-era	4	3	9
+Macau	4	3	7
+Bloomberg	4	3	6
+War-era	4	3	16
+AN	4	3	330
+ORIGIN	4	3	32
+MB	4	3	41
+RE	4	3	86
+GA	4	3	11
+KGI	4	3	8
+NE	4	3	43
+Esperanza	4	3	47
+every	4	3	17
+not found	4	3	9
+Kunlun and Dome Fuji	4	3	56
+New York	4	3	21
+South Orkney Islands	4	3	53
+Prince Charles Mountains	4	3	28
+Not Debated	4	3	30
+Australian Antarctic Territory	4	3	22
+Australia and New Zealand	4	3	17
+The Scorpio	4	3	7
+Taurus and Cancer	4	3	10
+District Patterns	4	3	7
+Information Warfare	4	3	18
+Ultra-Megasheets	3	3	28
+Soviet-era	3	3	17
+Tepenia-specific	3	3	16
+Borchgrevink's	3	3	39
+Vesleskarvet	3	3	39
+Ashiato	3	3	30
+Zucchelli	3	3	62
+Backroom	3	3	6
+Mentorship	3	3	7
+Mesoamerica	3	3	5
+Load-bearing	3	3	11
+Street-level	3	3	7
+Glitch-coolant	3	3	22
+Flinders	3	3	8
+Papua	3	3	15
+Medium-high	3	3	28
+Australasian	3	3	27
+Univ	3	3	24
+Norte	3	3	12
+PART	3	3	187
+IDENTITY	3	3	102
+FAIL	3	3	52
+REAL	3	3	103
+SUBNET	3	3	38
+HALLEY	3	3	26
+DEAD	3	3	41
+STANDING	3	3	71
+GOES	3	3	15
+RULE	3	3	76
+LA	3	3	8
+RESERVED	3	3	218
+FAO	3	3	23
+SEARCH	3	3	136
+PMC	3	3	31
+SL	3	3	16
+TB	3	3	11
+,	3	3	40
+Casey	3	3	52
+or	3	3	48
+Halley	3	3	45
+is	3	3	57
+The Hero	3	3	13
+Ice Cold Buddhism	3	3	97
+Isolation Crisis	3	3	11
+Ross Island	3	3	73
+Bridge Unit	3	3	31
+Brunt Ice Shelf	3	3	44
+Ice Shelf	3	3	44
+Scotia Sea	3	3	42
+Anvers Island	3	3	41
+Seymour Island	3	3	46
+South Shetland Islands	3	3	44
+Mountain Pass's	3	3	18
+University of Concordia	3	3	10
+Inner Tepenia-specific	3	3	14
+City Megasheet	3	3	24
+Janbogo Highway	3	3	33
+Harmony Plaza	3	3	6
+Pisces and Scorpio	3	3	8
+Professional Neutralizers	3	3	7
+Scorpio's Archive of Final Confessions	3	3	16
+Concordia Districts	3	3	5
+In the Frostlands	3	3	7
+Network Operator	3	3	9
+Hidden Opinion Holders	3	3	6
+Hub Tribalists	3	3	6
+Libra and Pisces	3	3	9
+Cancer's and Scorpio's	3	3	7
+Founding Register	3	3	198
+The Palmer	3	3	17
+Papua New Guinea	3	3	13
+Boneyard	2	3	46
+Failsafes	2	3	13
+Solarnet	2	3	8
+Background-Lore	2	3	138
+Frostlander	2	3	14
+Adare's	2	3	131
+Primary-tier	2	3	68
+NPC's	2	3	17
+Handoff	2	3	31
+Roald's	2	3	36
+Re-read	2	3	54
+Vaskarre	2	3	18
+Solenne	2	3	22
+French-Italian	2	3	12
+Romance-Unlocked	2	3	7
+Naizelle's	2	3	11
+Archival	2	3	10
+District-Quest-NPCs	2	3	8
+Dream-tech	2	3	6
+Three-way	2	3	10
+Reframe	2	3	15
+Cross-check	2	3	105
+Long-lived	2	3	8
+DONE	2	3	52
+LEO	2	3	39
+CHANGE	2	3	115
+POST	2	3	98
+FOOD	2	3	31
+ZL	2	3	7
+FULLY	2	3	31
+ITS	2	3	115
+TIME	2	3	89
+CHECK	2	3	253
+READ	2	3	244
+STOCK	2	3	38
+OTHER	2	3	207
+TEPENIA	2	3	24
+PALMER	2	3	26
+JANBOGO	2	3	23
+MAWSON	2	3	24
+LIVES	2	3	21
+BUT	2	3	331
+BE	2	3	220
+ES	2	3	23
+DP	2	3	6
+SO	2	3	69
+MISSING	2	3	81
+RECORD	2	3	46
+LATER	2	3	62
+HELD	2	3	74
+LINK	2	3	23
+SCOPE	2	3	76
+CSIRO	2	3	13
+PhD	2	3	11
+PNAS	2	3	28
+ACE	2	3	10
+Palmer	2	3	15
+third	2	3	9
+Troll	2	3	38
+Scott	2	3	39
+Dumont d'Urville	2	3	44
+first	2	3	13
+Scope	2	3	8
+Hwy 1	2	3	11
+| ✅	2	3	57
+No	2	3	25
+Acoustic Folk	2	3	25
+Urville Sea	2	3	29
+Hope Bay	2	3	42
+Libra's Surveillance Files	2	3	9
+Character & Culture	2	3	74
+Argentine Air Force	2	3	29
+Neon Nomads	2	3	19
+Marguerite Bay	2	3	19
+Cape Adare's	2	3	120
+Belgrano and Sanay	2	3	37
+Signy Island	2	3	38
+Coronation Island	2	3	25
+Second
+Interwar Period	2	3	36
+Founders' Turbine	2	3	14
+Runway Day	2	3	18
+Roald's Landing	2	3	19
+Upper
+Earth	2	3	13
+The Schematic	2	3	16
+Jules Day	2	3	19
+Trinity Peninsula	2	3	34
+South Orkneys	2	3	28
+The Larsemann Hills	2	3	29
+Robertson Land	2	3	36
+East Asia	2	3	25
+Sagittarius Frostlands	2	3	8
+Denison's and Mountain Pass's	2	3	5
+Pisces Fringe	2	3	6
+Dome Fuji's Ice Cold Buddhism	2	3	4
+The Janbogo	2	3	28
+Unlocked Homes	2	3	7
+The Council	2	3	5
+Taurus
+
+Taurus	2	3	4
+Central Amphitheater	2	3	5
+Solenne Vaskarre	2	3	16
+Social Contract & Unwritten Rules	2	3	78
+The Cymaticist	2	3	10
+Deep Level Keepers	2	3	7
+Pisces and Sagittarius	2	3	7
+Saudi Arabia	2	3	11
+The Act	2	3	19
+Founding Day	2	3	17
+The Recognition Cascade	2	3	5
+Data Nexus	2	3	5
+Insert Today's Date	2	3	11
+Care Circles	2	3	4
+Safe Haven	2	3	4
+Cancer's Mother's Circuit	2	3	5
+The Forbidden Archive	2	3	8
+Little America	2	3	15
+Notable-tier	1	3	63
+Per-Nation	1	3	128
+Reachability	1	3	17
+Tri-	1	3	41
+Ongul	1	3	49
+Vestfold	1	3	75
+Hayashi's	1	3	20
+Borchgrevink	1	3	29
+Seica's	1	3	15
+Carsten's	1	3	34
+Halley-subnet	1	3	43
+Neo-Races	1	3	33
+Haakon	1	3	12
+Zhang	1	3	28
+Mawson-subnet	1	3	15
+Royds	1	3	19
+Katabatic	1	3	62
+Verticality	1	3	6
+Goudier	1	3	37
+Quality-Control	1	3	4
+Airbase	1	3	13
+Wiencke	1	3	33
+Already-established	1	3	7
+Trade-offs	1	3	9
+Built-in	1	3	11
+One-liner	1	3	119
+Unglamorous	1	3	6
+Well-stocked	1	3	3
+Signage	1	3	3
+Heavy-looking	1	3	3
+Bolthole	1	3	3
+Syndicate-Backed	1	3	3
+Old-Timer's	1	3	3
+Creche-Adjacent	1	3	3
+Mid-tier	1	3	4
+Dual-Feed	1	3	3
+Pipe-Room	1	3	3
+Cold-Shock	1	3	3
+Battle-worn	1	3	3
+Bolt-Hole	1	3	3
+Dream-Parlor	1	3	3
+Non-Zodiac	1	3	3
+Family-Ring	1	3	3
+Sub-Level	1	3	3
+Hab-Suite	1	3	3
+Multi-stage	1	3	102
+No-nonsense	1	3	3
+Overwatch	1	3	3
+Merit-Based	1	3	3
+Burned-Out	1	3	6
+Personhood	1	3	8
+Cold-Side	1	3	8
+Fluid-frame	1	3	5
+Cross-Cutting	1	3	9
+Cutting-edge	1	3	7
+Meritocratic	1	3	4
+Burned-out	1	3	5
+High-traffic	1	3	3
+High-speed	1	3	5
+Performance-based	1	3	5
+Taurus-style	1	3	5
+Short-term	1	3	6
+Indie	1	3	7
+Fast-paced	1	3	3
+Gini-adjusted	1	3	20
+Endpoint	1	3	3
+Early-era	1	3	4
+Post-	1	3	18
+ResearchGate	1	3	25
+ScienceDirect	1	3	23
+Crossref	1	3	15
+OpenAlex	1	3	11
+PubMed	1	3	8
+Long-Range	1	3	3
+X-Ray	1	3	4
+BOTH	1	3	155
+FD	1	3	18
+OS	1	3	45
+FORCED	1	3	99
+GW	1	3	48
+CIN	1	3	53
+IF	1	3	38
+PROGRESS	1	3	71
+WRONG	1	3	101
+EMPTY	1	3	167
+TIMELINE	1	3	10
+ANY	1	3	266
+MATERIAL	1	3	71
+AC	1	3	8
+TLS	1	3	45
+SIGN	1	3	23
+SSL	1	3	34
+CA	1	3	19
+START	1	3	25
+CC	1	3	18
+ARG	1	3	16
+BLOCKED	1	3	42
+FOUNDING	1	3	48
+SET	1	3	68
+ANCESTRY	1	3	18
+CO	1	3	28
+AR	1	3	12
+PENDING	1	3	33
+WAR	1	3	49
+IDM	1	3	4
+EBM	1	3	3
+STAGE	1	3	8
+TRANSFER	1	3	8
+TIER	1	3	63
+FOUR	1	3	97
+ENERGY	1	3	16
+CROSS	1	3	27
+MW	1	3	66
+MR	1	3	12
+DOI	1	3	22
+NL	1	3	6
+MAP	1	3	19
+RO	1	3	10
+USD	1	3	11
+WEB	1	3	7
+OA	1	3	6
+SG	1	3	11
+DE	1	3	10
+SH	1	3	81
+SC	1	3	10
+ER	1	3	3
+IC	1	3	3
+One-Line	70	2	196
+Line Pitch	70	2	190
+Who Lives Here	66	2	200
+The One-	64	2	178
+Worth Your Attention
+
+Finding	56	2	129
+Megasheet's	55	2	103
+Enneagram Read	52	2	148
+Worth Your Attention
+
+Section	47	2	133
+What's Actually Open	39	2	57
+Worth Your Attention	39	2	107
+Soundscape	33	2	34
+Reference Finding	33	2	66
+Mega-Init's	32	2	67
+What's Actually Open
+
+Carried	30	2	138
+The Yards	28	2	33
+Recalibration	24	2	38
+Ariun	23	2	199
+COMNAP	23	2	89
+Nuur	22	2	185
+Ariun Nuur	22	2	176
+Punta	20	2	65
+WebFetch	20	2	103
+Competency Enneagram	20	2	29
+Specific Culture	19	2	54
+Punta Arenas	18	2	49
+Sensory Profile	18	2	108
+What It Feels Like
+
+The	18	2	34
+SCAR	17	2	32
+ATCM	17	2	32
+The Sanctuary	17	2	22
+Philosophical Landscape	17	2	100
+Founding-era	16	2	33
+Coldsiders	16	2	17
+Buenos	16	2	38
+WebSearch	16	2	73
+AAD	16	2	81
+BAS	16	2	189
+Review Panel	16	2	110
+Arcanet Culture	16	2	36
+NOAA	15	2	88
+Human-Robot	14	2	154
+UTC	14	2	208
+Robot Relations	14	2	60
+Syncretic Religion	14	2	17
+Southern Ocean	14	2	66
+Wayback	13	2	22
+SAR	13	2	22
+Municipal Holidays	13	2	100
+Pisces' Tolerance Pact	13	2	14
+Export Culture	13	2	96
+Governance Nexus	13	2	16
+Insulation Schism	13	2	16
+Great Corruption's	13	2	15
+Developer Vision Notes	13	2	88
+Buenos Aires	13	2	32
+Per-district	12	2	17
+AWS	12	2	69
+Leo's Star War	12	2	17
+Community Infrastructure	12	2	69
+Market Lifeline	12	2	15
+Australian Antarctic Division	12	2	71
+Fragmentation Matrix	12	2	28
+Reactive Enneagram	12	2	18
+Full Extrapolation Section	12	2	42
+Early Post-	12	2	15
+Positive Outlook Enneagram	12	2	14
+Visitor-to-Resident	11	2	88
+Sayowa-descended	11	2	12
+USGS	11	2	40
+Santa Luce	11	2	181
+Bonded Pair Registry Collapse	11	2	15
+Resident Transition	11	2	20
+Visitor Experience	11	2	22
+Private Life	11	2	15
+Aries and Cancer	11	2	12
+Cape Horn	11	2	18
+Isla	10	2	32
+General-population	10	2	29
+SKA	10	2	11
+The Mosaic	10	2	12
+Drake Passage	10	2	40
+Neutral Crossroads	10	2	12
+Siligel Rush's	10	2	11
+The Passer-	10	2	65
+Dronning	9	2	23
+Cradle-adjacent	9	2	13
+Lightwave	9	2	11
+Polyrhythm	9	2	11
+Coldsider	9	2	11
+Per-	9	2	14
+Vernadsky	9	2	13
+DROMLAN	9	2	29
+WHAT	9	2	161
+ABS	9	2	21
+NW	9	2	43
+WMO	9	2	109
+The Elder	9	2	67
+The Ruler	9	2	63
+British Antarctic Survey	9	2	37
+South Africa's	9	2	31
+Cultural Texture	9	2	25
+Bransfield	8	2	25
+Teniente	8	2	14
+Cabo	8	2	12
+AWI	8	2	35
+XXX	8	2	10
+IP	8	2	41
+FAILED	8	2	26
+EIA	8	2	20
+SSN	8	2	9
+Dronning Maud Land	8	2	17
+Falkland Treaty Negotiations	8	2	10
+The Surveillance Faction	8	2	11
+Third Expansion Collapse's	8	2	9
+The Great Corruption's	8	2	9
+Lightwave Polyrhythm	8	2	10
+Mother's Circuit's	8	2	11
+Complete Megasheet
+
+The	8	2	53
+Latin America	8	2	28
+Twin Otter	8	2	22
+Agulhas	7	2	15
+Panen	7	2	170
+Relung	7	2	186
+Marginalized	7	2	9
+Flood-Traumatized	7	2	15
+Stage-	7	2	10
+Second-order	7	2	24
+Hub-arrived-by-elimination	7	2	8
+Documentarian	7	2	9
+Runner-up	7	2	11
+Orcadas	7	2	20
+Tinto	7	2	11
+Starlink	7	2	16
+Escondida	7	2	9
+XXV	7	2	9
+USAP	7	2	38
+BHP	7	2	9
+DLC	7	2	12
+Relung Panen	7	2	169
+Early Exile Refuge	7	2	9
+Falkland Construction Boom	7	2	9
+Falkland Settlement	7	2	9
+Leverage Holders	7	2	12
+Taurus and Capricorn	7	2	8
+Moore & Gillette	7	2	46
+Union Glacier	7	2	26
+The Australian	7	2	16
+Red Sea	7	2	9
+In July	7	2	9
+Follow-up	6	2	45
+Ice-free	6	2	37
+Tsukuba	6	2	13
+Kerguelen	6	2	15
+Tierra	6	2	15
+Concordian	6	2	15
+Aquarius-originated	6	2	8
+Hundertwasserhaus	6	2	9
+Arcosanti	6	2	10
+Christiania	6	2	7
+Lachaise	6	2	9
+Cerro	6	2	11
+Instituto	6	2	9
+RUN	6	2	128
+OWN	6	2	179
+GATE	6	2	146
+SOURCES	6	2	41
+BT	6	2	24
+CEE	6	2	9
+MF	6	2	7
+MSL	6	2	13
+zero	6	2	12
+Borrowed Form	6	2	43
+District Notes	6	2	8
+The Pattern Across All Three	6	2	91
+Czech Republic	6	2	108
+Compliant Enneagram	6	2	10
+Regional Patterns	6	2	8
+Findings
+
+All	6	2	90
+Council Plaza	6	2	9
+Sagittarius and Capricorn	6	2	9
+Early Federation Expansion	6	2	8
+The Patched Infrastructure	6	2	7
+Early Exile Infrastructure	6	2	8
+The Political Weapon	6	2	7
+The Unlimited	6	2	11
+The Dual-	6	2	13
+The Triage Realists	6	2	9
+The Trauma-	6	2	10
+Cabaret Voltaire	6	2	7
+Wall Street	6	2	7
+District Megasheets	6	2	8
+First Collective	6	2	9
+Life Arcs	6	2	47
+Argentina and Chile	6	2	19
+Rio Tinto	6	2	10
+Year-round	5	2	21
+Australis	5	2	30
+Zurich	5	2	8
+Fuego	5	2	13
+Epidaurus	5	2	10
+Vodou	5	2	6
+Two-Stage	5	2	6
+Capricorn-specific	5	2	7
+Aerodrome	5	2	22
+Nacional	5	2	7
+D-layer	5	2	7
+NN	5	2	13
+SAME	5	2	156
+ESA	5	2	42
+THREE	5	2	104
+SOURCE	5	2	147
+DNS	5	2	27
+STATUS	5	2	90
+MV	5	2	13
+ARA	5	2	8
+Moved 2026-07-11	5	2	8
+The	5	2	21
+Bransfield Strait	5	2	19
+Twin Founding	5	2	11
+Commonwealth Bay	5	2	43
+Speed Problem	5	2	6
+Refugee Integration	5	2	6
+What It Really Is	5	2	6
+Long Night War Evacuation Waves	5	2	7
+The Grand Transit Exchange and Central	5	2	7
+Early Construction and Infrastructure Phase	5	2	6
+Withdrawn Enneagram	5	2	6
+The Unverified	5	2	6
+Unity of Opposites	5	2	12
+The Coldsiders	5	2	6
+Applied Innovators	5	2	11
+Merit Establishment	5	2	11
+Media Lab	5	2	6
+Eden Project	5	2	7
+Green Ledger	5	2	7
+Surveillance Faction's	5	2	6
+Political Faction	5	2	12
+Scott Base	5	2	49
+French Polynesia	5	2	9
+Federation-wide	4	2	48
+L'Astrolabe	4	2	18
+Saharan	4	2	6
+Transantarctic	4	2	17
+Norilsk	4	2	22
+Cloudflare	4	2	18
+Terre	4	2	17
+Akihabara	4	2	5
+Sealand	4	2	5
+Neom	4	2	5
+Kabuki-za	4	2	5
+Bruges	4	2	5
+Songdo	4	2	5
+Solingen	4	2	5
+Ngaben	4	2	5
+Cinque	4	2	14
+Este	4	2	8
+Cappadocia's	4	2	6
+Overcrowding-Decision-style	4	2	5
+Hundertwasser's	4	2	5
+Sinitic	4	2	7
+Bunbury	4	2	14
+Magallanes	4	2	12
+Bellingshausen	4	2	23
+Fedorov	4	2	14
+Austral	4	2	10
+Servicio	4	2	7
+TeleGeography	4	2	6
+Iquique	4	2	5
+Alumina	4	2	6
+GMT	4	2	31
+FILE	4	2	206
+UP	4	2	32
+BEFORE	4	2	196
+OVER	4	2	40
+THERE	4	2	88
+PRIMARY	4	2	189
+XLII	4	2	5
+NONE	4	2	105
+AARI	4	2	44
+BANZARE	4	2	9
+WP	4	2	11
+ANT	4	2	7
+USB	4	2	6
+;	4	2	50
+Window Reach	4	2	6
+Lover	4	2	11
+— and	4	2	16
+Marambio Airport	4	2	16
+Cymatics Reverence	4	2	25
+Long Haul	4	2	8
+Surface Culture	4	2	86
+The Tri-	4	2	26
+The Line	4	2	6
+South Atlantic	4	2	29
+Reference
+Synthesis	4	2	7
+Transantarctic Mountains	4	2	17
+Tierra del Fuego	4	2	11
+The Antarctic	4	2	16
+Regional Throughways	4	2	7
+Private Life & Minority Communities	4	2	11
+Arts & Aesthetics	4	2	83
+War Centralization Backlash	4	2	6
+Long Night War Mediation Crises	4	2	6
+Long Night War Frontier Defense	4	2	6
+War Energy Renaissance	4	2	7
+Long Night War Information Warfare	4	2	6
+The Failed Utopias	4	2	5
+Official Name	4	2	5
+Repeated Energy Crises	4	2	6
+Long Night War Technological Desperation	4	2	6
+Aries' and Capricorn's	4	2	5
+Freetown Christiania	4	2	5
+Ciudad del Este	4	2	5
+Oneida Community	4	2	5
+Dawson City	4	2	10
+Klondike Gold Rush	4	2	6
+Las Vegas Strip	4	2	5
+Land of Fire	4	2	5
+Naples' Spanish Quarter	4	2	5
+Dubai Media City	4	2	5
+The Lightwave Polyrhythm	4	2	5
+Clinical School's	4	2	6
+Hidden Opinion Holder	4	2	8
+The Bridge Memorial's	4	2	6
+Wartime Production Deaths	4	2	6
+Aquarius Cross-	4	2	6
+Stockpiling Culture	4	2	5
+The Peninsula	4	2	14
+Chile and Argentina	4	2	6
+Australian Antarctic	4	2	23
+New South Wales	4	2	7
+Wayback Machine	4	2	9
+The July	4	2	6
+The Argentine	4	2	13
+Cape of Good Hope	4	2	5
+Wasa	3	2	49
+Aboa	3	2	59
+Concordia-wide	3	2	8
+Schirmacher	3	2	63
+Paulo	3	2	11
+Mage	3	2	51
+Trade-off	3	2	6
+Quest-Triggers	3	2	6
+Institutionalization	3	2	5
+Color-coded	3	2	5
+Documentarians	3	2	9
+Alberobello	3	2	4
+Fordist	3	2	4
+Cottonopolis	3	2	4
+Teatro	3	2	7
+Marrakech's	3	2	4
+Ginza	3	2	4
+Esperanza-descended	3	2	5
+Belgrano-descended	3	2	5
+Cross-Faction	3	2	11
+Taurus-specific	3	2	5
+Cancer-specific	3	2	4
+Interwar-era	3	2	6
+First-order	3	2	21
+Weiland's	3	2	22
+Panen's	3	2	61
+Brouwer	3	2	6
+Qinling	3	2	7
+Casa	3	2	10
+Paso	3	2	8
+Papeete	3	2	5
+Argentina-Chile	3	2	5
+Weddell-sector	3	2	4
+Pampa	3	2	4
+Coppermine	3	2	4
+Geophys	3	2	7
+NOW	3	2	41
+CULTURE	3	2	85
+CANNOT	3	2	111
+GEO	3	2	18
+NEUTRAL	3	2	13
+DAY	3	2	31
+GC	3	2	17
+JS	3	2	118
+ISO	3	2	37
+SS	3	2	15
+RSV	3	2	13
+DOES	3	2	126
+FACT	3	2	43
+SHARES	3	2	10
+ORDER	3	2	46
+CORRECT	3	2	66
+DISTRICT	3	2	19
+SHARE	3	2	15
+EXTERNAL	3	2	81
+FINDING	3	2	85
+WHERE	3	2	63
+PHYSICAL	3	2	40
+ALREADY	3	2	88
+SESSION	3	2	31
+K.M.	3	2	11
+SSW	3	2	9
+SECOND	3	2	61
+AAE	3	2	11
+IPEV	3	2	25
+COVID	3	2	14
+IGY	3	2	8
+JGR	3	2	22
+UW	3	2	7
+ANU	3	2	7
+AIP	3	2	9
+SAE	3	2	12
+ATV	3	2	5
+INTA	3	2	5
+VLF	3	2	4
+TEC	3	2	4
+BS	3	2	4
+DSN	3	2	6
+Mountain Pass Airport	3	2	55
+Davis	3	2	51
+Australia	3	2	22
+Hwy 110	3	2	8
+— the	3	2	12
+none	3	2	27
+Hub	3	2	4
+Parent	3	2	13
+Hwy 7	3	2	8
+Taurus' Insulation Schism	3	2	5
+Dome Fuji and Kunlun	3	2	25
+Chamber Crisis	3	2	14
+Coastal Cut Highway	3	2	23
+What's Actually Down There	3	2	9
+Subnet Ultra-	3	2	35
+Notable Figure	3	2	25
+Robot Elementals	3	2	22
+Aurora Australis	3	2	24
+Expedition Day	3	2	14
+Janbogo and Zukelli	3	2	15
+The Mawson	3	2	16
+Russian and Chinese	3	2	12
+Schirmacher Oasis	3	2	47
+Tsukuba Science City	3	2	8
+Victoria Land	3	2	38
+Wilkes Land	3	2	65
+The Unrecognized Instrument	3	2	10
+World Basis Extrapolation Method	3	2	7
+France and Italy	3	2	6
+Mountain Cut Throughway	3	2	34
+Suspended Compact's	3	2	6
+Long Night War Black-	3	2	5
+Ongoing Refugee Waves	3	2	5
+Ongoing Crisis Management	3	2	5
+War Institutionalization	3	2	5
+Gray Economy	3	2	5
+War Idealist Influx and Isolation	3	2	4
+Hub-born and Hub-arrived	3	2	4
+Long Night War Survival Backbone	3	2	5
+Taurus and Libra	3	2	5
+War Data Boom and Fragmentation	3	2	4
+War Energy Crises	3	2	5
+The Syncretic Religion	3	2	4
+Several of Concordia's	3	2	4
+The True Believers	3	2	8
+Safety Engineer	3	2	9
+If Libra	3	2	7
+The Deep Level Keepers	3	2	6
+The Sacred	3	2	4
+The Pragmatists	3	2	4
+External Friction	3	2	4
+What Virgo	3	2	4
+The Consolidationists	3	2	6
+The Operators	3	2	8
+Without Cancer's	3	2	4
+Everest Sherpa	3	2	4
+Cinque Terre	3	2	13
+Detroit's Fordist	3	2	4
+Tokyo's Akihabara	3	2	4
+Teatro di San Carlo	3	2	4
+Bali's Ngaben	3	2	4
+International Zone	3	2	4
+Panama Canal Zone	3	2	4
+Dubai International Airport	3	2	4
+Lachaise Cemetery	3	2	4
+Byzantine Constantinople's	3	2	4
+Amsterdam's Red Light District	3	2	4
+Circuit House	3	2	6
+Scorpio and Gemini	3	2	6
+Living Network Experiment's	3	2	5
+Memory Keeper's	3	2	9
+Long Night War-era	3	2	7
+Janbogo-city and Zukelli	3	2	5
+Overcrowding Decision's	3	2	4
+Second Interwar-era	3	2	6
+The Phase	3	2	17
+The Review Panel	3	2	127
+Robot Culture	3	2	12
+Relung Panen's	3	2	56
+Prince Gustav Channel	3	2	16
+James Ross Island	3	2	20
+Mario Zucchelli	3	2	28
+Cape Town and Fremantle	3	2	6
+Northern Hemisphere	3	2	8
+Panama Canal	3	2	6
+Polar Record	3	2	16
+Twin Otters	3	2	9
+The Wikipedia	3	2	10
+San Jose	3	2	10
+Mawson and Davis	3	2	4
+San Antonio	3	2	4
+Argentina and Brazil	3	2	4
+Chile and Peru	3	2	4
+Post-Culture	2	2	111
+First-pass	2	2	14
+Wegener	2	2	18
+Subglacial	2	2	11
+Lyttelton	2	2	18
+Sark	2	2	10
+Byrd-founding	2	2	21
+Atlantic-side	2	2	15
+Palmer-subnet	2	2	30
+Filchner-Ronne	2	2	6
+Ahlmannryggen	2	2	23
+Rondane	2	2	32
+Pre-existing	2	2	33
+Mawsonite	2	2	12
+Nella	2	2	23
+DLC-Native	2	2	6
+Unused-Tier	2	2	9
+Micro-Practice	2	2	6
+Record-Keeping	2	2	8
+Unremarked	2	2	9
+Non-Thematic	2	2	6
+Founding-population	2	2	5
+Spillover	2	2	4
+Main-Endings	2	2	9
+Sixty-three	2	2	7
+Gray-market	2	2	6
+Frostlanders	2	2	8
+Adare-descended	2	2	4
+Mirny-descended	2	2	4
+Denison-descended	2	2	9
+Scorpio-specific	2	2	4
+Virgo-specific	2	2	3
+Timeframe	2	2	5
+Weiland	2	2	16
+Tribalist	2	2	7
+Asclepieion	2	2	3
+Purpose-built	2	2	6
+Self-correction	2	2	15
+Multi-ringed	2	2	4
+Brutalist	2	2	4
+Idelsk-Uralia	2	2	36
+Atka	2	2	22
+Seawater	2	2	6
+Ridley	2	2	13
+Torquay	2	2	15
+Belarusian	2	2	6
+Geoscience	2	2	11
+Sunda	2	2	9
+Penang	2	2	8
+Novo	2	2	18
+Costa	2	2	10
+Ice-class	2	2	4
+Mesoproterozoic	2	2	6
+X-ray	2	2	19
+Re-run	2	2	52

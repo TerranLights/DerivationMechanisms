@@ -1,0 +1,1068 @@
+# Candidate terms for area T: term<TAB>files in this area<TAB>repos overall<TAB>files overall
+Tepenia	150	11	1636
+GDD	3	11	242
+Doll-Fi	1	11	317
+InnerTepeniaGDD	84	10	374
+Tepenian	38	10	1129
+Inner Tepenia	35	10	451
+Interwar	48	9	802
+Worldspace	46	9	722
+Cryptograph	33	9	90
+Outer Tepenia	33	9	108
+Cryptograph Helix	33	9	73
+Arcanet	14	9	892
+Real-world	3	9	459
+Game-Mechanics	2	9	117
+Long Night War	137	8	854
+Concordia	50	8	1345
+Tepenia's	48	8	875
+Tepenians	11	8	123
+Locations-and-Levels	6	8	363
+Second Interwar Period	6	8	262
+TepenianUniverseTimeline	5	8	271
+not	5	8	306
+Enneagram	104	7	839
+Falkland Treaty	92	7	759
+Upper Earth	43	7	526
+Amundsen Tower	36	7	279
+High-level	32	7	127
+Calethina	14	7	249
+Concordia's	10	7	505
+South Pole	10	7	250
+Bisyugota	8	7	63
+Majyao	8	7	77
+Majyao Bisyugota	7	7	60
+U.R.U.K.	6	7	32
+Outside-World	5	7	270
+Tepenian-Federation	4	7	264
+DJ	4	7	33
+TheCryptographHelixDD	3	7	13
+Cross-reference	2	7	61
+Repo	2	7	57
+DR	2	7	652
+Great Corruption	2	7	63
+Summary Table	2	7	15
+Frostlands	1	7	363
+TerranLights	1	7	23
+Siligel	1	7	257
+War of Upper Earth	87	6	176
+Second Interwar	31	6	323
+Janbogo	17	6	824
+Jeju-do	16	6	258
+Ji-Eun	14	6	135
+Vosora	13	6	108
+Tanslock	13	6	80
+Eun Kim	13	6	113
+Aparast	11	6	86
+Mirny	10	6	807
+Self-Preservational	10	6	58
+Michelle Stanton	10	6	78
+Trisha Miller	9	6	46
+Unified Korea	9	6	71
+Subnet	8	6	1029
+Naizelle	8	6	61
+Favi	8	6	76
+Fenny	8	6	45
+FW	8	6	78
+Pink Lucy	8	6	87
+Eyes of Gold	8	6	72
+Hayashi	7	6	63
+Ayako	7	6	79
+Torre	7	6	71
+Calethina's	7	6	173
+Seica	7	6	51
+Zhongshan	7	6	471
+Villena	7	6	64
+Hiresvett	7	6	50
+Cenilaithe	7	6	42
+Seica Cenilaithe	7	6	41
+Villena Hiresvett	7	6	50
+Ayako Hayashi	7	6	61
+Kendra Heinrich	7	6	94
+Vostok	6	6	295
+Planetary Split Brain	6	6	164
+Still-	5	6	102
+The Falkland Treaty	5	6	35
+Design Notes	4	6	776
+Mundi	3	6	94
+Dome Fuji	3	6	359
+Red Spiral	3	6	34
+No National Stereotypes	3	6	113
+Road of Trials	3	6	51
+Axis Mundi	3	6	94
+Storyline	2	6	125
+Cross-referenced	2	6	17
+Post-war	2	6	73
+Transformative	2	6	134
+Centauri	2	6	35
+ACT	2	6	89
+STORY	2	6	63
+Southern Lights	2	6	32
+The Markets	2	6	97
+Neo-Races-and-Cultures	1	6	81
+Real-World	1	6	578
+SouthernLights	1	6	12
+Core-Mechanics	1	6	81
+Vostok's	1	6	136
+Undergrid	1	6	403
+CurrentNovelDocs	1	6	42
+Mega-Init	1	6	279
+GDD's	1	6	69
+Character Name	174	5	764
+Post-Solar	74	5	84
+Hornevian	69	5	324
+Subvariant	47	5	209
+InnerTepeniaGDD's	42	5	57
+TCY	37	5	100
+Aarden's	33	5	73
+Maggie Aarden's	32	5	70
+Questline	31	5	526
+MACHINE	30	5	275
+XT	22	5	88
+Belgrano	18	5	508
+Palmer City	18	5	424
+Midwestland	17	5	77
+Hana	14	5	37
+Aarden	13	5	98
+Amundsen Tower's	13	5	210
+Maggie Aarden	13	5	87
+Gynoid	12	5	43
+First Interwar Period	12	5	98
+Sonora	11	5	58
+Hana Jinn	11	5	27
+Dumont	10	5	358
+Griselda	9	5	65
+Sinian	9	5	147
+Eirwyn	9	5	25
+Cardoss	9	5	25
+Griselda Alejandra	9	5	59
+Tepenian Universe	9	5	21
+The Investigator	9	5	38
+McMurdo	8	5	409
+Momo	8	5	40
+Morikawa	8	5	23
+Sinian Federation	8	5	119
+Amundsen Station	8	5	260
+Federation of Tepenia	8	5	40
+Doris Morikawa	8	5	23
+The Second Interwar Period	8	5	98
+Mawson	7	5	513
+Janbogo's	7	5	323
+Zukelli	7	5	381
+Meyzan	7	5	26
+Kunlun	7	5	430
+Lyuba	7	5	33
+Mei-Li	7	5	25
+Yocazhda	7	5	24
+Baranova	7	5	29
+Garcelle	7	5	30
+FR	7	5	28
+A.R.U.T	7	5	22
+Falkland Treaty's	7	5	72
+Meyzan Yocazhda	7	5	24
+Sovereign Republic of Hawaii	7	5	27
+Neumayer	6	5	406
+Lazar	5	5	318
+Shirayuki	5	5	383
+Marambio	5	5	343
+Juan Carlos	5	5	178
+Long Night War's	5	5	100
+The Long Frequency	5	5	22
+Star War	5	5	57
+Ultra-Megasheet	4	5	81
+Megasheets	4	5	178
+Rastra	4	5	97
+ONE	4	5	366
+Palmer City's	4	5	193
+Eun Kim's	4	5	35
+North America	4	5	49
+Timeline Eras	4	5	116
+The Eyes of Gold	4	5	30
+B-Story	3	5	28
+Ji-Eun's	3	5	31
+Megasheet	3	5	530
+Zukelli's	3	5	190
+Theoretical-Calculations	3	5	178
+Gyeong-ja	3	5	18
+Signy	3	5	250
+Adare	3	5	279
+DEFERRED	3	5	70
+NAME	3	5	153
+All Is Lost	3	5	34
+Closing Image	3	5	22
+Opening Image	3	5	32
+The Quiet Shift	3	5	20
+Cape Adare	3	5	272
+Dark Night	3	5	20
+Doorway of No Return	3	5	19
+During the Long Night War	3	5	21
+Questlines	2	5	241
+Sanay	2	5	359
+Larsemann	2	5	193
+Mawson's	2	5	191
+Kunlun's	2	5	214
+McMurdo's	2	5	203
+Belgrano's	2	5	206
+Abowasa	2	5	179
+Sayowa	2	5	214
+Concordia-City	2	5	102
+HyperHedral	2	5	27
+Neumayer's	2	5	200
+Truby	2	5	54
+Antarctican	2	5	22
+Abramentes	2	5	15
+Truby's	2	5	16
+RESOLVED	2	5	146
+FOR	2	5	353
+STATED	2	5	80
+Vosora Lashár Tanslock	2	5	11
+|	2	5	250
+South America	2	5	106
+Ross Sea	2	5	196
+Gyeong-ja Yun	2	5	16
+Split Brain	2	5	89
+Save the Cat	2	5	51
+Eyes of Gold's	2	5	25
+The Tower's	2	5	24
+Mirny Subnet	2	5	81
+Palmer Subnet	2	5	76
+The Reclaimed Record	2	5	11
+DLC's	1	5	85
+Denison's	1	5	165
+Maitri	1	5	78
+README's	1	5	43
+Cross-Reference	1	5	422
+Self-Pres	1	5	29
+Veilkeepers	1	5	33
+Megacorps	1	5	134
+Repurposing	1	5	17
+Singaporean	1	5	12
+Vosora's	1	5	26
+Novolazarevskaya	1	5	97
+Human-robot	1	5	70
+Bogo	1	5	62
+Jang	1	5	62
+Hub-born	1	5	46
+In-game	1	5	12
+In-world	1	5	22
+Nilda	1	5	11
+Faviola	1	5	11
+TWO	1	5	170
+AST	1	5	65
+STATION	1	5	92
+FROM	1	5	281
+CLOSING	1	5	27
+POV	1	5	54
+Main Story	71	4	176
+Midnight War	70	4	200
+KWML	69	4	108
+Major Theme	69	4	281
+Backstory Summary	69	4	154
+Loyalties & Beliefs	69	4	189
+Key Individuals	69	4	189
+Personality & Voice	69	4	172
+Design Notes & Open Questions	69	4	173
+Pre-Activation	68	4	186
+Post-Exile	68	4	186
+Pre-Falkland	68	4	186
+Post-Activation	68	4	185
+YYYY	68	4	200
+Hornevian Group	68	4	262
+Harmonic Group	68	4	245
+Internal Conflict	68	4	82
+Long Night	68	4	207
+Falkland Treaty Era	68	4	193
+Core Identity	68	4	173
+Primary Location	68	4	180
+Tepenia Era	68	4	186
+Personality Framework	68	4	168
+TODOs	60	4	163
+Positive Outlook	45	4	249
+Visual Description	39	4	140
+XwY	36	4	77
+MIA	34	4	43
+Callsign	30	4	40
+Common Nickname	30	4	39
+Companion Potential	29	4	138
+Personal Questline Hook	29	4	125
+Full Name	29	4	60
+Dufay	12	4	31
+Mallory Dufay	12	4	29
+Republic of Sonora	11	4	34
+Akina	9	4	40
+CSA	9	4	41
+SE	9	4	101
+The Loyalist	9	4	35
+The Enthusiast	9	4	36
+Eirwyn Cardoss	8	4	19
+Zhuldyz	7	4	22
+Nieza	7	4	12
+Serikbolatkyzy	7	4	18
+Lyuba Baranova	7	4	23
+Preservational Subvariant	7	4	25
+Zhuldyz Serikbolatkyzy	7	4	18
+Turar	6	4	15
+Serikbolat	6	4	11
+Upper Earth's	6	4	124
+International Court of Diplomacy	6	4	58
+When the Long Night War	6	4	29
+Assembly Powers	6	4	24
+The Challenger	6	4	28
+Rothera	5	4	360
+Lockroy	5	4	188
+Cascadia	5	4	79
+Eira	5	4	16
+Port Lockroy	5	4	175
+Mountain Pass	5	4	101
+Amundsen Station's	5	4	100
+People's Democratic Republic of Cascadia	5	4	19
+New Antarctica	5	4	13
+Falkland Islands	5	4	44
+Arcanet's	4	4	35
+Amundsen-Scott	4	4	94
+Kappa	4	4	21
+Steampunk	4	4	22
+Byrd	4	4	64
+Open Questions	4	4	224
+Second Interwar Period's	4	4	25
+Underwater Research Union	4	4	21
+The Upper Earth	4	4	11
+Unified Korea's	4	4	21
+In Tepenia	4	4	41
+People's Democratic Republic of New England	4	4	13
+Hall of Archives	4	4	16
+Intermaria	3	4	24
+Machu	3	4	110
+Picchu	3	4	110
+Echota	3	4	18
+Denison	3	4	310
+Sinheung	3	4	410
+Bharati	3	4	74
+Set-Up	3	4	7
+Self-Preservation	3	4	45
+BY	3	4	201
+AGI	3	4	12
+Theme Stated	3	4	36
+Bad Guys Close In	3	4	15
+New Orleans	3	4	77
+The First Interwar Period	3	4	20
+Weddell Sea	3	4	172
+Princess Elisabeth	3	4	183
+Juan Carlos's	3	4	60
+Machu Picchu Border & Customs Authority	3	4	43
+King George Island	3	4	114
+Tepenian Federation	3	4	64
+South Asian	3	4	36
+The Long Night War	3	4	103
+Concordia Ultra-	3	4	15
+Robot Universals	3	4	77
+United States	3	4	51
+West Russia	3	4	10
+Following the Long Night War	3	4	12
+Head Librarian	3	4	11
+Turar Serikbolat	3	4	8
+The Reformer	3	4	17
+The Individualist	3	4	18
+The War of Upper Earth	3	4	13
+Zhongshan's	2	4	186
+Super-Ultra-Megasheet	2	4	28
+Lazar's	2	4	130
+Self-check	2	4	148
+Upper-Earth	2	4	38
+Braun	2	4	29
+Worldbuilding	2	4	34
+Reframed	2	4	22
+Cross-references	2	4	16
+Uruk	2	4	8
+AWOL	2	4	47
+FIT	2	4	96
+CITY	2	4	198
+LAW	2	4	261
+ARE	2	4	197
+ACCESS	2	4	52
+G.A.R.	2	4	9
+False Victory	2	4	14
+Break into Two	2	4	7
+Catalyst	2	4	8
+Debate	2	4	8
+Larsemann Hills	2	4	170
+Livingston Island	2	4	68
+Machu Picchu Airport	2	4	48
+Hana Jinn's	2	4	11
+Antarctic Peninsula	2	4	157
+Transcontinental Highway	2	4	25
+Air Force	2	4	46
+The Falkland Treaty's	2	4	16
+East Antarctica	2	4	74
+Concordia Station	2	4	27
+The Castle	2	4	10
+Engineering & Activation Lab	2	4	12
+The Anatomy of Story	2	4	9
+John Truby	2	4	9
+North American	2	4	18
+James Scott Bell	2	4	11
+Social Subvariant	2	4	10
+Mirror Moment	2	4	28
+False Defeat	2	4	11
+The Helper	2	4	14
+The Red Spiral	2	4	9
+The Peacemaker	2	4	14
+Fundamental Laws of Robotics	2	4	5
+Cryptograph Helix's	2	4	8
+Fake Ally	2	4	37
+Fun and Games	2	4	10
+Cross-DLC	1	4	29
+Petersburg	1	4	40
+Tower-regulated	1	4	9
+Present-day	1	4	31
+Syowa	1	4	70
+Chinese-French	1	4	14
+DLC-specific	1	4	13
+Pre-war	1	4	51
+Favi's	1	4	21
+Industrias	1	4	6
+District-specific	1	4	40
+Demonym	1	4	244
+Arrastradoras	1	4	40
+Russian-run	1	4	21
+AST-only	1	4	5
+Arrastradora	1	4	32
+Post-Falkland	1	4	120
+Lyubochka	1	4	6
+Post-War	1	4	48
+Generational	1	4	44
+Dolliverse	1	4	12
+Truckyards	1	4	10
+Dual-Outcome	1	4	17
+Anthros	1	4	47
+Veilkeeper	1	4	6
+Self-explanatory	1	4	5
+HQ	1	4	20
+NEED	1	4	98
+PASS	1	4	153
+REVIEW	1	4	45
+AT	1	4	156
+ONLY	1	4	258
+USE	1	4	180
+HERE	1	4	98
+PLUS	1	4	17
+LICENSE	1	4	324
+WITHOUT	1	4	184
+WHO	1	4	53
+WORLD	1	4	53
+NOTES	1	4	15
+Project-specific	98	3	103
+Want-Need-Idea	69	3	73
+Instinctual	69	3	98
+Brief Backstory Summary	69	3	74
+Canonical Appearances	69	3	73
+Anti-Stereotype	68	3	73
+Personal Timeline	68	3	70
+Change Arc	68	3	74
+Original Doll Manufacturer	68	3	72
+Original Doll Website Catalog Page	68	3	72
+Signature Objects	68	3	72
+Instinctual Variant	68	3	73
+Strengths & Skills	68	3	72
+Character Depth	68	3	72
+Story Function	68	3	72
+Brief Personality Summary	68	3	72
+Stereotype Check	68	3	72
+Values & Passions	68	3	72
+Character Basis	68	3	72
+XXXX	65	3	69
+Falkland
+Treaty	30	3	35
+Still-Present	29	3	35
+In-Game	29	3	40
+Anti-stereotype	29	3	33
+Inner
+  Tepenia's	29	3	31
+Colorado Republic	10	3	47
+Palmer City Elva	9	3	19
+Off-World	7	3	26
+New North America	7	3	37
+Neill Cylinder	5	3	17
+East Asian	5	3	31
+Tri-Cities	4	3	122
+Jeju-Do	4	3	16
+Saturnian	4	3	18
+Activation Date	4	3	28
+The Tower	4	3	20
+Prairie Federation	4	3	20
+The Sinian Federation	4	3	14
+Before the Long Night War	4	3	11
+Appalachia Republic	4	3	11
+Republic of Alaska	4	3	21
+Hana's	3	3	9
+Rockabilly	3	3	13
+Electroswing	3	3	12
+Qinghai	3	3	11
+Xiang	3	3	8
+Zhongyuan	3	3	6
+Bashu	3	3	6
+RAID-distributed	3	3	8
+SMG	3	3	12
+UNKNOWN	3	3	16
+RAID	3	3	9
+Sinian Federation's	3	3	13
+Scott Station	3	3	38
+Mountain Pass's	3	3	18
+Founding Register	3	3	198
+East Turkestan	3	3	7
+East Intermaria	3	3	9
+The International Court of Diplomacy	3	3	8
+Great Corruption of Janbogo's	3	3	7
+Regional Arrangements	3	3	9
+Aerial Research Union	3	3	10
+Tau Gamma	3	3	10
+He and Eira	3	3	6
+Ushuaia	2	3	73
+Ultra-Megasheets	2	3	28
+Sinheung's	2	3	193
+Intermarian	2	3	7
+Lockroy's	2	3	73
+Reference-Images	2	3	12
+Robot-specific	2	3	14
+Personhood	2	3	8
+Papua	2	3	15
+New-Echota-style	2	3	6
+Self-Revelation	2	3	7
+Amber-brown	2	3	6
+Full-figured	2	3	6
+Midwestlander	2	3	10
+Upper-Earth-born	2	3	4
+Yun's	2	3	5
+Beat-by-Beat	2	3	7
+B-story	2	3	10
+A-plot	2	3	22
+Q-Factor	2	3	6
+Character-Web	2	3	6
+BOTH	2	3	155
+FORCED	2	3	99
+AN	2	3	330
+DESIGN	2	3	47
+TIMELINE	2	3	10
+STOCK	2	3	38
+THIS	2	3	332
+BE	2	3	220
+REMOVED	2	3	30
+FOUNDING	2	3	48
+ANCESTRY	2	3	18
+LINK	2	3	23
+FOUR	2	3	97
+Confirmed canon	2	3	5
+never	2	3	9
+When	2	3	6
+June 21, 2564	2	3	6
+Moral Decision	2	3	23
+Midpoint / Mirror Moment	2	3	7
+Break into Three	2	3	6
+As the Federation	2	3	10
+New Echota	2	3	12
+Primary Purpose	2	3	12
+Vostok and Kunlun	2	3	32
+Port Lockroy's	2	3	61
+Von Braun Wheel	2	3	15
+Coats Land	2	3	50
+East Asia	2	3	25
+Personality Module	2	3	14
+The Star War	2	3	21
+Historical Pressures	2	3	15
+Which Tepenian	2	3	7
+Papua New Guinea	2	3	13
+Inner Mongolia	2	3	8
+When the Falkland Treaty	2	3	20
+The Two Laws	2	3	6
+The United Assembly of Nations	2	3	7
+Full Civic Independence	2	3	7
+The Exile Provision	2	3	7
+Population Allocation Mechanism	2	3	7
+Heavy Metal and Industrial	2	3	7
+Why Chain	2	3	7
+Data Analytics and Research Expert	2	3	7
+Turar and Zhuldyz	2	3	6
+Arthur Schopenhauer	2	3	5
+The Bohemian	2	3	12
+First Aid	2	3	9
+When the Tower	2	3	4
+Gyeong-ja Yun's	2	3	5
+Campbell Concepts	2	3	6
+Care Package	2	3	18
+Argument Against Transformation	2	3	11
+Joseph Campbell	2	3	7
+Pet the Dog	2	3	11
+Magic Flight	2	3	9
+The Hero's Journey	2	3	6
+Web Concepts	2	3	6
+Blake Snyder	2	3	6
+Plot and Structure	2	3	6
+Antarctic Earth	2	3	4
+United Assembly of Nations	2	3	8
+Tepenian Constitution	2	3	7
+Non-immigrants	1	3	4
+Leyline	1	3	14
+Cross-project	1	3	6
+GPS-only	1	3	51
+Haakon	1	3	12
+Upper-Earth-facing	1	3	9
+Non-Transfer	1	3	7
+Abrigo	1	3	150
+Sea-facing	1	3	17
+Already-established	1	3	7
+Sykes-Picot	1	3	8
+Locarno	1	3	5
+Robot-Universal	1	3	7
+Cross-media	1	3	3
+Cross-Regional	1	3	12
+Ultra-Megasheet's	1	3	34
+Atlantic-facing	1	3	7
+Japan-founded	1	3	13
+Korea-founded	1	3	10
+Non-immigrant	1	3	6
+Argentine-descended	1	3	3
+Uyghur	1	3	5
+Qinghai's	1	3	4
+Datashard	1	3	7
+Jeju-do-style	1	3	4
+Antarctic-Treaty	1	3	4
+Recruitability	1	3	19
+Silver-tongued	1	3	8
+Torre's	1	3	6
+Peachy	1	3	3
+Base-of-operations	1	3	3
+Auburn-to-strawberry-red	1	3	3
+One-to-One	1	3	4
+Near-black	1	3	3
+Fair-to-medium	1	3	3
+Victorian-inspired	1	3	3
+Lyubov	1	3	3
+Silver-tongue	1	3	3
+Tradesrobot	1	3	3
+Capricorn-area	1	3	3
+Jet-black	1	3	3
+Archive-narrator	1	3	6
+Pre-relocation	1	3	4
+Medium-length	1	3	4
+Sensualist	1	3	8
+High-Tower	1	3	5
+A-story	1	3	7
+B-story's	1	3	6
+Five-Point	1	3	5
+Two-axis	1	3	3
+Locarno-style	1	3	4
+TREATY	1	3	5
+CORE	1	3	20
+PROGRESS	1	3	71
+IDENTITY	1	3	102
+ORIGIN	1	3	32
+CHECK	1	3	253
+READ	1	3	244
+EMPTY	1	3	167
+ANY	1	3	266
+REAL	1	3	103
+MATERIAL	1	3	71
+TEPENIA	1	3	24
+LIVES	1	3	21
+HF	1	3	34
+TITLE	1	3	13
+LINE	1	3	133
+START	1	3	25
+STANDING	1	3	71
+BLOCKED	1	3	42
+SET	1	3	68
+SO	1	3	69
+RULE	1	3	76
+RECORD	1	3	46
+SCOPE	1	3	76
+STAGE	1	3	8
+TIER	1	3	63
+ENERGY	1	3	16
+FIVE	1	3	41
+SINGLE	1	3	23
+REGIONAL	1	3	5
+PRIOR	1	3	15
+J.S.	1	3	4
+BETTER	1	3	16
+INDEX	1	3	10
+ROBOT	1	3	31
+THEN	1	3	48
+ECONOMIC	1	3	9
+PASSIVE	1	3	9
+WORDS	1	3	14
+FLAG	1	3	8
+SCENE	1	3	5
+RIGHTS	1	3	4
+URUK	1	3	7
+M.I.A.	1	3	3
+DESIRE	1	3	3
+GHOST	1	3	3
+DMZ	1	3	12
+Conflict Experiences	78	2	79
+Relationship Dynamics	68	2	71
+Original Doll Model	68	2	73
+Colonization Era	68	2	69
+Formative History	51	2	52
+Past-History	30	2	32
+Fill-In	29	2	34
+Any internal contradiction	29	2	31
+Anti-stereotype check	29	2	31
+Inspiration mix	29	2	31
+Character Spec	29	2	30
+Current Status & Location
+
+Where	29	2	31
+Loyalties & Beliefs
+
+What	29	2	31
+Personal & Physical Presence
+
+How	29	2	31
+Signature Objects & Possessions
+
+Anything	29	2	31
+Narrative Hooks & Open Questions
+
+Anything	29	2	31
+Goal & Drive
+
+What	29	2	31
+Your Own Words
+
+Don't	29	2	31
+Relationships
+
+The	29	2	31
+Voice & Manner
+
+How	29	2	31
+Character Craft Notes	29	2	31
+In Sheet	29	2	30
+Notes
+
+Answers	29	2	31
+Project Name	29	2	30
+Still Present In-	29	2	32
+Social-dominant	9	2	11
+HKD	8	2	14
+Chinese Mei-	7	2	10
+DerivationMechanisms	6	2	727
+Visual Description
+Dark	6	2	7
+Leo's Star War	4	2	17
+Gray-blue	3	2	8
+Duumvir	3	2	5
+Gamesh	3	2	9
+| ⛔	3	2	68
+Robot Universals Ch	3	2	16
+Confirmed Dated Events	3	2	4
+Strong Inference	3	2	16
+Open Work	3	2	5
+Upper Earth's Assembly Powers	3	2	7
+Subcontinentals	2	2	17
+Japan-FOUNDED	2	2	18
+Countertype	2	2	23
+Revenant	2	2	7
+Cross-Media	2	2	4
+B-Story's	2	2	3
+Entelechian	2	2	4
+Bell-specific	2	2	4
+Truby-specific	2	2	4
+Human-ally	2	2	3
+Westphalia-style	2	2	5
+Kitts	2	2	5
+END	2	2	4
+FRESH	2	2	11
+THAT	2	2	162
+WAS	2	2	112
+CULTURE	2	2	85
+BEFORE	2	2	196
+ACTS	2	2	15
+TEPENIAN	2	2	24
+DID	2	2	54
+DOES	2	2	126
+AFTER	2	2	45
+SOCIAL	2	2	3
+PHYSICAL	2	2	40
+BOUNDARY	2	2	16
+FOUNDED	2	2	35
+NONE	2	2	105
+DROPPED	2	2	14
+HER	2	2	5
+SPANS	2	2	6
+AMERICAN	2	2	35
+TOWARD	2	2	5
+GRAND	2	2	4
+| ⭐	2	2	66
+| ⛔⛔	2	2	28
+ACT 2	2	2	9
+ACT 1	2	2	9
+further defined	2	2	3
+Where	2	2	4
+Mentors	2	2	5
+SPIRITUAL	2	2	3
+Siblings / generation-mates	2	2	4
+Family / creator	2	2	3
+Gil(bert) Gamesh	2	2	3
+En.Ki.Du	2	2	3
+Call to Adventure	2	2	4
+Disturbance	2	2	4
+Quick Capture Seed	2	2	10
+Subnet Ultra-	2	2	35
+Triage Protocol	2	2	11
+Mirny Subnet Ultra-	2	2	11
+No Subcontinentals	2	2	17
+Concordia's Ultra-	2	2	6
+Greatest Fear	2	2	8
+Her Enneagram	2	2	4
+The Solar Colonization	2	2	5
+Percentage Reference	2	2	4
+Epic of Gilgamesh	2	2	5
+Save the Cat's	2	2	4
+Opening
+Image	2	2	4
+Beat Detail	2	2	4
+Standard Save the Cat	2	2	4
+Iron Federation	2	2	5
+General Cooperation	2	2	5
+Antarctic Treaty's	2	2	6
+Kitts & Nevis	2	2	4
+Greenland and Quebec	2	2	4
+Her Goal	2	2	4
+Conflict Experiences
+
+Her	2	2	3
+Character Creation Methodology	2	2	3
+Republic of Colorado	2	2	9
+Forgeward	1	2	2
+GPS-purposes-only	1	2	54
+Cradle-network	1	2	8
+Atlantic-coast	1	2	6
+Pergamino	1	2	131
+Relatedness	1	2	2
+CRPG-specific	1	2	2
+Picchu's	1	2	3
+Origin-ethnicities	1	2	4
+Aquarius-originated	1	2	8
+Timeframe	1	2	5
+Cross-subnet	1	2	4
+Rastra's	1	2	8
+Orcadas	1	2	20
+Tower-completion	1	2	2
+China-founded	1	2	2
+Nihon	1	2	2
+Bukhan	1	2	2
+Hanguk	1	2	2
+Namhan	1	2	2
+Calethina's-lab	1	2	2
+Spain-inheritance	1	2	2
+Robot-Fabrication	1	2	2
+GPS-fact-only	1	2	3
+Australian-flavored	1	2	2
+Weddell-sector	1	2	4
+Weddell-facing	1	2	3
+Peninsula-to-Belgrano	1	2	2
+Argentina-founded	1	2	2
+National-ethnic-origin	1	2	2
+Social-Countertype	1	2	5
+Tepenia-branded	1	2	3
+Major-tier	1	2	2
+Speech-Pattern	1	2	4
+Level-Scaling	1	2	4
+TBD-by-design	1	2	2
+Per-session	1	2	2
+Strong-Inference	1	2	2
+Upper-Earth-era	1	2	4
+Calethina-specific	1	2	2
+Subtype	1	2	3
+Retroactive-eligible	1	2	2
+Enneagram-driven	1	2	2
+TodoWrite	1	2	2
+Du's	1	2	2
+Two-A	1	2	2
+AWOL-defectors	1	2	2
+Exile-born	1	2	2
+Triumvir	1	2	3
+Sino	1	2	2
+Sinae	1	2	2
+Off-map	1	2	2
+America-facing	1	2	2
+Jeju-do-administered	1	2	3
+New-Echota-like	1	2	3
+UN-equivalent	1	2	4
+Partial-Test-Ban-style	1	2	3
+Lighter-touch	1	2	3
+Sinian-Federation	1	2	3
+Jeju-do's	1	2	4
+Trusteeship-System-style	1	2	3
+Echota-style	1	2	3
+Versailles-style	1	2	3
+Chile-style	1	2	3
+Echota's	1	2	3
+New-Echota	1	2	3
+Inner-Tepenia	1	2	2
+SP-dominant	1	2	2
+Cross-repo	1	2	2
+AI-rendered	1	2	3
+Achievement-driven	1	2	2
+Han-majority	1	2	3
+DEATH	1	2	20
+THAN	1	2	62
+BUILDER	1	2	11
+SAME	1	2	156
+REPO	1	2	10
+RUN	1	2	128
+OVER	1	2	40
+FORM	1	2	48
+THEY	1	2	38
+ORBITAL	1	2	12
+TOWER	1	2	8
+SURFACE	1	2	41
+EXILE	1	2	14
+PURPOSE	1	2	164
+ENGINE	1	2	11
+FIXES	1	2	11
+DATA	1	2	69
+CAUSED	1	2	16
+DATE	1	2	14
+WHAT	1	2	161
+FACT	1	2	43
+OPERATOR	1	2	54
+RESOLVES	1	2	51
+CORRECT	1	2	66
+STARTING	1	2	11
+FACTS	1	2	19
+EXISTS	1	2	83
+THERE	1	2	88
+RELIABLE	1	2	93
+WHOSE	1	2	28
+FINDING	1	2	85
+WHERE	1	2	63
+OCCUPIES	1	2	12
+ALREADY	1	2	88
+ADOPTED	1	2	33
+MAPPING	1	2	2
+EXISTING	1	2	15
+ANTI	1	2	13
+NATION	1	2	17
+GOVERNS	1	2	21
+ABSENCE	1	2	26
+MEANS	1	2	26
+FIELD	1	2	10
+RATHER	1	2	35
+CLUSTER	1	2	10
+BUILT	1	2	124
+LOAD	1	2	31
+EXIST	1	2	58
+BEARING	1	2	25
+ORDINARY	1	2	20
+LOCALITY	1	2	10
+INPUTS	1	2	51
+THOSE	1	2	7
+ERA	1	2	15
+TYPES	1	2	5
+CONTEXT	1	2	12
+COMES	1	2	8
+MOSTLY	1	2	9
+ROLE	1	2	10
+PROGRAM	1	2	4
+CONVERGE	1	2	8
+CHOICE	1	2	10
+CRISIS	1	2	4
+MEMORY	1	2	49
+AMENDED	1	2	57
+ASKED	1	2	11
+PLACED	1	2	4
+PROPER	1	2	5
+WORD	1	2	8
+SPOKEN	1	2	2
+CENTRAL	1	2	13
+LOCALLY	1	2	7
+CAUSAL	1	2	5
+MOTIVE	1	2	4
+TRUTH	1	2	33
+WEAKNESS	1	2	3
+GOVERN	1	2	5
+CODE	1	2	2
+CROWDED	1	2	3
+BEAT	1	2	2
+MICE	1	2	8
+INTENDED	1	2	2
+FLAW	1	2	2
+WANT	1	2	2
+GREATEST	1	2	2
+FEAR	1	2	2
+LIE	1	2	2
+ICJ	1	2	3
+PEACEFUL	1	2	2
+FALKLAND	1	2	2
+Logs
+
+Supplementary	67	1	67
+For Dolls	65	1	65
+Game-specific	29	1	29
+Off-World-or-MIA	29	1	29
+What they value most	29	1	29
+The three-way category split	29	1	29
+Narrative
+
+Why	29	1	29
+Canonical Appearances
+
+Which	29	1	29
+What Was Deliberately Left Out	29	1	29
+Identity Basics
+
+Full	29	1	29
+Formative History
+
+Where	29	1	29
+Self-Preservational-dominant	7	1	7
+Besifa	6	1	6
+Blakeley	6	1	6
+Jasmine Blakeley	6	1	6
+Universal Design Laws	3	1	3
+Conflict Experiences
+
+When the Long Night	3	1	3
+Solar Colonization Era	3	1	3
+CRPG-exclusive	2	1	2
+Nieza's	2	1	2
+Who's	2	1	2
+drove	2	1	2
+Yes, secondarily	2	1	2
+Whoever set the wake-code	2	1	2
+PROFESSIONAL	2	1	2
+Post-Solar Colonization Era	2	1	2
+The customs inspection crew	2	1	2
+Possibly	2	1	2
+Megasheet and Hub's	2	1	2
+Binding Worldbuilding Rule	2	1	2
+Conflict Experiences
+
+During the Long Night	2	1	2
+Conflict Experiences
+
+She	2	1	2
+Visual Description
+Warm	2	1	2
+Solar Saturnian	2	1	2
+Formative History
+
+Originally	2	1	2
+Visual Description
+Vivid	2	1	2
+East Intermarian	2	1	2
+Formative History
+
+Built	2	1	2
+Visual Description
+Black	2	1	2
+Formative History
+
+Her	2	1	2
+Visual Description
+Long	2	1	2
+Character & Culture
+
+Not	2	1	2

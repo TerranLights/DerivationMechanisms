@@ -10,6 +10,7 @@
 ```
 ### Term
 - **Category:** what kind of thing it is
+- **Also called:** other names, former names and spellings (only if there are any)
 - **Definition:** one to three plain sentences
 - **Status:** how settled it is (see below)
 - **Used in:** the repos and works that use it
@@ -27,9 +28,51 @@
 - **Where repos disagree,** the entry records both versions and says which is newer. It does not pick one.
 - **The glossary defines; it does not develop.** New detail is worked out in its home repo, then the entry is updated.
 
-## Category index
-| Category | Terms |
+## Kept elsewhere
+- **Individual characters** have their own character files.
+- **Story-structure terms** (Save the Cat beats, Truby's steps, Harmon's circle) are in `../Stories/Story_Structure/`.
+- **Enneagram terms** are in `../Characters/Enneagram/`.
+- **Cryptograph Helix world details** (places, societies, factions) are held out for now, because the series predates the Tepenian universe and much of it will change (author, 2026-10-30). The held terms are listed in `_merge/*.progress.md`. Its navigation system (TANA and related terms) is included.
+
+## How it was built
+The 2026-10-30 sweep worked in three stages:
+1. **Harvest:** ten agents each covered one area of the repos. Their raw tables (`_harvest/`) are kept locally, not in git.
+2. **Merge:** six agents merged the results by letter range. Their progress files (`_merge/*.progress.md`) list every merge, drop and hold, and the conflicts between repos; the raw merge inputs are kept locally.
+3. **Finish:** a script built the cross-reference stubs and the category index.
+
+The tooling, briefs and resume steps are in `_dispatch/`. Every conflict found between repos is collected in `OPEN CONFLICTS (2026-10-30).md` for the author to rule on; each is also under **Open** in its entry.
+
+## Path shorthand in Sources
+Some entries shorten long InnerTepeniaGDD paths:
+
+| Shorthand | Full path in InnerTepeniaGDD |
 |---|---|
-| Organizations and authorities | [TANA](T.md#tana) |
-| Robot-fabrication megacorporations | [Abramentes](A.md#abramentes), [HyperHedral](H.md#hyperhedral) |
-| Robot biology and consumables | [Siligel](S.md#siligel) |
+| `Cities/` | `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/` |
+| `Specs/` | `Cities/Specs/` (as above) |
+| `Infrastructure/` | `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/` |
+| `Districts/` | `Worldspace/Locations-and-Levels/Concordia-City/Districts/` |
+| `ULM/` | `Worldspace/Locations-and-Levels/Universal_Location_Methodology/` |
+| `BL/` | `Background-Lore/Cities/` |
+| `.../` | a path shortened in the middle; search the repo for the file name |
+
+## Category index
+<!-- INDEX START -->
+**1607 entries** in 27 letter files, plus 578 cross-reference stubs for alternate names. The full list by category is `CATEGORY INDEX.md`.
+
+| Category | Entries |
+|---|---|
+| Organization | 36 |
+| Company | 7 |
+| Polity | 65 |
+| Place | 201 |
+| Era or event | 63 |
+| Law or rule | 20 |
+| Robot biology | 30 |
+| Technology | 53 |
+| Culture and society | 215 |
+| Group or people | 162 |
+| Language | 4 |
+| Unit or measure | 16 |
+| Game term | 342 |
+| Method term | 393 |
+<!-- INDEX END -->

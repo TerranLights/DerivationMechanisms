@@ -1,0 +1,1505 @@
+# Candidate terms for area S: term<TAB>files in this area<TAB>repos overall<TAB>files overall
+Tepenia	56	11	1636
+GDD	18	11	242
+Doll-Fi	4	11	317
+Inner Tepenia	36	10	451
+Tepenian	25	10	1129
+InnerTepeniaGDD	16	10	374
+Outer Tepenia	26	9	108
+Cryptograph	24	9	90
+Arcanet	23	9	892
+Worldspace	12	9	722
+Interwar	12	9	802
+Game-Mechanics	11	9	117
+Cryptograph Helix	11	9	73
+Real-world	6	9	459
+Tepenia's	28	8	875
+Concordia	19	8	1345
+Long Night War	18	8	854
+Second Interwar Period	10	8	262
+not	8	8	306
+Locations-and-Levels	6	8	363
+Tepenians	4	8	123
+TepenianUniverseTimeline	3	8	271
+Inner Tepenia's	18	7	129
+Upper Earth	13	7	526
+Falkland Treaty	12	7	759
+Frostlands	10	7	363
+Amundsen Tower	10	7	279
+Great Corruption	8	7	63
+South Pole	8	7	250
+Sci-Fi	7	7	36
+TerranLights	7	7	23
+Dev-Road-Map	7	7	77
+Concordia's	7	7	505
+Enneagram	6	7	839
+DR	5	7	652
+Majyao	4	7	77
+U.R.U.K.	4	7	32
+Tepenian-Federation	3	7	264
+Outside-World	3	7	270
+Repo	3	7	57
+Summary Table	3	7	15
+Bisyugota	2	7	63
+TheCryptographHelixDD	2	7	13
+High-level	2	7	127
+DJ	2	7	33
+Majyao Bisyugota	2	7	60
+Cross-reference	1	7	61
+PR	1	7	66
+ACT	19	6	89
+Undergrid	18	6	403
+Storyline	15	6	125
+NPCs	15	6	198
+Road of Trials	15	6	51
+STORY	13	6	63
+Southern Lights	13	6	32
+Subnet	10	6	1029
+Janbogo	10	6	824
+Jeju-do	9	6	258
+Planetary Split Brain	9	6	164
+Centauri	8	6	35
+New Centauri	8	6	22
+Calethina's	7	6	173
+Zhongshan	6	6	471
+Real-World	5	6	578
+Ji-Eun	5	6	135
+Design Notes	5	6	776
+Eun Kim	5	6	113
+No National Stereotypes	5	6	113
+Mirny	4	6	807
+Naizelle	4	6	61
+Long-Term	4	6	41
+GDD's	4	6	69
+Transformative	4	6	134
+Kendra Heinrich	4	6	94
+War of Upper Earth	4	6	176
+The Markets	4	6	97
+Power Core	4	6	136
+Unified Korea	4	6	71
+Vosora	3	6	108
+Torre	3	6	71
+Tanslock	3	6	80
+Vostok	3	6	295
+Villena	3	6	64
+Favi	3	6	76
+Mundi	3	6	94
+CurrentNovelDocs	3	6	42
+Post-war	3	6	73
+WebTV	3	6	9
+Dome Fuji	3	6	359
+Status	3	6	197
+Michelle Stanton	3	6	78
+Eyes of Gold	3	6	72
+Axis Mundi	3	6	94
+Hayashi	2	6	63
+Ayako	2	6	79
+Aparast	2	6	86
+Seica	2	6	51
+Core-Mechanics	2	6	81
+Hiresvett	2	6	50
+Cenilaithe	2	6	42
+Fenny	2	6	45
+Press-Outreach	2	6	8
+Long-term	2	6	43
+Self-Preservational	2	6	58
+Blood River Tea	2	6	19
+Pink Lucy	2	6	87
+Trisha Miller	2	6	46
+Seica Cenilaithe	2	6	41
+Villena Hiresvett	2	6	50
+Red Spiral	2	6	34
+Ayako Hayashi	2	6	61
+Second Interwar	2	6	323
+Calethina's Lab	2	6	41
+Space Elevator	2	6	10
+Neo-Races-and-Cultures	1	6	81
+SouthernLights	1	6	12
+Vostok's	1	6	136
+Cross-referenced	1	6	17
+Mega-Init	1	6	279
+Roadmap	1	6	29
+Real-time	1	6	15
+FW	1	6	78
+MACHINE	26	5	275
+AP	20	5	87
+Save the Cat	20	5	51
+Truby	19	5	54
+Calethina	12	5	11
+STATED	12	5	80
+SETUP	12	5	175
+The Cryptograph Helix	11	5	19
+CLOSING	9	5	27
+Palmer City	9	5	424
+Belgrano	8	5	508
+Aarden	8	5	98
+Doorway of No Return	8	5	19
+Maggie Aarden	8	5	87
+Amundsen Tower's	7	5	210
+New Vegas's	7	5	39
+McMurdo	6	5	409
+Melee	6	5	38
+Nerve	6	5	130
+Rastra	5	5	97
+Cymaticist	5	5	43
+GO	5	5	112
+POV	5	5	54
+All Is Lost	5	5	34
+Closing Image	5	5	22
+Star War	5	5	57
+Mawson	4	5	513
+Shirayuki	4	5	383
+Hornevian	4	5	324
+Megasheets	4	5	178
+Sinian	4	5	147
+Kunlun	4	5	430
+Repurposing	4	5	17
+Subvariant	4	5	209
+InnerTepeniaGDD's	4	5	57
+Blocking-Decisions	4	5	58
+TWO	4	5	170
+Engine	4	5	123
+Ross Sea	4	5	196
+Sinian Federation	4	5	119
+Falkland Treaty's	4	5	72
+Long Night War's	4	5	100
+The Power Core	4	5	39
+Dark Night	4	5	20
+Black Market	4	5	134
+The Great Corruption	4	5	29
+Opening Image	4	5	32
+Janbogo's	3	5	323
+Dumont	3	5	358
+Lazar	3	5	55
+Larsemann	3	5	193
+Griselda	3	5	65
+Belgrano's	3	5	206
+Sayowa	3	5	214
+Neumayer	3	5	406
+Signy	3	5	250
+Marambio	3	5	343
+Adare	3	5	279
+Main-Story	3	5	19
+Questline	3	5	526
+High-risk	3	5	13
+Self-Revelation	3	5	37
+Medium-High	3	5	18
+NAME	3	5	153
+Amundsen Station	3	5	260
+|	3	5	250
+James Bond	3	5	15
+The Labs	3	5	100
+The Long Watch	3	5	35
+Palmer City's	3	5	193
+Cape Adare	3	5	272
+Very High	3	5	10
+Implementation Notes	3	5	28
+DLC's	2	5	85
+B-Story	2	5	28
+Questlines	2	5	241
+Cross-district	2	5	28
+Megasheet	2	5	530
+Sanay	2	5	359
+Ultra-Megasheet	2	5	81
+Mawson's	2	5	191
+Zukelli's	2	5	190
+Theoretical-Calculations	2	5	178
+Gyeong-ja	2	5	18
+Abowasa	2	5	179
+Concordia-City	2	5	102
+Hardcore	2	5	52
+Veilkeepers	2	5	33
+Majyao's	2	5	40
+Antarctican	2	5	22
+Bogo	2	5	62
+Jang	2	5	62
+Aarden's	2	5	73
+Truby's	2	5	16
+In-world	2	5	22
+SPECIAL	2	5	37
+ONE	2	5	366
+MIT	2	5	854
+FROM	2	5	281
+the	2	5	32
+Goal	2	5	9
+Tolerance Pact	2	5	35
+South America	2	5	106
+Gyeong-ja Yun	2	5	16
+First Interwar Period	2	5	98
+Kendra Heinrich's	2	5	31
+South Korea	2	5	304
+Juan Carlos	2	5	178
+Griselda Alejandra	2	5	59
+The Long Night War's	2	5	15
+The Tower's	2	5	24
+The Vigil	2	5	27
+Hardcore Mode	2	5	51
+Federation of Tepenia	2	5	40
+Design Philosophy	2	5	322
+Maggie Aarden's	2	5	70
+No One Left Behind	2	5	37
+Jang Bogo Station	2	5	39
+The Eyes of Gold	2	5	30
+Sovereign Republic of Hawaii	2	5	27
+Ji-Eun's	1	5	31
+Denison's	1	5	165
+Meyzan	1	5	26
+Kunlun's	1	5	214
+McMurdo's	1	5	203
+Maitri	1	5	78
+Cross-Reference	1	5	422
+Self-Pres	1	5	29
+Lyuba	1	5	33
+Midwestland	1	5	77
+Sonora	1	5	58
+Eirwyn	1	5	25
+Singaporean	1	5	12
+Mei-Li	1	5	25
+Momo	1	5	40
+Neumayer's	1	5	200
+Vosora's	1	5	26
+Novolazarevskaya	1	5	97
+Hana	1	5	37
+Cardoss	1	5	25
+Yocazhda	1	5	24
+Baranova	1	5	29
+YouTuber	1	5	5
+Human-robot	1	5	70
+Morikawa	1	5	23
+Hub-born	1	5	46
+In-game	1	5	12
+Post-Solar	1	5	84
+Nilda	1	5	11
+Faviola	1	5	11
+Gynoid	1	5	43
+Garcelle	1	5	30
+Generalist	1	5	9
+END	1	5	793
+RESOLVED	1	5	146
+TCY	1	5	100
+A.R.U.T	1	5	22
+CANON	1	5	126
+RA	1	5	15
+AST	1	5	65
+STATION	1	5	92
+HUD	1	5	17
+VIP	1	5	23
+PROPOSED	1	5	78
+KWML	33	4	108
+IMAGE	19	4	48
+MAIN	14	4	65
+Mirror Moment	13	4	28
+FINAL	12	4	90
+CLOSE	12	4	163
+COUNTER	12	4	44
+DECISION	12	4	62
+FACTOR	12	4	99
+CARE	12	4	56
+BAD	12	4	42
+NIGHT	12	4	51
+LOST	12	4	51
+ROAD	12	4	61
+THEME	12	4	54
+TRIALS	12	4	40
+SOUL	12	4	41
+MORAL	12	4	42
+OPENING	12	4	42
+DARK	12	4	40
+New Vegas	11	4	93
+Minmax	10	4	365
+MacGuffin	9	4	15
+EMP	9	4	31
+DLCs	8	4	70
+Ossuary	7	4	38
+Zukelli	7	4	48
+Silicon Valley	7	4	26
+Diplomatic Negotiation	7	4	18
+Rothera	6	4	360
+Jury-Rigging	6	4	19
+Upper Earth's	6	4	124
+Empathy Protocols	6	4	19
+Data Archaeology	6	4	18
+Turku	5	4	30
+Attunement	5	4	21
+Document Status	5	4	325
+Mountain Pass	5	4	101
+Decentralized Systems Design	5	4	17
+Thermal Engineering	5	4	14
+Stealth & Infiltration	5	4	15
+Siligel Chemistry	5	4	12
+Deception & Narrative Crafting	5	4	11
+Sonic Attunement	5	4	16
+Character Flaw	5	4	38
+Akina	4	4	40
+Romanceable	4	4	13
+Speedrun	4	4	27
+Subnets	4	4	21
+Jury-Rig	4	4	21
+Ronin	4	4	152
+NEED	4	4	98
+SE	4	4	101
+MACHINE stats	4	4	11
+Calculation	4	4	129
+Bad Guys Close In	4	4	15
+Identity Fragmentation	4	4	29
+Robot Religion Insight	4	4	14
+Precision Maintenance & Repair	4	4	16
+Rigging & Repurposing	4	4	13
+The Long Night War	4	4	103
+Frontier Survival & Cold Adaptation	4	4	16
+High Calculation	4	4	34
+High Engine	4	4	17
+The Iron Nomad	4	4	14
+Environmental Exploitation & Ripple Reading	4	4	12
+The Relic Hunter	4	4	11
+The Wandering Guardian	4	4	11
+Arcanet Navigation & Hacking	4	4	10
+Cryptograph Helix's	4	4	8
+Arcanet's	3	4	35
+Zhuldyz	3	4	22
+District-Specific	3	4	86
+Side-Content	3	4	15
+Teahouse	3	4	28
+Ice-Cold	3	4	125
+Pre-War	3	4	316
+Completion-Matrix	3	4	33
+Minmax-Builds	3	4	13
+Set-Up	3	4	7
+Serikbolatkyzy	3	4	18
+AWOL	3	4	47
+FNV	3	4	79
+one	3	4	25
+The Flood	3	4	24
+Design Note	3	4	14
+Agility	3	4	123
+Theme Stated	3	4	36
+Merit Board Audit	3	4	15
+Byrd Station	3	4	72
+Overcrowding Decision	3	4	31
+Weddell Sea	3	4	172
+Princess Elisabeth	3	4	183
+Independent Lattice	3	4	20
+Cold Buddhism	3	4	92
+Action Points	3	4	13
+Raw Survival	3	4	126
+Low Humanity	3	4	10
+Zhuldyz Serikbolatkyzy	3	4	18
+High Might	3	4	25
+The Phantom Courier	3	4	12
+Moral Philosophy & Ethical Reasoning	3	4	8
+Undergrid Navigation & Salvaging	3	4	9
+The Iron Philosopher	3	4	9
+The Last Shepherd	3	4	9
+The Unbreakable Ronin	3	4	9
+Character Archetype	3	4	15
+Fake Ally	3	4	37
+Lockroy	2	4	188
+Character-Creation	2	4	42
+Machu	2	4	110
+Picchu	2	4	110
+Tower-regulated	2	4	9
+Polydimensional	2	4	61
+Amundsen-Scott	2	4	94
+Braun	2	4	29
+Cymaticists	2	4	32
+District-specific	2	4	40
+Kharkovchanka	2	4	25
+Cross-References	2	4	10
+Arrastradora	2	4	32
+Performative	2	4	110
+Nieza	2	4	12
+Turar	2	4	15
+Playstyle	2	4	7
+HQ	2	4	20
+ISS	2	4	57
+WWII	2	4	58
+WITHOUT	2	4	184
+PLAN	2	4	20
+Byrd	2	4	64
+Fort McMurdo	2	4	43
+Total	2	4	23
+Might	2	4	112
+Humanity	2	4	130
+Investigation	2	4	130
+Traits	2	4	7
+Next Steps	2	4	7
+Break into Two	2	4	7
+Catalyst	2	4	8
+Debate	2	4	8
+The Deep Level	2	4	25
+New Orleans	2	4	77
+Larsemann Hills	2	4	170
+Dome Fuji's	2	4	152
+Port Lockroy	2	4	175
+Polydimensional Animism	2	4	57
+The Frostlands	2	4	96
+Suspended Compact	2	4	41
+Janbogo Subnet Nexus	2	4	78
+The Undergrid	2	4	59
+Archive of Final Confessions	2	4	48
+South African	2	4	107
+East Antarctic	2	4	131
+Antarctic Peninsula	2	4	157
+Air Force	2	4	46
+The Falkland Treaty's	2	4	16
+Palmer Station	2	4	53
+East Antarctic Plateau	2	4	71
+Falkland Islands	2	4	44
+Concordia Station	2	4	27
+Deep Level	2	4	35
+The Golden Ring	2	4	12
+The Suspended Compact	2	4	21
+The Hub	2	4	53
+Last Updated	2	4	16
+The Federation's	2	4	13
+Assembly Powers	2	4	24
+Memory & Consciousness Manipulation	2	4	12
+Cultural Performance & Resonance	2	4	12
+The Ghost	2	4	11
+Enneagram Type	2	4	28
+The Long Game	2	4	9
+Arcanet Navigation	2	4	11
+Low Might	2	4	8
+Low Nerve	2	4	10
+High Agility	2	4	47
+High Investigation	2	4	25
+Shadow Exchange	2	4	6
+Virgo and Cancer	2	4	7
+Narrative Lattice	2	4	9
+Data Ghost	2	4	10
+The Eternal Engine	2	4	10
+Frontier Survival	2	4	9
+Integration Notes	2	4	7
+The Shadow Diplomat	2	4	7
+The Deep Scout	2	4	7
+The Moral Architect	2	4	7
+The Ghost Protocol	2	4	7
+The Unbending Witness	2	4	7
+The Last Champion	2	4	7
+The Forge Lord	2	4	7
+The Iron Covenant	2	4	7
+The Just Sentinel	2	4	7
+The Relentless	2	4	7
+The Unyielding Tyrant	2	4	7
+The Compassionate Investigator	2	4	7
+The Gray Eminence	2	4	7
+The Architect of Collapse	2	4	7
+The Living Bridge	2	4	7
+The Perfect Asset	2	4	7
+The Oracle	2	4	7
+The Eternal Seeker	2	4	7
+The Living Memory	2	4	7
+The Beloved Exile	2	4	7
+The Cartographer of Collapse	2	4	7
+The Obsessive	2	4	7
+The Unseen Guardian	2	4	7
+The Unveiled Architect	2	4	7
+Technical Notes	2	4	4
+Fun and Games	2	4	10
+Phase-	1	4	79
+Super-Ultra-Megasheet	1	4	28
+Significant-tier	1	4	110
+Marambio's	1	4	173
+Lazar's	1	4	130
+Sanay's	1	4	167
+Zukelli-descended	1	4	17
+Intermaria	1	4	24
+Lockpick	1	4	12
+Petersburg	1	4	40
+Echota	1	4	18
+Rothera's	1	4	192
+Mirny's	1	4	258
+Present-day	1	4	31
+Upper-Earth	1	4	38
+Chinese-French	1	4	14
+Orbital-Infrastructure	1	4	12
+Secret-Endings	1	4	22
+Dufay	1	4	31
+Favi's	1	4	21
+Signy's	1	4	128
+Rastras	1	4	35
+Fabricators	1	4	15
+Arrastradoras	1	4	40
+Re-check	1	4	8
+AST-only	1	4	5
+Kappa	1	4	21
+General-Overview-Notes	1	4	28
+Failsafe	1	4	17
+Cross-references	1	4	16
+Calculation-based	1	4	5
+Non-Recruitable	1	4	5
+Post-romance	1	4	12
+Working-class	1	4	16
+Steampunk	1	4	22
+Villena's	1	4	13
+Post-Falkland	1	4	120
+Cymatic	1	4	7
+TBN-district	1	4	46
+Cryogenic	1	4	8
+Lyubochka	1	4	6
+Storytelling	1	4	12
+Post-War	1	4	48
+Near-death	1	4	9
+Cross-Subnet	1	4	16
+Mirny-subnet	1	4	31
+Sino-Russian	1	4	20
+Sub-	1	4	7
+Truckyards	1	4	10
+Terraforming	1	4	10
+Eira	1	4	16
+Recruitable	1	4	11
+Survivalist	1	4	8
+Serikbolat	1	4	11
+Riso	1	4	45
+Frost-Hardened	1	4	4
+Tide-Kin	1	4	4
+Scar-Bearers	1	4	4
+High-Level	1	4	5
+Technocratic	1	4	7
+Roleplaying	1	4	10
+Exosuit	1	4	108
+Hackable	1	4	107
+Low-Medium	1	4	5
+Self-explanatory	1	4	5
+CSA	1	4	41
+CITY	1	4	198
+OPEN	1	4	701
+USE	1	4	180
+SA	1	4	23
+HERE	1	4	98
+MIA	1	4	43
+JARE	1	4	59
+UV	1	4	29
+PLUS	1	4	17
+MAC	1	4	21
+WORLD	1	4	53
+ML	1	4	11
+CH	1	4	9
+AU	1	4	41
+AGI	1	4	12
+G.A.R.	1	4	9
+MAE	1	4	5
+DOORWAY	19	3	46
+BATTLE	19	3	46
+Siligel	15	3	5
+ALLY	12	3	41
+KICK	12	3	39
+DOG	12	3	39
+DEBATE	12	3	39
+PET	12	3	41
+ATTACK	12	3	41
+PACKAGE	12	3	39
+GUYS	12	3	39
+CATALYST	12	3	39
+FAKE	12	3	41
+SHINS	12	3	39
+Framejacking	11	3	3
+MIDPOINT	10	3	26
+Final Battle	10	3	27
+Care Package	9	3	18
+Altay	7	3	13
+RETURN	6	3	108
+Outer Tepenia's	6	3	9
+Denison	5	3	39
+Empathic	5	3	18
+Q-Factor	5	3	30
+POST	5	3	98
+WAR	5	3	49
+Argument Against Transformation	5	3	11
+Pet the Dog	5	3	11
+Re-Spec	4	3	18
+Wake-up	4	3	54
+Triadic	4	3	32
+Per-book	4	3	13
+DT	4	3	21
+CHANGE	4	3	115
+NV	4	3	13
+YOU	4	3	129
+LATER	4	3	62
+SEARCH	4	3	136
+PRESENT	4	3	33
+TAKE	4	3	82
+FIND	4	3	86
+INITIAL	4	3	38
+Power	4	3	7
+Lights Out	4	3	9
+Inciting Event	4	3	43
+Electronic Warfare	4	3	12
+Quests and Story	4	3	6
+Living Philosophy	4	3	15
+Calc	3	3	22
+Zhongshanese	3	3	13
+Rotheran	3	3	15
+Level-up	3	3	20
+Capstone	3	3	10
+Cutting-edge	3	3	7
+Saturnian	3	3	18
+OS	3	3	45
+Character Creation	3	3	9
+Fallout Precedence Law	3	3	10
+San Francisco	3	3	19
+Siligel Rush and Bust	3	3	16
+Open Frame Project	3	3	13
+The Chinese	3	3	9
+Key Relationships	3	3	10
+Best For	3	3	5
+Blocking Decision	3	3	23
+World Depth	3	3	48
+Magic Flight	3	3	9
+Boneyard	2	3	46
+God-mind	2	3	23
+Syncretic	2	3	26
+Seica's	2	3	15
+Neo-Races	2	3	33
+Cross-project	2	3	6
+Cymatics	2	3	54
+AP-driven	2	3	5
+Akademgorodok	2	3	28
+Earth-era	2	3	4
+Solenne	2	3	22
+Anvers	2	3	49
+Shibuya	2	3	22
+Roleplay	2	3	7
+Trade-offs	2	3	9
+Burned-Out	2	3	6
+War-era	2	3	16
+Boneyarders	2	3	13
+High-security	2	3	6
+Level-Up	2	3	10
+Cold-Blooded	2	3	7
+LEO	2	3	39
+GW	2	3	48
+PART	2	3	187
+WITH	2	3	228
+LIVE	2	3	51
+SIGN	2	3	23
+CALL	2	3	18
+CAST	2	3	31
+MINOR	2	3	14
+ARG	2	3	16
+MASTER	2	3	38
+CROSSING	2	3	29
+CROSS	2	3	27
+AID	2	3	16
+ASMR	2	3	4
+MAGIC	2	3	14
+REFUSAL	2	3	30
+FREEDOM	2	3	32
+DOLL	2	3	17
+FLIGHT	2	3	14
+or	2	3	48
+Energy	2	3	8
+Pisces	2	3	24
+Perks	2	3	7
+Living Network Experiment	2	3	19
+Competence Without Commentary	2	3	45
+Kunlun and Dome Fuji	2	3	56
+Argentine Air Force	2	3	29
+Ross Island	2	3	73
+The Government District	2	3	26
+Nerve Modifier	2	3	6
+Belgrano Highway Extension	2	3	38
+Anvers Island	2	3	41
+Mountain Pass's	2	3	18
+What Tepenia's	2	3	4
+Libra's Suspended Compact	2	3	23
+Gemini's Twin Channels	2	3	16
+Council Chambers	2	3	5
+The Burned-	2	3	6
+Pisces and Scorpio	2	3	8
+Mother's Circuit	2	3	32
+Pisces and Sagittarius	2	3	7
+Core Focus	2	3	6
+Concordia and Janbogo	2	3	12
+The Russian	2	3	18
+Upper Earth Defectors	2	3	14
+Clean Slate	2	3	8
+Challenge Perks	2	3	6
+Completion Matrix	2	3	29
+Main Game	2	3	4
+Blocking Decisions	2	3	20
+Joseph Campbell	2	3	7
+Hero's Journey	2	3	6
+Blocking Decisions
+
+Decisions	2	3	13
+Design Docs and Outline	2	3	3
+Fallout-Design-Reference	1	3	5
+Dongbei	1	3	8
+Alt-Rock	1	3	21
+Ultra-Megasheets	1	3	28
+Prydz	1	3	154
+Alt-Pop	1	3	21
+Soviet-era	1	3	17
+High-Output	1	3	7
+Off-world	1	3	11
+World-Depth	1	3	14
+Tepenia-wide	1	3	117
+Methodologists	1	3	23
+Alt-Grunge	1	3	21
+Tabarin	1	3	30
+Cross-City	1	3	83
+Vegas-style	1	3	10
+Ongul	1	3	49
+Borchgrevink's	1	3	39
+Vestfold	1	3	75
+Hayashi's	1	3	20
+Abowasa's	1	3	59
+Coldshock	1	3	6
+Step-by-Step	1	3	7
+Re-spec	1	3	8
+Vostok-Kunlun	1	3	25
+Carsten's	1	3	34
+To-Do	1	3	24
+Halley-subnet	1	3	43
+Camila	1	3	5
+Concordia-set	1	3	6
+Petrograd	1	3	21
+China-Primary	1	3	32
+Re-speccing	1	3	4
+Full-scale	1	3	6
+High-quality	1	3	4
+Roald's	1	3	36
+Tyumen	1	3	27
+Mawson-subnet	1	3	15
+Novolazarevskaya's	1	3	15
+Peninsula-internal	1	3	11
+Basen	1	3	29
+Finnish-Swedish	1	3	33
+Vesleskarvet	1	3	39
+Jeju	1	3	36
+Nyakkyo	1	3	16
+Chinese-Primary	1	3	13
+Waystones	1	3	12
+Royds	1	3	19
+Bisyugota's	1	3	10
+Katabatic	1	3	62
+Pre-exile	1	3	13
+Lemaire	1	3	20
+Hay-on-Wye	1	3	12
+Vaskarre	1	3	18
+Belgrano-led	1	3	9
+Goudier	1	3	37
+Tobias	1	3	29
+Ashiato	1	3	30
+Glacier-pop	1	3	19
+Airbase	1	3	13
+Digital-Industrial	1	3	15
+Akademgorodok's	1	3	8
+Harald	1	3	19
+Italian-rooted	1	3	11
+Kazimierz	1	3	10
+Foundational	1	3	22
+Hongdae	1	3	16
+Harajuku	1	3	18
+Marambian	1	3	12
+Shenzhen	1	3	19
+Feeling-centered	1	3	15
+Wiencke	1	3	33
+Shibuya-kei	1	3	8
+Cell-Fed	1	3	8
+Bladed	1	3	12
+Trade-Offs	1	3	8
+Disassembly	1	3	6
+Nanotech	1	3	11
+Built-in	1	3	11
+Danzig	1	3	4
+Lausanne	1	3	5
+French-Italian	1	3	12
+Robot-Specific	1	3	143
+Black-market	1	3	10
+Regional-Characteristics	1	3	24
+District-Quest-NPCs	1	3	8
+Cold-Side	1	3	8
+Hub-arrived	1	3	14
+Hub-Born	1	3	16
+Multi-generational	1	3	7
+Janbogo-city	1	3	14
+Consolidationists	1	3	11
+Trauma-Bearers	1	3	17
+Tribalists	1	3	8
+Dual-Network	1	3	20
+Ciudad	1	3	11
+WWII-era	1	3	9
+Kakheti	1	3	8
+Macau	1	3	7
+Bloomberg	1	3	6
+Mesoamerica	1	3	5
+Prohibition-era	1	3	10
+Meritocratic	1	3	4
+Consolidationist	1	3	12
+Street-level	1	3	7
+Glitch-coolant	1	3	22
+Gini-adjusted	1	3	20
+Endpoint	1	3	3
+Early-era	1	3	4
+Post-	1	3	18
+Australian-founded	1	3	8
+Korean-founding	1	3	5
+Zero-emissions	1	3	3
+Hydraulic-leg	1	3	4
+Tepenian-era	1	3	20
+War-adjacent	1	3	3
+Esperanza-raised	1	3	6
+Japanese-led	1	3	6
+Machina	1	3	53
+Harbour	1	3	15
+One-line	1	3	82
+Day-to-day	1	3	7
+Earth-adjacent	1	3	5
+Waystone	1	3	5
+High-rise	1	3	5
+Sanaian	1	3	5
+Belgranian	1	3	9
+Post-questline	1	3	5
+Morikawa's	1	3	10
+Late-game	1	3	4
+Goldeneye	1	3	7
+Continuants	1	3	3
+Institutionalists	1	3	3
+Integrationists	1	3	3
+Specificists	1	3	3
+Rupturists	1	3	3
+Lethality	1	3	8
+Military-grade	1	3	4
+Idolization	1	3	7
+Story-gated	1	3	3
+Fast-moving	1	3	3
+Upgradable	1	3	4
+Re-recruiting	1	3	3
+Turn-based	1	3	5
+Disruptor	1	3	4
+Anti-robot	1	3	5
+World-building	1	3	3
+World-Building	1	3	18
+Quests-and-Story	1	3	4
+Pre-Phase	1	3	10
+Yun's	1	3	5
+High-Tower	1	3	5
+A-story	1	3	7
+B-story's	1	3	6
+Beat-by-Beat	1	3	7
+B-story	1	3	10
+A-plot	1	3	22
+Five-Point	1	3	5
+Character-Web	1	3	6
+Two-axis	1	3	3
+Locarno-style	1	3	4
+Audiocasts	1	3	3
+Elven	1	3	10
+Gaelic-language	1	3	4
+Parallel-Earth	1	3	3
+NYC	1	3	12
+CIN	1	3	53
+IF	1	3	38
+AS	1	3	288
+AMUNDSEN	1	3	24
+TL	1	3	17
+SANAP	1	3	20
+SANAE	1	3	69
+PALMER	1	3	26
+MIRNY	1	3	21
+SUBNET	1	3	38
+HALLEY	1	3	26
+BYRD	1	3	27
+DIY	1	3	31
+JANBOGO	1	3	23
+MAWSON	1	3	24
+FINNARP	1	3	12
+SWEDARP	1	3	10
+NSF	1	3	47
+EM	1	3	10
+ILO	1	3	5
+LA	1	3	8
+IDM	1	3	4
+EBM	1	3	3
+OVERVIEW	1	3	4
+INE	1	3	8
+GENERAL	1	3	27
+ACE	1	3	10
+AZ	1	3	9
+WORDS	1	3	14
+AQUARIUS	1	3	3
+FACTIONS	1	3	4
+ACN	1	3	3
+Earthtech	33	2	34
+Dan Harmon	18	2	19
+Craft Reference	15	2	22
+Book-level	14	2	20
+Craft Touchstones	14	2	29
+Earthtech's	11	2	12
+Allele	11	2	12
+The Autonomy Allele	11	2	12
+NODE	9	2	4
+DNA-as-tech	7	2	9
+VATS	7	2	11
+Passive Shadow	6	2	7
+Ossuary Resonance	6	2	14
+Non-Lethal	5	2	11
+Empath	5	2	10
+The-Falkland-Treaty	5	2	6
+SCN	5	2	6
+Threat Assessment	5	2	11
+Subdual	4	2	8
+Series-Wide	4	2	4
+DNotS	4	2	22
+Jumpstart	4	2	29
+End-of-Arc	4	2	37
+High-proficiency	4	2	34
+DNA-tech	4	2	5
+UNDATED	4	2	8
+GAME	4	2	7
+STN	4	2	5
+TANA	4	2	6
+AiL	4	2	22
+BGCI	4	2	26
+Idea	4	2	5
+Want	4	2	5
+Calculation (C)	4	2	8
+Tactical Grid Combat	4	2	12
+Mounting Forces	4	2	6
+Holographic Projection	4	2	11
+Power Grid Management	4	2	8
+Lethal Restraint & Subdual	4	2	8
+Improvised Weaponry & Combat Jury-	4	2	8
+Subnet Optimization	4	2	8
+Faction Rhetoric	4	2	8
+Hydroponic Systems	4	2	8
+Isolation & Psychological Resilience	4	2	7
+The Panicked Ghost	4	2	8
+The Fearful Thinker	4	2	8
+The Oblivious Runner	4	2	8
+The Awkward Survivor	4	2	8
+The Awkward Thinker	4	2	8
+The Blind Empath	4	2	8
+The Exhausted Empath	4	2	8
+The Panicked Runner	4	2	8
+The Cowardly Empath	4	2	8
+The Blind Wanderer	4	2	8
+The Weary Survivor	4	2	8
+Forge Rebuild	4	2	8
+Act Structure	4	2	5
+Personal Transformation	4	2	20
+Harmonic Trait	4	2	37
+Psychological Need	4	2	34
+Rooting Resume	4	2	35
+Moral Need	4	2	35
+Arc Redemption	4	2	35
+Wounding Message	4	2	33
+Core Fear	4	2	37
+Hornevian Triadic Variant	4	2	31
+Core Weakness	4	2	31
+Core Desire	4	2	34
+Broken Compass	4	2	36
+Sandevistan	3	2	8
+Oathbinding	3	2	7
+Slow-Hearted	3	2	6
+Re-specing	3	2	6
+Astrometric	3	2	4
+DNA-cryptography	3	2	4
+Shiba	3	2	5
+Apostasis	3	2	5
+DNA-based	3	2	3
+Writers-Room-Hooks	3	2	5
+The-Amundsen-Tower	3	2	4
+STEM	3	2	7
+CAL	3	2	7
+Agility (A)	3	2	6
+Engine (E)	3	2	6
+Investigation (I)	3	2	6
+Nerve (N)	3	2	6
+Humanity (H)	3	2	6
+Total Combinations	3	2	6
+First Collective	3	2	9
+Hazard Navigation	3	2	7
+Cryptography & Decryption	3	2	6
+Highway Maintenance & Transit Systems	3	2	6
+Defensive Posturing & Endurance Fighting	3	2	6
+Scavenging & Resource Foraging	3	2	6
+Data Leakage & Information Warfare	3	2	6
+Companion Command & Loyalty	3	2	7
+Golden Eye Calibration	3	2	10
+Faction & Reputation Management	3	2	6
+Information Verification & Analysis	3	2	6
+Rumor & Network Intelligence	3	2	6
+The Blind Coward	3	2	6
+The Architect of Ruin	3	2	6
+The Guardian Heart	3	2	6
+The Relic Walker	3	2	6
+The Relic Forger	3	2	6
+The Guardian Forge	3	2	6
+The Unbreakable Forge	3	2	6
+High Stats	3	2	6
+Low Stats	3	2	6
+The Unyielding Mind	3	2	6
+The Cold Strategist	3	2	6
+Focus Drain	3	2	6
+Design Goals	3	2	6
+The Clumsy Scavenger	3	2	6
+The Awkward Coward	3	2	6
+The Blind Calculator	3	2	6
+The Fearful Heart	3	2	6
+The Fearful Empath	3	2	6
+The Slow-	3	2	6
+The Fearful Brute	3	2	6
+The Awkward Guardian	3	2	6
+The Clumsy Tinkerer	3	2	6
+The Blind Forager	3	2	6
+The Panicked Thinker	3	2	6
+The Fearful Smith	3	2	6
+The Slow Strategist	3	2	6
+The Clumsy Coward	3	2	6
+The Exhausted Scavenger	3	2	6
+The Cowardly Blade	3	2	6
+The Blind Shepherd	3	2	6
+The Weary Tinkerer	3	2	6
+The Oblivious Empath	3	2	6
+Deep System Purge	3	2	6
+Rebirth Ritual	3	2	6
+Market Rebuild	3	2	6
+Environments-Federation-Cities	2	2	3
+Recalibration	2	2	38
+Absurdism	2	2	6
+Framejack	2	2	6
+Neo-Cultures	2	2	6
+Adinkras	2	2	12
+Might-based	2	2	6
+Cross-Faction	2	2	11
+Cross-phase	2	2	4
+Nerve-based	2	2	8
+Synergizes	2	2	4
+Cyberware	2	2	5
+Post-mode	2	2	4
+Cooldown	2	2	4
+Crit	2	2	5
+Homebound	2	2	4
+High-intensity	2	2	4
+Calethina-style	2	2	4
+Matrioshka	2	2	5
+DNA-computing	2	2	3
+Gutsiness	2	2	13
+Self-contradiction	2	2	13
+Multi-point	2	2	13
+INV	2	2	4
+CHAR	2	2	11
+HuMAN	2	2	10
+FATHER	2	2	16
+BOON	2	2	14
+WHALE	2	2	14
+DESS	2	2	14
+AGST	2	2	14
+MEETING	2	2	14
+ULTIMATE	2	2	14
+BELLY	2	2	14
+RESCUE	2	2	14
+WORLDS	2	2	14
+GOD	2	2	14
+NMS	2	2	3
+Rule	2	2	5
+Numbering	2	2	4
+tentative	2	2	4
+Stats Key	2	2	4
+= Investigation	2	2	4
+= Agility	2	2	4
+= Humanity	2	2	4
+= Might	2	2	4
+= Calculation	2	2	4
+= Nerve	2	2	4
+OR	2	2	4
+Effect	2	2	4
+Faction Oathbinding	2	2	3
+Virgo Deep System Purge	2	2	3
+Aquarius Experimental Overhaul	2	2	3
+Crisis / Environmental Event	2	2	3
+Black Market Neural Rewrite	2	2	3
+Precision Strike	2	2	5
+Undergrid Runner	2	2	7
+discarded	2	2	4
+Rapid Fire Protocols	2	2	5
+Grim Reaper Protocols	2	2	6
+Might (M)	2	2	4
+augmentations	2	2	4
+on top	2	2	4
+Base DR	2	2	4
+Base DT	2	2	4
+The Merit Board Audit	2	2	10
+Syncretic Religion	2	2	17
+The Yards	2	2	33
+Specific Re-	2	2	4
+Risk Level	2	2	5
+Cymatics Reverence	2	2	25
+Races and Neo-	2	2	6
+Neural Overclock	2	2	12
+The Sanctuary	2	2	22
+The Veil	2	2	6
+God-mind Universe Simulation	2	2	4
+Targeting System	2	2	4
+Joint Lock	2	2	5
+Lattice Swap	2	2	5
+Insulation Schism	2	2	16
+The Hearth	2	2	4
+Daily Life	2	2	7
+Sylvester James Gates Adinkras	2	2	8
+Character Type	2	2	5
+The Final Battle	2	2	3
+Inciting Incident	2	2	3
+Reference Principles	2	2	3
+Defensive Posturing	2	2	5
+War Lore & History	2	2	5
+Combat & Security	2	2	5
+Each Tagged	2	2	4
+The Exhausted Shepherd	2	2	4
+Low Title Example	2	2	4
+Tentative New Skills	2	2	4
+Companion Command	2	2	3
+Expanded Systems	2	2	4
+Moral Philosophy	2	2	4
+Fallout Equivalent	2	2	4
+Complete List of All	2	2	4
+Minmax Builds	2	2	4
+Rapid Strain	2	2	4
+The Three Modes	2	2	4
+Neural Strain	2	2	5
+Hack Spam	2	2	4
+Neural Overclock System	2	2	4
+Overclock Action	2	2	4
+Stat Scaling	2	2	4
+The Mobile Shepherd	2	2	4
+The Enduring Philosopher	2	2	4
+The Clumsy Empath	2	2	4
+The Lightning Smith	2	2	4
+The Exhausted Strategist	2	2	4
+The Analytical Titan	2	2	4
+The Clumsy Genius	2	2	4
+Hearted Survivor	2	2	4
+The Beloved Engine	2	2	4
+The Empathic Relic Hunter	2	2	4
+The Daredevil Blade	2	2	4
+The Mobile Forge	2	2	4
+The Charismatic Ghost	2	2	4
+The Bold Philosopher	2	2	4
+The Phantom Forger	2	2	4
+The Oblivious Scavenger	2	2	4
+The Graceful Artisan	2	2	4
+The Panicked Scavenger	2	2	4
+The Fearless Optimizer	2	2	4
+The Oblivious Brute	2	2	4
+The Charismatic Forager	2	2	4
+The Exhausted Forager	2	2	4
+The Insightful Diplomat	2	2	4
+The Iron Strategist	2	2	4
+The Compassionate Engineer	2	2	4
+The Slow Heart	2	2	4
+The Empathic Analyst	2	2	4
+The Frail Shepherd	2	2	4
+The Lightning Engineer	2	2	4
+The Blunt Heart	2	2	4
+The Insightful Guardian	2	2	4
+The Cowardly Forger	2	2	4
+The Calculated Courier	2	2	4
+The Blind Heart	2	2	4
+The Beloved Titan	2	2	4
+The Slow Forager	2	2	4
+The Fearless Scout	2	2	4
+The Blunt Brute	2	2	4
+The Exhausted Runner	2	2	4
+The Obsidian Seeker	2	2	4
+The Calculated Guardian	2	2	4
+The Lightning Analyst	2	2	4
+The Blunt Survivor	2	2	4
+Out Seeker	2	2	4
+The Cowardly Shepherd	2	2	4
+The Optimized Forager	2	2	4
+The Relic Ronin	2	2	4
+The Fearful Wanderer	2	2	4
+The Hollow Engineer	2	2	4
+The Clumsy Heart	2	2	4
+The Clumsy Relic Hunter	2	2	4
+The Exhausted Seeker	2	2	4
+The Awkward Forager	2	2	4
+The Watchful Shepherd	2	2	4
+The Shadow Detective	2	2	4
+The Anxious Seeker	2	2	4
+The Bold Guardian	2	2	4
+The Courageous Guardian	2	2	4
+The Gentle Archaeologist	2	2	4
+The Deathless Smith	2	2	4
+The Fearless Detective	2	2	4
+The Bold Protector	2	2	4
+The Exhausted Artisan	2	2	4
+The Hollow Observer	2	2	4
+The Lightning Relic Hunter	2	2	4
+The Empathic Scout	2	2	4
+The Shadow Engineer	2	2	4
+The Oblivious Survivor	2	2	4
+The Blind Runner	2	2	4
+The Fearful Runner	2	2	4
+The Phantom Investigator	2	2	4
+The Lightning Ronin	2	2	4
+The Oblivious Heart	2	2	4
+The Phantom Strategist	2	2	4
+The Strategic Forge Lord	2	2	4
+The Optimized Phantom	2	2	4
+The Strategic Relic Smith	2	2	4
+The Shadow Forager	2	2	4
+The Graceful Diplomat	2	2	4
+The Hollow Guardian	2	2	4
+The Tactical Forager	2	2	4
+The Unbreakable Mind	2	2	4
+The Empathic Ronin	2	2	4
+The Fearless Diplomat	2	2	4
+The Panicked Heart	2	2	4
+The Blind Ghost	2	2	4
+The Analytical Ronin	2	2	4
+The Fearless Operative	2	2	4
+The Slow Survivor	2	2	4
+The Weary Calculator	2	2	4
+The Blind Survivor	2	2	4
+Processing Cycles	2	2	4
+Body Part Difficulty	2	2	4
+Nerve Focus Bonus	2	2	4
+Sensor Scramble	2	2	4
+Technical Skills	2	2	4
+Lethal Restraint	2	2	4
+Production Overhaul	2	2	4
+Homebound Recalibration	2	2	4
+Sanctuary Rebinding	2	2	4
+Axis Recalibration	2	2	4
+Oathbinding Pact	2	2	4
+Subnet Integration	2	2	4
+Spotlight Overhaul	2	2	4
+Skill Atrophy	2	2	4
+Fragmented Self	2	2	4
+Experimental Lattice Swap	2	2	4
+Permanent Arcanet	2	2	4
+Environmental Event	2	2	4
+Rebirth Clinics	2	2	3
+Overclock Decks	2	2	3
+Extremely High	2	2	4
+Ritual Arenas	2	2	3
+Undergrid Maintenance Hubs	2	2	3
+Prototype Chambers	2	2	3
+Spec Methods	2	2	4
+Robotics Institute	2	2	3
+Perk Name	2	2	4
+Unlock Condition	2	2	4
+Neural Operating Directive Enhancement	2	2	3
+Strong Disrupt	2	2	4
+Tepenian Universe Timeline	2	2	3
+Open Decisions	2	2	2
+Harmon Story Circle	2	2	3
+Dev Road Map	2	2	2
+Moon and Sun	2	2	3
+Genetic Engineering	2	2	3
+Isaac Arthur	2	2	5
+Bit of Gutsiness	2	2	13
+Multi-point Opposition	2	2	13
+Craig Benson
+
+Enneagram Type	2	2	3
+Dying Robot	2	2	3
+Ends the War of Upper Earth	2	2	3
+Continent-scale	1	2	3
+Concordia-wide	1	2	8
+Tepenia-original	1	2	5
+Concept-Art	1	2	3
+Upper-	1	2	4
+Gravitic	1	2	4
+RepCONN	1	2	5
+After-Effect	1	2	4
+Power-grid	1	2	3
+Agility-based	1	2	5
+Agulhas	1	2	15
+Earth-anchored	1	2	2
+CombatManager	1	2	5
+Navmesh	1	2	3
+DistrictResource	1	2	6
+APManager	1	2	7
+Per-district	1	2	17
+Erebus-monitoring	1	2	2
+Baarle-Hertog	1	2	7
+Sark	1	2	10
+Bandera	1	2	10
+Zurich	1	2	8
+Mate-sharing	1	2	2
+Lazarian	1	2	6
+Japanese-heritage	1	2	28
+Norwegian-heritage	1	2	5
+Faranda's	1	2	7
+French-speaking	1	2	2
+Fenwick	1	2	8
+Argentine-imported	1	2	4
+Palmer-subnet	1	2	30
+Saharan	1	2	6
+Tsukuba	1	2	13
+Nizhny	1	2	16
+Beale	1	2	8
+Norilsk	1	2	22
+Tagil's	1	2	4
+Wolfsburg's	1	2	5
+Necrotic	1	2	8
+Tepenia-native	1	2	8
+Quick-Reference	1	2	2
+Founding-population	1	2	5
+Coldsiders	1	2	17
+Stage-	1	2	10
+Long-Night-War-era	1	2	3
+Terre	1	2	17
+Akihabara	1	2	5
+Epidaurus	1	2	10
+Sealand	1	2	5
+Neom	1	2	5
+Kabuki-za	1	2	5
+Alberobello	1	2	4
+Fordist	1	2	4
+Bruges	1	2	5
+Cottonopolis	1	2	4
+Vodou	1	2	6
+Hundertwasserhaus	1	2	9
+Teatro	1	2	7
+Songdo	1	2	5
+Arcosanti	1	2	10
+Solingen	1	2	5
+Christiania	1	2	7
+Ngaben	1	2	5
+Marrakech's	1	2	4
+Cinque	1	2	14
+Este	1	2	8
+Lachaise	1	2	9
+Cappadocia's	1	2	6
+Ginza	1	2	4
+Two-Stage	1	2	6
+Cradle-adjacent	1	2	13
+Lightwave	1	2	11
+Polyrhythm	1	2	11
+Soundscape	1	2	34
+Coldsider	1	2	11
+Overcrowding-Decision-style	1	2	5
+Hub-arrived-by-elimination	1	2	8
+Sayowa-descended	1	2	12
+Documentarian	1	2	9
+Hundertwasser's	1	2	5
+Asclepieion	1	2	3
+Care-debt	1	2	2
+Family-Bonded	1	2	3
+Glowweave	1	2	3
+Rastra-descended	1	2	6
+Valentina	1	2	2
+Estrella	1	2	2
+Finnish-heritage	1	2	2
+Byrd-set	1	2	3
+Paleoclimate	1	2	2
+Reno-style	1	2	4
+Flagstaff-style	1	2	3
+Subnet-wide	1	2	3
+Volcanology	1	2	2
+Akina's	1	2	3
+Non-recruitable	1	2	3
+SP's	1	2	3
+Post-quest	1	2	3
+Hazard-Adapted	1	2	3
+Earth-born	1	2	2
+Concordia-route	1	2	2
+VATS-equivalent	1	2	2
+Avellone's	1	2	2
+PipBoy	1	2	2
+Masterson	1	2	2
+Cross-series	1	2	2
+Cross-Series	1	2	2
+High-Nerve	1	2	2
+Debuff	1	2	2
+Tech-Heavy	1	2	2
+Risk-tolerant	1	2	2
+Four-Stat	1	2	2
+Three-Stat	1	2	2
+Tank-Damage	1	2	2
+Counterplay	1	2	2
+Playtest	1	2	2
+Sandevistan-style	1	2	2
+Lifepath	1	2	2
+Slow-Burning	1	2	2
+High-Mobility	1	2	2
+Ice-Forged	1	2	2
+Three-Maximum	1	2	2
+Three-Minimum	1	2	2
+Non-skill	1	2	2
+Situational	1	2	2
+Speedrunning	1	2	2
+Agil	1	2	2
+Two-handed	1	2	2
+Traceability	1	2	3
+AP-to-Movement	1	2	3
+Carry-Over	1	2	3
+Trade-Off	1	2	3
+Re-Specs	1	2	2
+Frost-forged	1	2	2
+Non-Negotiable	1	2	2
+Post-idolization	1	2	2
+Speedrun-friendly	1	2	2
+Character-Progression	1	2	2
+Engine-focused	1	2	2
+Hardcore-specific	1	2	2
+Near-misses	1	2	2
+Calculation-dependent	1	2	2
+Agility-related	1	2	2
+Engine-related	1	2	2
+Unaddressed	1	2	2
+Stat-gated	1	2	2
+Trait-gated	1	2	2
+Tradeoffs	1	2	2
+Re-Specced	1	2	2
+Frost-Forged	1	2	2
+Mid-ring	1	2	2
+Fallout-adjacent	1	2	2
+FNV-style	1	2	3
+High-investment	1	2	2
+Future-Proofing	1	2	2
+Toggleable	1	2	2
+Height-aware	1	2	2
+Top-Down	1	2	2
+Pre-visualized	1	2	2
+Baldur	1	2	2
+Art-First	1	2	2
+Perk-Oriented	1	2	2
+Goth-related	1	2	2
+Balancer	1	2	2
+Task-Based	1	2	2
+Undergrid-exclusive	1	2	2
+Early-available	1	2	2
+Per-companion	1	2	2
+Companion-related	1	2	2
+Frostlands-exclusive	1	2	2
+NPC-specific	1	2	2
+Late-stage	1	2	2
+Companion-Arc	1	2	2
+Slow-burning	1	2	2
+Goth-exclusive	1	2	2
+Cymaticist-locked	1	2	2
+Non-combat	1	2	2
+Old-timers	1	2	2
+Superheated	1	2	2
+Concussive	1	2	2
+G-forces	1	2	2
+Knockback	1	2	2
+Anti-Robot	1	2	2
+Anti-Human	1	2	2
+Armor-ignoring	1	2	2
+Thermal-Low	1	2	2
+High-energy	1	2	2
+Embrittles	1	2	2
+After-effects	1	2	2
+Turn-Based	1	2	3
+Over-analysis	1	2	2
+Multi-Target	1	2	2
+Flavour	1	2	2
+Action-Point-driven	1	2	2
+Close-quarters	1	2	2
+Armor-Piercing	1	2	2
+High-penetration	1	2	2
+Armor-piercing	1	2	2
+Mid-game	1	2	2
+Stealth-oriented	1	2	2
+District-by-District	1	2	2
+Heat-resistant	1	2	2
+Data-hardened	1	2	2
+Weak-point	1	2	2

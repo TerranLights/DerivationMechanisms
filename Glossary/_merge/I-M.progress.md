@@ -1,0 +1,137 @@
+STATUS: COMPLETE
+
+# Merge progress: I-M
+
+Done: I.md (42 entries), J.md (23), K.md (15), L.md (70), M.md (84); 234 in total. Every one of the 281 input groups is accounted for below: written as an entry, merged, dropped or held. All entries are sorted alphabetically (ignoring a leading "The"), use the semicolon format for Also called, and have the five required fields.
+
+## Groups merged as one term
+- **Ice-Cold Buddhism:** Ice Cold Buddhism; Ice-Cold Buddhism.
+- **The Identity Collapse Epidemic:** Identity Collapse Epidemic; The Identity Collapse Epidemic.
+- **Identity Fragmentation:** Identity Fragmentation; Identity Fragmentation (IF).
+- **Idolized:** Idolized; Idolization.
+- **The Infiltrators:** Infiltrators; Infiltrators, the.
+- **Inspirational-Influences:** Inspirational Influences / Inspirational-Influences; Inspirational-Influences picks.
+- **International Court of Diplomacy:** International Court of Diplomacy; International Court of Diplomacy at Jeju-do.
+- **International Data Syndicate:** International Data Syndicate; International Data Syndicate (IDS).
+- **The Iron Gardeners:** Iron Gardeners / Iron Gardeners, the / The Iron Gardeners.
+- **Island Population Balancing:** island cap (Island Population Balancing).
+- **The Isolation Crisis:** Isolation Crisis / The Isolation Crisis.
+- **Janbogo subnet:** Janbogo Subnet / Janbogo subnet.
+- **The Joint Founding:** Joint Founding, The / The Joint Founding.
+- **Kunlunite:** Kunlunite; Kunlunese.
+- **The Labs:** this L group (G3a, S, T rows) is the same district as the A-C group "Aquarius (The Labs)" (C row). The entry is filed under the in-fiction name with Aquarius under Also called, and it folds in the C row's Radio Tepenia note. **Coordinator:** A-C should not write a second district entry; Aquarius becomes a stub.
+- **The Larsemann Hills Compact:** Larsemann Hills Compact, the / The Larsemann Hills Compact.
+- **The Last Builders:** Last Builders, the / The Last Builders.
+- **Lattice Mind:** Lattice Mind (G2); Kludge Sense (O; Toronto Fell Out's rename of the same trait).
+- **LAW 0:** LAW 0; LAW 0 (Depth Over Speed).
+- **LAW 0-R:** LAW 0-R (Research Fully) / LAW 0-R (research fully).
+- **Law of One Location:** Law of One Location / ONE LOCATION law.
+- **Lazarian:** the group was "Lazaran" (the Neo-Races catalog). It is titled Lazarian because the megasheet and SouthernLights use that form; Lazaran goes under Also called.
+- **The Lighthouse Spire:** Lighthouse Spire / Lighthouse Spire, The.
+- **Living Network Experiment:** Living Network Experiment / The Living Network Experiment.
+- **Local Robot Culture Methodology:** Local Robot Culture (G3b); Local Robot Culture Methodology (M).
+- **The Long Frequency, The Long Memory, The Long Table, The Long Vigil, The Long Watch, The Long Winter Suite, The Long Record:** each merges its "X, the / The X" spelling pair.
+- **Long Night War:** Long Night War; Midnight War (the colloquial name).
+- **Loud Quarter:** Loud Quarter / Loud Quarter, The.
+- **Luminescent iris:** Luminescent iris (G2, from the GDD's `Doll_Visual_Design_Canon.md`, "luminescent irises"); Iris glow (S, SouthernLights' wording). Filed under L, with "iris glow" under Also called.
+- **MACHINE stats:** MACHINE (G4); MACHINE stats (G2, S, T).
+- **Majyao's teahouse (Janbogo):** four rows, one group. Every placeholder name is kept under Open only, never under Also called, per the author's ruling that the teahouse has no name yet.
+- **Mark:** Mark (G2); Mark IV (chamber schematic) (G1). It is linked to Gen/Mark in the D-H range.
+- **The Markets:** Markets, the / The Markets.
+- **Mastery Dividend:** the G2 and M rows.
+- **Mawson subnet:** Mawson Subnet / Mawson subnet.
+- **The McMurdo Problem:** McMurdo Problem, the / The McMurdo Problem.
+- **Mega-Init:** the G3a, G4, M and T rows.
+- **Megacorps:** the C and T rows.
+- **Megasheet:** Megasheet; Megasheet (City Megasheet); Megasheet (MegaInit, Full Extrapolation, Cross-Reference Synthesis). **Coordinator:** the A-C group "City Megasheet" (G3b) is the same method at city level. It is listed under Also called here, so A-C should make a stub rather than a second method entry.
+- **The Memory Weavers:** Memory Weavers / Memory Weavers, the / The Memory Weavers.
+- **Mentor-mentee institution:** Mentor/mentee bond (G2); Mentor-mentee institution (M).
+- **The Merit Board Audit:** Merit Board Audit / The Merit Board Audit.
+- **The Methodologists:** Methodologists, The / Methodologists, the / The Methodologists.
+- **Midwestland:** Midwest Republic (C, O); Midwestland (G2, S, T). Filed under Midwestland, the usual name and the Timeline treaty's signatory name.
+- **Minmax build:** Minmax Build / Minmax build; Minmax Builds / Minmax builds.
+- **Mirny subnet:** Mirny Subnet / Mirny subnet.
+- **Modern Hawaiian:** Modern Hawaiian; Modern Hawaiian (Tepenian Hawaiian).
+- **The Mother's Circuit:** Mother's Circuit / Mother's Circuit, the / The Mother's Circuit.
+- **Janbogo and Mirny:** the S-T handoff name "the Threshold (nickname)" was added for Mirny.
+- **Cross-range notes for the coordinator:**
+  - **Long Night War Black-Market Lifeline** (L) describes the same shadow economy as the A-C group "Black market (Pisces)". It is kept as the event; the two entries should point to each other.
+  - **Janbogo Subnet Nexus** (J) is tied to the A-C group "The Circuit"; see its Open line.
+
+## Groups dropped
+- **Iron Federation:** an alias, the colloquial nickname of the Sinian Federation (S-T range), whose rows already record it. It needs a cross-reference stub only.
+- **Brainstorm-only items** (2026-07-29 "Community Infrastructure & Social Life" lists, `Districts/District_Canon_Reference.md`). No spec, canon reference, megasheet or other area's row names them. Each recurs only in files that cite the brainstorm as their source (`Storyline/Side-Content/District_Under_Questlines.md`, `Districts/District_Refugee_Diaspora_Composition.md`, the inspiration-research candidate lists, and in some cases a district deep dive):
+  - The Implication Academy (also in Under-Questlines)
+  - Implication Sparring (also in the Libra deep dive and Under-Questlines)
+  - The Ironic Awareness Circle (also in Under-Questlines and a research candidate list)
+  - Junction Box Galleries (also in Refugee Diaspora and Under-Questlines)
+  - Junction Decorating Days (staging copy only)
+  - Legacy Unit Repair Bays (also in Under-Questlines)
+  - Legacy Unit Storytelling Nights (also in Refugee Diaspora and Under-Questlines)
+  - Lineage Houses (also in the Leo deep dive and Refugee Diaspora)
+  - The Losing House's Quarter (also in the Leo deep dive and Under-Questlines)
+  - Lullaby Nights (also in Refugee Diaspora and the Cancer research candidate list)
+  - Machine-Naming Ceremonies (also in Refugee Diaspora and `Cross_District_Additive_Lore_Prospects.md`)
+  - The Martyrs' Recitation Hall (also in Under-Questlines)
+  - Mask-Reading Circles (also in Refugee Diaspora and the Scorpio research candidate list)
+  - Mentor-Lineage Reunions (also in Refugee Diaspora)
+  - Merit Board Vigils (also in Refugee Diaspora and the Capricorn deep dive)
+  - **Kept, not dropped:** Jack-in LAN parties, Jury-Rig Recovery Workshops, Knowledge Preservation Lodges, The Long Stew Rotation and Mask Foundries, because a district megasheet (`District_Megasheets/*_Full_Extrapolation.md`) also names them and builds on them. Their status stays working.
+  - **Coordinator's call:** the items above also named in a district deep dive (Implication Sparring, Lineage Houses, The Losing House's Quarter, and Merit Board Vigils in M) were dropped, because a deep dive is not on the brief's list (spec, canon reference, megasheet, another area's row). Promote them if deep dives should count.
+- **The Lattice (faction):** the S row's "The Lattice" is the Bonded Lattice faction (A-C range, FD-4), whose rows already list "The Lattice" as a variant. Dropped here; for that entry, the S row adds SouthernLights `Worldspace/Factions-and-Religions.md` as a source. The power-network sense has its own entry, "The Lattice (power network)".
+- **the Last Stop:** the colloquial name of Casey (A-C range), from GDD `Cities/Local_Cultures/Mirny_Subnet/Casey.md` §5. It is working (an identity label, with no explicit author ruling) and belongs under Casey's Also called.
+- **Large population, no strong anchor:** a run finding (GDD `Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md`, finding 4), not a term.
+- **Juan Carlos:** the former name of Pergamino (N-R range). The N-R Pergamino rows already carry its content and the DR-41 rename. For Pergamino's Open line: the Timeline's location file is still `Worldspace/Locations/Juan_Carlos.md`, while the Timeline's Second Interwar timeline already uses Pergamino; SouthernLights, CurrentNovelDocs and TorontoFellOutGDD use only Juan Carlos.
+
+## Held: pre-Tepenian Cryptograph Helix
+- **Korean Mafia:** only source TheCryptographHelixDD (`factions/mafias/korean/overview.md`).
+- **Meme Nation:** only source TheCryptographHelixDD (`plot/parallel-plots/meme-nation.md`; `factions/memes/overview.md`).
+- **Meme-warfare:** only source TheCryptographHelixDD (`factions/mafias/russian/overview.md`; `world/technology.md`).
+- **Memelord:** only source TheCryptographHelixDD (`factions/resistance/overview.md`; `characters/laszlo.md`). It is also only mentioned, not defined.
+- **Memes (sentient), with the T group "Meme sentience":** the source is TheCryptographHelixDD (`factions/memes/overview.md`; `world/technology.md`; `philosophy/insights.md`; `README.md`). The Timeline row comes only from its `to-be-integrated/universe-timeline.md` copy of the Helix timeline.
+- **Mind upload:** TheCryptographHelixDD (`world/technology.md`; `philosophy/insights.md`). The GDD is listed only as "mentioned", which is not an independent use.
+- **Kept, with Helix sources:** Jovian Metasystem (Outer Tepenia 1 and the Timeline README also use it); Mars partial terraforming (CurrentNovelDocs' own staging file); the Jeju-do ruling, the International Court of Diplomacy and Jeju-do (Timeline canon).
+- **Lemmy:** in-world slang for "cheers". Its source is TheCryptographHelixDD (`series-overview/universe-timeline.md`; `world/society.md`); the Timeline's only mention is its `to-be-integrated/` copy of that same Helix timeline, so no independent repo uses it.
+
+## Conflicts for the author
+- **Ice-Cold Buddhism:** are humans forbidden at Kunlun and Dome Fuji (Polydimensional Animism's Rituals file) or only kept out for safety (the robot physiology file)? Which site is primary: `City_Types_Reference.md` names both, and SouthernLights makes them rivals.
+- **Idelsk-Uralia:** the name is set according to the CurrentNovelDocs tracker (2026-09-27) but is still a placeholder in the map package.
+- **Identity Fragmentation:** the endings file's meter bands (75 to 89, 90 to 99, 100; three endings) versus the re-spec design's five states (a failsafe ending at Critical).
+- **Independent Lattice:** the guidelines say no stat, skill or perk checks; `Hidden_Paths_And_Secret_Endings.md` and `Character_Creation_Overview.md` gate it on stats, perks and skills.
+- **Infrastructure Sequence:** open since 2026-10-04: does the crisis-triggered "beginning of the Tower" mean the whole program or only the physical build?
+- **Inspirational-Influences:** two tiers (the city file) or three, with Supporting (the method summary)?
+- **Insulation Schism:** undated in the GDD; founding era in SouthernLights.
+- **International Court of Diplomacy:** were the Larsemann allocations settled before the exile (GDD) or after signing (Timeline draft treaty, Art. II.3)?
+- **Investigation:** is it the main stat for NODE hits (the influence map), or is Calculation (`Targeting_System.md`)?
+- **Janbogo:** the Timeline says the player never visits it; the GDD's DLC 6 makes the region playable.
+- **Janbogo subnet:** the GDD puts Concordia in the Janbogo subnet; the Timeline puts it in no subnet.
+- **Janbogo Subnet Nexus:** SouthernLights uses it as the Gemini district's in-world name; the GDD's official name is The Circuit.
+- **Jeju-do ruling:** slow diffusion, roughly 2320 to 2380 (CurrentNovelDocs author ruling, 2026-10-11), or personhood across Upper Earth for all 246 years (the Timeline)? The beat sub-type, False Victory or False Defeat, is also open.
+- **Jeju-do:** does the condominium survive the Falkland Treaty?
+- **The Joint Founding:** the premise was superseded (DR-60, DR-36); the holiday needs a revisit.
+- **Kunlun:** the Timeline and SouthernLights still use Vostok as Ariun Nuur's name.
+- **The Larsemann Hills Compact:** "Compact" was retired as a term (DR-56, DR-57), but this faction name still uses it.
+- **The Lattice (power network):** the logistics file's existing network credited to the Bonded Lattice conflicts with the Independent Lattice guidelines (2026-07-21), where the network is player-built. Retire it or reconcile?
+- **Lazar:** the demonym is open: Lazarian (megasheet, SouthernLights) or Lazaran (Neo-Races catalog)? The economy is also unresolved.
+- **Leo:** it has no in-fiction district name; "The Golden Ring" was proposed and not adopted.
+- **Level-Up Perks:** the perk counts disagree: 260/143, 160/76, 61.
+- **Long Night War:** the exact day (March 22 to June 20), the combatants, the ending, and three identities in the inciting incident are TBD.
+- **The Long Frequency:** Timeline canon (the Timeline's character files) or project canon (defined only through characters)?
+- **The Long Record:** project canon (named in `City_National_Connections.md`) or working (a megasheet proposal)?
+- **The Long Watch:** the name collides with an Amundsen Station custom, a min-max build and ending, and Favi della Torre's questline.
+- **Machu Picchu Airport:** is it "the only international airport" (2026-09-02), given DR-51, DR-81 and DR-82? How many international airports exist per era? The Timeline still says "near Sejong".
+- **Machu Picchu Border & Customs Authority:** the Timeline still uses Juan Carlos and Sejong (GDD renames DR-41, DR-43). Does Pergamino share the border function with Contrapunto?
+- **Majyao's teahouse:** it needs a name. Is her Concordia teahouse in Taurus (her README, `Companion_System.md`, SouthernLights, the Timeline) or Aquarius (`Janbogo_Subnet_Reference.md`, Division of Industry 16)? Is the original intact (the megasheet) or TBD?
+- **Marambio Airport:** "domestic only" versus DR-51's early sole airport.
+- **Mars partial terraforming:** a gap of 200 to 300 years (the staging file) versus "nearly 900 years" (Helix `themes-and-structure.md`).
+- **Mawson:** the founders flipped (DR-45, then DR-53); the spec's founding line needs a revisit.
+- **The McMurdo Problem:** the refugee community (factions file) or Fort McMurdo's de facto capital pull (`City_Enneagram_Personalities`, the Neo-Races catalog)?
+- **Medicine:** governed by Calculation or Investigation? The skills audit left it open.
+- **Megasheet:** status. One harvest calls the hierarchy Timeline canon; the method is project canon, and existing megasheets are draft tier and frozen.
+- **Meridia:** is Sardinia an Autonomous Zone (author, 2026-10-23) or fully part of the South (decision log, 2026-09-30)?
+- **The Methodologists:** three cities (factions file) or most Halley-subnet cities (`Halley_Subnet_Reference.md`)?
+- **Midwestland:** which name is formal, Midwest Republic (the Timeline's map note) or Midwestland (the treaty's signatory name)? The capital is unsettled (it leans toward Omaha). Its role in Toronto Fell Out depends on Toronto Fell Out's universe: area O (author, 2026-07-29) says Tepenian, and a G2 helper said otherwise.
+- **Mirny:** the eventual rename is not ruled, and whether the subnet would be renamed too is open.
+- **Mirny subnet:** the Timeline's list still uses Vostok and omits Relung Panen; SouthernLights still lists Soyuz.
+- **Modern Hawaiian:** is it built in the slang-synthesis repo (GDD note) or a dedicated repo (TepenianHawaiian D-1)? The source languages also differ between the GDD note and D-10, D-11 and D-12.
+- **Mountain Pass:** at Byrd (SouthernLights `Locations.md`) or on Hwy 37 (everyone else)? The Timeline still names the partner Vostok, not Ariun Nuur.
