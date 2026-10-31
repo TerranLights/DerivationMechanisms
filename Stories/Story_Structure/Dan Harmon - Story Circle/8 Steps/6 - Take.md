@@ -76,7 +76,7 @@ By the time he reaches step 7, Harmon says, the last scraps of ego are gone and 
 - **Sequence approach:** ⚠️ the main tension resolved, for now (StudioBinder's vocabulary).
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "TAKE" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "TAKE" only in its standing-rule list. It does not define it.
 
 The span corresponds to the master's **Bad Guys Close In**, **All Is Lost** and **Dark Night of the Soul**, with Truby's **Moral Decision** and Bell's **Q-Factor** inside it. Campbell's **Atonement with the Father** and **Apotheosis** are defined separately, under "Campbell Concepts."
 

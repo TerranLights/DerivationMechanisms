@@ -32,7 +32,7 @@
 - **Category:** game term
 - **Definition:** In Toronto Fell Out, a trait renamed from Inner Tepenia's Narrative Ghost: +20% Speech for deception and rumor-probing, a rumor-probe dialogue option, once-per-act erasure of a reputation consequence and 25% less negative reputation, at the cost of 1 Determination.
 - **Status:** project canon.
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD).
+- **Used in:** TorontoFellOutGDD.
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`.
 - **Open:** the candidate perk names Ghostwriter, Whisper Network and No Trace were split off from it.
 
@@ -308,7 +308,7 @@
 - **Category:** game term
 - **Definition:** In Toronto Fell Out, a trait renamed from Inner Tepenia's Frontier Hardened: Survival, Outdoorsman and field-repair bonuses plus +1 Endurance outdoors, at the cost of 1 Determination indoors.
 - **Status:** project canon.
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD).
+- **Used in:** TorontoFellOutGDD.
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`.
 - **Open:** the candidate perk name Bush-Hardened was split off from it.
 

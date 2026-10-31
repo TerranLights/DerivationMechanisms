@@ -80,7 +80,7 @@ Harmon's distilled version of Campbell, given in 2014, ends here: "Heroes go Som
 - **Sequence approach:** ⚠️ the resolution (StudioBinder's vocabulary).
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "CHANGE" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "CHANGE" only in its standing-rule list. It does not define it.
 
 The matching defined beats are **Finale** (the five-point finale) and **Closing Image** (Snyder). The gap analysis records Campbell's Freedom to Live as an alias of Closing Image. Master of Two Worlds is not defined in the master.
 

@@ -4,7 +4,7 @@
 - **Category:** game term
 - **Definition:** In Toronto Fell Out, a trait adapted from the GDD's Cold-Blooded Optimizer: +20% Chemistry when synthesizing, −20% material cost on efficient crafting and +2 Brains, at −2 Determination.
 - **Status:** project canon
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD)
+- **Used in:** TorontoFellOutGDD
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`
 
 ### Balochistan (cross-border nation)
@@ -66,7 +66,7 @@
 - **Definition:** (Out of fiction) The fifth stage of the Doll character methodology: the beat-by-beat machinery that branches a character's story material into arc types, paths and endings. It contains Arc-Space Enumeration, the Midpoint Menu, the canonical beat sequence, the Branching Investigation-Route Structure and the Ending-Shape Cross-Mapping Table.
 - **Status:** working (marked complete 2026-08-09, with three items deferred)
 - **Used in:** InnerTepeniaGDD; CurrentNovelDocs; DerivationMechanisms (copy)
-- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md` and `Worldspace/Characters/Dolls/Methodology/00_Overall_Process_Scaffold.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/05_Beats_Paths_Results.md`
+- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md` and `Worldspace/Characters/Dolls/Methodology/00_Overall_Process_Scaffold.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/05_Beats_Paths_Results.md`
 
 ### Belgranan
 - **See:** [Belgranian](B.md#belgranian)
@@ -389,7 +389,7 @@
 - **Definition:** (Out of fiction) A Stage 5 pattern of the character pipeline for stat-driven games, synthesized on 2026-08-09 from Inner Tepenia's Personal Questline Design Rule. A character's unique player-only task can be done by at least five deterministic stat-based routes plus non-stat, world-state routes (floor three, target seven to twelve), so no build is soft-locked; it gates the middle of a questline and comes with a route-validity check, recommended route archetypes and a multi-character non-overlap principle.
 - **Status:** project canon as a production rule in Inner Tepenia; optional elsewhere
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms (copy); CurrentNovelDocs
-- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/05_Beats_Paths_Results.md` (The Branching Investigation-Route Structure)
+- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/05_Beats_Paths_Results.md` (The Branching Investigation-Route Structure)
 - **Open:** it is distinct from the Trigger-Type Design Pattern, which gates questline entry. CurrentNovelDocs' prose fork relocated this game machinery out of its methodology.
 
 ### Brazil settlement-type rule
@@ -462,7 +462,7 @@
 - **Definition:** One of three distinct things set at a robot's fabrication, beside Personality and Language: her physical construction (height, bulk, aesthetic design, male or female) together with the circumstances of her making, meaning which local community commissioned her and for what need. Body type is statistically weighted by a locality's economic character (hard-labor places run bigger, agility-demanding places slender) but is not an identity marker, and robots keep building each other in human form.
 - **Status:** Timeline canon (Robot Universals, Part I; developer confirmations 2026-08-06/07)
 - **Used in:** TepenianUniverseTimeline (Robot Universals summary); InnerTepeniaGDD; DerivationMechanisms (Robot Universals full text)
-- **Sources:** TepenianUniverseTimeline `Reference/Robot_Universals_Summary.md`; DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/03_Build/README.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` (Notes, "three separate things get set at fabrication")
+- **Sources:** TepenianUniverseTimeline `Reference/Robot_Universals_Summary.md`; DerivationMechanisms `Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/03_Build/README.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` (Notes, "three separate things get set at fabrication")
 - **Open:**
   - Earlier drafts treated Build as part of Personality; corrected 2026-08-06, they are separate axes. In identity weighting Build is secondary and tied to locality (see Weighing the Axes).
   - The Doll Visual Design Canon describes a Doll's "build type" as a manufacturer-chosen body type fitting her to a function, while the physiology file has Tepenian builds initiated by local communities.

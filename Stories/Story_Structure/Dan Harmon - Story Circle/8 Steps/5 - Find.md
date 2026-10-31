@@ -79,7 +79,7 @@ In the circle's symmetry, step 5 faces step 1.
 - **Sequence approach:** ⚠️ the midpoint or first culmination.
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "FIND" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "FIND" only in its standing-rule list. It does not define it.
 
 The matching defined beat is **Midpoint / Mirror Moment** (Snyder / Bell). Campbell's **Meeting with the Goddess** is defined separately, under "Campbell Concepts," with flexible placement.
 

@@ -66,7 +66,7 @@ On the circle, step 7 is the **return threshold**. It is the second crossing of 
 - **Sequence approach:** ⚠️ the false resolution and twist (StudioBinder's vocabulary).
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "RETURN" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "RETURN" only in its standing-rule list. It does not define it.
 
 The nearest defined beat is **Break into Three** (Snyder / Bell "Doorway of No Return #2"). The gap analysis records Campbell's Crossing the Return Threshold as an alias of Break into Three.
 

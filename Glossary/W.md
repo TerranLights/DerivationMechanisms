@@ -154,7 +154,7 @@
 - **Definition:** (out of fiction) Robot Universals' default weighting when a robot population's identity draws on several axes: city or locality is dominant, Build is secondary and tied to locality, and Gen/Mark is real but lightest.
 - **Status:** Timeline canon in origin; the Robot Universals book moved to DerivationMechanisms on 2026-10-30.
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; TepenianUniverseTimeline; CurrentNovelDocs.
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/4_-_Part_IV_Applying_the_Universals/19_Weighing_the_Axes/README.md`.
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/4_-_Part_IV_Applying_the_Universals/19_Weighing_the_Axes/README.md`.
 
 ### West Papua (post-war nation)
 - **Category:** polity

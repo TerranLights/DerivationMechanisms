@@ -59,7 +59,7 @@ In the circle's symmetry, step 1 is the "maternal" pole. It is the comfort of a 
 - **Others Harmon names:** none for this step. StudioBinder links it to the sequence approach's "Point of Attack." ⚠️
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "YOU" only in its standing-rule list of the eight Harmon steps. It does not define it. The nearest defined composite beats are **Opening Image** and **Set-Up**.
+The master (`story-structure-definitions.md`) names "YOU" only in its standing-rule list of the eight Harmon steps. It does not define it. The nearest defined composite beats are **Opening Image** and **Set-Up**.
 
 The human arc template (`CurrentNovelDocs/y-template/structure/character arcs/huMan-1.md`) carries a one-line hint for YOU.
 

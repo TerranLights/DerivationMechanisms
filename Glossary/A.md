@@ -167,7 +167,7 @@
 - **Category:** game term
 - **Definition:** In Toronto Fell Out, a trait adapted from the GDD's Engine Overclocker. It gives +1 Endurance and, once per combat when the stamina pool is empty, an emergency burst, followed by −2 Endurance and −2 Agility until combat ends.
 - **Status:** working: it needs a stamina system not yet designed, and the name may change.
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD)
+- **Used in:** TorontoFellOutGDD
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`; `TODO.md`
 - **Open:** the candidate perk name Redline was split off from it.
 
@@ -300,7 +300,7 @@
 - **Definition:** (Out of fiction) A design principle: for a character whose full arc must stay reachable by everyone who meets her, no load-bearing beat may depend on anything optional or skippable, including a side element she herself provides.
 - **Status:** project canon (production rule)
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; CurrentNovelDocs; TorontoFellOutGDD
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Always_Present_Gating.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Always_Present_Gating.md`
 
 ### Amazonia
 - **Category:** polity
@@ -405,7 +405,7 @@
 - **Category:** game term
 - **Definition:** In Toronto Fell Out, a trait adapted from the GDD's Humanity Anchor: +1 Determination, better Insight with the active companion and faster bonding with that companion, at the cost of slower skill gain in Science, Chemistry and Energy Weapons.
 - **Status:** project canon
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD)
+- **Used in:** TorontoFellOutGDD
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`
 - **Open:** the candidate perk names Tether, Ride or Die and Steadying Presence were split off from it.
 
@@ -596,7 +596,7 @@
 - **Definition:** (Out of fiction) The opening tool of Stage 5 of the character development pipeline. With the character, her goal and her world held fixed, it generates one full candidate arc per arc type and screens them for plausibility, then either collapses to the strongest (linear work) or promotes the survivors to mutually exclusive branches (non-linear work). Unchosen arcs go to an overflow file rather than being discarded.
 - **Status:** project canon (part of the pipeline)
 - **Used in:** DerivationMechanisms; TepenianUniverseTimeline; InnerTepeniaGDD; CurrentNovelDocs
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/05_Beats_Paths_Results.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/05_Beats_Paths_Results.md`
 
 ### Ariun Nuur
 - **Category:** place

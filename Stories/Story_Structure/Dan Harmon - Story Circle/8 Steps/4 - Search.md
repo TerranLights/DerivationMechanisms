@@ -62,7 +62,7 @@ The deeper function is **stripping away**.
 - **Sequence approach:** ⚠️ the first attempt to resolve the main tension (StudioBinder's vocabulary).
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "SEARCH" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "SEARCH" only in its standing-rule list. It does not define it.
 
 The matching defined beat is **Road of Trials / Fun and Games / Promise of the Premise** (Campbell / Snyder, 20-50%). Bell's **Kick in the Shins** and **Pet the Dog** also fall in this span.
 

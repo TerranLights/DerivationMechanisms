@@ -62,7 +62,7 @@
 - **Definition:** (out of fiction) The author's own addition to the Enneagram: an optional second, weaker full profile (type, wing and instinctual subtype) beneath a character's main type, which can be any of the other eight types. It is present and occasionally influential but never load-bearing, and is identified only where evidence shows up, never hunted for. The working balance is about 80% main type to 20% Undercurrent.
 - **Status:** Timeline canon (developer-originated concept, 2026-08-11; binding universe-wide). The full mechanics are in the GDD.
 - **Used in:** TepenianUniverseTimeline; InnerTepeniaGDD; CurrentNovelDocs (the root seed file, Starlit Engines, The Saga of Maggie Aarden, character sheets); TheCryptographHelixDD; SouthernLights; DerivationMechanisms.
-- **Sources:** TepenianUniverseTimeline `Reference/Enneagram_Undercurrents.md`; InnerTepeniaGDD `Worldspace/Enneagram/Undercurrents.md`; DerivationMechanisms `Characters/Enneagram/from InnerTepeniaGDD/Undercurrents.md`.
+- **Sources:** TepenianUniverseTimeline `Reference/Enneagram_Undercurrents.md`; InnerTepeniaGDD `Worldspace/Enneagram/Undercurrents.md`; DerivationMechanisms `Characters/Enneagram/Undercurrents.md`.
 - **Open:**
   - Scoped to dolls for now, but not limited to them in concept.
   - Eirwyn Cardoss is the first case near parity (about 55/45), against the 80/20 baseline.
@@ -269,7 +269,7 @@
 - **Definition:** (out of fiction) Step 2 of the Local Robot Culture Methodology: every Robot Universals item and every Tepenia-wide canon entry is checked against one city and sorted into one of four outcomes: localizes here; does not localize here (an Honesty Check null, with the reason written down); out of scope; or uncertain, to be resolved.
 - **Status:** working (the methodology is a draft). It was revised to four outcomes on 2026-08-09, after the Janbogo test run.
 - **Used in:** InnerTepeniaGDD (Cities: Local Robot Culture); DerivationMechanisms.
-- **Sources:** InnerTepeniaGDD `Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 2); DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md`; `03_Standout_Findings_Digest.md`.
+- **Sources:** InnerTepeniaGDD `Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 2); DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md`; `03_Standout_Findings_Digest.md`.
 
 ### University of Concordia
 - **Category:** organization

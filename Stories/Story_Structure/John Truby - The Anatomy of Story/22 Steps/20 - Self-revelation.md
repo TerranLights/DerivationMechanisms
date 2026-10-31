@@ -65,7 +65,7 @@ After the battle, as its result (PDF p. 132); in the double reversal, the oppone
 
 ## In the composite
 
-- ✅ **Defined in the master under Truby's name** (`from CurrentNovelDocs/story-structure-definitions.md`), with psychological and moral variants and the link to Need.
+- ✅ **Defined in the master under Truby's name** (`story-structure-definitions.md`), with psychological and moral variants and the link to Need.
 - Its placement differs from the source's: the master allows it anywhere in the second half of Act 2, with All Is Lost as the default. Truby's sequence puts it after the battle.
 - The master also pairs it with Moral Decision and Bell's Q-Factor.
 - The character-sheet template has a "Self-Revelation" field. The author's arc template has no slot named for it.

@@ -53,7 +53,7 @@ After the desire is set (step 5), since allies gather to help pursue it (PDF p. 
 
 ## In the composite
 
-- ✅ **Ally / Allies** is listed in the master's "Character-Web Concepts (Truby)" section (`from CurrentNovelDocs/story-structure-definitions.md`), where it is called self-explanatory and not defined further.
+- ✅ **Ally / Allies** is listed in the master's "Character-Web Concepts (Truby)" section (`story-structure-definitions.md`), where it is called self-explanatory and not defined further.
 - The author's arc template puts allies in its CARE PACKAGE slot, labeled as where the allies are met (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - **Truby's subplot is not yet in the composite.** The master's **B-Story** (Snyder) is a different concept: a seemingly unrelated plot that converges at the Midpoint.
 

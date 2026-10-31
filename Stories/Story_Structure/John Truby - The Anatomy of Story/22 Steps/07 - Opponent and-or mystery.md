@@ -54,7 +54,7 @@ After the ally (step 6) in Truby's typical order. In detective fiction and thril
 
 ## In the composite
 
-- ✅ **Opposition** is listed in the master's "Character-Web Concepts (Truby)" section (`from CurrentNovelDocs/story-structure-definitions.md`), called self-explanatory and not defined further. The gap analysis notes this.
+- ✅ **Opposition** is listed in the master's "Character-Web Concepts (Truby)" section (`story-structure-definitions.md`), called self-explanatory and not defined further. The gap analysis notes this.
 - The author's arc template has an OPPOSITION slot in its opening ("Separation") section, after the Debate slot (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The character-sheet template has a "Multi-point Opposition" field. ⚠️ Possibly a nod to Truby's four-corner opposition.
 - Mystery and the iceberg opponent are not yet in the composite.

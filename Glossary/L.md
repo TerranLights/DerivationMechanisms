@@ -409,7 +409,7 @@
 - **Definition:** (Out of fiction) A repeatable way to derive what robot life looks like in one specific city, built on the Timeline's Robot Universals and their reasoning tools (the Differentiation Engine, Weighing the Axes). It runs six steps (Concentric-Ring Gathering, Universal-by-Universal Triage, a pass per input category, Cross-Reference Synthesis, Dual Tagging and the Swap Test) over five input categories: A national culture composition, B geography and geology, C local infrastructure, D source inspirations and E Tepenia-wide robot culture canon. Every per-city file declares itself provisional, a set of proposals for developer review.
 - **Status:** Working: a draft method, validated once on Janbogo (2026-08-09) and run across the cities in August 2026; graded draft in the canon-tier legend. The author confirmed on 2026-10-29 that it applies everywhere, not only in games.
 - **Used in:** InnerTepeniaGDD (`Local_Robot_Culture` and its methodology; City_Master_Reference); DerivationMechanisms; CurrentNovelDocs.
-- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md`; InnerTepeniaGDD `Cities/Local_Robot_Culture_Methodology/`; `Cities/Local_Robot_Culture/`.
+- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md`; InnerTepeniaGDD `Cities/Local_Robot_Culture_Methodology/`; `Cities/Local_Robot_Culture/`.
 - **Open:** Santa Luce has no file.
 
 ### Local Robot Culture Spec Sheet
@@ -417,7 +417,7 @@
 - **Definition:** (Out of fiction) The per-city output template of the Local Robot Culture Methodology. It holds a one-liner, a sources log, the triage record, ten local aspects (kinship and mentor structures, cooperation and morality, locality as identity, Gen/Mark, religion, consumption and vice, sexuality and courtship, vernacular language, Arcanet etiquette, surface culture), cross-reference findings and a closing swap test.
 - **Status:** Working (the template was validated once, on Janbogo, 2026-08-09).
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms.
-- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/01_LOCAL_ROBOT_CULTURE_TEMPLATE.md`; InnerTepeniaGDD `Cities/Local_Robot_Culture/`.
+- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/01_LOCAL_ROBOT_CULTURE_TEMPLATE.md`; InnerTepeniaGDD `Cities/Local_Robot_Culture/`.
 
 ### Location type (ULM)
 - **Category:** method term

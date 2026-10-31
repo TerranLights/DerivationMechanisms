@@ -71,7 +71,7 @@
 - **Definition:** Out of fiction. The character pipeline's short intake template (00c): a handful of seed fields (name, type, robot or human, personal vision, Enneagram type and Undercurrent if known, origin, location, timeframe, brief personality and backstory, weakness and goal) that the Derivation Protocol expands into the full character field set.
 - **Status:** project canon (part of the pipeline).
 - **Used in:** InnerTepeniaGDD; TepenianUniverseTimeline; CurrentNovelDocs; DerivationMechanisms.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/00c_Quick_Capture_Seed_Template.txt`; `00a_Initial_Input.md` (The Minimal Seed Fields; The Derivation Protocol); InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00c_Quick_Capture_Seed_Template.txt`.
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/00c_Quick_Capture_Seed_Template.txt`; `00a_Initial_Input.md` (The Minimal Seed Fields; The Derivation Protocol); InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00c_Quick_Capture_Seed_Template.txt`.
 - **Open:** the GDD also has ready-made partial seeds (00d) and an inbox for batch input (00e), which CurrentNovelDocs relocated as Inner Tepenia roster data. The Timeline's `seed-template-init.txt` adds Original Doll fields.
 
 ### Quickhack

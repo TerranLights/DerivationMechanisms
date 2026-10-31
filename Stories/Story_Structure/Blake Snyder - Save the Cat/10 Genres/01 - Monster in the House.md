@@ -51,7 +51,7 @@ Cross-chapter:
 Snyder's genres are story types, not beats, so there is no matching step in Bell, Campbell, Harmon or Weiland. Truby's *The Anatomy of Story* is not organized as a genre system ⚠️ (his separate genre material is not a source for this pass). No clear one-to-one equivalent established.
 
 ## In the composite
-Not yet in the composite. A search of `from CurrentNovelDocs/story-structure-definitions.md` finds no Monster in the House entry (only an unrelated mention of "genres" in the Finale definition).
+Not yet in the composite. A search of `story-structure-definitions.md` finds no Monster in the House entry (only an unrelated mention of "genres" in the Finale definition).
 
 ## The author's adjusted meaning
 *To be drafted with the author (05:00-14:59 window).*

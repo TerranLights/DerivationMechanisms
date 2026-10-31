@@ -37,7 +37,7 @@ After the opening (steps 2-3), which establishes the paralysis it breaks, and be
 
 ## In the composite
 
-- Present only as an **equivalent**: the master's **Catalyst** section (`from CurrentNovelDocs/story-structure-definitions.md`) lists the Snyder, Bell and Campbell names but not Truby's term. The gap analysis marks it "≈ Catalyst".
+- Present only as an **equivalent**: the master's **Catalyst** section (`story-structure-definitions.md`) lists the Snyder, Bell and Campbell names but not Truby's term. The gap analysis marks it "≈ Catalyst".
 - The master adds a rule of its own (the catalyst as the only coincidental event allowed). Truby's text says nothing about coincidence; it only says the event comes from outside.
 - The author's arc template has a CALL TO ADVENTURE / CATALYST / DISTURBANCE slot (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`), and the character-sheet template has an "Inciting Event" field.
 

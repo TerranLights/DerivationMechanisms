@@ -42,7 +42,7 @@ Near the end: after step 18 (gate, gauntlet, visit to death), which often trigge
 
 ## In the composite
 
-- **Not defined** in the master (`from CurrentNovelDocs/story-structure-definitions.md`); the gap analysis lists Battle and Final Battle as template beats with no meaning.
+- **Not defined** in the master (`story-structure-definitions.md`); the gap analysis lists Battle and Final Battle as template beats with no meaning.
 - The author's arc template uses the word twice (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`):
   - **BATTLE / KICK IN THE SHINS**, early in the "Initiation" section and paired with Bell's early-Act-2 beat, which is not the position of Truby's final battle;
   - **FINAL BATTLE**, in the "Return" section after the threshold, which matches Truby's position (the gap analysis attributes the name to Bell).

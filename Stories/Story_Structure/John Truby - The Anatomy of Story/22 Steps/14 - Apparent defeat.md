@@ -47,7 +47,7 @@ Between roughly the two-thirds and three-quarters marks (PDF p. 129). It ends th
 
 ## In the composite
 
-- Present as an **equivalent**: the gap analysis marks it "≈ All Is Lost". The master's **All Is Lost** (Snyder) also carries the "whiff of death" (`from CurrentNovelDocs/story-structure-definitions.md`).
+- Present as an **equivalent**: the gap analysis marks it "≈ All Is Lost". The master's **All Is Lost** (Snyder) also carries the "whiff of death" (`story-structure-definitions.md`).
 - The author's arc template has an ALL IS LOST slot (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - **Apparent victory** is not in the composite under Truby's name. The master's Midpoint section mentions Snyder's False Victory, and its Weiland layer mentions the Later False Peak.
 

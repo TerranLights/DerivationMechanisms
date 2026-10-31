@@ -40,7 +40,7 @@ During the drive (step 12), once the hero has started acting immorally, and befo
 
 ## In the composite
 
-- **Not yet in the composite.** The master (`from CurrentNovelDocs/story-structure-definitions.md`) doesn't define it.
+- **Not yet in the composite.** The master (`story-structure-definitions.md`) doesn't define it.
 - The gap analysis maps the author's arc-template slot **FAKE-ALLY ATTACK** (in "Initiation", after OPPOSITION'S MAIN COUNTER-ATTACK; `CurrentNovelDocs/y-template/structure/character arcs/doll.md`) to this step. ⚠️ In Truby the attacker here is a true ally acting as conscience, not a fake ally, so the slot may instead point at step 8's character making his move. This needs the author's call.
 - In the master's own **Fake Ally** sense (an ally acting against the protagonist from genuine motives), the slot would sit between the two Truby ideas. ⚠️
 

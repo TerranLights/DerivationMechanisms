@@ -239,7 +239,7 @@ To work through with the author later:
 - Robot Elementals: Magnetism (elements file) vs. Electromagnetism (DR-1); six or seven one-word labels under review; design tool (canon-tier legend) vs. a robot practice (robot-culture method).
 - Robot-only city: Kunlun's spec still says "robot-majority or robot-only"; the Neo-Races tracker says Vostok (Ariun Nuur) is 100% robot while the census gives Ariun Nuur 141,755 humans.
 - Robot-only staging station: how stage 1's material reached orbit before Amundsen Tower existed (GDD TODO says orbit was reachable only by the Tower).
-- Robot Universals: DM COPIED_FROM.md says copied, not moved, but the Timeline now holds only the summary; Hybrid-Anthro_Culture and the Local Robot Culture Methodology still point at the Timeline's old Robot_Universals folder.
+- Robot Universals: Hybrid-Anthro_Culture and the Local Robot Culture Methodology still point at the Timeline's old Robot_Universals folder; the book moved to Derivation Mechanisms on 2026-10-30.
 - Rothera's founders: North American and Argentine industrial workers (GDD DR-20, DR-44) vs. "Argentina-founded" (Timeline trucking-network file); British founders ruled out but assumed by non-canon Background-Lore chain #8.
 - Rothera Airport: "Bonner" is a real-world placeholder name flagged for the landmark-renaming pass.
 

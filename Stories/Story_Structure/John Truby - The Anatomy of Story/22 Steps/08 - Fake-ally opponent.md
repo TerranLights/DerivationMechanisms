@@ -36,7 +36,7 @@ Usually after the main opponent (step 7), sometimes before (PDF p. 126). The aud
 
 ## In the composite
 
-- ✅ **Fake Ally** is defined in the master's "Character-Web Concepts (Truby)" section (`from CurrentNovelDocs/story-structure-definitions.md`), but its sense differs from the source's. The master describes an established ally who later acts against the protagonist out of his own genuine interests, and stresses that this is not betrayal. Truby's fake-ally opponent is an opponent, or the opponent's agent, whose opposition is concealed behind apparent friendship, though he may come to feel torn.
+- ✅ **Fake Ally** is defined in the master's "Character-Web Concepts (Truby)" section (`story-structure-definitions.md`), but its sense differs from the source's. The master describes an established ally who later acts against the protagonist out of his own genuine interests, and stresses that this is not betrayal. Truby's fake-ally opponent is an opponent, or the opponent's agent, whose opposition is concealed behind apparent friendship, though he may come to feel torn.
 - The author's arc template has a FAKE ALLY slot in its opening section, after OPPOSITION, and a separate FAKE-ALLY ATTACK slot in the "Initiation" section, after OPPOSITION'S MAIN COUNTER-ATTACK (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The gap analysis maps FAKE-ALLY ATTACK to Truby's step 13 (attack by ally). ⚠️ In Truby, step 13's attacker is a genuine ally acting as the hero's conscience, so the slot may instead refer to this character's own move against the hero.
 - The character-sheet template has a "Fake Ally" field.

@@ -38,7 +38,7 @@ The end of the story, after the moral decision (step 21) (PDF pp. 133-134). It i
 
 ## In the composite
 
-- **Not defined** in the master (`from CurrentNovelDocs/story-structure-definitions.md`); the gap analysis lists New Equilibrium as a template beat with no meaning.
+- **Not defined** in the master (`story-structure-definitions.md`); the gap analysis lists New Equilibrium as a template beat with no meaning.
 - The author's arc template uses the name in the slot **MASTER OF TWO WORLDS / NEW EQUILIBRIUM**, in the "Return" section after FINAL BATTLE and before SIGN OF TRANSFORMATION and FREEDOM TO LIVE / CLOSING IMAGE (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The character-sheet template has a "New equilibrium" field.
 - The master's **Closing Image** (Snyder) covers the "after" snapshot.

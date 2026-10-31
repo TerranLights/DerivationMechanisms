@@ -5,8 +5,7 @@
 ## What's here
 | Folder or file | What it is | Status |
 |---|---|---|
-| `from CurrentNovelDocs/story-structure-definitions.md` | **The author's composite master:** Snyder, Bell, Truby, Campbell and Weiland fused. Copied from CurrentNovelDocs, and the working copy from now on. | Source lines checked against the books 2026-10-29. Still incomplete: see the gap analysis and the open items below. |
-| `from TepenianUniverseTimeline/definitions/` | An older synced copy of the master | Adds nothing except a blank beat sheet |
+| `story-structure-definitions.md` | **The author's composite master:** Snyder, Bell, Truby, Campbell and Weiland fused, plus Fox's eight strategies for writing the middle. The working copy. Ends with the blank beat-sheet template as an appendix. | Source lines checked against the books 2026-10-29. Still incomplete: see the gap analysis and the open items below. |
 | `GAP ANALYSIS - sources vs definitions (2026-10-29).md` | Each source framework compared with the master | Research |
 | `John Truby - The Anatomy of Story/` | The whole book, in 11 chapter files, plus `22 Steps/` with one file per step | Research extraction complete, 2026-10-29 |
 | `Blake Snyder - Save the Cat/` | The whole 2005 book in 10 chapter files (with the front matter and glossary), plus `15 Beats/` and `10 Genres/` | Research extraction complete, 2026-10-29 |

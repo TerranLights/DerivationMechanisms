@@ -61,7 +61,7 @@ Immediately after the apparent defeat (step 14), so around or just past the two-
 ## In the composite
 
 - **Not yet in the composite.** The gap analysis lists all three revelation-and-decision steps as missing.
-- The master's **Q-Factor** (Bell) and **Break into Three** (Snyder) both cover a renewed ability to act after the low point (`from CurrentNovelDocs/story-structure-definitions.md`). Neither is credited to Truby, and neither includes his obsessive drive or continued moral decline.
+- The master's **Q-Factor** (Bell) and **Break into Three** (Snyder) both cover a renewed ability to act after the low point (`story-structure-definitions.md`). Neither is credited to Truby, and neither includes his obsessive drive or continued moral decline.
 
 ## The author's adjusted meaning
 

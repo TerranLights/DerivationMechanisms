@@ -255,7 +255,7 @@ The Workbook differs from Harmon in four places:
 ## 14. The author's usage (recorded, not redefined)
 In the author's composite system, the Harmon structure is used for **minor characters**. Under the author's standing rule, it is reserved for **human characters** and for **very minor or background robots**. Any robot in the foreground always receives the full composite structure (Snyder, Truby, Weiland, Campbell, Bell) instead.
 
-The master names the eight steps there but does not define them. Pointer: `from CurrentNovelDocs/story-structure-definitions.md`, section "Which Structure Applies to Which Character — Standing Rule."
+The master names the eight steps there but does not define them. Pointer: `story-structure-definitions.md`, section "Which Structure Applies to Which Character — Standing Rule."
 
 The author's human arc templates (`CurrentNovelDocs/y-template/structure/character arcs/huMan-1.md`, and the identical `huMan-2.md`) give each of the eight steps a one-line hint.
 

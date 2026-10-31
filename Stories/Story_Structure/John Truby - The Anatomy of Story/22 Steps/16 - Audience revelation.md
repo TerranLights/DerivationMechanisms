@@ -41,7 +41,7 @@ After the second revelation and decision (step 15) and before the third (step 17
 
 ## In the composite
 
-- **Not yet in the composite.** The master (`from CurrentNovelDocs/story-structure-definitions.md`) has no audience-revelation beat, and the gap analysis lists it as missing.
+- **Not yet in the composite.** The master (`story-structure-definitions.md`) has no audience-revelation beat, and the gap analysis lists it as missing.
 - The author's arc template has no slot for it (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 
 ## The author's adjusted meaning

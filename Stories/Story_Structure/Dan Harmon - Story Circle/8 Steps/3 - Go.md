@@ -72,7 +72,7 @@ What is really happening, he says, is a trip into the audience's own unconscious
 - **Sequence approach:** ⚠️ the end of Act 1, where the main tension is set, per StudioBinder's vocabulary.
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "GO" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "GO" only in its standing-rule list. It does not define it.
 
 The matching defined beat is **Break into Two** (Snyder / Bell "Doorway of No Return #1"). The gap analysis records Campbell's Crossing the First Threshold as an alias of Break into Two.
 

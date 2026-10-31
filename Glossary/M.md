@@ -282,7 +282,7 @@
 - **Definition:** Inner Tepenia: a stat-check design law. Choosing a Natural 10 (maximum-value) stat option in one route of a questline or character arc lets the player talk past a set number of later checks within that same questline only, not game-wide. A permanent maximum and a temporarily buffed one are treated differently.
 - **Status:** Project canon (Inner Tepenia design law, `Universal_Rules.md`).
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms; CurrentNovelDocs (relocated material).
-- **Sources:** InnerTepeniaGDD `Game-Mechanics/Universal_Rules.md`; `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/05_Beats_Paths_Results.md` (Two Standing Stat-Check Design Laws).
+- **Sources:** InnerTepeniaGDD `Game-Mechanics/Universal_Rules.md`; `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/05_Beats_Paths_Results.md` (Two Standing Stat-Check Design Laws).
 
 ### Mawson
 - **Category:** place
@@ -459,7 +459,7 @@
 - **Definition:** The robots' real kinship institution: a chosen, circumstantial bond of guidance, obligation and attachment between an older and a younger robot, in place of a biological parent-child bond. It fills part of the kinship role, since robots form clan and tribe from shared place and experience, not from fabrication lineage; maker-made bonds are ruled to carry no such weight.
 - **Status:** Timeline canon (Robot Universals, Part III, chapter 11); resolved in the GDD on 2026-08-07.
 - **Used in:** TepenianUniverseTimeline; InnerTepeniaGDD; DerivationMechanisms; CurrentNovelDocs; Hybrid-Anthro_Culture.
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/11_Kinship_Clan_and_the_Mentor-Mentee_Institution/README.md`; InnerTepeniaGDD `Neo-Races-and-Cultures/_Method/Robot_Culture_Open_Questions_Tracker.md` (developer notes); `Neo-Races-and-Cultures/_Method/Human_Universals_Culture_Framework.md`.
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/11_Kinship_Clan_and_the_Mentor-Mentee_Institution/README.md`; InnerTepeniaGDD `Neo-Races-and-Cultures/_Method/Robot_Culture_Open_Questions_Tracker.md` (developer notes); `Neo-Races-and-Cultures/_Method/Human_Universals_Culture_Framework.md`.
 
 ### Meridia
 - **Category:** polity
@@ -541,7 +541,7 @@
 - **Definition:** (Out of fiction) Stage 5's menu of twelve interchangeable midpoint mechanics, drawn from different craft authors, used in place of one canonical midpoint beat. Each arc branch picks exactly one, according to the character's own context.
 - **Status:** Project canon as part of the character pipeline (DerivationMechanisms). The GDD copy marks it working.
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; CurrentNovelDocs.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/05_Beats_Paths_Results.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md`.
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/05_Beats_Paths_Results.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md`.
 
 ### Midwest dollar
 - **Category:** unit or measure
@@ -677,7 +677,7 @@
 - **Definition:** (Out of fiction) A Doll README field holding the series code from a TBN folder name, for example FW-25, XT-30 or TCY-42. The placeholder-naming convention calls it a short internal reference code; what the codes stand for is not stated anywhere.
 - **Status:** Working: mentioned, not defined.
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms.
-- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [FW-25 Pink Lucy]/README.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Placeholder_Naming_Convention.md`.
+- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [FW-25 Pink Lucy]/README.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Placeholder_Naming_Convention.md`.
 - **Open:** The Timeline's character fields "Original Doll Model" and "Manufacturer" exist but are blank.
 
 ### Modern Hawaiian
@@ -768,4 +768,4 @@
 - **Definition:** (Out of fiction) A character-design principle: a character's psychology is fully resolved in the private design notes, and only what reaches the finished work is withheld, surfacing through soft ambient details (what she drinks, when, and so on) instead of exposition.
 - **Status:** Project canon (production rule).
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; CurrentNovelDocs.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Mystery_Soft_Detail_Delivery.md`; `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/02_Information_Processing.md` (Mystery Caution).
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Mystery_Soft_Detail_Delivery.md`; `Characters/Character_Development_Methodology/Pipeline/02_Information_Processing.md` (Mystery Caution).

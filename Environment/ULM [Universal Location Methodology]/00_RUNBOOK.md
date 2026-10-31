@@ -1,0 +1,3177 @@
+# RUNBOOK — Running One Location, Start to Finish
+
+> # 🔺🔺 STEP −2 — DISPATCH YOUR READERS BEFORE YOU READ ANYTHING ELSE. INCLUDING THE REST OF THIS FILE.
+>
+> ### ⛔ **IF YOU ARE STARTING A COLD RUN, STOP AND OPEN `Test_Runs/COLD_RUN_CHECKLIST.md` INSTEAD.**
+> **One page, executable, ~1 minute.** **It is this section reduced to actions, plus the reader brief
+> ready to copy.** ***Come back and read the rest of this file at its step 5, not before.***
+>
+> **Added 2026-09-02, at the developer's direction, after Run 12 (Casey) was burned before it began.**
+> **This is now the FIRST action of every cold run. It precedes Step −1, the frame, the required reading, and
+> your first `find`.**
+>
+> ### The finding that forces it
+>
+> **Run 12's deriving session absorbed FOUR separate conclusion-tier leaks about its own subject before it
+> dispatched a single reader — every one of them upstream of `§C.2`'s protection, which only governs work the
+> deriver chooses to delegate.** ***By the time §C.2 was reached, there was nothing left to protect.***
+>
+> | # | Vector | How it reached the deriver |
+> |---|---|---|
+> | **1** | **The required reading itself** | `00_RUNBOOK.md` and `01` carried the subject's own civic-character claim and frame modifier as *worked examples*, un-flagged in `06`. **`CLAUDE.md` mandates reading them in full.** *(M-82 recurring — third instance.)* |
+> | **2** | **Auto-loaded memory** | Three un-banded entries. **Memory is PUSHED; no do-not-open list can intercept it.** *(M-21 / M-63 recurring.)* |
+> | **3** | ⭐ **Filenames as theses** | `§C.2`'s return contract **permits "File path" unconditionally and forbids "Section headings."** In a corpus that titles files by their argument, ***the permitted channel carries the forbidden payload*** — and `§3c` *mandates* `find`/`ls` navigation. **A hole inside §C.2 itself.** |
+> | **4** | ⭐ **Compositional reconstruction** | Vectors 1–3 were each individually marginal. **Together they reconstructed the withheld conclusion.** **No single-source rule can catch this** — each leak passes its own check. |
+>
+> ### What to do, in this order, before reading past this box
+>
+> 1. **Name the subject. Then stop reading.**
+>
+>    > ### ⭐ **1a. BUILD THE ALIAS SET FIRST. A QUARANTINE SWEEP IS ONLY AS WIDE AS ITS ALIAS LIST.** *(M-118.)*
+>    > **Measured 2026-09-03: a vector-2 memory sweep recorded CLOSED against the current name found 38
+>    > entries. The same sweep across the alias set found 51.** ***13 entries named the subject only by a
+>    > designation it no longer uses, and were never banded — and memory is PUSH.***
+>    >
+>    > **The alias set:** current name · in-fiction alternates and other scripts · **retired placeholder /
+>    > working titles** · **the real-world basis name** · candidate names considered and dropped.
+>    >
+>    > **⚠ The real-world basis name is the sharpest case:** it is simultaneously the key to the location's climate
+>    > and physical-site files *(a coordinate only, `DR-19`)* *and* the key to every conclusion written before the
+>    > rename. **`Specs/` files record it
+>    > openly, so the set is cheap to build — sweep the UNION, and RECORD the alias set in the review so the
+>    > next session sweeps the same width.**
+>    >
+>    > ***This corpus renames things routinely*** — placeholders, open official names, amalgamations,
+>    > real-station names predating the in-fiction one. **Assume an alias exists until you have checked.**
+>
+> 2. ### ⭐ **CHECK WHETHER A PRE-CONTAMINATION REVIEW ALREADY EXISTS — BEFORE DISPATCHING ANYTHING.**
+>    **`Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md`. Full mechanism in `§C.4`.**
+>    **This file is coordinates-only and is SAFE for a cold deriver to read in full.**
+>
+>    | State | Action |
+>    |---|---|
+>    | **✅ `CONFIRMED`, and its pin verifies** | ***REUSE IT. Skip step 3 entirely and go straight to the cold run.*** **Do not re-derive a check that is already completed and confirmed** |
+>    | **`CONFIRMED`, pin STALE** | **Re-tag ONLY the files whose `sha256`/line count moved.** Do not rebuild the whole review |
+>    | **`DRAFT`** | Unconfirmed — **finish it**, do not reuse it |
+>    | **ABSENT** | **Build one** — proceed to step 3, then write the artifact |
+>
+> 3. **Dispatch isolated readers (`§C.2` return contract) to do ALL of the following**, and read nothing
+>    yourself until they return:
+>    - **Scan the required reading** — `00`–`06`, `00b`, `00d`, `00f` *(CST removed 2026-09-29, `DR-14` — not a ULM input)* —
+>      **for the subject's name. Return LINE NUMBERS ONLY.** You then read those files *skipping those lines.*
+>      **This closes vector 1, and `06_Worked_Example_Provenance.md` is not sufficient on its own — it is a
+>      manifest maintained by hand, and it has now been wrong three times.**
+>    - ### ⛔ **MEMORY: SUPERSEDED BY THE BLACKOUT (2026-09-03, developer ruling).**
+>      ***The deriver does not scan, grep, list or open the auto-loaded memory directory at all*** — see
+>      `Test_Runs/COLD_RUN_CHECKLIST.md` **STEP −3**. **The whole directory is closed until Step 7.**
+>      **A sweep bought the deriver a banding decision it is no longer permitted to act on.**
+>      > **Why the blanket rule replaced per-entry banding:** **51 entries named one subject** *(38 under its
+>      > current name; the rest via a retired alias)*, **5 carried conclusions — and 4 of those 5 were records
+>      > of CROSS-CITY passes, each a live vector for all ~35 locations at once** *(M-129)*.
+>      > ***Per-entry banding does not scale against a surface shaped like that.***
+>      > **⚠ It closes PULL only. Memory is PUSH** — the index auto-loads and entries arrive in reminders.
+>      > **Banding survives as the only control on that channel, and is now MAINTENANCE work for a non-cold
+>      > session** *(M-21, M-63, M-87)*.
+>    - ### ⭐⭐ **1b. THE SHAPE SWEEP — a SECOND pass over the same files, and the alias sweep cannot replace it.**
+>      **Added 2026-09-03, after a live instance was found in `05` that the alias sweep provably could not see.**
+>      > ## **AN ALIAS SWEEP PROVES A FILE DOES NOT *NAME* YOUR SUBJECT. IT CANNOT PROVE THE FILE DOES NOT *DESCRIBE* YOUR SUBJECT.**
+>      **The measured instance:** *`05` §2.4 carried a verbatim phrase from the subject's own symbol-assignment
+>      rationale, its `G1` symbolic read, its `G8` retention figure, that figure's RANK across the full
+>      33-city set, and a closing capability verdict — **all anonymized**. A checker swept 13 files × 8 alias
+>      patterns, two methods, positive control: **`alias_hit_total = 0`, and the result was CORRECT.***
+>      **⚠ `00_RUNBOOK.md` already quoted this very case as its illustration of M-4. The rule was written and
+>      the instance was left in the file the rule governs.**
+>
+>      **So a reader runs a SECOND pass looking for SHAPE, not name. Return line numbers only:**
+>      | Look for | Because |
+>      |---|---|
+>      | **any bare statistic** — a percentage, a rank, a count, an "nth of N" | ***a figure is an identifier.*** A retention rate with a rank is a fingerprint |
+>      | **the construction *"a city famous for…"*, *"a location whose…"*, *"one district…"*** | the standard grammar of an anonymized instance |
+>      | **a quoted phrase in italics or quote marks that reads like it came from somewhere else** | it usually did — from a symbol rationale, a spec, or a culture file |
+>      | **any sentence naming a CAPABILITY, TEMPERAMENT or VERDICT without a subject** | *"its greatest strength and its largest vulnerability are the same property"* is spine-tier with or without a name |
+>      **⛔ Every hit is treated as a SKIP RANGE, exactly as a named example would be** *(M-103 — the range,
+>      never the line)*. **A hit that turns out to concern a different location costs one skipped paragraph.**
+>    - **Return the file tree as SANITIZED paths** — *"`…/<folder>/` — 11 files, 91–143 lines each"* —
+>      **never the filenames.** **This closes vector 3.**
+>    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
+>      doing before.
+>    - ### ⭐ **ENUMERATE THE CANON REGISTRY AND TAKE THE SCOPE PIN.** *(Added 2026-09-03, M-112. **Dispatch
+>      this FIRST** — it decides which files the bullets above even apply to.)*
+>      **`grep -ril "<subject>"` across every root in `§B`, `§C`, `§C.1`, `§C.6`, ⭐`§C.7`, ⭐`§C.9` and `§D` — FILENAMES ONLY.**
+>      > ⚠ **`§C.7` and `§C.9` ADDED TO THIS LIST 2026-09-03.** ***They existed and were not enumerated —
+>      > `§C.9` alone holds ~90 files.*** **A scout following the old list swept neither.**
+>      > ## ⛔ STANDING OBLIGATION: **ADDING A `§C.n` SECTION MEANS ADDING IT TO THIS LIST, THE ONE AT
+>      > `§C.4` REQUIREMENT 6, AND BRIEF B'S `STEP 1` — IN THE SAME COMMIT. THREE PLACES.**
+>      > ***A registered root that no enumeration names is invisible to the only instrument that looks.***
+>      Return **per-root file counts**, the **inventory pin** *(dir · file count · min/max lines)*, and a
+>      **TIER for every source**: `MAPPED-NEEDED` · `WITHHELD` · **`QUERYABLE-BY-SCHEMA`**.
+>      **Full contract: `Test_Runs/COLD_RUN_CHECKLIST.md`, Brief B.**
+>      > ***This is the bullet whose absence burned Run 14.*** **The other four scope themselves to a file
+>      > list somebody already wrote down. This one is the only bullet that can find a source nobody knew was
+>      > in scope** — and three of the four bodies of subject material it found had been sitting there the
+>      > whole time, outside a review whose status line read `CONFIRMED`.
+>
+>    > ### ⚠ AND VECTOR 1 IS WIDER THAN IT SAYS. **"Required READING" ≠ "required CANON."**
+>    > **The first bullet lists `00`–`06` + disciplines, which WAS the complete set of files a pass is
+>    > obliged to open — when that bullet was written.** **`§C.6` then registered a canon source a pass is
+>    > obliged to open *during the phases*, and the bullet was never widened.** ***Sweep both: the files you
+>    > must read before Phase 0, AND the canon the generators will send you to during it.***
+> 4. **Write the review artifact and pin it** (`§C.4`) — **`sha256` + line count for every mapped file.**
+>    ***A map with no pin is worthless to the next session***, because a single edit anywhere above a range
+>    shifts every range below it, silently, and points the next deriver into withheld content.
+> 5. **Only now** read the rest of this runbook, `01`–`06`, and the disciplines — **skipping the lines your
+>    reader flagged.**
+>
+> ### ⚠ The rule that generalizes, and it is the one to remember
+>
+> > ## **A COLD RUN'S FIRST ACT IS DELEGATION, NEVER READING.**
+> >
+> > **Anything you read before your readers report is unquarantined by construction** — you cannot know
+> > whether it names your subject until someone who is not you has looked. **The deriver's first act of
+> > reading is already too late.**
+>
+> **And the asymmetry that makes this cheap:** a reader dispatched needlessly costs one subagent. **A leak
+> costs the entire run, and it is not recoverable** — you cannot un-read a conclusion, and every finding
+> downstream of it is permanently corroboration-weight at best. ***Dispatch when in doubt.***
+
+---
+
+> # ⚠⚠⚠ THE LAW BEHIND ALL OF IT — read this before the register below, because the register is only its
+> instances
+>
+> ## **THE PROTECTION OPERATES AT LEVEL N. THE LEAK ARRIVES AT LEVEL N+1.**
+>
+> **TWENTY-ONE distinct contamination channels have now been found in this project — nine of them on 2026-09-03 alone. ⚠ TWO of those nine were committed BY THE SESSION THAT WROTE THE FIXES, AFTER writing them (M-112, M-119).** ***Not one of them was a
+> channel nobody had thought about. Every single one was one step of indirection outside a control that was
+> already working correctly.***
+>
+> | The control, working as designed | Where the leak actually came from |
+> |---|---|
+> | `§C.2` quarantines what the deriver **delegates** | the deriver's **required reading** |
+> | "Return no section headings" | the **filenames** |
+> | "Return no content" | **titles, counts, and person-named paths** |
+> | "Skip the flagged line" | the **paragraph explaining** the flagged line |
+> | "Band the memory entries" | the surface **scales with the corpus**, so banding cannot finish |
+> | "Describe the leak so the rule is persuasive" | **the description was the leak** |
+> | "Check the manifest for your subject" | **the manifest's own explanatory column** |
+> | "Verify the skip boundary before reading" | **the verification was the exposure** |
+>
+> ### ***Each fix was written against the instance that prompted it. The next leak then arrived from one step
+> further out — every time, without exception.***
+>
+> **So the operative question is never *"is this channel safe?"*** It is:
+>
+> > ## **"What is one level of indirection out from the thing I just protected?"**
+>
+> **And because that question is hard to ask honestly about your own work, the register below exists: check
+> it as a CHECKLIST, rather than re-deriving it after being bitten.** ***Every row was paid for by a burned
+> or damaged run.***
+
+---
+
+> # ⛔ THE LEAK REGISTER — **twenty-one** known channels. **Check every row. Do not re-derive this list.**
+>
+> | # | Channel | How it reaches you | The control | Found |
+> |---|---|---|---|---|
+> | **1** | **Required reading** — rule files carry worked examples naming your subject | `CLAUDE.md` **mandates** reading them in full | Reader greps `00`–`06`+disciplines, returns line numbers to skip | M-82, M-99 |
+> | **2** | **A worked example's EXPLANATION** | You skip the line; the rule it illustrates sits around it | **Skip RANGES. Never verify a boundary by reading next to it** | **M-103** |
+> | **3** | **Auto-loaded memory** | **Pushed**, never pulled — no do-not-open list can intercept it | `grep -ril` (**never `-rin`**) → band before reading | M-21, M-63, M-87 |
+> | **4** | **Memory at corpus scale** | ~38 entries per city × 37 cities — banding cannot finish | **Default-deny declaration** at the index head | M-99 |
+> | **5** | **Filenames as theses** | A mandated `ls`/`find`; titles are *distilled* conclusions | **Sanitized paths** — directory + count + line range | M-88 |
+> | **6** | **Person-named paths** | *"Return paths"* + *"don't name people"* is unsatisfiable | **State prohibitions as POSITIVE formats** | M-94 |
+> | **7** | **Compositional reconstruction** | Three marginal leaks that jointly rebuild the conclusion | **Exposure ledger, reviewed as a SET** ⏸️ *awaiting ruling* | M-89 |
+> | **8** | **A rule's own justification prose** | Persuasive rules show their evidence — the evidence is the leak | **Describe a leak by SHAPE and SIZE, never CONTENT** | M-97 |
+> | **9** | **The manifest's explanatory column** | Checking `06` for your subject hands you its conclusions | **Manifest entries are coordinates-only** | M-97 |
+> | **10** | **A prep document's descriptive framing** | Its line-ranged sequence is safe; its prose is not | **No descriptive section. Classify BY RULE** | M-85 |
+> | **11** | **The contamination check itself** | Reading a passage closely enough to band it exposes you | **Quarantine ≠ classification — it never needs content** | M-66, M-91 |
+> | **12** | **A compilation or index pass** | Contaminates its compiler against **every** location it covers | **Index-building and cold-running are mutually exclusive** | `§C.3` |
+> | **⭐13** | **YOUR OWN NAME-SEARCH** | ***`grep '<subject>'` IS a retrieval layer you assemble by hand.*** Attributes come in table rows, conclusions come in prose, **one query returns both — ranked by relevance to your subject** | **Search by STRUCTURE, never by SUBJECT.** Needed fact from an unmapped source → **schema extraction** *(§C.2)* | **M-112** |
+> | **14** | **A registry row with no tier ruling** | The runbook **instructs** you to open a source nobody mapped. *"Registered as canon"* is not *"cleared as admissible"* | **Every registry row carries a TIER column, added in the same commit as the address** | **M-112** |
+> | **15** | **A pin that verifies** | It answers *"did these files move?"* — **never *"are these the right files?"*** A source that **JOINS** is undetectable | **Pin the SCOPE too** — the `grep -ril` file count at build time, re-run on reuse *(§C.4)* | **M-112** |
+> | **⭐16** | **THE GRAPH INDEX** | **145 files name one subject — larger than any canon root — and `CLAUDE.md` + a `PreToolUse` hook mandate querying it first** | **Cold runs do not invoke graphify.** ⏸️ **Carve-out requested in `CLAUDE.md`; until it lands, a cold run knowingly disobeys a hook** | **M-116** |
+> | **17** | **A registry row naming a source without a PATH** | You search the implied tree, get a confident zero, and the real tree is elsewhere | **Absolute paths in `§B`–`§D`, verified to exist.** ***A name is not an address*** | **M-117** |
+> | **18** | **AN ALIAS** | A renamed subject keeps a retired placeholder, a real-world basis name, dropped candidates — **and the sweep ran on one of them** | **Build the ALIAS SET before sweeping; record it in the review** *(`Step −2` item 1a)* | **M-118** |
+> | **19** | **A closed vocabulary with no escape hatch** | A reader meeting a case the tier set cannot express **mis-tags silently instead of reporting** | **Every closed-set brief: *"does not fit → most conservative value + name it in the receipt"*** | **M-115** |
+> | **⭐20** | **A PATTERN SET CONTAINING THE SUBJECT'S NAME** | A 58-name `grep -f`, a regex alternation, a corpus term sweep — **not "the subject's name," so the rule did not seem to apply** | **Diff every multi-term pattern against the ALIAS SET before running it. Intersects → delegate** | **M-119** |
+> | **21** | **YOUR OWN MEMORY OF WHAT YOU READ** | *"I already read that file"* — **but you read it with a skip range, and an absence is not remembered, it is inferred** | ***READ THE EXPOSURE LEDGER BEFORE ACTING ON "I already read that."*** Write-only ledgers do not protect | **M-119** |
+>
+> ### ⚠ The register is **open, not closed.** ***Assume a TWENTY-SECOND exists and that it is one step outside
+> whichever control you most recently trusted.*** **When you find it, add the row.**
+>
+> > ### ⛔⛔ AND THE REGISTER'S OWN PREDICTION WAS CONFIRMED, 2026-09-03 — read this before trusting row 13
+> >
+> > **Rows 13–15 were found by Run 14, three days after row 12 was written, in a run that honored every one
+> > of the twelve rows above perfectly.** ***The thirteenth channel sat one step outside the entry that
+> > predicted a thirteenth channel would exist.***
+> >
+> > **Row 13 in particular is `Step 10.1` item 5 — *"a graph, an embedding index, a full-text search cannot
+> > honor a quarantine"* — which was already written, already binding, and read as a rule about INSTALLED
+> > INDEXES.** ***Nobody classed `grep` as a full-text search, because you type it yourself.***
+> >
+> > **So the operative warning is not "check the register."** It is: ***the control you are most confident
+> > in is the one whose next-door neighbor you have not named.***
+
+---
+
+> # ⭐⭐⭐ THE LAYERING LAW — **`01`–`05` NAME NO LOCATION, EVER.** *(Developer instruction, 2026-09-03.)*
+>
+> > **"The methodology needs to be usable for any location in any universe, real or fictional. Only the
+> > RUNBOOK and the pre-contamination file(s) should contain references to a specific, exact city…
+> > the actual derivation process portions of the ULM should not contain any references to any particular,
+> > specific location."**
+>
+> | Layer | File | May name a location? |
+> |---|---|:--:|
+> | **PROJECT** | **`00_RUNBOOK.md`** *(this file — canon registry, real paths, project rulings)* | ✅ **yes** |
+> | **PROJECT** | **`Pre-Contamination_Reviews/*`** · **`06_Worked_Example_Provenance.md`** *(manifests — naming is their function)* | ✅ **yes** |
+> | **PROJECT** | `Test_Runs/*` *(run records, archives, observations)* | ✅ yes |
+> | ⛔ **UNIVERSAL** | **`01` · `02` · `03` · `04` · `05` · `README`** | ⛔ ***NEVER*** |
+>
+> ### ⚠ THIS IS NOT A STYLE RULE. IT IS THE STRONGEST ANTI-CONTAMINATION CONTROL AVAILABLE.
+>
+> ***`CLAUDE.md` mandates `00`–`06` be read IN FULL before any location work.*** **So a location name inside a
+> rule file is not a blemish — it is a conclusion the corpus is CONTRACTUALLY OBLIGED to hand every future
+> pass on that location.** **That is leak-register row 1, and it has burned more runs than any other row.**
+>
+> | Emptying `01`–`05` of location names | Effect |
+> |---|---|
+> | **Vector 1** *(required reading)* | ***CLEAN BY CONSTRUCTION, permanently*** — the sweep has nothing to find |
+> | **Skip ranges** *(M-103)* | **unnecessary for rule files** — and the "the rule around the example leaks too" problem dies with the example |
+> | **M-82 (×5) · M-99 · M-103 · M-112 · M-119** | **the channel they share is closed at the source** |
+>
+> > ### ***Every other fix in this methodology ADDS a control. This one DELETES THE SURFACE.***
+> > **A control can fail. An absent leak cannot.**
+>
+> ### The required form — already law since 2026-08-31, simply never retrofitted
+>
+> **A rule keeps its GENERAL statement. Its worked instance moves to a per-location archive under
+> `Test_Runs/`, cross-referenced by a BARE POINTER — never quoted inline.** ***`04_QA_Gates_and_Differentiation.md`
+> already complies completely and is the model to copy.***
+>
+> **⛔ Do NOT anonymize instead of moving.** *(M-4.)* **An unnamed worked case — *"a city famous for being the
+> place people move to"* — contaminates just as effectively and REMOVES the reader's ability to know they were
+> contaminated.** ***A named example can be quarantined; an unnamed one is absorbed as general knowledge.***
+>
+> ### The mechanical check — run it before any commit touching `01`–`05`
+>
+> ```bash
+> # Build the setting's location-name list ONCE, then:
+> grep -c -F -f locnames.txt 01_*.md 02_*.md 03_*.md 04_*.md 05_*.md README.md   # every count must be 0
+> ```
+> **⚠ A DERIVER MUST NOT RUN THIS — the pattern set contains its own subject (leak-register row 20, M-119).**
+> ***It is maintenance work for a session that is not cold, or a delegated reader returning counts only.***
+
+---
+
+**Working draft, 2026-08-30. This is the operational entry point for the universal location methodology. Start
+here.**
+
+**Scope:** any location of any kind, at any scale — district, city, subnet, nation, station, highway, structure,
+vessel, ruin, natural feature, network region. **Concordia's thirteen districts have their own working,
+evidence-backed procedure** at `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` and should keep
+using it. This is for everywhere else.
+
+**Status: PARTIALLY VALIDATED, as of 2026-08-30.** Every rule in the district runbook is attached to a specific
+pass that went wrong. **Most rules here still are not** — but the position has improved and the improvement is
+specific:
+
+> **At least one location has now been taken through the complete instrument** — all eleven phases, all
+> seventeen gates, and the Review Panel, across multiple cold sessions with prior conclusions quarantined
+> *(logged test instances live under `Test_Runs/`; per-location detail belongs there, not here)*. **Several
+> gates fired, some producing findings the pass would not otherwise contain; at least one gate proved
+> structurally unrunnable in a cold pass; and at least one run passed `05` §6.1's falsifiable test.**
+>
+> **What is now evidence-backed:** the shape/input-set warning (`02` §4.0) · `cost-absent` (`02` §4) ·
+> the admissibility rules (`05` §6.1a–c) · Gate C's search-path requirement · Gate 6's cold-pass
+> unrunnability · Gate 11's density check · Gate 9's second pass · Gate I's class-count diagnostic ·
+> the own-eras upgrade (`01` §5.3a) · the `unmet`/`declined` split (`00f`).
+>
+> **⭐ Added 2026-08-31, Sinheung Run 5 — Gate 6 has now demonstrated a second mode, and it is the more
+> important one.** Every prior Gate 6 fire found *collisions* (duplicate institutions needing differentiation).
+> Sinheung Run 5 found **convergence**: a cold pass built entirely from Tier-1 attribute generators
+> independently reproduced the withheld culture sheet's own central finding before that file was ever opened.
+> ⚠ **Convergence is not proof:** the finding it reproduced rested on a contrast between neighboring cities'
+> foundings that `DR-19` and the law of one location both forbid, so a cold pass and a withheld file can agree on
+> an error as readily as on a fact. **Check a convergent finding against the rulings before treating it as
+> validated.** Full writeup:
+> `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/12_Step7_Gate6_Withheld_Comparison.md`, M-35.
+>
+> **What is still untested: everything about a THIN location.** Sinheung, like every location run through this
+> instrument so far, turned out to be a best case in some way (rich attribute canon, comparable in depth to
+> Zhongshan) — the "thin canon" assumption behind its own selection was itself found to be wrong (see Sinheung
+> Run 5's Frame declaration). **The next run should be chosen because it looks least likely to conform** — see
+> `04` Part IV on self-graded prediction records.
+
+**Treat the next several real runs as tests of the instrument as much as of the location.**
+
+---
+
+# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.
+
+**Stated in full rather than cross-referenced, because a procedure that cites its governing law instead of
+stating it will be run without it.**
+
+**Worldbuilding is upstream of the entire project.** Every character, questline, faction, companion arc,
+personal struggle, daily hardship, pastime and small joy is **downstream of decisions made here.** A shallow
+location does not produce a shallow location — it produces shallow people living in it, shallow problems for
+them to have, and shallow reasons for anyone to care. **The cost of going fast here is not paid here.** It is
+paid later, everywhere, by work that cannot be fixed without coming back and redoing this.
+
+**Therefore:**
+
+- **Contemplate before writing.** The first plausible answer is usually the generic one, and a generic answer is
+  worse than no answer because it occupies the slot.
+- **Do actual research.** Not recalled, not inferred from a name. **The one controlled comparison this project
+  has ever produced** — same location, same author, same day, at two researched picks and at six — found that
+  **the two strongest findings came from picks four, five and six and did not exist at two.** The "redundant"
+  picks were not redundant; four of them were the pass.
+- **Chase nth-order effects.** For every finding ask **"and what does that cause?" three times.** First-order is
+  the observation. Second-order is usually the interesting one. **Third-order is where the place stops
+  resembling anywhere else.**
+- **Go deep on the specific, not wide on the general.** One institution understood to its third-order
+  consequences beats six sketched.
+- **Take the time.** There is no deadline and no credit for finishing quickly.
+
+## The anti-patterns this law exists to stop
+
+1. **Producing a location because it is the next one**, rather than because it has been thought through.
+   **Completion is not the goal; a place somebody could live in is the goal.**
+2. **Skipping research by declaring it redundant.** Prioritizing by difference is a real rule and it is also
+   *convenient*. **A pick is only redundant once you have actually looked at it. Redundancy asserted from a
+   title is a guess wearing the costume of a method.**
+3. **Treating "the phase is covered" as "the phase is done."** A finding that answers the template question is
+   the floor, not the ceiling.
+4. **Accepting the first coherent answer** because it fits and the pass is long.
+5. **Letting the gates substitute for thinking.** They confirm a pass is not *wrong*. **None of them can tell
+   you it is not thin.**
+
+**And the companion failure — research used as decoration.** Doing the research is not the same as letting it
+change anything. After each source, ask plainly: **did this change a finding, or ornament one?** Both answers
+are honest and must be recorded differently. A citation attached to a conclusion that would have been written
+anyway makes a thin pass look researched.
+
+## The closing test
+
+> **Could a person live an entire life here — and would that life be unlike a life in any comparable place?**
+
+If the honest answer is *"probably, I suppose,"* the pass is not finished regardless of what the gates say.
+
+> ### ⚠ Restated again, 2026-08-31, mid-Run-5 — because it needs to be heard again, not just cited
+>
+> **Developer instruction, verbatim, given directly during Sinheung's cold pass:**
+>
+> > *"Refining, fine-tuning, and perfecting this methodology is of absolute top-priority and importance to me.
+> > If it takes a month to get it right, then we spend a month testing and refining it."*
+>
+> **What this adds, beyond what LAW 0 already says above:** it is not only that speed is not rewarded — it is
+> that **there is no ceiling on how long this is allowed to take, and no session should treat a long runtime as
+> a signal that something has gone wrong or that it should wrap up.** A pass, a phase, or a single finding that
+> is still open after extensive work is not evidence of failure; stopping early to manufacture a sense of
+> completion is the actual failure. **A future session reading this: you do not need to do this "quickly." You
+> need to do it *right*.** If the honest, current state of the work is "still going," that is a legitimate and
+> expected state, not a problem to paper over.
+
+---
+
+---
+
+# ⛔⛔⛔ THE LAW OF NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP.**
+
+> ## **BINDING LAW. Added 2026-09-06 at the developer's direction, during Shirayuki's Phase 6.** *Stated in full rather than cross-referenced, for the reason `LAW 0` already gives.*
+
+**Developer instruction, verbatim:**
+
+> ### **"I am open to the possibility (in fact, the likelihood) that there will be more robot religions, so don't force any community/society into a religion where it doesn't already naturally fit."**
+> ### **"Also, make that a binding law in the Methodology."**
+
+## The law
+
+> # **NEVER FORCE A LOCATION INTO A CATEGORY IT DOES NOT NATURALLY OCCUPY — AND THE ERROR RUNS IN BOTH DIRECTIONS.**
+
+| ⛔ Both are the same failure | |
+|---|---|
+| **ASSIGNING** an existing roster member to a location it does not fit | *because the roster had a slot and the location had a blank* |
+| **INVENTING** a bespoke one to fill the blank | *because a phase asked a question and an empty answer felt like failure* |
+
+## ⭐ Why the roster's SIZE is never the test
+
+***A setting's rosters are OPEN and are expected to grow*** — **religions, factions, institutions, symbol
+systems, industries, holidays.** **So the question is never *"does one of the existing N apply?"*** It is:
+
+> ### ***"Does any of this naturally fit HERE — and if none does, is that not simply the truth about this place?"***
+
+## ⛔ What a pass must write when nothing fits
+
+1. **Say so plainly.** *"No faith is sited here." "No faction claims it." "No symbol member fits."*
+2. ⭐⭐ **LEAVE THE SLOT EXPLICITLY OPEN.** ***A later reader must not be able to mistake "none is sited here"
+   for "none is possible here."*** **Write the second sentence.**
+3. **Write what the place DOES have, as what it is** — a **stake**, a **social contract**, a **debt**, a **standard of
+   worth**, a **habit nobody has named**. ⛔ **Do not promote it into the category that was empty.**
+   *A shared proposition is not a creed, and promoting one into the other is this same forcing error wearing a
+   third costume.*
+4. ⏸️ **Leave genuinely undecided things undecided.** *A location's non-devotional standard may later become
+   the seed of a faith, or may stay secular indefinitely.* ***Both are legitimate; the pass does not choose.***
+
+> ### ⚠ THE INSTINCT THIS EXISTS TO OVERRIDE
+> **A phase asks a question. An empty answer feels like a thin pass.** ***So the pass reaches for the nearest
+> available member of whatever roster is open in front of it, and the fit is "close enough."***
+> **`LAW 0` already names the parent instinct — *"accepting the first coherent answer because it fits and the
+> pass is long"* — and this is its roster-shaped form.**
+> ⭐ **And it compounds across a corpus:** *thirty-eight locations each nudged into the nearest category
+> produce a setting where every place has a faith, a faction and a signature, **and none of it means
+> anything**, because nothing was ever allowed to be simply absent.*
+
+**Scope: every roster-shaped category, not only belief** — *faiths, factions, symbol members, sector labels,
+arrival modes, capability shapes, location types and modifiers.* ⭐ **The originating and primary case is
+belief, and `03` §Phase 6 B carries the operational form.**
+
+---
+
+# ⛔⛔⛔ THE LAW OF ONE LOCATION, ON ITS OWN TERMS — **NO CITY IS EVER COMPARED TO ANY OTHER CITY**
+
+> ## **BINDING LAW. Developer instruction, 2026-09-06, stated verbatim:**
+> > ### **"Do not. Do *NOT* compare any city to any other city. Ever. That is for much, much, much later in development. For the ULM/CST/RWBEM meta-methodology, for each location, create that one location *on its own terms*."**
+
+## ⭐ THIS IS `§C.8d` GENERALIZED — **and it was always heading here**
+
+**`§C.8d` already ruled: *"NEVER MEASURE ANOTHER LOCATION AGAINST CONCORDIA. Not for scale. Not for
+structure… Not as a control, a baseline, a comparison class, or an implicit 'normal'."*** ⭐⭐ ***The ruling
+now extends that from one city to ALL of them.*** **And the runbook's own opening section has said the same
+thing from the start:** *"**THE UNIT IS ONE LOCATION.** This methodology builds ONE location, start to
+finish."*
+
+| ⛔ FORBIDDEN during a ULM / CST / RWBEM pass | ✅ Permitted |
+|---|---|
+| **Ranking a city against others** — *"worst retention of the three," "26 of 37 are colder," "the freest in its subnet"* | ⭐ **The location's OWN figures, stated flatly** — *"retention `61.81%`"; "mean annual `−9.9 °C`"* |
+| **z-scores, percentile positions, "nth of N"** | **Its own arithmetic** — *population ÷ ground, its own tier percentages* |
+| **"Unlike X, this city…" · "same as X" · "better/worse grounded than X"** | ⭐ **`01` §5.3a's PEER-FREE substitutes — the location's own earlier states, real-world comparables, the generator-conflict method** |
+| **Using another city as a control, a baseline, or an implicit normal** | ⭐⭐ **RELATION — what this place needs from elsewhere, what flows, in which direction** *(see the open question below)* |
+
+> ### ⭐⭐⭐ WHY IT PRODUCES BETTER LOCATIONS, NOT THINNER ONES
+> ***A comparison is a shortcut to a feeling of insight.*** **"This city is the coldest / freest / worst-
+> retaining of N" reads as a finding and is actually a fact about a spreadsheet.** ⭐ **Stripped of the
+> ranking, the pass has to say what the place is LIKE — which is the thing the methodology is for.**
+> ⚠ **And `01` §5.3a already insists on this:** *"A pass with no sibling set is the ordinary case, not a
+> degraded one."*
+
+## ✅ RULED — **DIFFERENTIATION IS A TERMINAL CHECK, NOT AN IN-RUN CONSTRAINT**
+
+> ### **Developer instruction, 2026-09-06, stated verbatim:**
+> > ### **"In terms of your interpretation of Part III's 'anti-convergence' rule, yes, this is something we'll check for and decide at the very end. During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."**
+
+⭐⭐⭐ **THE FIVE COMPARISON INSTRUMENTS ARE HEREBY MOVED OUT OF THE PER-LOCATION PASS.** **They are not
+deleted, weakened, or declared wrong** — ***they are relocated to the stage where their input actually
+exists.*** **A cross-city instrument cannot function on a corpus of one, and running it early does not make
+it rigorous; it makes it a guess wearing a table.**
+
+| Instrument | Was | ⭐ NOW |
+|---|---|---|
+| **`03` Phase 5 §5b — the three-way differentiation set** | *"this location plus its two hardest frictions"* — **mandatory for clustered locations** | ⏸️ **TERMINAL.** Phase 5 writes RELATION only — mechanism, dependency, direction, flow |
+| **`04` Gate 6 — duplicate institutions** | needs siblings' completed material; already deferred to Step 7 | ⏸️ **TERMINAL.** *(It was already the closest to correct — it deferred by itself.)* |
+| **`Step 6` — Differentiate** + the `Cross_City_Culture_Differentiation_Table` | **read the row BEFORE writing a category** | ⭐ **WRITE-ONLY during the run.** ***A pass ADDS its own column and never READS another's.*** The read happens at the terminal check |
+| **`02` §4's three-step rule** | *"where the shape repeats a sibling…"* | ⏸️ **TERMINAL.** In-run, the shape is tested against **`02` §4.0's double reading** — the same input set read twice — not against a sibling |
+| **`02` §G8's retention rule 1** | *"score against the full set, never the local group — report the z-score"* | ⛔ **NO SCORE OF ANY KIND in-run.** Report **the location's own percentage**. Ranking is terminal |
+
+> ### ⭐⭐⭐ WHAT REPLACES THEM IN-RUN — **"follow the data wherever it leads"**
+> ***The instruction is not "do less." It is "stop steering."*** **Every one of those five instruments was a
+> STEERING device — it asked "is this answer too much like someone else's?" *before* the answer had finished
+> arriving.** ⛔ **That question, asked early, is a convergence engine in its own right:** *a pass that knows
+> what its neighbors said will write around them, and writing-around-a-neighbor is still a neighbor-shaped
+> decision.*
+> ⭐ **Removing the steering does not risk sameness. It is the only condition under which genuine difference
+> can be OBSERVED rather than MANUFACTURED** — and the terminal check is where sameness, if it happened, gets
+> caught **with all 38 columns present, which is the only point at which the catch would have been true.**
+
+> ### ⚠ SCOPE — **this ruling names `ULM / CST / RWBEM`. It does not reach the district methodology.**
+> **`Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` and `Cross_District_Differentiation_Table.md`
+> are a separate, completed, battle-tested instrument on a 13-district corpus that is already built** — its
+> read-before-write rule stays exactly as it is. ⛔ **Do not "harmonize" the two. They are at different
+> stages of their own lives.**
+
+## ✅ AND THE DISTINCTION IS NOW SETTLED — **RELATION is not COMPARISON**
+
+**`03` Phase 5 asks *"what is this place to the places around it"* and its core move is explicitly
+*"a MECHANISM, not a rivalry."*** ⭐ ***That is not ranking — it is dependency, direction and flow, which are
+facts about THIS location.***
+
+| ✅ Relation — a fact about this place | ⛔ Comparison — a fact about a spreadsheet |
+|---|---|
+| *"this city has no shore and depends on a harbor held by others"* | *"this city retained worse than its neighbors"* |
+| *"three highways end at a junction it shares"* | *"it is the least-connected of the three"* |
+
+✅ **RESOLVED by the 2026-09-06 differentiation ruling — *"follow the data wherever it leads."***
+***Where a location's own material genuinely involves neighbors — a shared site, a shared port, an eventual
+merger — that is its own history, and the data leads there, so the pass follows it.*** ⭐ **A neighbor may
+therefore appear in a pass as a FACT THIS LOCATION LIVES WITH. It may never appear as a MEASURING STICK.**
+
+> ### ⭐ THE ONE-SENTENCE TEST, and it is mechanical
+> **Delete every other city's name from the sentence.** ⭐ **If what remains is still a claim about THIS
+> location, it was relation — keep it.** ⛔ **If the sentence collapses, it was comparison — cut it.**
+> *"Depends on a harbor it does not own"* survives. *"Retained worse than its neighbors"* does not.
+
+> ## ⭐⭐⭐ RUN THE TEST ON **REFUSALS** TOO, NOT ONLY ON CLAIMS — `M-159`, a worked case
+> ***The test was written to catch comparisons being written IN. It catches facts being kept OUT just as well,
+> and nothing said so — which cost one pass a canon fact about its own subject.***
+>
+> **What happened:** **canon named three cities in one list** — *"bohemian/cosmopolitan cities (e.g. Janbogo,
+> Zhongshan, Shirayuki) support a wide variety of glitch-coolant types… **variety and refinement over raw
+> intensity**"* — **and the pass REFUSED it**, under `Cultural_Synthesis_Techniques`' *"if two places produce
+> similar-shaped answers, at least one is wrong,"* **recording it as *"a SHARED trait, not a finding."***
+>
+> **Apply the test to the refused sentence:** ***"Shirayuki supports a wide variety of glitch-coolant types,
+> and values variety and refinement over raw intensity."*** ✅ **Delete every other name and it survives
+> entire.** ⛔ ***It was never a comparison. It is a canon statement about one city that happens to appear in a
+> list of three.***
+>
+> ### ⛔⛔ AND THE DISCARDED FACT WAS LOAD-BEARING
+> **The same phase had derived a temperament structurally and conceded in its own limits section that the claim
+> was *"structural, not measured."*** ⭐⭐ ***"Variety and refinement over raw intensity" is the same disposition
+> as "technique over effort"*** — **the corroboration was sitting in a file the pass had already read.**
+>
+> | ⭐ THE THREE RULES THIS YIELDS |
+> |---|
+> | **1.** ***A canon fact about the subject is admissible however many other subjects share it. SHARED ≠ COMPARATIVE*** |
+> | **2.** **Run the one-sentence test on a refusal before recording it as rigor** |
+> | **3.** ⚠ **Admission carries NO distinctiveness claim.** *"This is what the place is like" is the finding; "and nowhere else is" is terminal, and not the pass's business* |
+>
+> ⭐ **`M-156` diagnosed the comparison instruments as STEERING devices.** ***This is the stage past steering:
+> an instrument that deletes an answer rather than bending it*** — **and no QA gate catches it, because the
+> phase stays internally consistent and cites a rule that genuinely exists.**
+
+---
+
+> **The one rule under all of it** (`Disciplines/Cultural_Synthesis_Techniques.md`): **never carry one location's answers
+> into another.** ⭐⭐ **AND AS OF 2026-09-06 THIS IS ENFORCED AT THE STRONGEST POSSIBLE POINT — by not reading
+> the other location at all.** ***You cannot carry across an answer you never read.***
+> ⛔ **The "at least one is wrong" CHECK is itself a comparison, so it is TERMINAL, not in-run** — *it runs once
+> on the finished corpus, never inside a per-location pass.* **Every gate serves the rule; no gate performs that
+> check.** **Law 0 is what makes it possible to obey** — two places produce similar-shaped answers mainly when
+> neither was thought about long enough to become itself.
+
+---
+
+# What changes from the district runbook
+
+For anyone who knows that procedure, the differences in one table.
+
+| | District runbook | This runbook |
+|---|---|---|
+| **Type / scale / status / era** | All constant; never declared | **Declared, and every one changes the questions** — Step 0 |
+| **Primary generator** | The zodiac capability reading | **Three independent generators, and the conflicts between them** — Step 2 |
+| **Capability frame** | Two poles *(strength, deficit)* | **Four quadrants** — plus standing cost and grudging tolerance |
+| **Inter-location relations** | **A measured hole**; only §6 of a cross-phase file covers it | **Phase 5, mandatory, mid-spine** |
+| **Symbols** | The zodiac, built in | **Registered and open** — any system, assessed for shape before use |
+| **Parent / children** | One parent, never written about | **Inheritance protocol, provisional assumptions, and a reciprocal parent gate** |
+| **Phases** | 8 | **11**, restoring what the city template had and the district translation dropped |
+| **Gates** | 0–11 | **0–11 carried, plus C · F · I · P · G** |
+| **Canon** | "check canon" — no address given | **A registry, up front**, with a federated authority hierarchy and per-phase targets |
+
+---
+
+# THE UNIT IS ONE LOCATION
+
+**Developer instruction, 2026-08-30, and it governs the structure of everything below.**
+
+> **This methodology builds ONE location, start to finish.** In the overwhelming majority of instances that is
+> all it will ever do. **Handling several at once is a possible extra, never the base structure.**
+
+**Why this has to be stated rather than assumed.** The first test run *(Tri-Cities, 2026-08-30)* was
+constructed as a **simultaneous three-location co-write** and did not notice that this was exceptional —
+because `01` §5.3 *permits* co-writing a small set, so nothing in the procedure objected. **The result was a
+methodology validated on the least representative configuration in the project**, which is the district
+folder's recorded self-grading failure wearing new clothes.
+
+## What follows from it — the instruments split in two
+
+**Most of this methodology never needed a second location.** The split is clean, and knowing which half you
+are holding is the difference between a pass that runs alone and one that stalls:
+
+| **PEER-FREE — the core. Runs on one location, always available.** | **PEER-REQUIRED — enhancement. Only when siblings exist and are written.** |
+|---|---|
+| The four-quadrant capability frame (`02` §3) | The differentiation table (`04` Part III) |
+| The generator stack and the rule of three (`02` §2, §5) | Gate 6's collision check |
+| **The deficit *address* axis — peer-free half** (`02` §4.1) | The shape typology's *repeat* rule (`02` §4) |
+| The pairing-relation typology (`02` §6.3) | Phase 5b's three-way set (`03`) |
+| Shape *reading* (`02` §4) · named-axis discipline | The address axis's *peer-required* half |
+
+**A single-location pass is not a degraded pass.** It runs the entire left column and substitutes for the
+right, per `01` §5.3. **Say in the pass which substitutes were used.**
+
+## The typicality declaration — one line, and it is not optional
+
+**Add to the frame declaration and to the `05` §7 pre-flight:**
+
+> ***Is this location's configuration typical, or exceptional? If exceptional, in what way — and which findings
+> depend on the exceptional property?***
+
+**A pass cannot correct for a bias it has not declared.** The Tri-Cities run produced seven findings from
+Phase 5 and could not tell that nearly all of them were unavailable to a normal location, because it never
+asked this question.
+
+---
+
+# THE CANON REGISTRY — where to look, and who wins
+
+**Stated up front, because the rest of the methodology says "check canon" in a dozen places and an instruction
+to check something is unrunnable without an address.** Every later file refers back to this section.
+
+## 0. Canon is federated. There is no single source, and assuming otherwise is the failure.
+
+**Authoritative material lives in at least three places at once**, and a location pass will normally need all
+three in the same sitting:
+
+- **the universe repo** — binding on When / Where / Who, across every Tepenian project;
+- **this project's own repo** — binding on everything the universe repo excludes, and holder of most
+  location-level detail;
+- **sibling project repos** — not authoritative here, but a consistency obligation.
+
+**"Absolutely authoritative" and "the only place to look" are different claims.** The universe repo outranks
+this one on its three questions and is silent on most of what a location pass actually writes. **Checking only
+the highest-ranked source is as wrong as checking only the nearest one.**
+
+> ### ⚠ The practical trap, verified rather than hypothesized
+>
+> **The universe repo is not inside this one.** It sits at
+> `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/`, a sibling of the whole
+> `games/` tree. **A repo-local grep cannot see it.** Every search-based canon check run from inside this repo
+> will return "not found" for universe canon — confidently, and wrongly. **It has to be opened deliberately.**
+>
+> **And canon migrates, leaving stubs.** `Worldspace/World_History_Reference.md` in this repo is **seven lines**;
+> the real file is **344 lines** in the universe repo. The stub is correct and well-made — it was moved
+> 2026-07-11 and a pointer was left behind, which is exactly right — **but a pass that finds the stub and does
+> not follow the pointer comes away believing this project has almost no world history.**
+>
+> **So: when a canon file looks unexpectedly thin, check whether it is a redirect before concluding the canon
+> is thin.** This generalizes past this one file — the same-filename-in-two-repos pattern will recur as more
+> content migrates upstream.
+
+## A. The authority hierarchy — already law, not invented here
+
+**`TepenianUniverseTimeline/Reference/Repo_Scope.md` is a binding law** declaring the universe repo
+authoritative for exactly three questions **across every Tepenian Universe project** — InnerTepeniaGDD,
+TheCryptographHelixDD, OuterTepenia1_GDD, SouthernLights, CurrentNovelDocs:
+
+> **WHEN** everything happens · **WHERE** everything happens · **WHO** is involved.
+
+**It explicitly excludes** game mechanics, questline/branch structure, novel-specific craft, and
+implementation detail — those belong to each project.
+
+**So the precedence order, when two files disagree:**
+
+| Rank | Source | Wins on |
+|---|---|---|
+| **1** | **`TepenianUniverseTimeline/`** | **When · Where · Who.** Chronology, geography, physical routes, character identity/backstory/relationships |
+| **2** | **This project's own canon** | Mechanics, questlines, this game's design. **And everything the universe repo excludes** |
+| **3** | Locked project canon *(Canon Reference, promoted findings)* | over |
+| **4** | `Proposed:` findings *(most culture-pass output)* | over |
+| **5** | `to-be-integrated/` | **staging, not canon** — usable as input, never as authority |
+| **—** | **Deferred / reserved** | **nobody wins. Do not decide.** *(`05` §3)* |
+
+**A location pass is rank 4 output.** It never overrides ranks 1–3. Where it contradicts one, **state the
+contradiction and reconcile it in the text** — do not silently pick a side, and per `02` §5.3 look for a
+both-are-true reading first.
+
+## B. Universe-wide canon — `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/`
+
+> # ⭐⭐ STANDING RULE — **EVERY ADDRESS IN THIS REGISTRY IS ABSOLUTE.** *(Developer instruction, 2026-09-03.)*
+>
+> ***"It's really better to use absolute paths."*** **Applied across the whole registry the same day: 20
+> relative and ellipsis-abbreviated addresses were converted to absolute.**
+>
+> ### This heading is the proof, and it is a better argument than the rule
+> **This row read `../../../../../Reference/TepenianUniverseTimeline/` — five levels, which resolves to
+> `media/games/Reference/` and has never existed.** ***The correct relative form is six.*** **The absolute
+> path beneath it was correct the whole time.**
+>
+> > ## **The error survived because everyone used the absolute path — so nobody ever exercised the broken one.**
+> > ***A relative address in a registry is a second, unused, silently-wrong copy of an address you already
+> > have.*** **It cannot be right more often than the absolute form, and it can be wrong while the file it
+> > names sits exactly where it should.**
+>
+> **⚠ A relative path is also FOLDER-DEPENDENT, and this registry is read from at least three places** — the
+> ULM folder, a `Test_Runs/` run folder, and the repo root. **The same `../` string means three different
+> things to three readers, all of whom believe they are following the same instruction.**
+>
+> ### ⛔⛔ AND A THIRD CONSEQUENCE, ADDED 2026-09-07 — **`M-170`: NEVER DELETE ONE**
+> **Measured the same day:** *a session put `51` verified absolute addresses into the phase spec at the point of
+> use, then **stripped them out again** on its own inference that project paths belonged elsewhere — replacing
+> them with a pointer that named no file.* ⛔ ***The LAYERING LAW it was obeying governs LOCATION NAMES, supplies
+> a one-line mechanical test (`grep -f locnames.txt`), and the deleted addresses PASSED it. The test was never
+> run.*** ⭐ **A rule that ships a check is obeyed by running the check, not by reasoning about it.**
+> ⚠ **And a pointer that names no file is worse than a relative path** — *`M-117`: **a name is not an address.***
+
+> **Three consequences for anyone editing `§B`–`§D` or `§C.9`:**
+> 1. **Write the absolute path. Never a `../` form, never an `…/` abbreviation.**
+> 2. **Verify it resolves before committing** — *extract every backticked path token from this file and test
+>    each for existence.* **That sweep is what found this one**, along with two dead sibling-project rows and
+>    a symbol-register row off by one directory.
+
+*(Absolute: `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/`. A separate shared
+repo, not inside this one — so a pass must open it deliberately; it will not turn up in a repo-local search.)*
+
+| File | Domain |
+|---|---|
+| `Reference/Repo_Scope.md` | **the authority law itself — read once** |
+| `Reference/World_History_Reference.md` | universe history |
+| `Timeline Eras/` | the four eras: First Interwar · Second Interwar · Solar Colonization · Post-Solar |
+| `Reference/Falkland_Treaty/` | the founding instrument |
+| `Reference/Laws_of_Robotics.md` | **robot fundamental laws — binding** |
+| `Reference/Robot_Universals_Summary.md` | robot cultural universals, four parts (a summary; the full book is this repo's `Characters/Robot-specific/Robot_Universals/`) |
+| `Reference/Doll_Representation_Categories.md` | the four representation categories |
+| `Reference/No_National_Stereotypes.md` | **binding: GPS facts only, always** |
+| `Reference/Enneagram_Undercurrents.md` | shared character typing |
+| `Worldspace/Locations/` · `Worldspace/Characters/` | shared location and character facts |
+| `Megacorps/` | cross-project corporate actors |
+
+## C. Project canon — this repo
+
+| File / folder | Domain |
+|---|---|
+| `Worldspace/World_History_Reference.md` | project history |
+| `Worldspace/Robot_Biology_and_Culture/` | **siligel, coolant, robot coffee, Glitch-Coolant** — mandatory before any robot cuisine or physiology claim |
+| `Worldspace/Factions/` · `Factions/Robot_Religions/` | faction and religion roster — **check before inventing either** |
+| `Worldspace/National_Economy_and_Currency.md` | currency and economy |
+| `Worldspace/National_Holidays.md` | Federation-wide observances — **what a local holiday must be distinct from** |
+| ⚠ `Worldspace/City_Logistics.md` | **SCOPE: CONCORDIA ONLY.** *Its own title is "Concordia — City Logistics Reference"; its content is domes, named districts, Neon Nomads, the Janbogo highway and a `−50 °C` envelope.* ⛔ **REMOVED from `§C.8c`'s Phase 4 row 2026-09-06 by developer ruling** — *it was registered as a general per-phase target for every city, which contradicted `§C.8d` (**Concordia is not a yardstick**). `M-152`.* ⭐ **Its two genuinely general sections — THE DUAL ECONOMY and the currency pointer — are the parts any location may use; the rest is Concordia's own.** ⏸️ *A split (`05` §6.1a rule 2) would let the general half be registered properly; not done* |
+| `Worldspace/Energy_Grid_Failure_Rationale.md` | the grid and its failure |
+| `Worldspace/Design_Principles.md` | standing design law |
+| `Worldspace/Characters/` | character canon, incl. `Enneagram_Character_Index.md` |
+| `Worldspace/Locations-and-Levels/…/Cities/` | city specs, census, symbolic substrate, Enneagram, relationships |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Master_Reference/` | **⚠ MIXED-ADMISSIBILITY per-city file index — see §C.1 before opening in a cold run** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Canon_Reference.md` | **district locked canon** |
+| `Neo-Races-and-Cultures/` | per-subnet cultures; `Orbital_Cryptograph_Helix_Era/` for the novel-series crossover |
+| `Reference/Real-World/` | research extractions — **check `Book_Extraction_Index.md` before mining any book**. ⚠ **EXPANDED 2026-09-03 — see §C.9; this row was ONE line covering ~90 files across nine subfolders, none of them addressed and none reachable from the per-phase table** |
+| **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/`** *(18 files)* | ⚠ **THE STRONGEST `G3` SUPPLY IN THE PROJECT — and MIXED-RELIABILITY. See §C.6 before citing any figure** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md` | the corpus-wide necessary-industry gap matrix **(G3)** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md` | national healthcare/care institutions **(G3)** — a `Division_of_Industry` input |
+| ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/`** — **`Highways.md` · `Airports.md` · ⭐ `Ports.md` · ⭐ `Geothermal_Heating.md`** *(**`Ports.md` and `Geothermal_Heating.md` REGISTERED 2026-09-05** — both were written that day and neither appeared in this registry or in the input contract, which is **M-121 exactly: *registered globally is not registered at the point of use*.** ⛔ **`Ports.md` is `G5` material and the `Access type:` token does NOT cover it — the token describes ROAD connection, so `NONE` means "no road," not "no access." Signy is `NONE` and is reachable BY SEA ALONE.** `Geothermal_Heating.md` is **`G2`** material — six cities sit on volcanic heat the national grid does not supply)* *(**CORRECTED 2026-09-03** — this row read `…/Cities/Locations/Infrastructure/…`, **a path that does not exist**. `Infrastructure/` is a **SIBLING** of `Cities/`, not a child. **M-117 recurring inside the registry**, on the one row the note below calls universally needed: *a pass following it searched a directory that structurally cannot hold the answer and got a clean negative* — Gate C's own recorded failure shape)* | **network position (G5)** — named explicitly because the broad `Cities/` row above does not imply them, and every location pass needs them. ⭐ **Each city's `Specs/` file also carries a closed-set `**Access type:**` token — `ON` · `SPUR` · `SEA-LINK` · `NONE`** *(added 2026-09-03)* |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/` | per-location research logs — **attributes, never conclusions; admissible even to a cold re-run** (§3e) |
+| `Worldspace/Canon_Gap_Resolution_Method/` | **the system for ACQUIRING canon that does not exist yet.** `Developer_Ruling_Queue.md` holds open rulings — **check it before treating a gap as closed** |
+| `Theoretical-Calculations/` | engineering/mass-budget models *(e.g. `Amundsen_Tower_Space_Fountain_Design.md`)* — a `Division_of_Industry` input |
+
+## C.1 ⚠ The City Master Reference — navigation-admissible, conclusions withheld
+
+**Added 2026-09-02, at the developer's direction, and placed HERE rather than in the methodology proper.**
+**`01`–`06` must stay applicable to any location in any universe, real or imaginary. A pointer to one
+project's index file is not universal, so it lives in the runbook.**
+
+**What it is.** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Master_Reference/` — five per-subnet files plus a README, compiling for each of
+the 37 cities: **which files exist and at what canon tier**, the census figures, geology and difficulty, the
+real-world basis, founding facts, **line-anchored infrastructure citations** *(`Airports.md` / `Highways.md`,
+with line numbers)*, open threads, **and** the robot-culture findings, design-tool reads, district affinities
+and division-of-industry determinations.
+
+> ### ⚠ It is a MIXED document, and therefore INADMISSIBLE AS A WHOLE to a cold run.
+>
+> **`05` §6.1a rule 1:** *"A file is admissible only if **every section** of it is. There is no partial read:
+> **you cannot un-see the second half.**"* **Roughly half of each entry is conclusions.**
+
+| ✅ **Admissible — attributes (= G1–G8)** | ❌ **Inadmissible — conclusions** |
+|---|---|
+| The **Files found** table — pure pointers, with tier markers | **Robot culture** sections — 🔴 draft findings |
+| **✈️🛣️ Infrastructure cross-references** — line-anchored network facts **(G5)** | **Design-tool readings** — Enneagram personality reads |
+| Census I/II **(G8)**; geology and D **(G2)** | **District affinity** picks — derived |
+| Real-world basis: coordinate and physical-infrastructure facts only **(G2/G5; `DR-19`, `DR-24`)**; founding mechanism **(G4)**, founders from `Founding_Register.md` only | *"Identity: '…'"*-style claims |
+| §15 sector list and the mandate/free figures **(G3 — but see below)** | The determinations' **characterization notes** |
+| **Open threads** — these are gaps, not answers | Any canon-facts bullet phrased as interpretation |
+
+### The remedy is upstream, not a careful read
+
+**`05` §6.1a rule 2:** *"Where a source genuinely mixes the two, the fix is upstream — **split the file.** Do
+not attempt to read around the conclusions."*
+
+> **Therefore: a cold run opens the SPLIT EXTRACT, never the full reference.** The extract carries only the
+> left column above. **The full reference stays withheld until Step 7**, where it becomes exactly what a cold
+> run wants — an independent body of prior conclusions to compare a blind derivation against.
+
+**⚠ The extract must be built before the first run that relies on it.** Until it exists, treat the whole
+`City_Master_Reference/` folder as withheld.
+
+> ### ✅ EXTRACTS NOW EXIST — `City_Master_Reference/Split_Extracts/` *(begun 2026-09-03, M-108)*
+>
+> **Built by three isolated readers plus a script; no session read the sources.** ***These files are SAFE for
+> a cold deriver to read in full.***
+>
+> | Source | Extract | 3–0 admissible |
+> |---|---|--:|
+> | `Halley_Subnet_Reference.md` | ✅ `Halley_Subnet_Reference_EXTRACT.md` | **62.8%** of content |
+> | `Janbogo_Subnet_Reference.md` | ✅ `Janbogo_Subnet_Reference_EXTRACT.md` | **83.7%** |
+> | `Mawson_Byrd_Amundsen_Reference.md` | ⏸️ **2-of-3 maps on disk — needs ONE more reader** | — |
+> | **`Mirny_Subnet_Reference.md`** | ✅ **`Mirny_Subnet_Reference_EXTRACT.md`** *(completed 2026-09-03, Run 15)* | **54.4%** |
+> | `Palmer_Subnet_Reference.md` | ⏸️ **no disk maps — re-map from scratch** | — |
+>
+> **⚠ The extracts are THIN BY RULE** — a line enters only on 3–0 unanimity *and* only where no reader found
+> a mid-line seam. **Each header says so.** ***Do not read thinness as evidence the source is clean.***
+> **Recover yield by working the escalation ladder on the seam lines, never by lowering the threshold.**
+>
+> ### ⭐ CORRECTED 2026-09-03 — **"ephemeral" was advice, not a fact. CHECK BEFORE RE-DISPATCHING.**
+> **This paragraph used to read: *"Partial maps live in the session scratchpad (`cmr_maps/R*_<file>.json`)
+> and are ephemeral — a future session should re-dispatch rather than assume they survive."*** **Run 15 looked,
+> and `R1`/`R2` for Mirny were still on disk in an expired session's scratchpad — valid, and asserting the same
+> `n=344` the source still has.** ***One reader completed the extract instead of three.***
+>
+> > **The advice was prudent and would have cost two readers every time it was followed.** ***A cheap check
+> > beats a safe assumption:*** **look for surviving maps, verify their `n` against the source's current line
+> > count, and re-dispatch only what is actually missing.**
+>
+> **⛔ AND MOVE WHAT YOU FIND OUT OF THE SCRATCHPAD IMMEDIATELY** — into the run folder, committed. **Recovered
+> work that is left where it was found is still ephemeral** *(M-132: the one deletion this project could not
+> recover was of uncommitted reader output)*.
+
+### ⚠ One standing tagging obligation
+
+**The division-of-industry figures are `G3 Function & purpose`** — admissible, and genuinely the strongest G3
+supply this project has *(the mandate tier is literally "what its parent needs from it," which `05` §2.2 names
+as the generator)*. **But they are project-internal derivation, which puts them in `05` §6.1's Column 3:**
+
+> *"**Admissible but self-originated.** Use it — you are usually obliged to. **But tag every finding that
+> rests on it**, because it is corroboration rather than independent confirmation."*
+
+**Any finding leaning on a mandate/free figure carries that tag.**
+
+### Why this exists at all
+
+**The reference is a genuine navigation asset** — it is the only file that answers *"what exists for this
+city, and where"* in one place, and its line-anchored infrastructure citations are exactly the mitigation
+`05` §6.1a recommends for mixed sources.
+
+**And it is a live hazard precisely because it is convenient.** ***A helpful index sitting one directory away
+from a cold run is the Cape Adare failure shape*** — excellent material, reasonably deposited, read eight
+weeks later by a pass that had no way to know what tier it was.
+
+## C.2 ⭐⭐ READER/DERIVER ISOLATION — how to learn WHERE without learning WHAT
+
+**Developer proposal, 2026-09-02, adopted.** **The technique that makes §C.1's mixed sources usable by a cold
+run without splitting them first.**
+
+### The problem it solves — and it is one rule 2 cannot solve alone
+
+**`05` §6.1a rule 2 says: where a source mixes attributes and conclusions, *split the file.*** **But somebody
+has to READ the mixed file in order to split it.** ***If the splitter and the runner are the same reader, the
+split itself is the contamination.*** **Rule 2 is sound and has no way to execute itself safely.**
+
+### The technique
+
+> ### **Separate the reader from the deriver. The reader may see everything. The reader may report only COORDINATES.**
+
+**The deriving pass dispatches search work to isolated readers, instructing them what to look for. They read
+freely — including the conclusions — and return **file paths and line ranges only.** **The deriving pass
+learns *where* to look without ever being exposed to *what is there*.**
+
+> **⚠ This clears `05` §6.1a rule 1 for a better reason than care.** **Rule 1 is about EXPOSURE, not intent
+> — which is why "read around it" is explicitly forbidden.** **Isolation makes the exposure architecturally
+> impossible rather than procedurally avoided.** ***There is no discipline left to fail.***
+
+### The return contract — strict, and the strictness is the whole mechanism
+
+| **May be returned** | **Must NEVER be returned** |
+|---|---|
+| File path — **⚠ ONLY IF THE NAME IS NEUTRAL. See the rule below.** | **Section headings** — *"§30 — Why \[Location] Is The \[Adjective] One"* contaminates as thoroughly as the paragraph |
+| Line range | Quotes, excerpts, paraphrase |
+| **⭐ CHARACTER range within a line — `L142 :: chars 1–37`** — **required wherever the seam falls mid-line.** See below | A range whose stated bounds do not actually exclude the conclusion |
+| **One tag: `ADMISSIBLE` · `WITHHELD` · `INERT` · `BOUNDARY`** *(see the tag set below)* | Summaries, characterizations, or a closing report of what was found |
+| *(optionally)* which generator a range supplies — `G2`, `G5`, `G8`… | Counts described qualitatively *("mostly about the drinking culture")* |
+
+> ### ⚠⚠ A FILENAME IS A SECTION HEADING. *(Vector 3 — found on this contract's first live use, Run 12, 2026-09-02.)*
+>
+> **The row above used to read "File path" with no qualification, directly beside a row forbidding section
+> headings. That is a contradiction, and a corpus that titles files by their argument exploits it.**
+>
+> **The live instance:** a folder whose **eleven filenames were each a thesis about the location** —
+> **four of them naming load-bearing civic facts outright**, in the folder's own directory listing. **A single
+> `ls` handed the deriving session more of the withheld conclusion than any paragraph would have**, because
+> titles are *distilled*. **No file was opened. `§3c` had mandated the `ls`.**
+>
+> > ### ⚠⚠ AND NOTE WHAT THIS PARAGRAPH ORIGINALLY SAID. *(M-97, self-caught.)*
+> > **Its first draft ENUMERATED those four facts** — in this file, which `CLAUDE.md` mandates be read in
+> > full before any location work. ***The rule against vector 1 recreated vector 1, inside the section
+> > documenting vector 1, in the same session that fixed it.*** **Corrected to a count.**
+> >
+> > **The general rule, and it binds every rule file, every prep document and every observations entry:**
+> > ***describe a leak by its SHAPE and its SIZE, never by its CONTENT.*** **"Eleven titles, four naming civic
+> > facts" carries the whole methodological lesson. The four facts add nothing but the contamination.**
+>
+> **The rule:**
+>
+> 1. **A reader returns a path only after checking that the path itself carries no claim.** Directory names
+>    and template-generated names (`Specs/`, `_Physical_Infrastructure_Attributes.md`) are safe. **Authored
+>    titles are not.**
+> 2. **Where a name carries a claim, return a SANITIZED path** — the directory, the file COUNT, and the line
+>    counts: *"`…/<folder>/` — 11 files, 91–143 lines each."* **The deriver can address a file by
+>    index without ever seeing its title.**
+> 3. **⚠ This binds the DERIVER too, not only the reader.** **Never run a bare `ls`, `find`, `tree` or
+>    `grep -l` against your own subject's folders.** **Delegate the listing.** *(`§3c`'s "navigate by path,
+>    never by query" was written against the graph index and is silent on this — it is amended by Step −2.)*
+
+> ### ⭐⭐ THE SEAM IS OFTEN MID-LINE. RETURN CHARACTER RANGES WHEN IT IS.
+>
+> **Developer instruction, 2026-09-02. This generalizes M-83's line/character-anchoring technique
+> (`05_The_Input_Contract.md` §6.1a) from a mitigation applied to one known file into a standing property of
+> the `§C.2` return contract.**
+>
+> **A line-grained map assumes the attribute/conclusion boundary falls at a line break. It frequently does
+> not:**
+>
+> | Mid-line seam | Why the line cannot simply be tagged |
+> |---|---|
+> | **A table row** — `\| Symbol pair \| members \| derived rationale \|` | **The members column is `G1`. The rationale is a conclusion.** One line, both tiers. *(`§3b`'s row-level-mixing note — the case that produced M-83.)* |
+> | **A sentence with an appositive** — *"Founded 2571 by \[nation], the city that never…"* | **`G4` up to the comma. Conclusion after it.** |
+> | **A header line carrying `Significance:`** | The rest of the header is navigation; that one field is interpretive. |
+> | **A list item with a parenthetical gloss** | The item is an attribute; the gloss explains what it *means*. |
+>
+> **So the tag's unit is a SPAN, not a line.** **Return `L142 :: chars 1–37 → ADMISSIBLE` and
+> `L142 :: chars 38–end → WITHHELD` where that is the truth.** **A reader forced to tag whole lines will
+> either withhold a needed attribute or admit a conclusion — and per the asymmetry above, it will usually do
+> the second.** ***Line-grain tagging systematically biases toward false `ADMISSIBLE` on exactly the mixed
+> files this protocol exists for.***
+>
+> **How the deriver consumes it** — with `Read`'s `offset`/`limit` to reach the line, then a character slice;
+> or, where that is awkward, **escalate to ladder step 3 (closed-schema extraction)**, which sidesteps the
+> span entirely by returning the named field instead of the text. **Never by "reading carefully up to the
+> comma" — `§6.1a` rule 1 is about exposure, not intent.**
+
+> ### ⛔⛔ THE BRIEF IS FINAL AT DISPATCH. YOU CANNOT AMEND A READER. *(M-93, 2026-09-02 — learned by a reader refusing.)*
+>
+> **`§C.2` used to assume, without saying so, that a dispatching session can steer its readers mid-task.**
+> ***It cannot, and it must not be able to.***
+>
+> **The instance:** three readers were dispatched, then amended in-flight with two genuine improvements.
+> **One refused** — correctly reasoning that a plausible-sounding mid-task instruction to alter an output
+> contract, arriving after a tool result, **is exactly the shape of a prompt injection**, and that a component
+> holding a strict contract while reading untrusted content is precisely the thing that must refuse them.
+>
+> ***An isolated reader is a component sent into untrusted content holding a promise about its output. A
+> reader that accepts mid-flight contract changes is one prompt away from returning what it exists to
+> withhold.*** **Its refusal is the isolation working.**
+>
+> | Rule | |
+> |---|---|
+> | **1** | **THE RETURN CONTRACT MUST BE COMPLETE AT DISPATCH.** Tag set, span granularity, path handling, every prohibition. **There is no second chance to add a requirement.** |
+> | **2** | **To change a contract: KILL AND RE-DISPATCH. Never message.** |
+> | **3** | **A refusal is a PASS.** Log it as evidence the isolation holds; re-run under a corrected brief if the amendment mattered. |
+>
+> **⚠ And `Step −2` makes this trap MORE likely, not less** — it front-loads dispatch to before the runbook is
+> read, which invites dispatching before the brief is thought through. ***Writing the reader brief is a
+> deliberate step with its own checklist, not a preamble to the real work.***
+
+> ### ⚠ STATE EVERY PROHIBITION AS A POSITIVE FORMAT. A negative rule can be silently unsatisfiable. *(M-94.)*
+>
+> **The instance, found blind and in the same hour:** a reader was told *"return file paths"* and *"do not name
+> the characters."* **It returned two paths. Both paths were person-named directories.** ***It obeyed every
+> instruction and leaked anyway, because the two instructions were jointly unsatisfiable.***
+>
+> **This is `M-88` in a second domain — and the more general one.** M-88 was authored *titles*; this is an
+> ordinary filesystem convention nobody would call a title. ***The hole is not dramatic filenames. It is that
+> the path is an information channel the contract treats as metadata and the corpus treats as content.***
+>
+> **So: never write *"do not return X."* Write the channel that cannot carry X.**
+>
+> | ❌ Unsatisfiable negative | ✅ Positive format |
+> |---|---|
+> | *"Return file paths, but do not name the characters"* | **"Return: directory + file index + line count"** |
+> | *"Return the range, but no headings"* | **"Return: `file \| L-start–L-end \| tag \| generator`. No other columns."** |
+> | *"Summarize without characterizing"* | **"Return a tag from this closed set."** |
+>
+> **Audit every negative prohibition in a brief for a positive channel that silently violates it.**
+
+> ### ⚠⚠ EVERY RETURN CARRIES A COVERAGE ASSERTION. A TRUNCATED MAP FAILS IN THE UNSAFE DIRECTION. *(M-96.)*
+>
+> **A reader's return can be truncated in transit. One was, on this contract's first use — two complete file
+> maps vanished and nothing errored.**
+>
+> ***A coordinate map degrades asymmetrically.*** **A range that goes missing is not marked missing; it is
+> simply absent.** **A deriver holding a map that tags `1–45` and says nothing about `46–191` cannot
+> distinguish *"never mapped"* from *"needs no tag"* — and ***the natural reading of silence in a permissions
+> document is permission.*** **A truncated `WITHHELD` row is an open door with no sign on it.**
+>
+> **So every file's table closes with:**
+>
+> ```
+> COVERAGE: <file> 1-<N>, no gaps, no overlaps
+> ```
+>
+> **and the CONSUMER verifies it arithmetically** — sum the ranges, confirm they tile `1..N` exactly, confirm
+> `N` matches the pinned line count (`§C.4`). ***A map that does not completely tile its file is `DRAFT`,
+> whatever its status line says.***
+>
+> **⚠ It must state the file's own total `N`, not merely claim "complete"** — mid-table truncation leaves
+> surviving rows that still tile a plausible sub-range, and only a declared total catches that.
+>
+> ### ⛔ AND A MANIFEST LINE, BECAUSE COVERAGE CANNOT DETECT A MISSING FILE *(M-106.)*
+>
+> ***A coverage assertion is scoped to the file it names. Silence about a file is not a failed assertion — it
+> is no assertion.*** **A reader dispatched against five files mapped one, and emitted a perfectly valid
+> coverage line for it.** **M-96 catches truncation WITHIN a file and is structurally blind to omission OF
+> one.**
+>
+> **So every multi-file return closes with:**
+>
+> ```
+> MANIFEST: mapped <k> of <n> files — <files mapped>; not reached — <files or "none">
+> ```
+>
+> **and the consumer checks the COUNT before checking any tiling.**
+>
+> **⚠ Give readers a sanctioned way to fall short.** State in the brief: ***"map fewer files COMPLETELY and
+> say which you did not reach — a complete map of two files plus an honest omission beats four partial
+> maps."*** ***A reader with no permitted way to report running short will silently return whichever subset
+> it managed.***
+>
+> ### ⛔⛔ THE TAG SET IS FOUR, NOT TWO. A missing NEUTRAL tag collapses unanimity. *(M-101, defect 1.)*
+>
+> | Tag | Meaning | Counts toward unanimity? |
+> |---|---|:--:|
+> | **`ADMISSIBLE`** | Attribute-tier content | ✅ **yes** |
+> | **`WITHHELD`** | Conclusion-tier content | ✅ **yes** |
+> | **`INERT`** | **Blank line · horizontal rule · table separator.** ***Carries no content and cannot contaminate anything*** | ⛔ **NO — excluded from unanimity AND from every statistic** |
+> | **`BOUNDARY`** | **Genuinely borderline CONTENT.** Reserved for its actual meaning | ⛔ no — works the ladder |
+>
+> **⚠⚠ A HEADING IS NOT INERT.** ***A section heading contaminates as thoroughly as the paragraph it names***
+> — this contract's own founding rule, and M-88. **Headings are tagged `ADMISSIBLE` or `WITHHELD` like any
+> other content and stay in the unanimity computation.**
+>
+> **Why this is not a nicety:** **on the first contract-identical dispatch, one reader tagged structural lines
+> `BOUNDARY` and another tagged them `ADMISSIBLE` — both defensibly, because the contract had no right
+> answer.** ***Under unanimity every one of those lines becomes `WITHHELD`. 41.6% of that location's lines
+> were blank, rule or separator*** *(one file: 56.6%)*. **A contract defect would have withheld half the
+> corpus over lines incapable of carrying a conclusion.**
+>
+> ### ⭐ AND THE TECHNIQUE THAT DIAGNOSED IT — A SCRIPT AS AN ISOLATED READER
+>
+> > ***A regex classifier reads the file and reports only a CLASS per line. The script sees the text; you see
+> > the classification.***
+>
+> **This is `§C.2`'s exact principle implemented without an agent — deterministic, instant, free, and
+> incapable of leaking because it has no channel through which to leak.** **Use it for every structural
+> question** *(is this line blank · a heading · a table row · how long is it)* **and reserve subagents for
+> questions that need judgment.** **It found that 93.5% of one reader's `BOUNDARY` tags were structural
+> rather than disputed — a distinction no amount of re-reading the map could have recovered.**
+>
+> ### ⚠ AND FIX THE LINE-COUNTING CONVENTION, OR COVERAGE ASSERTIONS FALSE-ALARM *(M-101, defect 2.)*
+>
+> **Two readers asserted `1-162` and `1-163` for the same file. Both honest** — it has 162 newlines plus a
+> trailing one, so `wc -l` says 162 and a naive split yields 163. ***M-96 has the consumer verify coverage
+> against the pin, so this produces a FALSE `STALE` on a perfectly good map.***
+>
+> > **The convention is `wc -l` — the count of newline characters.** **State it in the brief, and use it for
+> > the `§C.4` pin so the two always agree.** **The pin's `sha256` catches any real change regardless.**
+
+> ### ⛔⛔ A WORKED EXAMPLE LEAKS THROUGH ITS EXPLANATION. SKIP RANGES, NEVER LINES. *(M-103.)*
+>
+> **The vector-1 sweep returns coordinates, and the prescribed mitigation was "read the file, skip that
+> line." *That is insufficient, and it burned the run that invented it, twenty minutes after the map was
+> confirmed.***
+>
+> > ***A worked example is not a self-contained leak. It is the ILLUSTRATION of a claim — and the claim is
+> > stated in the prose around it.*** **Skip the illustration and the claim survives intact.** **The claim is
+> > the more portable half: the reader now holds the conclusion and merely has not been told which location
+> > it concerns — which the file's own structure supplies in the next sentence.**
+>
+> **The live instance:** a flagged line was skipped exactly as instructed. **The lines immediately above it
+> stated, in full, the general analytical pattern that line exemplified.** **The subject's identity followed
+> from position alone.**
+>
+> | Rule | Why it did not fire |
+> |---|---|
+> | `06` manifest | Records a **coordinate**. A line number cannot express *"and the paragraph above it"* |
+> | Vector-1 reader | Classified **the line** correctly. It was never asked about the line's neighbors |
+> | M-88 · M-97 | Different channels entirely |
+>
+> ***All of them treat a leak as a POINT. A worked example is a point plus its explanation, and the
+> explanation is the part that generalizes.***
+>
+> **THE FIX:**
+> 1. **A vector-1 reader classifies `CONCLUSION-EXAMPLE` separately from `CONCLUSION`**, and for the former
+>    **returns a RANGE** — the example plus the rule statement it illustrates.
+> 2. ### ⚠ **NEVER READ ADJACENT LINES TO "VERIFY THE BOUNDARY." That verification IS the exposure.**
+>    ***Trust the reader's range. It is the only party that can see both sides.***
+> 3. **`06_Worked_Example_Provenance.md` records RANGES for worked examples**, never bare line numbers.
+
+> ### ⭐⭐⭐ THE MAP GOES TO DISK. THE READER RETURNS A RECEIPT. *(M-107 — supersedes returning maps inline.)*
+>
+> **A re-dispatched reader hit `max_output_tokens` (64,000) mapping four files of ~1,400 lines at span
+> granularity.** ***The contract cannot express a map that large*** — **a span map costs about one row per tag
+> change, which on mixed sources approaches one row per line.** **`§C.2` was specified around WHAT a reader
+> may return and never around HOW MUCH.**
+>
+> > ## **DEFAULT FOR ANY MAP OVER ~200 LINES: the reader WRITES the map to a file and returns ONLY a receipt.**
+>
+> **The receipt is: output path · line count · tag counts · the `COVERAGE` line · the `MANIFEST` line. Nothing
+> else.** **A script then consumes the map and produces the extract.**
+>
+> | | Map returned inline | **Map written to disk** |
+> |---|---|---|
+> | Size limit | **64,000 tokens — reachable in normal use** | **none that matters** |
+> | Coordinating session's exposure | **the entire map enters its context** | ***counts only*** |
+> | Consumer | a session hand-retyping tables into a script | **a script reading JSON** |
+> | Transcription error | **real, and silent** | ***structurally impossible*** |
+>
+> ### ⚠ The second row is the point. ***The coordinating session never needed the map at all.***
+> **It was carrying thousands of coordinate rows solely to retype them** — spending context and accepting a
+> live transcription-error risk **in the one artifact whose whole value is being trustworthy.**
+> ***This is M-101's script-as-isolated-reader principle applied to the map itself: the fewer parties that
+> handle the data, the fewer chances to corrupt or leak it — and a script has neither failure mode.***
+>
+> **Schema:**
+> ```json
+> {"file":"<name>","n":387,"ranges":[[1,1,"A","G1"],[2,2,"I","-"],[3,9,"W","-"]]}
+> ```
+> **Tags `A`/`W`/`I`/`B`; char-spans as `[line,line,"A","G2",start,end]`.** **One JSON per reader per source
+> file**, which also keeps each write small enough that a reader running short can complete some files and
+> declare the rest unreached (M-106).
+
+> ### ⚠ Resending is not amending — but it has its own hazard
+>
+> **Asking a reader to resend lost output is NOT a contract amendment** *(contrast M-93, which was, and was
+> correctly refused)*. **But a reader asked to resend may quietly RE-READ and RE-DERIVE rather than
+> reproduce.** **So a resend request states explicitly: *reproduce what you already produced · do not re-read
+> · if the tags are no longer in context, say so and stop.*** **A reconstructed map presented as an original
+> is unauditable.**
+
+> ### ⭐⭐⭐ A SOURCE HAS **THREE** STATES, NOT TWO. THE MISSING THIRD ONE BURNED RUN 14. *(M-112.)*
+>
+> **`§C.2` as first written offered a source exactly two fates: MAPPED (read the admissible lines) or WITHHELD
+> (do not open).** ***There was no state for the commonest situation in a real pass: "registered canon, needed
+> by a generator, nobody has mapped it, and mapping it is absurd because 99% of it concerns other
+> locations."***
+>
+> > ## ***A DERIVER THAT NEEDS A FACT AND HAS NO SANCTIONED WAY TO GET IT WILL IMPROVISE A RETRIEVAL — AND THE IMPROVISATION AVAILABLE TO IT IS THE MOST CONTAMINATING OPERATION IN THE CORPUS.***
+>
+> **Run 14 followed every rule, reached Phase 0, needed one `G3` percentage from a 3,545-line multi-city
+> sheet the runbook's own `§C.6` told it to open, and had no legal move. It ran `grep '<subject>'`.**
+>
+> | State | When | How the deriver reads it |
+> |---|---|---|
+> | **MAPPED** | 3-of-3 coordinate map exists | Slice the `ADMISSIBLE` lines *(script, never by hand)* |
+> | **WITHHELD** | Conclusion-tier, or unratified | Do not open. Opened at Step 7 as a check |
+> | ⭐ **QUERYABLE-BY-SCHEMA** | **Registered canon · needed by a generator · unmapped** | **Name the FIELDS. An isolated extractor returns those fields and nothing else** |
+> | ⭐ **REQUIRED-READ-WITH-SKIPS** | **`CLAUDE.md` mandates reading it in full** — `00`–`06`, `README`, and **`Disciplines/`** `00b` · `00d` · `00f` *(the ULM copies; the originals are `WITHHELD`)* — ⛔ *not* `Disciplines/`' CST or RWBEM copies, which are not ULM inputs *(`DR-14`, 2026-09-29)* | **Read in full, applying the vector-1 skip RANGES.** ⛔ **Never probe a range boundary** (M-103) |
+>
+> > ### ⚠ THE FOURTH TIER WAS MISSING FOR ~40 MINUTES AND A READER CAUGHT IT *(M-115.)*
+> > **The first Brief B dispatched under the three-state set hit required-reading files and had no legal
+> > tier for them** — *not "map it" (the deriver reads the whole file), not "withhold it" (it is mandatory),
+> > not "query it" (it needs the rules, not a field).* ***The reader tiered them conservatively as
+> > `WITHHELD` and reported the gap instead of inventing a value.*** **That is the isolation working, and it
+> > is M-93's refusal in a second costume.**
+> >
+> > ## ⭐ **THEREFORE: EVERY CLOSED-SET BRIEF CARRIES A SANCTIONED ESCAPE HATCH.**
+> > > **"If a case does not fit this set, choose the MOST CONSERVATIVE value and name the problem in your
+> > > receipt. Do not widen the set yourself."**
+> >
+> > ***A closed vocabulary with no escape hatch does not prevent bad values; it converts a reportable gap
+> > into a silent mis-tag*** — and a silent mis-tag in the `ADMISSIBLE` direction is the one unrecoverable
+> > error this whole protocol exists to prevent.
+>
+> ### The instrument already existed and was filed under the wrong problem
+>
+> ***Escalation-ladder step 3 — closed-schema extraction — is written above as yield recovery for a 2–1
+> split.*** **It is in fact the general answer to "one fact from an unmapped source," and that is a far
+> commoner need than a split range.** **Promoted here to a first-class move.**
+>
+> > **"From `<file>`, return `city`, `sector`, `percent`, `headcount` for `<subject>`.
+> > These fields only. ⛔ NO free-text field. If a value is absent, return the field with `null`."**
+>
+> **⚠ The no-free-text rule is the whole safety property** — *the moment an extractor can write a sentence,
+> it can smuggle a conclusion.* **Named fields only, from a closed list the deriver wrote.**
+>
+> ### ⭐ And this is CHEAPER than mapping, not a grudging substitute
+>
+> | | Map the file | **Query it by schema** |
+> |---|---|---|
+> | Cost | **3 readers × 3,545 lines** | **1 reader, 1 question** |
+> | Scales with | **the FILE** | ***the QUESTION*** |
+> | Yield | a map that is ~99% about other locations | exactly the fields asked for |
+>
+> ***Most registry sources should never be mapped at all. They should only ever be queried.*** **Map a file
+> when a pass must READ it; query a file when a pass must know ONE THING from it.**
+
+> ### ⛔⛔ THE PROHIBITION THIS CREATES — and it binds the DERIVER, not the reader
+>
+> ## **A DERIVER NEVER SEARCHES ANY CORPUS BY ITS OWN SUBJECT'S NAME.**
+> **Not `grep`, not `rg`, not a graph query, not a semantic index, not find-in-files.**
+>
+> **Why a name-search is not merely *a* leak but the worst available one:** **a subject's name marks every
+> place somebody wrote *about* the subject.** **Attribute-tier facts sit in *structured rows* keyed by name;
+> conclusion-tier claims sit in *prose* whose topic is the name.** ***One query returns both, and returns them
+> ranked by relevance to your own subject — which is precisely the ranking a quarantine exists to prevent.***
+> **A random window of Run 14's file would almost certainly have been clean. The name-scoped window was ~40%
+> conclusion-tier.**
+>
+> **Stated as a positive format, per M-94** *(a bare negative is silently unsatisfiable)*:
+>
+> | ❌ Unsatisfiable negative | ✅ Positive format |
+> |---|---|
+> | *"Don't read the conclusions in that sheet"* | **"Dispatch a schema extractor. Fields: …. No free-text field."** |
+> | *"Search carefully"* | **"Search by STRUCTURE"** — table header, section number, column anchor |
+> | *"Open only what you need"* | **"Name the FACT; a reader returns the FIELD"** |
+>
+> **⭐ The one name-search that stays legal is the quarantine check — `grep -ril`, FILENAMES ONLY, never
+> `-n`.** **It classifies nothing, so it needs no content (M-91).**
+
+**⭐ Return BOTH maps, not just the safe one.** **The `WITHHELD` list is the more valuable half** — it is a
+**quarantine map**, and knowing *"lines 60–74 are conclusions"* tells the runner nothing about what they say
+while telling it exactly what not to open.
+
+### ⚠ The one real risk, and its required mitigation
+
+**A MIS-TAG is unauditable from inside the run.** If a reader marks a conclusion range `ADMISSIBLE`, the
+deriving pass opens it and is contaminated — **and the deriving pass cannot verify the map without performing
+the very reading the map exists to prevent.** **The map's accuracy is load-bearing and cannot be checked by
+its consumer.**
+
+> ### **REQUIRED: TRIPLE independent tagging.** *(Developer ruling, 2026-09-02 — raised from two.)*
+> **Three readers tag the same file independently.**
+>
+> | Verdict | Result |
+> |---|---|
+> | **3–0 `ADMISSIBLE`** | ✅ **`ADMISSIBLE`** — a unanimous verdict automatically wins |
+> | **2–1 either way** | **`WITHHELD`** |
+> | **3–0 `WITHHELD`** | **`WITHHELD`** |
+>
+> ### ⚠ **`ADMISSIBLE` REQUIRES UNANIMITY. The rule is deliberately ASYMMETRIC, and plain majority would be wrong here.**
+>
+> **Because the two errors do not cost the same:**
+>
+> | Error | Cost |
+> |---|---|
+> | **False `ADMISSIBLE`** — a conclusion tagged safe | ***Contamination. Unrecoverable. The run is burned.*** |
+> | **False `WITHHELD`** — an attribute tagged unsafe | **A thinner run. Recoverable.** |
+>
+> **A plain 2-of-3 majority would let a range pass over a live dissent — weaker than the two-reader rule it
+> replaced, where a single dissent blocked.** ***Requiring unanimity keeps the failure pointed at "thin"
+> rather than "contaminated," which is the only acceptable direction.***
+>
+> **What the third reader actually buys, given dissent already resolves safely:**
+>
+> 1. **False-`ADMISSIBLE` now requires THREE concurrent errors in the same direction, not two.** **This is the
+>    strengthening that matters**, because **self-audit error in this project has run in one direction on
+>    every occasion it has been measured.**
+> 2. **A 2–1 split LOCALIZES the ambiguity** — it marks a range as genuinely borderline, which is exactly the
+>    signal that the file should be **split upstream** per `05` §6.1a rule 2 rather than mapped around.
+> 3. **Disagreement rate is diagnostic.** A file the readers argue about is mixed at fine grain — **information
+>    about the source, not just about the range.** **Record it.**
+>
+> **This extends the project's existing two-agent validation protocol rather than replacing it** — same
+> reasoning, one more reader, and an explicitly asymmetric decision rule.
+
+### ⭐ Why 3-of-3 unanimous and NOT 3-of-5 majority — the arithmetic, since it is decisive
+
+**Both schemes need three wrong tags to contaminate. But there are TEN ways to draw three wrong readers out
+of five, and exactly ONE way to have all three of three wrong.**
+
+| Reader error rate | 3-of-5 majority | **3-of-3 unanimous** | Majority is worse by |
+|---:|---:|---:|---:|
+| 2% | 1 in 12,883 | **1 in 125,000** | **9.7×** |
+| 5% | 1 in 863 | **1 in 8,000** | **9.3×** |
+| 10% | 1 in 117 | **1 in 1,000** | **8.6×** |
+| 20% | 1 in 17 | **1 in 125** | **7.2×** |
+
+**Unanimity is ~an order of magnitude safer AND costs two fewer readers** *(3 vs 5)*.
+
+> ### ***Adding readers while lowering the threshold buys more chances to fail, not fewer.***
+>
+> **The only thing majority buys is YIELD** — it tolerates two dissents where unanimity tolerates none.
+> **Given the error asymmetry above, paying ~9× the contamination risk for a thicker run is the wrong trade.**
+
+### ⭐⭐ THE ESCALATION LADDER — how yield is recovered without touching the threshold
+
+**A 2–1 split is INFORMATION, not a deadlock.** ***It almost always means the range CONTAINS A BOUNDARY —
+part attribute, part conclusion — rather than that one reader is wrong.*** **The disagreement locates the
+seam. Treat it as a pointer, not a veto.**
+
+**On any non-unanimous range, work down this ladder. Stop at the first step that resolves.**
+
+| Step | Action | Why |
+|---|---|---|
+| **1** | **RE-SPLIT AT FINER GRAIN.** Dispatch a reader to propose a boundary *inside* the disputed range, then re-tag the sub-ranges independently. | **`05` §6.1a rule 2 applied at LINE grain instead of FILE grain** — the methodology's own remedy at higher resolution. **One disputed range usually becomes two undisputed ones.** |
+| **2** | **CHECK GENERATOR AGREEMENT.** Readers tag *which* generator a range supplies (`G2`, `G5`, `G8`…) alongside admissibility. **All three agree on the generator but split on admissibility → the dispute is about PHRASING, not content.** They also split on the generator → **genuinely mixed; withhold and split upstream.** | Turns an opaque disagreement into a **diagnosable** one, and costs nothing extra to collect. |
+| **3** | **CLOSED-SCHEMA EXTRACTION.** For a phrasing dispute only: an isolated reader returns **structured fields against a fixed schema** — `population:` · `highway:` · `founded:` — never the range itself. **The deriver gets the attribute without the prose.** | ⚠ **The schema must have NO free-text field.** The moment an extractor can write a sentence, it can smuggle a conclusion. **Named generator fields only.** |
+| **4** | **WITHHOLD — and RECORD IT.** | **Withheld-rate is a run statistic.** A run withholding a large share of its attribute surface is **a finding about the CORPUS, not the run** — the files are badly mixed and want real upstream splits per §C.1. |
+
+> ***Nothing in this ladder ever lets a disputed range reach the deriver as prose.*** **The asymmetry survives
+> intact — but a run stops losing every borderline fact to a single dissent.**
+
+### ⏸️ Optional, if a range survives the whole ladder and is still wanted
+
+**Escalate the WIDTH, never lower the BAR:** bring two more readers onto that sub-range and require **5–0**.
+**This keeps unanimity absolute and uses extra readers to raise confidence rather than to dilute the
+threshold.** **Most genuinely ambiguous ranges will not pass it — which is the correct outcome.**
+
+### ⭐ What else this unlocks
+
+**The §C.1 split extract can now be built safely** — by isolated readers, without burning the pass that will
+later use it. **The technique is not only a substitute for splitting; it is how splitting gets done.**
+
+### Universal principle vs. project implementation
+
+> **The PRINCIPLE is universal and would belong in the methodology proper: *isolate the reader from the
+> deriver.*** A human team can do this — **one person builds a coordinate index, another derives blind from
+> it.** No AI is required for the technique to work.
+>
+> **The IMPLEMENTATION is tooling-specific and belongs here:** dispatch **Claude subagents** with the
+> coordinates-only return contract above. Subagent tool output does not enter the parent context, **which is
+> what makes the isolation architectural rather than promised.**
+
+**⏸️ The universal principle has NOT been added to `05` §6.1a** — the developer's standing instruction is that
+`01`–`06` stay applicable to any location in any universe, and no direction was given to amend them. **Flagged
+as available if wanted.**
+
+## C.3 ⚠⚠ A COMPILATION PASS CONTAMINATES ITS COMPILER — against every location it covers
+
+**Recorded 2026-09-02, from a live instance.**
+
+> ### **Index-building and cold-running are MUTUALLY EXCLUSIVE for the same reader.**
+
+**The instance.** A session compiled `Cities/City_Master_Reference/` — five subnet files covering all 37
+Tepenian cities. **Writing each city's *"Robot culture"* and *"Draft-tier"* sections required reading that
+city's `Local_Robot_Culture`, Enneagram and Megasheet material.** **When that same session was later asked to
+cold-run one of those cities, there was no clean pick anywhere on the roster.** The contamination was
+**roster-wide, not location-specific**, and it was **invisible until someone asked the question.**
+
+**Why it is easy to miss:** *"have I read this location?"* is the natural check, and **it returns the wrong
+answer.** The compiler did not read Casey *to run Casey* — it read Casey *to write one paragraph of an index
+about Casey*, weeks or hours earlier, as a byproduct of unrelated work. ***The exposure is real and the intent
+is irrelevant — `05` §6.1a's rule is about exposure, not purpose.***
+
+### The three consequences
+
+1. **Ask the right question before scoping a cold run.** Not *"is this location clean?"* but ***"has this
+   session, at any point and for any reason, read into this location's conclusion tier?"*** **Compilation,
+   indexing, cross-referencing, audit sweeps and differentiation-table work all count.**
+2. **A session that has built an index CANNOT cold-run anything that index covers.** **It can still do
+   valuable work on it — but on the READER side of `§C.2`, never the deriver side.** *(Being contaminated
+   makes a session useless as a deriver and well-suited as a coordinator: it can read freely and return only
+   coordinates.)*
+3. **⚠ The handoff document is itself a contamination surface.** **M-85.** A prep document written by a
+   contaminated session **leaks through its descriptive prose**, not through its line-ranged sequence.
+   **The rule: classify BY RULE — file type and template section — NEVER by recall of content.** **A prep
+   document with no descriptive section cannot leak one.**
+
+### The mitigation, and it is not "be careful"
+
+> **Split the roles across sessions.** **The contaminated session writes the coordinates; a fresh session
+> derives from them.** **This is `§C.2` applied at session scope rather than at subagent scope — the same
+> principle, one level up.**
+
+**⭐ And note the pairing this produces, which is a strength rather than a workaround:** the compiler knows
+the corpus better than anyone and is therefore **the best possible map-builder**; the fresh session knows
+nothing and is therefore **the only possible deriver.** ***Neither could do the other's job.***
+
+## C.4 ⭐⭐ THE PRE-CONTAMINATION REVIEW — build it ONCE, confirm it ONCE, then REUSE it
+
+**Developer instruction, 2026-09-02.** ***"Check whether a subagent pre-contamination review has already
+taken place. If not, make one. If so, confirm it. If confirmed, go ahead and do the cold run — so as not to
+re-derive a check that is already completed and confirmed."***
+
+**`Step −2` as first written rebuilt the whole map on every attempt.** **That is not merely wasteful — it is a
+fresh contamination opportunity every time**, because each rebuild dispatches readers, handles paths, and
+re-touches the same mixed files. ***A check that is expensive to repeat will eventually be skipped, and a
+check repeated needlessly is a new chance to leak.*** **So the review becomes a durable artifact with a
+lifecycle.**
+
+### The artifact
+
+**One file per location: `Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md`** *(sibling of
+this runbook, deliberately OUTSIDE every run folder so no run's quarantine can block reading or writing it —
+the M-0 rule)*.
+
+**It contains coordinates and status ONLY.** ***It is safe for a cold deriver to read in full, and that
+property is the whole point — it must be protected absolutely.*** **A review that acquires a single
+descriptive sentence has become the thing it protects against** *(M-85, and `06`'s own manifest-column
+defect)*.
+
+### The three-state check — run it FIRST, before dispatching anything
+
+| State | Test | Action |
+|---|---|---|
+| **ABSENT** | No file for this location | **Build one.** Dispatch readers per `§C.2`, sweep all four `Step −2` vectors, write the artifact, mark it `DRAFT` |
+| **DRAFT** | Exists, `Status: DRAFT` | **Do NOT reuse.** It is unconfirmed — finish it: resolve every non-unanimous range down the escalation ladder, complete any unswept vector, then confirm |
+| **✅ CONFIRMED** | Exists, `Status: CONFIRMED`, **and the pin verifies** | ***REUSE IT. Skip the reader dispatch entirely and proceed to the cold run.*** **This is the developer's own stated purpose for the mechanism** |
+
+### ⚠ `CONFIRMED` is a high bar. All **SEVEN**, or it stays `DRAFT`
+
+> **⭐ Requirement 6 added 2026-09-03 after Run 14.** ***A review meeting all of the original five was
+> `CONFIRMED`, pinned, verified — and still handed its deriver a spine-level leak, because every one of the
+> five is scoped to a file list and none of them asks whether the list is complete.*** **Five out of six is
+> the exact state that burned it.**
+
+1. **All four `Step −2` vectors swept** — required reading · memory · file tree · and the union reviewed as a
+   set, not item by item.
+2. **Every mapped range carries a 3-of-3 verdict**, `ADMISSIBLE` by unanimity only.
+3. **Every non-unanimous range resolved down the escalation ladder** — or explicitly recorded as `WITHHELD`
+   with its withheld-rate.
+4. **⭐ A PIN: `sha256` and line count for every mapped file.** *(See below — this is the part that is easy to
+   omit and fatal to omit.)*
+5. **The tagging is attributed** — how many readers, when, under which contract version. ***"Confirmed" with
+   no evidence behind it is exactly the assertion `Step 10` exists to forbid.***
+7. ### ⭐⭐ **EVERY MAPPED FILE'S HEADER IS READ FOR ITS OWN CITED SOURCES AND ITS RATIFICATION STATUS.**
+   **Record the result per file.** ***A file that cites a withheld document is DOWNSTREAM of it, whatever its
+   filename says; a file whose header says "not locked canon" is UNRATIFIED*** *(`05` §6.1a rule 4, §6.3)*.
+   > ## **A COORDINATE MAP MEASURES CONTENT. IT CANNOT MEASURE PROVENANCE OR RATIFICATION.**
+   > **Three readers tagging every line correctly tells you what a file SAYS — never where it CAME FROM.**
+   > ***Requirements 1–6 contain no provenance check at all.*** **Added 2026-09-03 after `Step 10.1` item 4
+   > was run for the first time on a `CONFIRMED` review and found a mapped "attributes" file declaring itself
+   > derived from that subject's withheld culture sheet, in its own header** *(M-127)*. **Seconds per file.**
+
+6. ### ⭐⭐ **THE REGISTRY IS ENUMERATED, THE SCOPE PIN IS TAKEN, AND EVERY SOURCE CARRIES A TIER.**
+   **A Brief-B registry scout has walked every root in `§B`, `§C`, `§C.1`, `§C.6`, ⭐`§C.7`, ⭐`§C.9`, `§D` — *the last two added 2026-09-03; a review confirmed before that date did NOT cover them* — the per-root
+   `grep -ril` file counts are recorded as the scope pin; the inventory pin *(dir · files · min/max lines)* is
+   recorded; and every source holding subject material is tiered `MAPPED` · `WITHHELD` ·
+   `QUERYABLE-BY-SCHEMA`.**
+   > ***Requirements 1–5 prove the mapped files are mapped correctly. Only requirement 6 asks whether they
+   > are the right files.*** **A review satisfying 1–5 alone is not `CONFIRMED`; it is `CONFIRMED-IN-SCOPE`,
+   > and its scope is unstated — which is exactly how a deriver reads it as complete.**
+
+### ⚠⚠ THE PIN — why a confirmed review goes stale silently, and how to catch it
+
+> ***A coordinate map is line-anchored. Edit one line near the top of a mapped file and every range below it
+> shifts — silently, with no error, and the map now points a cold deriver directly into withheld content.***
+> **This is the same failure shape as the census off-by-one (`Step 7`): plausible, sensible, and wrong.**
+
+**So a review pins the exact file state it was built against, and reuse REVERIFIES the pin, never assumes it:**
+
+```bash
+# Run from the repo root. Verifies a confirmed review is still valid.
+# Prints OK per file, or STALE with the mismatch. Never prints file content.
+while IFS='|' read -r path want_sha want_lines; do
+  [ -z "$path" ] && continue
+  got_sha=$(sha256sum "$path" 2>/dev/null | cut -c1-16)
+  got_lines=$(wc -l < "$path" 2>/dev/null | tr -d ' ')
+  if [ "$got_sha" = "$want_sha" ] && [ "$got_lines" = "$want_lines" ]; then
+    printf 'OK     %s\n' "$path"
+  else
+    printf 'STALE  %s  (sha %s->%s, lines %s->%s)\n' "$path" "$want_sha" "$got_sha" "$want_lines" "$got_lines"
+  fi
+done < PIN.txt
+```
+
+**On any `STALE` row: the review demotes to `DRAFT`** — **but only for the files that actually moved.**
+***Re-tag the changed files; do not rebuild the whole review.*** **A partial rebuild is cheap and keeps the
+mechanism worth having.**
+
+> ### ⛔⛔ THE PIN HAS A SECOND HALF, AND ITS ABSENCE BURNED RUN 14 *(M-112, 2026-09-03)*
+>
+> ***The hash pin answers "did these files MOVE?" It cannot answer "are these the RIGHT files?"***
+>
+> **A review's scope is an enumerated LIST. The canon registry is a RULE — *open whatever supplies your
+> generators*. A rule's extension grows; a list's does not.** ***So a source that JOINS the corpus is
+> invisible to the pin, and the review keeps reporting `CONFIRMED` while its coverage silently rots.***
+>
+> **Run 14's review pinned three files. Its pin verified, exactly. `101` further hit-lines naming the subject
+> sat across `18` unmapped files in three registered sources — one of which `§C.6` had registered as required
+> `G3` supply the same morning.**
+>
+> ## THE SCOPE PIN — one command, and it closes the hole
+>
+> **Record at build time, and RE-RUN IT ON REUSE:**
+>
+> ```bash
+> # Scope pin. Counts FILENAMES ONLY — never -n, never content. (M-91)
+> grep -ril "<subject>" <each registry root> | wc -l
+> ```
+>
+> ```
+> SCOPE-PIN 2026-09-02
+> Cities/            | 14
+> Division_of_Industry/ |  7
+> City_Master_Reference/ | 5
+> TOTAL              | 26
+> ```
+>
+> > ***A COUNT THAT HAS RISEN MEANS A SOURCE JOINED, AND THE REVIEW IS `DRAFT` AGAIN*** — exactly as a moved
+> > hash means a file changed. **Same demotion rule; same partial rebuild.**
+>
+> ### ⚠ And the trap inside this fix, named so the next channel is not this one wearing a hat
+>
+> ***The scope pin is a CHANGE detector, not a COVERAGE PROOF.*** **It tells you a source joined since the
+> review was built. It cannot tell you a source was always there and was simply never mapped** — which was
+> true of three of Run 14's four rows. **Coverage requires ENUMERATING THE REGISTRY at build time, which is
+> this section's real scope and has never once been run at that width.**
+>
+> ### ⭐ The inventory pins too *(M-113)*
+>
+> **The `§3` sanitized inventory is prose beside the pin, carries no hash, and is *the artifact a cold
+> deriver trusts most* — because `§C.2` rule 3 forbids it from running its own `ls` to check.**
+>
+> **⚠ The instance that first motivated this fix was RETRACTED (M-113): a deriver claimed an inventory row
+> was wrong, and the deriver's own `wc -l` had misread a `total` row.** ***The fix survives the retraction and
+> is arguably better justified by it*** — **the episode proves the failure runs in BOTH directions: an
+> inventory can be wrong, or a deriver can wrongly believe it is and strike out a correct line.** **Neither
+> party can check the other without the pin.**
+>
+> > ***A cold run is told to trust the inventory INSTEAD of looking. That makes its accuracy load-bearing —
+> > and it was the one part of the review with no verification mechanism at all.***
+>
+> **So the inventory's own numbers go under the pin:** one row per listed directory,
+> `<dir>|<file count>|<min lines>|<max lines>`, **verified by the same script that checks the hashes.**
+
+### ⚠ The objection this will draw, answered in advance
+
+**"Reusing a prior session's review is exactly the trusting-a-prior-pass move this methodology forbids
+everywhere else."** ***It is not, and the distinction is the one `§C.2` is built on.***
+
+> **A prior pass's FINDINGS are conclusions, and reusing them is circularity — you find your own seed.**
+> **A pre-contamination review contains NO conclusions. It is coordinates.** ***Reusing coordinates cannot
+> contaminate a derivation, because coordinates say where to look and nothing about what is there.***
+
+**What DOES carry over, and must be watched:** **a mis-tag.** `§C.2`'s standing warning — *the map's accuracy
+is load-bearing and cannot be checked by its consumer* — **applies with more force to an inherited map than to
+a fresh one**, because the inheriting session did not watch it being built. **This is what the 3-of-3
+attribution in requirement 5 is for: a reused map must show its work.** **And it is why `Status: CONFIRMED`
+requires unanimity rather than a majority — an inherited map is trusted longer and by more sessions than the
+run that built it.**
+
+## C.5 ⛔⛔ THERE IS NO "SEMI-COLD." Contamination at the SPINE is not partitionable
+
+**Developer question, 2026-09-02, and the ruling that followed it:** *"if it's spine-level, would you be able
+to run a 'semi-cold' test run, or would that be better handed over to a fresh iteration?"* ***Handed over.***
+**Recorded here because the question is the natural one to ask, the instinct behind it is reasonable, and the
+answer is not obvious until you look at the dependency structure.**
+
+### The instinct, stated fairly
+
+> *"I was leaked the location's character, but I have seen none of its specifics — no census, no geology, no
+> founding mechanism, no industry figures. So let me derive everything downstream honestly and tag the leaked
+> register as corroboration-only."*
+
+**This is exactly the discipline M-63, M-66 and M-85 established, and in those cases it was correct.** ***It
+does not generalize, and the reason is structural rather than a matter of degree.***
+
+### Why it fails — the question is WHERE the leak landed, not HOW MUCH leaked
+
+**`Step 2` says outright that the spine is *"the step everything else hangs on."*** Phase 1 builds it from
+three independent generators and reads the shape; **the four-quadrant frame, the deficit address, the named
+differentiation axis and every later phase inherit from it.**
+
+> ***A leak at the spine is a leak at the ROOT of the dependency tree, not at a leaf. Every downstream finding
+> inherits it, and no tag applied afterward can un-inherit it.*** **A pass whose foundation is known and whose
+> superstructure is "derived" from that foundation is `05` §6.1's defining circularity failure — *planting
+> your own seed and then finding it* — displaced by one step and made harder to see.**
+
+| Where the leak landed | Verdict |
+|---|---|
+| **A LEAF** — one institution, one particular, one figure, one named place | ✅ **Tag it corroboration-only and proceed.** The run stays cold. *(M-63, M-66, M-85's own precedent.)* |
+| **THE SPINE** — civic character, capability shape, the differentiation axis, the founding tension, the deficit | ⛔ ***THE RUN IS NOT COLD. There is no partial credit and no middle tier.*** |
+
+### The two reasons the line must be bright rather than judged case by case
+
+1. **Re-noticing is invisible from the inside.** **The mechanism of contamination is that a deriver
+   *re-notices* rather than *re-derives*, and it does not feel different.** ***A deriver cannot audit its own
+   cleanliness*** — the same impossibility `§C.2` records about a map's consumer, one level up.
+2. **⭐ A semi-cold result LOOKS COLD, and that is the actual harm.** **It would be filed beside the genuine
+   cold runs as a comparison data point, permanently corrupting the set, with nothing in the record letting a
+   later reader tell the difference.** ***Same asymmetry as `§C.2`'s unanimity rule: a false-cold run is
+   unrecoverable; a deferred run is merely late.***
+
+### ⭐ And the evidence class it destroys outright
+
+**M-35 — a cold pass independently reproducing a withheld culture sheet's own central finding, near
+verbatim — is the strongest result this methodology has ever produced.** ***It is evidence ONLY because the
+pass was blind.*** **Convergence between a derivation and a conclusion the deriver already half-knew is worth
+nothing at all.** **A semi-cold run cannot generate this evidence class**, which for a consistency- or
+validation-motivated run is usually the whole point of running it.
+
+### What to do instead — two legitimate options, and no third
+
+- **Declare the run WARM, explicitly, and run it as a comparison** — legitimate, precedented *(a warm pass has
+  been run before, after its own cold pass, and labeled as such)*. **A warm run is honest. A "semi-cold" run
+  is a warm run wearing a cold run's credibility.**
+- **Hand the derivation to a fresh session** — and **the contaminated session builds the `§C.4` review**,
+  per `§C.3`'s pairing. ***This is not a consolation task: it is the expensive half, and `§C.4` now lets the
+  fresh session skip it entirely.***
+
+> ### ⚠ And do not solve this by switching subjects instead of sessions
+>
+> **Vectors 1 and 3 are corpus-wide, not location-specific** *(`Step −2`)*. **A session contaminated on one
+> location has usually met fragments of several** — through the same required reading, the same memory
+> directory, the same trackers. ***Switching subject trades a MEASURED heavy contamination for an UNMEASURED
+> light one***, which is worse, because the first can at least be declared.
+
+## C.6 ⚠⚠ THE DIVISION-OF-INDUSTRY FOLDER — registered 2026-09-03, and it needs a THIRD axis
+
+**Found on a direct developer check:** *"we've added the division-of-industry files (plus all the files they
+get their data from) to the source docs for the ULM, yeah?"* ***We had not.*** **The folder appeared in this
+runbook only inside `§C.1`'s tagging note — as an OBLIGATION, never as an ADDRESS.** **A pass following the
+registry would never have found it**, and the one prep document that used it listed it by hand. *(Which is
+exactly the "reconstruct it from recall instead of the registry" failure `CLAUDE.md` opens by warning about.)*
+
+### What it is
+
+**`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` — 18 files, ~9,300 lines.** **Developer-ruled `RELIABLE`, 2026-09-01:
+*"settled working canon… may be cited, built on, and used as inputs. Not provisional, draft, or
+unvalidated — that phase is over."*** ***It is the strongest `G3` supply this project has***, because its
+mandate tier is literally *"what its parent needs from it,"* which is `02` §2.2's own definition of the
+generator.
+
+### ⛔ THE CARVE-OUT — and why a bare registry row is not enough
+
+> **The folder's own README declares the FOOD LAYER (B1) NOT RELIABLE.** **Three independent checkers found
+> the national food balance circular, double-counted, and stated in the wrong units.**
+> **`10_Validation_Findings_2026-09-01.md` is REQUIRED READING before citing ANY food figure from `04`, `05`,
+> `09`, or the README's own "First results" block.** **The rebuild is `11_Caloric_Rebuild_and_Livestock_
+> Tier.md` (B1: 53 → 120.7 per 1,000 humans).** **⏸️ `DRQ-09` remains OPEN and still blocks every export figure.**
+>
+> **Unaffected and safe:** population · workforce · the difficulty ladder · **the other 21 industries.**
+
+### ⭐ THE GENERALIZABLE FINDING — the registry models ONE axis and there are THREE
+
+**`§C.1` solved *mixed ADMISSIBILITY* for the City Master Reference — attribute vs. conclusion.** **`05` §6.3
+added *RATIFICATION* — a file can pass every circularity test and still not be canon.** ***This source is a
+third case, and neither axis catches it: it IS canon, it IS attribute-tier, and one named layer inside it is
+still wrong.***
+
+| Axis | Question | Instrument |
+|---|---|---|
+| **Admissibility** | Attribute or conclusion? | `05` §6.1, `§C.1`, `§C.2` |
+| **Ratification** | Is it canon at all? | `05` §6.3 |
+| **⭐ RELIABILITY** | **Is it canon that has been VALIDATED — and is any layer inside it carved out?** | **this section** |
+
+> ### ***Registering a source's ADDRESS is not the same as registering its RELIABILITY STRUCTURE.***
+> **A pass that cites a carved-out figure is not contaminated and not unratified — it is simply WRONG, and
+> nothing in the admissibility machinery will notice.**
+
+**THE RULE: before citing any figure from a multi-file derived source, open its README/status header and
+check for a carve-out.** **Seconds per source.** **And where one exists, the registry row must name it** —
+as the row for this folder now does.
+
+### ⚠ THE PER-CITY CAVEAT LIST — *"almost all are ready; a couple are in question"*
+
+**Developer statement, 2026-09-03, and it is correct.** ***Checked against the folder's own open-items
+sections rather than taken on trust — and the named cities are not all "in question" in the same way, which
+matters for how a pass should treat each.***
+
+| City / item | What is actually open | How a pass should treat it |
+|---|---|---|
+| **Lazar** | **Mandate 0%, and canon itself flags the economy as needing real development.** The folder's own *"one genuine open question"* | ⛔ **Do not cite a Lazar mandate figure.** Treat as `REQUESTED` |
+| **{{Bunger Hills City}}** | **`DRQ-05` OPEN** — excluded from the run by ruling | ⛔ Excluded by design, not missing |
+| **Port Lockroy** | **Stale TBD; its post office sits as an open question.** *(Separately: 40% heritage-themed — built on the real site's history, queued as `R-4`; that share is not an input, `DR-28`)* | ⚠ Cite the post-office question only |
+| **Esperanza** | **Education 25% counted as fully mandated, but part is local schooling already in baseline C1a — a flagged DOUBLE-COUNT risk** | ⚠ Do not build on the 25% |
+| **The ten H percentages** | Named as still open in Half B | ⚠ Check before use |
+| **Every EXPORT figure, all cities** | **`DRQ-09` OPEN** — the baseline/distinctive convention still blocks them | ⛔ **Do not cite export figures at all** |
+| **Every FOOD figure** | **The B1 carve-out — see above.** Rebuilt in `11`, but `04`/`05`/`09` still carry the bad numbers | ⛔ Read `10` first, always |
+
+> ### ⚠ **DENISON IS A DIFFERENT CASE, and reading it as "unreliable data" would be wrong.**
+> **Denison's figures are not in doubt. Denison is the model's own BENCHMARK** — Cape Denison is the windiest
+> place on Earth at sea level (~22 m/s mean annual), its §15 already carries a large wind-engineering sector,
+> and the folder states plainly that ***if the instrument cannot reproduce that existing sector from its own
+> drivers, the instrument is wrong.*** **An earlier claim that Denison should carry the corpus's maximum
+> construction burden was RETRACTED in the same folder — Halley carries it, because Halley periodically
+> relocates the entire city.**
+>
+> ***So: cite Denison's figures normally. Treat any NEW derivation that contradicts them as evidence against
+> the derivation, not against Denison.***
+
+**⚠ One more, and it is a `CLAUDE.md` obligation rather than a data question:**
+**`02_Cross_City_Industry_Differentiation_Table.md` is described by `16` as *"still empty"*** *(it currently
+holds ~14 rows of scaffolding)*. **`CLAUDE.md` requires the differentiation table's relevant row be read
+BEFORE writing a category and the city's column added in the SAME COMMIT.** ***A location pass touching
+industry must check whether this table has been filled for its subject, and fill it if not.***
+
+### ⛔⛔ TIER RULING — **`QUERYABLE-BY-SCHEMA`. NEVER `grep` THIS FOLDER BY YOUR SUBJECT'S NAME.**
+
+**Added 2026-09-03, the day after this section was written, because a cold run followed it and was burned by
+it within the hour** *(M-112)*.
+
+> ***This section registered an ADDRESS and an obligation. It did not register a TIER — and a registry row
+> that gives an address with no admissibility ruling is an instruction to read blind.***
+
+**`16_Per_City_Three_Tier_Run.md` is 3,545 lines covering all 37 cities.** **Its per-city rows are `G3`
+attribute-tier and genuinely admissible. The prose around them is not** — it carries developmental-arc claims,
+inter-sector mechanisms, cross-city comparatives and category signatures. ***A name-scoped `grep` returns both,
+ranked by relevance to your subject.*** **Run 14's did: ~40% conclusion-tier, including two spine items.**
+
+| ✅ Do this | ⛔ Never this |
+|---|---|
+| **Dispatch Brief C** *(`COLD_RUN_CHECKLIST.md`)* — fields `sector`, `percent`, `headcount`, `burden`, `tier`; **no free-text field** | `grep '<subject>' 16_Per_City_Three_Tier_Run.md` |
+| **Anchor to STRUCTURE** — the Half B table header, a column index | Any search keyed to the subject's name |
+
+**⚠ This ruling binds every bulk multi-location source, not only this folder** — `City_Master_Reference/`,
+the census, the differentiation tables, `Highways.md`, `Airports.md`. ***The property that makes a source
+dangerous is not its subject matter; it is that it is ORGANIZED BY LOCATION NAME, which makes the subject's
+name a perfect index into everything anyone concluded about it.***
+
+> ### The standing obligation this creates for the registry itself
+> **Every row in `§B`–`§D` carries a TIER, added in the same commit as the address.** **The columns are:
+> address · what it supplies · reliability carve-out · ⭐ TIER.** ***An un-tiered row is an open door.***
+
+### ⚠ HOW TO ADDRESS THE PER-CITY FIGURES — there is no per-city file, and expecting one wastes a pass
+
+**Checked 2026-09-03.** ***There are NO individual per-city division-of-industry files.*** **All 37 cities'
+figures live inside a single 3,545-line calculation sheet, `16_Per_City_Three_Tier_Run.md`, whose "HALF B —
+THE 37-CITY RUN" section carries the per-city results.**
+
+| Need | Address |
+|---|---|
+| **One city's three-tier figures** | `16_Per_City_Three_Tier_Run.md`, **Half B** |
+| **The model that produced them** | `01_Burden_Scoring_Model.md` · `08_Volume_Based_Requirement_Reference.md` |
+| **What each city is MISSING** | `Division_of_Industry_Sweep_2026-08-31.md` §4.4 — the corpus-wide gap matrix |
+| **Cross-city differentiation** | `02_Cross_City_Industry_Differentiation_Table.md` |
+| **⚠ The canon/derivation boundary** | **`16` §"How much of this is canon and how much is mine"** — ***read this before Column-3 tagging; the sheet declares its own boundary and it is more precise than a blanket tag*** |
+
+> ### ⏸️ **AND THE INTEGRATION IS PENDING, WHICH IS WHY THE PER-CITY FILES SEEM TO BE MISSING.**
+> **The folder's README states plainly: *"What remains is INTEGRATION, not verification: folding these numbers
+> into the official `Specs/` and `Local_Cultures/` files, which is a separate scheduled task."*** **Until that
+> lands, a location pass must read the figures from `16`, NOT from the city's own `Specs/` file — which does
+> not yet carry them.** ***A pass that checks `Specs/` for a sector percentage and finds nothing has not found
+> a gap; it has found the un-run integration.***
+
+### The standing Column-3 tagging obligation, restated because it still applies
+
+**These figures are `G3` and admissible — *and they are PROJECT-INTERNAL DERIVATION*, which puts them in
+`05` §6.1's Column 3:** *"Admissible but self-originated. Use it — you are usually obliged to. **But tag
+every finding that rests on it**, because it is corroboration rather than independent confirmation."*
+
+### ⭐ STANDING CONVENTION — **ALL PROCESS-DERIVED FIGURES USE CENSUS I.** *(Developer ruling, 2026-09-03, M-137.)*
+
+**A workforce, throughput, or burden figure that looks inconsistent with a location's own stated
+population is very likely NOT an error.** ***Every process-derived figure in this corpus — burden-scoring,
+workforce modeling, care-institute throughput, and any other computation drawing a population input — is
+baselined on Census I, regardless of which census the location's own narrative frame uses.***
+
+**Why this bites often, not rarely.** `Official_Population_Census.md` states Census I → II is *pre-war
+migration to the orbital tier*, not loss — so **most or all of the 37 cities carry some Census I/II
+divergence**, and a Division-of-Industry (or similar process-driven) figure checked against a Census-II-framed
+location's own stated population will routinely look ~20–60% too high. **That is the convention working
+correctly, not drift to correct.** Verify by dividing the process figure by CENSUS I, not Census II, before
+concluding a mismatch is real. Full account: `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` M-137.
+
+## C.7 ⭐ THE SYMBOL-SYSTEM REGISTER — **moved here from `02` §6.4, 2026-09-03, per the LAYERING LAW**
+
+**`02` specifies the register's SHAPE, which is universal. The actual register names actual files, member
+counts and locations — project data, and therefore this file's.** **Assess any system with `02` §6.2 before
+relying on it, and read every member's terms from its own file, never from the name (`02` §6.0).**
+
+| System | Where | Cardinality | Shape | Notes |
+|---|---|---|---|---|
+| **Zodiac Personality Substrate** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** the **Zodiac Lens** (`03` Phase 10 §B2; `DR-14` keeps the CST file itself out of a ULM pass) — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
+| **Planetary Symbols** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 11 members (the Sun, 9 planets, the Asteroid Belt); one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
+| **Robot Elementals** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members. **Originally composed on physical derivation — each member's meaning grounded in a real, verifiable physical fact, never in an existing tradition.** Seven members (Earth, Air, Fire, Water, Wood, Metal, Magnetism) carry one-word / summary / neutral / positive / negative; Electricity carries positive/negative only. ⏸️ **All seven of those one-word labels are flagged for developer review and may still change — check the file's own flags before citing one as settled.** **No Wu Xing correspondences of any kind.** No absences, no cross-relations |
+| **Planet + Element** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use `02` §6.3** |
+| **Subnet Elementals / Six Perfections** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`** *(**CORRECTED 2026-09-03** — was `../../Storyline/…`, which resolves to `Worldspace/Storyline/` and does not exist; the file sits at the repo root, one level further up)* | 1–2 per subnet | THIN→PAIRED | Subnet scale. **Do not cross-apply to city scale** |
+
+> ### ⛔⛔ ALL 34 CITY ASSIGNMENTS ARE PROVENANCE-DOWNSTREAM OF A PERSONALITY READ — `05` §6.1c
+> **`City_Symbol_Assignments.md` states in its own header that every assignment was *"derived from each city's
+> own established personality."*** ***So G1 is corroboration-tier for those cities, never an independent
+> generator.*** **Usable: the assigned MEMBERS, and their definitions from the system files. NOT usable: any
+> *rationale* column — those are capability verdicts wearing an index's clothing.**
+> **Worked pairing reads are archived at `Test_Runs/Worked_Examples_Archive/` and are withheld from cold runs.**
+> ⛔⛔ **SUPERSEDED 2026-09-16 — see the ruling immediately below. "Corroboration-tier" no longer means "read
+> and cited during a pass"; it now means "reconciled only after the pass's own Phases 1–9 close."**
+
+> ### ⛔⛔ SYMBOL APPLICATION FOR CITIES IS DEFERRED — Planet + Element, Planetary Symbols, Robot Elementals
+> *(Developer ruling, 2026-09-16.)*
+> > **"I'd like to make an adjustment on... postpone the usage of symbols (Planetary Symbols and Robot
+> > Elementals) until later, because when the results arise from the ULM, it might turn out that they
+> > contradict whichever symbols they already have. So, we'll apply the symbols after we know what the places
+> > are actually like."**
+>
+> **THE RULE.** For any city pass, `City_Symbol_Assignments.md`, `Planetary_Symbols.md`, and
+> `Robot_Elementals.md` are **not opened at Step −1, not cited as corroboration in any phase, and not treated
+> as a `G1` input of any tier** — the previous "demoted, corroboration-tier, still read" status above no
+> longer governs. **The existing 34-of-35 assignments stand un-consulted until that city's own Phases 1–9 are
+> written; only then are they checked against what the pass actually found — confirmed, revised, or left
+> explicitly open.** A pass that finds itself wanting to cite a Planet, Element, or symbolic member mid-run
+> should treat that want as a signal the reconciliation step, not this phase, is where it belongs.
+>
+> ✅ **WHERE — settled `DR-8a`, 2026-09-16.** **Step 4, Phase 10 (Catalog)** makes the determination — not
+> Step 5. By the time Phase 10 is written, Phases 1–9 already exist, so nothing structural forces the call
+> later; Step 5 stays the backstop if its own reconciliation surfaces a genuine contradiction with a symbol
+> Phase 10 already confirmed. See `03_The_Phase_Spine.md` Phase 10 §B3.
+>
+> **Why.** The existing assignments were derived from an earlier personality read — necessarily shallower than
+> an 11-phase, 8-generator ULM profile. **Using them as an input or even as corroboration risks the pass
+> quietly writing toward an answer a fuller read would have contradicted.** Symbols exist to be *earned* by
+> what a place turns out to be (`§ G1`'s own "no obligation to be plausible" property is worth the least when
+> spent confirming a guess made before the place was known).
+>
+> **This generalizes the existing sign-layer precondition below from "undetermined whether signs apply to
+> cities at all" to "undetermined-in-timing for every city symbol layer, signs included."** Both rest on the
+> same developer logic, five weeks apart: *apply the symbol once the personality is actually known, not
+> before.*
+>
+> ⚠ **A Tier C datasheet may still TRANSCRIBE an existing assignment found incidentally in another source**
+> *(e.g. a Planet/Element pair surfacing inside `16_Per_City_Three_Tier_Run.md`'s own Notes for a city)* —
+> that is pure "what does the source say," Rule 1b of `Mechanical_Extraction_Field_Guide.md`, not an
+> application. **Record it as a pre-existing fact from that source, explicitly flagged provisional pending
+> this reconciliation — never as the pass's own settled symbol.**
+> ✅ **Unaffected, both directions:** the Zodiac Lens's non-assignment interrogation use (`03` Phase 10 §B2),
+> and district-scale Zodiac Personality Substrate work, which is complete and a different corpus.
+
+> ### ⏸️⏸️ **UNDETERMINED — WHETHER THE ZODIAC SIGNS ARE ALSO ASSIGNED TO CITIES**
+> > **Developer ruling, 2026-09-06:** ***"It is theoretically possible that the Zodiac signs can be applied to
+> > the cities. They would just definitely repeat to some degree, since there are over 35 cities. Still, this
+> > is something we can apply later, once we have a better idea of what sorts of personalities the cities
+> > have. So, that's not something we need to worry about now… mark it as 'undetermined' in the full ULM until
+> > some other time."***
+>
+> ⭐ **STATUS: UNDETERMINED. Not refused, not adopted, and NOT a gap.** ⛔ **No pass may assign a sign to a
+> city, and no pass may treat the absence as an omission to be filled.**
+>
+> | | |
+> |---|---|
+> | **What cities carry TODAY** | ⭐ **PLANET + ELEMENT** *(`City_Symbol_Assignments.md`)* — **not signs** |
+> | **What districts carry** | **the twelve signs**, 1:1 with one deliberate absence at the Hub |
+> | ⏸️ **What is undetermined** | ***whether a sign layer is ALSO added to cities, later*** |
+> | ⚠ **The known consequence if it is** | ***SIGNS WILL REPEAT.*** **Twelve signs across 35+ cities is `~3` cities per sign, by arithmetic.** ⭐ **That is expected and is not a defect** — *the district set exhausted 12 signs against 13 districts and the leftover became a finding; a city set cannot do that and must not be written as if it could* |
+> | ⭐ **The stated precondition** | ***"Once we have a better idea of what sorts of personalities the cities have"*** — **so the assignment is DOWNSTREAM of the city passes, never an input to them** |
+>
+> ### ⛔ WHAT THIS MEANS FOR A PASS RUNNING NOW
+> **`G1` for a city is PLANET + ELEMENT and nothing else.** ✅ **The Zodiac Lens remains available to any
+> location as a NON-ASSIGNMENT interrogation technique** *(Phase 10 §B2)* — ⭐ **and that use-mode is
+> unaffected by this ruling, because it assigns nothing.**
+> ⚠ **Recorded in `Deferred_and_Flagged` terms: this is parked ON PURPOSE. Do not "helpfully" close it.**
+
+> ### ⛔ THE WU XING GAP — DECLINED, developer ruling 2026-09-21
+> **`Robot_Elementals.md` is composed on physical derivation, not on the Wu Xing tradition.** The generating
+> and overcoming cycles this section once proposed documenting belong to that tradition and do not attach to
+> the file's current members. `Robot_Elementals.md` stays **THIN** with no cross-relations.
+
+## C.8 ⭐ PROJECT FRAME DATA — **moved here from `01` and `03`, 2026-09-03, per the LAYERING LAW**
+
+**`01` §4 specifies what a frame declaration DOES; `03` §0.3 specifies which CLASS of canon each phase must
+open. Both are universal. The actual eras, dates and addresses are project data and live here.**
+
+### C.8a — The setting's eras
+
+| Era | Dates |
+|---|---|
+| **First Interwar** | 2083–2564 |
+| **Second Interwar** | **2564–2812** ⭐ *(the default frame — see below)* |
+| **The Long Night War** | 2812 |
+| **The present** | ~2822–2827 |
+| DLC-specific windows | per DLC |
+
+> ### ⭐ **THE DEFAULT FRAME IS THE SECOND INTERWAR PERIOD (2564–2812).**
+> **A location pass defaults to the pre-war baseline — before the Long Night War, before Amundsen Tower's
+> destruction — NOT to the post-war present.** *(Developer instruction, 2026-08-31; full reasoning at
+> `01` §4.1.)*
+>
+> **⛔ THE STANDING EXCEPTION: Concordia's thirteen districts are correctly written POST-WAR**, because their
+> whole civic identity is a post-war formation and a pre-war pass on them would answer the wrong question.
+> ***The default governs everywhere else*** — the 35 outer cities, highways, structures, natural features,
+> anything whose identity was not itself produced by the war.
+>
+> **⚠ And `Specs/` "Status:" fields are POST-WAR.** *("Damaged; partially operational," etc.)* ***They are
+> never an input to a Second Interwar pass.***
+>
+> # ⛔⛔ THE EXCLUSION LIST — **spec sections that are NOT INPUTS. Their absence is CORRECT, never a gap.**
+> **Added 2026-09-03 at the developer's direction, after a dry-run trace reported three of them as missing
+> data.** ***The trace was wrong, and it was wrong while holding this very section in context*** — **because
+> `§C.8a` governed the `**Status:**` FIELD and said nothing about the SECTIONS.**
+>
+> | `Specs/` section | Why it is NOT an input | Developer, verbatim |
+> |---|---|---|
+> | **`## Current Status / Destruction`** | **POST-WAR.** War damage, ruins, present occupancy | ***"For the purposes of deriving a location, 'Current Status / Destruction' is IRRELEVANT. SECOND INTERWAR PERIOD."*** |
+> | **`## Connection to Concordia`** | **Frames the city through Concordia.** ***A location is synthesized on its own terms, on its own merit*** | ***"For the purposes of deriving a location, 'Connection to Concordia' is IRRELEVANT. A location gets synthesized on its own terms, on its own merit."*** |
+> | **`## Legacy`** | **Retrospective AND Concordia-framed** — the template defines it as *"what did this city leave behind… what do Concordia's residents know or believe about this place?"* **Both halves are outside the frame** | *(follows from both rulings above)* |
+>
+> ### ⛔ THEREFORE, AND THIS BINDS EVERY PASS AND EVERY AUDIT
+> **A `Specs/` file that lacks these sections is COMPLETE for ULM purposes.** ***Never record their absence
+> as a missing input, a `REQUESTED` item, or a template deviation.*** **Never write them, never fill them,
+> never ask for them.**
+>
+> **⚠ And do not treat their PRESENCE as permission either.** **Most specs do carry them** — *they are
+> legitimate content for post-war work, DLC scoping and the ruins layer.* ***They are simply not this
+> methodology's business.*** **`05` §6.1a rule 1 applies: you cannot un-see the second half — so do not open
+> the section at all.**
+>
+> ### ⚠ WHAT `G6` ACTUALLY DRAWS ON, since it is NOT these
+> **`02` G6 wants *"what has happened TO this place"* — WITHIN the declared frame.** **For a Second Interwar
+> pass that means: the founding and its circumstances, allocation or charter decisions, migrations, a
+> discovery, a disaster, a founding crime — anything inside `2564–2812`.** ***The Long Night War is the frame's
+> terminus, not an event inside it.*** **Addresses: `Worldspace/World_History_Reference.md` · **U**
+> `Timeline Eras/` · the spec's own `## Founding`.**
+>
+> > **⭐ The generalizable rule, for any setting using this methodology:**
+> > ***A frame declaration does not merely date a pass — it makes some EXISTING, CANON, well-written material
+> > INADMISSIBLE.*** **State which sections those are, by name, or a pass will read them as supply and an
+> > audit will read their absence as a gap.** *(Both errors have now occurred.)*
+
+### ⛔⛔ C.8d — **CONCORDIA IS NOT A YARDSTICK. Added 2026-09-03, developer ruling.**
+
+***"'Concordia alone is decomposed' is not even relevant."*** ***"A location gets synthesized on its own
+terms, on its own merit."***
+
+> # **NEVER MEASURE ANOTHER LOCATION AGAINST CONCORDIA.**
+> **Not for scale. Not for structure. Not for how decomposed it is. Not for how much material it has. Not for
+> completeness. Not as a control, a baseline, a comparison class, or an implicit "normal."**
+
+| ⛔ Do not write | ✅ Write instead |
+|---|---|
+| *"unlike Concordia, this city has no districts"* | *"this city is organized as …"* — **on its own terms** |
+| *"Concordia has 301 files; this city has 9"* | **nothing.** Volume of prior material is not a property of a place |
+| *"Concordia does X, so this city's not-X is a gap"* | **check whether X is required OF THIS LOCATION.** If nothing requires it, there is no gap |
+
+### Why this needs a rule rather than good judgement
+***Concordia is the most-documented location in the project*** — 301 district files, the only rich symbolic
+substrate, an Ultra Megasheet, thirteen completed sub-locations. **It is therefore the most AVAILABLE
+comparison in the corpus and the most MISLEADING one: anything measured against it reads as deficient.**
+**A dry-run audit did exactly this on 2026-09-03 and produced a false corpus-wide "structural failure"
+finding** *(retracted: `Archive/ULM_Records/Test_Runs/ULM_Dry_Run_Findability_Trace_2026-09-03.md` §Finding −1)*.
+
+> ### ⚠ AND THIS IS THE SAME RULING IN A THIRD COSTUME — recognize the pattern, not just the instance
+> | Ruled irrelevant | The form it took |
+> |---|---|
+> | `## Connection to Concordia` | **a spec SECTION** — `§C.8a`'s exclusion list |
+> | *"on its own terms, on its own merit"* | **the governing PRINCIPLE** — `01` §4.1 |
+> | *"Concordia alone is decomposed"* | ⭐ **an ANALYTICAL COMPARISON — this section** |
+>
+> ***The section was already excluded. The comparison had to be excluded separately, because removing a
+> HEADING does not remove the HABIT of reading every location against Concordia.***
+
+### ⚠ The one legitimate use, so this is not over-read
+**Concordia may be named where it is a plain FACT about the other location** — a highway that terminates
+there, a shipping route, a diaspora destination recorded in canon, a subnet relationship. ***That is `G5`
+network position, and it is admissible.*** **What is forbidden is EVALUATIVE comparison** — using the
+Concordia as the measure of what a location should have, be, or contain.
+
+> ### ⛔⛔ AND A CANON CORRECTION THIS SECTION HAS TO CARRY — **developer ruling, 2026-09-06**
+> > ***"By the way, Concordia is not the capitol."***
+>
+> ⭐ **`§C.8d` was already right for the right reason** — *it justifies itself by Concordia being **"the
+> most-documented location in the project"** (301 district files, the only rich symbolic substrate), **not** by
+> any political primacy.* ✅ **The reasoning stands untouched.**
+> ⚠ **But the word "capital" had crept into four of its own lines, and into `§C.8a`'s exclusion table.**
+> **Corrected in place, 2026-09-06.**
+>
+> ## ⛔ THE ERROR IS CORPUS-WIDE, NOT LOCAL — **and it is exactly the habit this section exists to break**
+> **Measured the same day: `20+` files under `Worldspace/` use the term, plus four more ULM files** —
+> *`Extent_and_Density_Per_City.md` §10's own headline reads "**THE CAPITAL OF TEPENIA STANDS ON NO ROCK AT
+> ALL**"; `ULM_Input_Available_Audit.md`, `Location_Data-Input_To-Do.md` and `ULM_Input_Required_Reference.md`
+> each carry it beside Concordia's `G1` row.*
+> ⏸️ **NOT SWEPT — a canon-wide term change across district megasheets, questlines and deep dives is a
+> developer decision, not a location pass's.** **Flagged as `M-153`.**
+>
+> > ⭐ ***The tell is that nobody wrote "Concordia is the capital" as a claim. It arrived as an ADJECTIVE, in
+> > passing, in files about other things*** — **which is precisely how "the most available comparison in the
+> > corpus" becomes "the implicit normal," and precisely what `§C.8d` was written to stop.**
+> > ⛔ **Replacement wording that is both accurate and already used here: *"the most-documented location in the
+> > project."*** **Do not substitute another primacy claim.** ⚠ *`Extent_and_Density_Per_City.md` separately
+> > calls Palmer City "the Federation's first settled location and **cultural** capital" — a different sense,
+> > and not touched by this ruling.*
+
+### C.8b — Worked type assignments *(the taxonomy in `01` §1.1, made concrete)*
+
+| Location | Type |
+|---|---|
+| A Concordia district *(e.g. Cancer)* | Settlement |
+| **Vostok** | **Settlement** — the type comes from the city's own canon. The real station at its coordinates is a coordinate and an infrastructure fact (`DR-19`, `DR-24`), never a type: no city is typed `Installation` because a station stood there (`DR-28`) |
+| Highway 37 | Corridor |
+| **Amundsen Tower** | **Structure**, modifier *ruined*. Formerly Structure + Installation |
+| The Tepenian Federation | Polity, Band 6 |
+| A Halley-subnet Arcanet region | Network locus |
+| **Concordia's Hub (Axis Mundi)** | ⭐ **Interstitial** — the type the district methodology had no name for, and why the Hub broke its Step 2: no capability row, no element, no modality, no aspects. **A real type, not a defective settlement** — `01` §1.3 |
+| An O'Neill Cylinder | Settlement + *enclosed*, *orbital* |
+
+### C.8c — Per-phase canon addresses *(the classes are in `03` §0.3)*
+
+**U** = universe repo *(§B)* · **P** = this project *(§C)*.
+
+| Phase | Address |
+|---|---|
+| **0** | **U** `Repo_Scope.md` *(once)* · `Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
+| **1** | **U** `Worldspace/Locations/` · **P** `Specs/` *(incl. its `**Access type:**` token)*, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐⭐ **CLIMATE: `Reference/Real-World/Climate Data/READER/` (§C.9) — ⛔ FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE CITY. Search by the ALIAS SET or you will get a false negative** · **`Stations/` (§C.9)** · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
+| **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding** · `Falkland_Treaty/` · **P** `Official_Population_Census.md` · ⛔ **"diaspora/affinity files" — RESOLVES TO NOTHING ADMISSIBLE.** *The only candidate, `City_Refugee_District_Affinities.md`, maps cities TO CONCORDIA DISTRICTS — forbidden input to a city pass under `§C.8d` (Concordia is not a yardstick) and THE LAW OF ONE LOCATION. Composition comes from Census alone.* · ⭐⭐ **SEE THE SEQUENCING RULING BELOW — it governs this phase and Phases 8, 9 and 10** |
+| **3** | **P** ⭐ **`Reference/Real-World/Climate Data/READER/` (§C.9 — alias-keyed)** · `Specs/` · physical infrastructure attributes · **concept art: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/<City>/`** ⚠ *(only 4 of 37 cities hold actual images; the rest are empty `.gitkeep` folders)* · **`Davis_Geosciences_Research/` (§C.9)** where applicable |
+| **4** | ⭐⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE** *(§C.10; the shared night, overnight recharging, leisure-as-a-fact-of-life, siligel/coolant, smoking, the human-robot baseline)* · `Robot_Cold_Physiology.md` · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B** — *this city's baseline/mandated/**free** tiers, i.e. how much of a working life is NOT spoken for* · ⭐ **`Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 — THE FREEDOM GRADIENT**, *which the physiology file itself cites as the measure of "the thing the exile was for"* · `Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md` *(the food layer, rebuilt)* · ✅ **`National_Medical_and_Care_Institutes.md`** *(`locked-canon`)* · **P** `National_Economy_and_Currency.md` ⚠ *(in-frame: a national currency existed — backing unsettled at every stage, `DR-3`, do not read "energy-backed." The post-Split-Brain fracture is POST-WAR — `§C.8a`)* |
+| **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` *(routes, trade, supply and population ties only; never a vignette-derived, station, namesake or "heritage" reason, `DR-19`)* |
+| **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief.** ⭐⭐ **THE ROSTER IS OPEN AND IS EXPECTED TO GROW** *(developer ruling, 2026-09-06: **"I am open to the possibility — in fact, the likelihood — that there will be more robot religions, so don't force any community/society into a religion where it doesn't already naturally fit"**)*. ⛔ **So a roster `grep` returning ZERO for a location is a RESULT, not a gap to fill** — *write "no faith sited here," leave the slot explicitly open, and never let it read as "no faith possible." `03` §Phase 6 B carries the universal form* · `National_Holidays.md` ⚠ *(its own scope note warns that most cities' `Local_Cultures/` files already hold scattered festival material — **which is `Step 0.4` item-6 READ-LAST**, so any observance a pass proposes is a CANDIDATE pending Step 5 reconciliation)* · ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/` (§C.9, 7 files — metaphysics, machine ethics, Zen aesthetics, vocabulary)** ⚠ *the faith's name is a placeholder* · **`The_True_Believer_` / `The_Meme_Machine_Extraction.md` (§C.9)** · **the deferred mortuary question — do not answer it** |
+| **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · ⭐ **`Reference/Real-World/Industry_Staffing_and_Productivity/` and `jobs_professions_and_fields/` (SOC) — both §C.9; SOC tier-marking is ADDITIVE, never a replacement** · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
+| **8** | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
+| **9** | **U** ⚠ **`Laws_of_Robotics.md`** · **`Robot_Universals/`** *(four parts)* · `Doll_Representation_Categories.md` · **P** human-robot relations baseline |
+| **10** | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** · ⭐ **§B2 Zodiac Lens: read the signs' terms from `Zodiac_Personality_Substrate/` AND `Reference/Real-World/Zodiac_Signs_Full_Attributes.md` (§C.9)** — *the technique named the first and never registered the second* |
+
+> ### ⛔⛔ `§C.6` RECURRED ONE LEVEL DOWN — found 2026-09-03 by a direct developer check *(M-121)*
+> **`§C.6` exists because the division-of-industry folder sat in this runbook *"only as an OBLIGATION, never
+> as an ADDRESS,"* so a pass following the registry would never have found it.** ***It was then registered in
+> §C — and omitted from the per-phase table a pass actually consults while writing.***
+>
+> **A Phase 7a pass reading this table would have seen the economy and logistics files and never reached the
+> strongest `G3` supply in the project.** ***Registered globally is not registered at the point of use.***
+> **Fixed in the rows above. ⚠ Check every §C row appears in at least one phase row.**
+
+### ⛔⛔ C.8c-i — THE GENERATOR LINE. **The receipt records what was OPENED and never what was USED.**
+
+> **Added 2026-09-08, on Zhongshan (city 3), after a developer catch. `M-208`.**
+> ⛔⛔ **REVISED 2026-09-16 — `G1` is now the standing exception to the check below, city-scale.** Per the
+> symbol-deferral ruling at `§C.7`, `G1`'s Planet + Element / Planetary Symbols / Robot Elementals form is not
+> opened at Step −1 and is not expected in any phase's "Generators used" line during a normal run — its
+> absence there is correct, not a `M-208`-shaped drop. The measured case below still illustrates the general
+> principle (a demoted generator recorded at Step −1 must still be tracked to where it's actually used) and
+> remains binding for `G2`–`G8`.
+
+**The measured case.** ⭐ **`G1` — the assigned Planet + Element pair — was found, read and recorded at Step −1,
+in the pass's own `00.1_Step_MINUS-1_Input_Contract.md`**, complete with its address and a correct note that it
+was column-anchored and demoted. ⛔ ***It then appeared in none of the nine phase files.***
+
+> ### ⚠ AND BE PRECISE ABOUT WHICH HALF WENT MISSING — the first diagnosis of this case was wrong
+> **`§C.7` rules the assignments PROVENANCE-DOWNSTREAM of a personality read, so `G1` is corroboration-tier
+> and the *rationale column is inadmissible.*** ✅ **The pass was therefore RIGHT not to use the rationale, and
+> right that Phases 6–7 re-derived that character from primary sources instead — that is `05` §6.1c working.**
+> ⛔ **What was actually dropped is the ADMISSIBLE half: the assigned MEMBERS and their own registered terms
+> from `Planetary_Symbols.md` and `Robot_Elementals.md`, which were never opened at all.**
+>
+> ***A demoted generator is not a cancelled one.*** **Demotion moves it from spine-tier to corroboration-tier
+> and narrows what may be read — it never removes the obligation to read the part that stayed admissible.**
+
+> ## The instruction existed. The check ran. The answer was recorded IN THE PASS'S OWN FOLDER. And the admissible half was still never opened.
+> ***So this is not a registration defect and no amount of further prose fixes it.*** **The per-phase `MUST
+> OPEN` blocks are self-contained, which makes them read as the complete requirement for a phase — and
+> nothing anywhere required a phase to re-read the pass's own Step −1 output.** ⭐ **`M-205` found the mirror
+> of this** *(a source opened for an earlier phase is not open for this one)*; **this is the same hole pointing
+> backwards: the pass's own input contract was never an input to Step 4.**
+
+**THE RULE.** ⭐ **Every phase file's `## Canon opened` receipt MUST carry one additional line: which of the
+eight generators `G1`–`G8` this phase drew on, each citing its row in the pass's own
+`00.1_Step_MINUS-1_Input_Contract.md`.**
+
+| ✅ Write | ⛔ Not this |
+|---|---|
+| **`Generators used: G2 (climate table), G5 (Access type + Ports), G8 (Census I tiers) — contract rows 75, 78, 81`** | *a phase that names only files* |
+
+- **A generator marked `⚠ demoted`, `THIN`, or `PARTIAL` in the contract is the one most likely to be dropped**,
+  because a demotion reads as permission to ignore. ⛔ ***It is not.*** **Demoted means re-check it once the
+  phases have produced material the contract could not have had at Step −1.** *`G1` was the only demoted row
+  in the measured case, and it is the row that vanished.*
+- **A phase legitimately drawing on no new generator writes `Generators used: none new — carried from Phase N`.**
+  **A blank line is a hole, exactly like an unopened `MUST OPEN` source.**
+
+**Two standing reminders:** **`Reference/Real-World/Book_Extraction_Index.md` before mining any book** *(it
+exists because a book was twice assessed as unmined when it was not)*, and **check against the source, never
+against the last pass that cited it.**
+
+## C.9 ⭐⭐ THE REAL-WORLD RESEARCH REGISTER — **added 2026-09-03. `§C` carried ~90 files on ONE line.**
+
+**Found on a direct developer instruction:** ***"whenever/wherever something is available, make sure to point
+to it in the RUNBOOK and/or the file-reference sheet… the ULM needs to be able to reference all this
+information, so if it can't find it, it's worthless."***
+
+> ### The defect, stated plainly
+> **`§C` registered `Reference/Real-World/` as a single row reading *"research extractions — check
+> `Book_Extraction_Index.md` before mining any book."*** ***Behind that row sit nine subfolders and roughly
+> ninety files, including a 37-file climate set — and not one of them appeared in `§C.8c`, the per-phase table
+> a pass actually consults while writing.***
+>
+> **This is `§C.6` recurring for the third time** *(M-121: "registered globally is not registered at the point
+> of use")*. **Every row below therefore names an ADDRESS and the PHASE that needs it.**
+
+**Base: `Reference/Real-World/`** *(absolute: `…/InnerTepeniaGDD/Reference/Real-World/`, verified 2026-09-03)*
+
+| Address | Supplies | Phase | Notes |
+|---|---|:--:|---|
+| ⭐⭐ **`Climate Data/Precipitation_Falls_vs_Lands.md`** | **The precipitation reference — four quantities, not one.** *Falls aloft · reaches the surface · accumulates · gauge-caught*, with published coefficients and a per-city figure for all 37 | **1**, **3** | ⛔⛔ **A PRECIPITATION NUMBER IS MEANINGLESS WITHOUT KNOWING WHICH QUANTITY IT IS** — they differ by over an order of magnitude *(Amundsen Station: gauge 2.1 mm vs ~70–80 mm actual)*. ⭐ **Splits the 37 into six regimes on WIND, not temperature.** *"At coastal sites cumulative snow transport is ~4 orders of magnitude higher than snowfall"* — **weather there is not something that comes down, it is something that goes past** |
+| ⭐⭐ **`Universal_Location_Methodology/Extent_and_Area_APPROACH.md`** | **How to approach `T2-8` EXTENT — the last unaddressed required input.** Settlement-form typology; what constrains buildable area; ruling vs research | **2**, and Gate **11** | ⛔⛔ **DO NOT DERIVE EXTENT FROM DENSITY** — it makes Gate 11 tautological. ⭐ **Density is an output, never an input.** ⚠ **Ice IS buildable** *(Halley on the Brunt shelf, Neumayer on the Ekström)*; the limits are mass balance, ice flow and terrain |
+| ⭐ **`Climate Data/Climate_Data_Corpus_Audit_2026-09-04.md`** | **What was wrong in the climate corpus before 2026-09-04 and what was corrected**, plus the per-column provenance policy | **1**, **3** | ⛔ **Read before trusting any pre-2026-09-04 climate figure.** 22 cities had wrong polar-night spans; all 30 pre-existing daylight columns were inaccurate |
+| ⭐ **`…/Cities/Research_Logs/Climate_Data_Research_Log.md`** | **The research record** — every verbatim search string, every source accepted AND REJECTED, every snag and self-correction, eight sessions | any climate work | ⛔ **Check the REJECTED list before searching.** `timeanddate.com` is unreachable by tooling and its Antarctic precipitation is off by up to 16×; Signy's published box is internally inconsistent |
+| **`to-be-integrated/climate data CURL/ncei/`** | **Raw archive data as downloaded** — 68 NCEI GSOM station CSVs, 11 GHCN-Daily station files, the GHCN Antarctic station list | re-deriving any figure | ⚠ **GHCN-Daily stores TENTHS of a degree**, and contains isolated instrument spikes. **Use the gap rule** *(reject an extreme only if >6 °C from the next value — a real record sits in a continuous tail; an error sits alone)* |
+| ⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`** | **What deep cold costs a ROBOT** — recharge trade-off, the death spiral, permanent vs reversible capacity loss, embrittlement | **3**, **4** | ⭐ **Altitude costs a robot nothing; cold costs a great deal, on different axes than it costs a human.** *A robot is safer MOVING than resting* |
+| ⭐ **`…/Concordia-City/Concordia_Altitude_and_Atmosphere.md`** | **What altitude costs a HUMAN at Concordia** — ~3,800 m physiological, **no acclimatization**, heated but deliberately unpressurized | **1**, **4**, **9** | ⭐ **Robots are unaffected, which makes them the city's entire practical mobility** |
+| ⭐⭐ **`Climate Data/READER/`** *(38 files)* | **`G2` — authoritative monthly mean temperatures**, BAS READER, **WMO 1991–2020 normals**, with citation | **1**, **3** | ⛔⛔ **MOSTLY KEYED BY REAL-WORLD STATION NAME, NOT CITY NAME** — `Aboa.md` · `Princess_Elizabeth.md` *(note the `z`)* · `Sejong.md`. ***A pass searching by its subject's Tepenian name can find NOTHING and conclude the climate data is absent.*** **Reachable via the ALIAS SET** *(`Step −2` item 1a, M-118)*. ⚠ Also holds `Little_America.md`, a historical station that is not a Tepenian city, plus `Davis.md` and `Dumont_dUrville.md`, which are **proxy sources, not cities**. *(`Bharati_TBD.md` → `Shirayuki.md` and `Denison.md` created, both 2026-09-04.)* |
+| **`Stations/`** | `G2`/`G5` physical and infrastructure station facts only — COMNAP catalog *(operator/nation columns are never a founder, identity or tie input, `DR-19`)* | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
+| **`Industry_Staffing_and_Productivity/`** | staffing ratios, labor-productivity factors | **7a** | A declared input to `Division_of_Industry/` |
+| **`jobs_professions_and_fields/`** | the **SOC** occupational taxonomy + summaries | **7**, **9** | ⚠ `SOC_Cross_Category_District_Matching.md` is **district-derived**, not raw research. **SOC tier-marking is ADDITIVE — it feeds existing methods, never replaces them** |
+| **`Ice-Cold_Buddhism_Research/`** *(7 files)* | belief-system research — metaphysics, machine ethics, Zen aesthetics, vocabulary | **6** | ⚠ **the faith's name is a PLACEHOLDER.** Bears on **Dome Fuji** *(a continent-wide pilgrimage site)*, **Kunlun** *(its primary site)* and **Vostok** |
+| **`Vostok_Genetics_Research/`** | DNA computing; life-as-information-processing | **7** | Vostok-specific; also the Cryptograph Helix basis. Book-based research, not the real station's program. ⛔ *Its checklist leans on a Course of Events suggestion, which is not canon and never an input* |
+| **`Davis_Geosciences_Research/`** | groundwater and lake chemistry | **1**, **3** | Davis-specific |
+| **`Zodiac_Signs_Full_Attributes.md`** | the twelve signs' full attributes | **10 §B2** | ⭐ **The Zodiac Lens technique sends you to `Zodiac_Personality_Substrate/`; THIS file was never registered beside it** |
+| **`Symbolic_Sets_of_Six_and_Seven.md`** | symbol-system structure | **§C.7** | assess with `02` §6.2 before relying on it |
+| **`King_Warrior_Magician_Lover_Extraction.md`** · **`Man_and_His_Symbols_Extraction.md`** | the Review Panel's **Panels D and E** source material | **Step 8** | `Disciplines/00f_Review_Panel.md` §4b/§4c cite these directly |
+| **`The_Meme_Machine_Extraction.md`** · **`The_True_Believer_Extraction.md`** | belief transmission; mass movements | **6**, **7d** | useful for counterculture derivation |
+| **`Buddhism_and_Intelligent_Technology_Extraction.md`** | machine ethics and belief | **6**, **9** | |
+| **`City_and_District_Research_Topics.md`** | the research-topic index | **Step 3** | pairs with `Cities/Research_Logs/` |
+| **`Book_Extraction_Index.md`** · **`Book_TOC_Master_Reference.md`** | **what has already been mined** | any | ⚠ **MANDATORY before mining any book** — it exists because a book was twice assessed as unmined when it was not |
+
+> ### ⛔ TWO ENTRIES THAT ARE **NOT** ULM MATERIAL — named so nobody re-derives them as gaps
+> - **`Pisces_Flood_Mechanism_Research/`** *(8 files)* — **Concordia DISTRICT material.** The district
+>   methodology owns it.
+> - **`PTSD_Military_Trauma_Research/`** *(11 files)* — **character methodology, not location.**
+> - **`Gemini_Circuit_Attention_Economy_Vocabulary_Sheet.md`** — district-specific.
+
+## C.9b ⭐⭐⭐ **COMPOSITION FIRST, THEN CULTURE — the sequencing ruling.** *(Developer, 2026-09-06.)*
+
+> ### **"Once the various nationality-origins, and their proportionate-percentage compositions, have been established for some particular place/location/setting/society, *THEN* it's acceptable to take into consideration their origin-ethnicities, ethnic-cultures, etc."**
+
+## ⛔ THIS IS A SEQUENCING RULE, NOT A REPEAL. **`No_National_Stereotypes.md` is unchanged.**
+
+| Stage | What is permitted |
+|---|---|
+| **BEFORE composition is established** | ⛔ **GPS FACTS ONLY.** *You may not infer **who lives somewhere** from national character, temperament or cultural reputation.* **This is the whole point of the prohibition and it is untouched** |
+| ⭐ **AFTER composition is established** — *nations named, tiers set, percentages settled* | ✅ **Origin-ethnicities and ethnic-cultures MAY be taken into consideration.** *The populations are canon; what they carry is then legitimately in scope* |
+
+> ## ⭐⭐ THE DISTINCTION THAT MAKES THIS SAFE: **`G7` AND `G8` ARE DIFFERENT GENERATORS AND THIS RULING TOUCHES ONLY ONE.**
+>
+> | | |
+> |---|---|
+> | ⛔ **`G7` — the SITE's real-world basis** | **UNCHANGED. GPS PURPOSES ONLY — a coordinate, never a cause, an identity, or a history.** ⚠ *And per the standing correction, that covers the real site's **lineage, abandonment and vacancy**, not merely its nationality* |
+> | ✅ **`G8` — the POPULATION's composition** | ***This is what the ruling unlocks.*** **Once the roster and its proportions are canon, the cultures those populations actually carry are admissible material** |
+>
+> ⭐ **The two were easy to conflate and are now separated in writing.** ***A city may not be characterized by
+> whose station it occupies. It may be characterized by who actually lives there, once that is settled.***
+
+### ⚠ THREE CONSTRAINTS THAT SURVIVE THE UNLOCK
+
+1. ⛔ **A weighted ranking is not a census.** *This project's composition figures are explicitly
+   "weighted relative ranking, not census" (`02` §G8).* **The TIERS and the NATIONS are solid; a decimal is
+   not a headcount, and no finding may rest on one.**
+2. ⭐⭐ **FOR ROBOTS THE INHERITANCE IS MEDIATED, NOT PERSONAL.** **U `Robot_Universals/` Ch. 13 is explicit:
+   *robot cultural boundaries track CITY AND SUBNET STRUCTURE*, and identity rests on *"same city, same
+   struggles, same life-goals"* — **not on origin.** ***So ethnic-cultural material reaches a robot-majority
+   city through the local culture the founding population built, not through any individual robot's
+   "origin."*** ⚠ **And whether robots carry a national origin AT ALL is an open reserved question in this
+   project** *(the composition tables assign one by copying the human distribution)*.
+3. **Nothing here licenses a stereotype.** ***"This population is present in this proportion, and brought
+   these practices"* is composition-grounded. *"People from X are like Y"* is the thing the law forbids, at
+   any stage.**
+
+---
+
+## ⭐⭐⭐ C.9c — **WHAT THE `GPS PURPOSES ONLY` LAW IS ACTUALLY FOR.** *(Developer, 2026-09-06. The law has been in force for weeks without its PURPOSE ever being written down.)*
+
+> ### **"You shall NOT incorporate 'Russian heritage' into the establishment of the city of Shirayuki (or Sinheung, whichever)… Once the population composition has [been] established, then, yes, you can start incorporating aspects of Japanese (or Korean) culture, traditions, history, social norms, etc., because Shirayuki is a fundamentally Japanese city (or Sinheung, being a fundamentally Korean city). *THAT'S* the purpose of the 'GPS purposes only' Law."**
+
+| ⛔ What the law blocks | ✅ What the law was never blocking |
+|---|---|
+| ***The REAL STATION'S operator nationality bleeding into the city*** — *a site's builders, its flag, its lineage, its abandonment, its fate* | ⭐⭐ **THE CITY'S OWN ETHNIC CHARACTER, which comes from its FOUNDING POPULATION and is canon** |
+
+> ## ***THE LAW EXISTS SO THAT A CITY IS CHARACTERIZED BY WHO LIVES THERE, NOT BY WHOSE STATION IT OCCUPIES.***
+> **It is a rule about PROVENANCE, not a rule against ethnicity.** ⚠ ***A pass that refuses all ethnic
+> material is not obeying this law — it is misreading it, and it will produce placeless cities.***
+
+⚠ **Worked instance, and note that the two sites are easy to confuse even for the developer:** *the Larsemann
+Hills hold three cities on real stations of three different operators.* **Canon: `Shirayuki` = the Bharati
+site · `Sinheung` = the Progress site · `Zhongshan` = the Zhongshan site.** ⛔ **No operator nationality
+enters any of the three cities BECAUSE of the station.** ✅ **Shirayuki is Japan-founded and Sinheung
+Korea-founded, both by the Jeju-do court's allocation; Zhongshan is Chinese-founded (the Sinian Federation) on its
+own geographic and time-zone access — *per the Founding Register*, which is where a city's founders actually come
+from.**
+
+---
+
+## ⭐⭐⭐⭐⭐ C.9d — **THE DIVERGENCE PRINCIPLE: composition names the STOCK; time and place produce the CULTURE.**
+
+> **Developer, 2026-09-06, verbatim and at length because it is the operative mechanism:**
+>
+> > ***"This nuance actually depends partially upon WHEN a robot was built, in addition to WHERE, and to that
+> > extent, the principle applies to humans as well. People (whether human or robot), after enough
+> > generations, will develop into new, unique cultures which are, to an extent, shaped by their surroundings,
+> > their hardships and struggles, their common life objectives, etc."***
+> >
+> > ***"This is one of the major causal factors why 'Québécois' culture is a unique phenomenon, distinct from
+> > the culture of France. Why 'Canadian' culture is… distinct from the culture of the Celtic lands. Why
+> > 'American' culture is… distinct from the culture of Germany and the Netherlands. Why 'Australian' culture
+> > is… distinct from the culture of England. Why 'Singaporean' culture is… distinct from the culture of
+> > China."***
+> >
+> > ***"By the time of the events of the Inner Tepenia CRPG (2812 AD), it's been around approximately 250 years
+> > since these people's ancestors actually moved to Antarctica. Their cultures will be different. Just the
+> > same, while robots live longer, if they're built in Tepenia and also learn from the humans and other robots
+> > they're in the community of, their cultures will be different as well."***
+> >
+> > ***"So, while fully valid, the time, separation, local environmental setting, local struggles and
+> > hardships, local goals, local sensibilities and habits, etc. absolutely must be taken into account in order
+> > to gauge how cultures will shift and develop over time."***
+
+### ⛔ SO NEITHER EXTREME IS THE ANSWER
+
+| ⛔ Too little | ⛔ Too much | ✅ The operation |
+|---|---|---|
+| **Refusing all ethnic material** — *"placeless" cities that could be anywhere* | **Transplanting the source culture intact** — *a costumed version of somewhere real, which is `Step 3.5`'s named failure* | ⭐⭐ ***Take the origin culture as the STARTING STOCK, then apply ~250 years of local divergence to it*** |
+
+### ⭐ THE DIVERGENCE OPERATOR — the developer's own inputs, and they are the checklist
+
+**time · separation · local environmental setting · local struggles and hardships · local goals · local
+sensibilities and habits**
+
+> ## ⛔⛔ **DO NOT REASON FROM THE ELAPSED TIME. PROCESS THE DATA ON ITS OWN TERMS.**
+> **Developer instruction, 2026-09-06:** ***"Don't think in terms of '250 years' of outcomes. Just process the
+> data purely on its own terms."***
+>
+> ### ⭐⭐⭐ WHY — and it is an anti-convergence argument, not a style note
+> ***TIME IS THE ONE OPERATOR INPUT THAT IS CONSTANT ACROSS EVERY LOCATION IN THE SETTING.*** **Every
+> Tepenian city has had the same elapsed period.** **So a finding reasoned from it is a finding that would
+> come out identically everywhere** — ***which is precisely the convergence the whole methodology exists to
+> prevent.***
+>
+> | ⛔ WRONG — the number doing the work | ✅ RIGHT — the data doing the work |
+> |---|---|
+> | *"250 years have passed, therefore the culture diverged, therefore X"* | **"This place has no shore, an abrasive wind, impermanent ground and a four-month supply window — therefore X"** |
+> | **Generic. True of any city. Produces the same answer 38 times** | **Specific. Produces an answer only this place could have** |
+>
+> ⭐ **The other FIVE inputs — separation, environment, struggles, goals, habits — are where differentiation
+> actually lives, because they are the ones that VARY.** ***Lead with those. Never with the clock.***
+>
+> ### ✅ THE ONE LEGITIMATE USE OF THE ELAPSED TIME — **as a CONTROL, never as a cause**
+> **"These two locations share a founding stock AND the same elapsed period, so time cannot explain their
+> difference — what does?"** ⭐ *That holds the constant constant, which is the opposite of reasoning from it.*
+>
+> ⚠ **And this is `LAW 0`'s "first plausible answer is usually the generic one" in a new costume:** *elapsed
+> time is the most available explanation in the setting and explains nothing about anywhere in particular.*
+
+> ### ⚠ **~250 YEARS IS THE FIGURE, AND IT IS NOT SHORT.** *2564 → 2812.* **Roughly the age of the United
+> States; longer than Singapore, Canada or Australia as distinct cultures have existed.** ***A pass that
+> writes a Tepenian city as its founding nation transplanted has ignored two and a half centuries.***
+
+### ⭐⭐⭐ AND THIS IS THE ANTI-CONVERGENCE ENGINE, NOT A LICENSE TO CONVERGE
+
+> ***Two cities founded by the same nation MUST diverge, because the operator's inputs differ.***
+> **Worked case sitting in this project already: the Founding Register gives Argentina three cities (Marambio,
+> Esperanza, Belgrano) and Australia three (Casey, Davis, Mawson).** ⭐ **Same stock, 250 years, different local
+> conditions, so different outcomes.**
+>
+> ### ⛔⛔ THE COMPARISON THIS CASE USED TO INSTRUCT IS WITHDRAWN — **2026-09-06**
+> **It formerly read:** *"If a pass produces similar-shaped cultures for two of them, at least one
+> is wrong — which is `Cultural_Synthesis_Techniques`' governing rule, arriving through ethnicity rather than
+> through technique."* ⛔ **A per-location pass may not run that check, because running it requires reading the
+> other city.** ⏸️ **TERMINAL — it returns at the differentiation pass on the finished corpus.**
+>
+> ✅ ⭐⭐ **WHAT SURVIVES, AND IT IS THE WHOLE LESSON:** ***apply the divergence operator to the ONE location in
+> front of you, with that location's own values*** — *time · separation · local environmental setting · local
+> struggles and hardships · local goals · local sensibilities and habits.* **"Same stock plus different operator
+> inputs produces different cultures" is a claim about MECHANISM, and it needs no second city to be true.**
+
+### For robots specifically
+
+⭐ **The same operator applies, with one canon modifier:** *robots live longer, so a given individual spans
+more of the divergence* — **but `Robot_Universals/` Ch. 13 still seats identity in city-locality, and canon
+states a robot's culture comes from *"the humans and other robots they're in the community of."*** ⭐⭐ **So
+`WHEN` matters as much as `WHERE` for a robot too: a robot built early in the divergence and one built late
+are not carrying the same culture.**
+
+---
+
+## ⭐⭐⭐⭐⭐ C.9e — **THE GRAND-TIMELINE ACTS, and the mechanism behind them.** *(Developer, 2026-09-06.)*
+
+> ***"In the country's Grand-Timeline Act 1 (i.e. starting from 2564 up until around the early-2600s or so),
+> all these people's national-ethnic-origin cultures are still fresh for them. They are still Chinese or
+> Japanese or American or Russian or Mexican, etc. **who live in Antarctica**."***
+>
+> ***"By the time of the country's Grand-Timeline Act 2 (i.e. around the late-2600s/early-2700s), these people
+> are no longer 'Chinese' or 'Japanese' or 'American' or 'Russian' or 'Mexican' who live in Antarctica. By the
+> 2600s/2700s or so, these people have become **properly TEPENIAN, in both name and cultural identity**."***
+>
+> ***"…similar to the way that by the early-1800s, a person from Pennsylvania and a person from Virginia may
+> very well have very different ethnic backgrounds and local cultures — they were both still fundamentally
+> AMERICAN."***
+
+| Act | Roughly | What the people ARE |
+|---|---|---|
+| ⭐ **ACT 1** | **2564 → somewhere in the 2600s** *(a hazy range; exact dates come after the new vignettes are written and ordered on the timeline — developer, 2026-10-01)* | ***"Japanese who live in Antarctica."*** **Origin cultures still FRESH** |
+| ⭐⭐⭐ **ACT 2** | **~late 2600s / early 2700s onward** | ## ***TEPENIAN, in name and cultural identity.*** **Origin is now ANCESTRY, not identity** |
+
+> ### ⚠⚠ **THE DEFAULT FRAME — the Second Interwar, 2564–2812 — SPANS BOTH ACTS AND IS MOSTLY ACT 2.**
+> **Act 1 is its earlier part; the boundary is a hazy range.** ***A pass that writes its city as its founding
+> nation is writing the wrong Act for most of the frame's 248 years.***
+
+## ⭐⭐⭐⭐ THE MECHANISM — **INTERCONNECTION. And the Tower's COMPLETION is what solidified it.**
+
+> **Developer, same session, and the qualifications are load-bearing:**
+>
+> > ***"That 'metacultural unification' was ONE OF (among multitudinous other) effects of the completion of
+> > Amundsen Tower. Their being fully interconnected further defined their sense of national identity in who
+> > they are as a nation of people (both robots and humans alike)."***
+> >
+> > ***"Obviously, BEFORE the completion of Amundsen Tower, the people naturally had a sense of shared
+> > struggles and shared goals in a shared country. They didn't consider themselves 'psychologically /
+> > culturally / spiritually separate' from each other. And also, obviously, the 'metacultural unification'
+> > didn't happen 'overnight'. That unification was already IN PROGRESS by the time construction of the Tower
+> > even started. However, the completion of Amundsen Tower was the DECISIVE FORCE that helped SOLIDIFY their
+> > sense of national identity."***
+
+### ⛔ FOUR QUALIFICATIONS A PASS MUST NOT DROP
+
+| | |
+|---|---|
+| **1** | ⛔ **NOT a switch.** *The unification was already in progress before construction even began* |
+| **2** | ⛔ **NOT the creation of unity.** ***They were never psychologically, culturally or spiritually separate from one another.*** **Shared struggles and shared goals in a shared country predate the Tower entirely** |
+| **3** | ⛔ **NOT the Tower's only effect.** *It is **one of multitudinous** — the Tower is primarily energy regulation.* **Do not write it as the cause of everything** |
+| **4** | ⭐ **What it DID:** ***full interconnection**, which **further defined** and **decisively solidified** an identity already forming* |
+
+> ### ⭐⭐ SO THE ACT BOUNDARY IS NOT A DATE — IT IS A CONSOLIDATION.
+> **The Tower completes `~2688`, which sits exactly where the developer places the Act 1→2 transition.**
+> ***Write Act 1 → Act 2 as a gradient with a decisive moment in it, never as a line crossed.***
+
+> ### ⚠⚠ AND CHECK WHAT ELSE SITS AT THAT MOMENT, BECAUSE IT IS CROWDED
+> **`~2688` carries the Tower's completion, the opening of the ORBITAL TIER, and the Census I → Census II
+> boundary** *(which the census file states is **pre-war migration to orbit, not loss**)*.
+> ⭐⭐⭐ ***So the same structure whose completion solidified a shared national identity is also the structure
+> people left through.*** **That is national context, true of every city — so it is not a differentiator.**
+> ⭐ **What differentiates is HOW HARD a given city used that exit**, which is what the retention layer
+> measures.
+
+## ⭐⭐ THE PENNSYLVANIA/VIRGINIA TEST — **exactly the anti-convergence shape**
+
+> ***Two locations may have "very different ethnic backgrounds and local cultures" and still be fundamentally
+> the same nationality.***
+
+| ✅ Differentiate HERE | ⛔ NOT here |
+|---|---|
+| **local culture, local conditions, local struggles, local habits** | **national identity** — *every Tepenian city is Tepenian; that is not a differentiator* |
+
+⭐ **`§C.9d`'s engine gets its resolution: same-stock cities diverge LOCALLY while converging NATIONALLY.**
+***Not a contradiction — it is what a real nation looks like.***
+
+## ⭐ THE CORRECT FORM OF WORDS
+
+⛔ **"Shirayuki is a Japanese city"** — *true of Act 1; misleading for most of the frame.*
+✅ ⭐ **"A Japan-FOUNDED TEPENIAN city."** ***Stock: Japanese. People: Tepenian. Local culture: its own.***
+
+
+
+## C.10 ⭐⭐⭐ ROBOT PHYSIOLOGY — **A GOVERNING DOCUMENT FOR THE ENTIRE UNIVERSE. READ IT AT `Step 0.2`.**
+
+> ## ⛔ **Added 2026-09-06 at the developer's direction:** ***"add a command in the methodology to reference the general `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` file, because that's a governing document for the entire universe."***
+
+| | |
+|---|---|
+| ⭐⭐⭐ **THE GENERAL FILE — READ FIRST, READ IN FULL** | **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** |
+| **The narrow companions** | `Robot_Cold_Physiology.md` *(environmental hazard)* · `Siligel_Composition_Research.md` · `Sumerian_Language_in_Robot_Culture.md` |
+| **Universe-tier, binding above all of it** | **U** `Reference/Laws_of_Robotics.md` · Robot Universals *(four parts; this repo's `Characters/Robot-specific/Robot_Universals/`)* · `Reference/Doll_Representation_Categories.md` |
+
+> # ⛔⛔ **THIS IS NOT A PHASE-8 FOOD CHECK. IT BINDS EVERY PHASE.**
+> ***Robots are the MAJORITY population in most Tepenian cities*** *(commonly 51–55%)*. **There is therefore no
+> phase that is not about them** — composition, texture, ordinary life, order, making and populations are all
+> questions about the majority body as much as the minority one. **`03` §0.2 mechanic 9 states the universal
+> form of this rule; this section is its address.**
+
+### ⚠ THE FACTS A PASS MOST OFTEN GETS WRONG — **stated here because getting them wrong is silent**
+
+| ⛔ NOT this | ✅ Canon |
+|---|---|
+| *an anthropomorphically-shaped block of metal* | ⭐⭐ **HUMAN-LOOKING, with synthetic/cybernetic interiors.** **The project's own stated visual reference is the film *Ex Machina***, which it already uses for the fabrication chamber and the *"glowy-blue" nano-architecture gel brain* |
+| *unclothed machines* | ⭐⭐⭐ **ROBOTS WEAR CLOTHING, AND NEARLY ALWAYS DO — for fashion AND for function.** ***A robot may wear a heavy winter coat.*** **⭐ AND GLOVES — *"robots would also wear winter gloves. There's no reason why they wouldn't."*** **So an environmental hazard is a PREPARATION problem, as it is for humans — not a hard gate** *(developer rulings, 2026-09-06)* |
+| *"they're machines, so exposure doesn't apply"* | ⛔ **The whole COLD-WEATHER GARMENT REGISTER applies** — coats, gloves, layering, and the ordinary trade-offs that come with them. ⭐ **Including the insulation-vs-dexterity trade-off**, which a **human-shaped** hand inherits whatever it is made of |
+| *a fixed "hard drive" mind* | **A malleable, ever-changing gel brain.** *A robot can always find a new purpose* |
+| *breathing, altitude-limited* | **No respiratory system; vacuum-capable.** ⚠ **But immunity to altitude is NOT immunity to cold** |
+| *a design accident that they look human* | ⭐ **A DELIBERATE, ONGOING CHOICE.** *"The one constant across both eras is the human form/figure itself — Tepenian robots still choose to build each other in that basic shape… because they see no compelling reason to depart from what evolution already optimized"* |
+
+### ⭐ WHAT THE GENERAL FILE SUPPLIES THAT NO PHASE TITLE ADVERTISES
+
+**Build** *(height, bulk — statistically weighted by **local economic character**, and explicitly **not** an
+identity marker or a hierarchy)* · **Personality Module** *(partially randomized BY LAW — the engineering
+expression of Law 1)* · **Language Module** *(tracks the dominant local culture and the community who built
+her)* · **Gen/Mark** *(an age-metacategory, **never** a rank)* · **kinship by shared experience, not
+fabrication lineage** · **the Cradle and where chambers are made** · **what counts as death, and ossuaries** ·
+**leisure and downtime** · **the human-robot relations baseline** · **sexuality**.
+
+> ### ⛔ THE FAILURE THIS SECTION EXISTS TO PREVENT — measured 2026-09-06, Shirayuki Phase 3
+> **A pass opened `Robot_Cold_Physiology.md` — a NARROW companion — and never the general file.** **It then
+> derived that the local climate uniquely permitted stationary outdoor work, and called that the physical
+> precondition for the city's whole culture.** ⛔ ***False: the population is ordinarily clothed, so standing
+> still is available almost anywhere to anyone dressed for it.***
+> ⭐ **The narrow file was not wrong — it was PARTIAL, and partial read as complete.** **`M-151`.**
+
+## D. Sibling projects — check for cross-series consistency, do not port
+
+> ### ⛔ **PATHS, NOT NAMES — corrected 2026-09-03 (M-117).** This row used to read *"`games/Outer Tepenia
+> series/` · TheCryptographHelixDD · SouthernLights · CurrentNovelDocs"* — **one path followed by three bare
+> names, in a list whose first item establishes `games/` as the tree.** ***One of them is not in that tree,
+> and it holds 49 files naming a single subject.***
+>
+> **This is Gate C's own recorded failure, inside the registry Gate C sends you to:** *"'Repo-wide' sounds
+> exhaustive and is not… **Name the paths, or the negative result does not count.**"* **A pass searching the
+> implied tree gets a confident zero from a directory that structurally cannot hold the answer.**
+
+**Absolute paths, all verified to exist 2026-09-03:**
+
+| Project | Path |
+|---|---|
+| Outer Tepenia *(OT1 · OT2 · New Centauri)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Outer Tepenia series/` ✅ |
+| **The Cryptograph Helix** *(novels)* | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/The Cryptograph Helix series/`** — **NOT under `games/`. CORRECTED 2026-09-03** *(was registered as `…/games/TheCryptographHelixDD/`, which does not exist)* |
+| **Southern Lights** *(TV)* | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/TV/SouthernLights/`** — **NOT under `games/`. CORRECTED 2026-09-03** *(was registered as `…/games/SouthernLights/`, which does not exist)* |
+| **CurrentNovelDocs** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/`** — **NOT under `games/`** |
+
+> ### ⛔⛔ THIS TABLE'S OWN CORRECTION MADE THE SAME ERROR TWICE MORE — found 2026-09-03 by mechanical check
+>
+> **The box above records M-117 and fixes it by giving absolute paths, closing with *"Absolute paths, all
+> verified to exist 2026-09-03."*** ***Two of the four did not exist.*** **`TheCryptographHelixDD` and
+> `SouthernLights` were both written under `games/` — the exact "first item establishes `games/` as the tree"
+> mistake the box was written to prevent.** **Neither is a game: one is the novel series, one is the TV
+> series.**
+>
+> ## **The claim "verified to exist" was not itself verified.**
+> ***`Step 10`'s governing principle is VERIFY, DO NOT ASSERT, and Gate 0's is CHECK THE TARGET, NEVER THE
+> CLAIM. A statement that verification happened is a claim like any other.*** **Caught only by resolving
+> every backticked path in this file mechanically — 172 tokens, 156 exact, and this pair among the misses.**
+>
+> **⭐ Standing fix, cheap and repeatable — run it before committing any registry edit:**
+> *extract every path token from this runbook, test each for existence, and treat a MISSING result as a
+> blocker.* **A registry that cannot be resolved mechanically is a registry nobody can trust by reading.**
+
+**Shared facts belong in the universe repo, not copied between projects.** If a location pass produces
+something that binds a sibling project, that is a rank-1 question and goes upstream.
+
+> **⚠ Standing obligation for every registry row in `§B`–`§D`: an ABSOLUTE PATH, verified to exist, plus a
+> TIER.** ***A name is not an address, and an address is not an admissibility ruling.*** *(This is the same
+> defect `§C.6` was written to fix — a source present as an obligation but never as an address — recurring
+> two sections later.)*
+
+## E. The four-question canon check — run at every phase
+
+**Consistent, cheap, and it unifies rules currently scattered across five files.**
+
+1. **Does canon already answer this?** → **formalize, do not invent.** Canon supplies mechanisms more often
+   than a pass expects — countercultures, religions, shadow mechanisms, notable figures. Where it does, **the
+   pass's job is to explain why *this* location was the one it happened to**, not to build a parallel.
+2. **Does this contradict canon?** → **canon wins, by the rank order in §A.** State the contradiction and the
+   reconciliation in the text. Look for both-are-true first.
+3. **Does this bind anything beyond this location?** → if yes it may be **RESERVED** (`05` §3). A claim that
+   constrains other locations, or that settles a question the developer has deferred, **is not this pass's to
+   make.** Write it as a numbered reserved finding instead.
+4. **Does this need registering back into canon?** → a genuinely new religion, faction, institution or category
+   is a legitimate discovery — **the template is a floor, not a ceiling** — but it must be **named, defined, and
+   cross-referenced from wherever its kind normally lives**, or the next reader will never find it.
+
+> **⚠ And the failure this check exists to prevent, which has already happened here.** A mortuary mechanism was
+> invented, written as though canonical, and **passed the contradiction gate on three consecutive districts —
+> because each pass checked against the previous pass rather than against canon.** **Check against the source,
+> never against the last pass that cited it.**
+
+# Step −1 — The input contract, before the frame
+
+**`05_The_Input_Contract.md`. Run its §7 pre-flight checklist first — it is the input-side equivalent of
+Gate 0, and it is just as cheap.**
+
+**The thing to internalize:** **all eight generators are inputs.** The methodology's entire spine is built from
+material it cannot produce — physical facts, founding conditions, function, network position, composition,
+events, symbol assignments. **This is the correct architecture** (a derivation engine cannot supply its own
+axioms) but it means a pass that starts without its inputs will either stall or quietly invent.
+
+**Four categories, and the two middle ones carry the rules:**
+
+- **PROVIDED** — the method has no mechanism to generate it. **Missing ⇒ stub, assume provisionally, or block.**
+- **RESERVED** — it *could* generate it, but authority is the developer's. **Missing ⇒ write fully around it**,
+  per Step 0.5. Not the same behavior as PROVIDED, and confusing the two is the error.
+- **PRODUCED** — the output, always as **Proposed:**.
+- **REQUESTED** — **an output type.** When the pass needs something that does not exist, **emit a well-formed
+  request rather than inventing.** A pass ending in three good requests has done real work; a pass ending in
+  three quiet inventions has done damage that stays invisible until someone contradicts it.
+
+**And the provenance rule, which specifically threatens any outside-AI input pipeline:** an input must not be
+derived from this methodology's own output for the same location. **The district folder already found this
+defect in miniature** — the Phase 5 counterculture seed works only when written by someone months earlier who
+was not thinking about counterculture; written in the same pass it is *"planting your own seed and then finding
+it."* **Track provenance direction, or the circularity becomes invisible.**
+
+# Step 0 — Frame
+
+> ### 📂 REQUIRED READING FOR THIS STEP — open before running it, not the runbook alone
+> - **`01_Frame_Typology_and_Inheritance.md`** — the whole file. **This is its own governing document**, per
+>   its own first line: *"Read `00_RUNBOOK.md` first. This file is the reference for its Step 0."*
+> - **`Run_Modes_Warm_and_Cold.md`** — **cited nowhere else in this Step, and it is what 0.4's read order below
+>   is restating from memory.** Declares the run WARM or COLD in the frame block (§5's own format, separate
+>   from `01` §6's) and states the one rule that survives either mode: *this location's own culture material is
+>   read last, and read as a check* (§2). **Open the file; do not reconstruct its rule from paraphrase.**
+> - **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** — ⛔ **`§C.10`
+>   below states this must be read at Step 0.2, and it was never added to 0.2's own list until now.** *A
+>   governing document for the entire universe — read it here, in full, before any phase.*
+> - **`Disciplines/`** *(five files, listed below)* — the ULM's own copies, not the district originals.
+
+**0.1 Fill the declaration block** (`01` §6, `Run_Modes_Warm_and_Cold.md` §5). Type and modifiers, **both**
+bands, status, temporal frame, parent, children, sibling set, **and run mode** *(WARM / COLD — a separate line
+from `01`'s own block; see the required-reading box above)*. **Every line changes a later question.**
+
+**0.2 Read the disciplines — ⛔ FROM `Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
+`Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
+`Disciplines/00d_Shadow_Proportion_Discipline.md` · `Disciplines/00f_Review_Panel.md` ·
+⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** *(`§C.10` — added here
+2026-09-09; every phase is a question about the majority population, so this is not a Phase-8 food check and
+belongs at Step 0, not discovered mid-pass)*.
+> ⛔ **`Disciplines/Cultural_Synthesis_Techniques.md` and `Disciplines/Real-World_Basis_Extrapolation_Method.md`
+> are NOT read in a ULM pass** *(removed from this list 2026-09-29, developer ruling `DR-14`: "the CST and RWBEM are
+> for later")*. They run corpus-wide **after** all 38 cities' ULM (the 2026-09-28 breadth-first ruling). ⭐ **Real-world
+> comparables still run in the ULM** — through its own Step 3 research, for things known to exist in the place;
+> RWBEM later adds what would *probably* also exist there *(`DR-15`)*.
+> ***The district originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** —
+> between them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is
+> next *(M-130)*. **They open at Step 7 with everything else.** **See `Disciplines/README.md`.**
+
+**0.3 Run Gate 0** — reconcile any completion claim against the file, **and the file's own open-questions list
+against what has actually been resolved elsewhere.** Cheapest gate, highest yield, fails in both directions.
+
+**0.4 Read everything the location already has, before writing over it.**
+> ⛔⛔ **"EVERYTHING" EXCLUDES `Test_Runs/`.** *(2026-09-07 ruling — see Step 5's tier table.)* **A test run's
+> location content is CLOSED for the duration of the ULM.** ⭐ *This is `M-121`'s shape again — **registered
+> globally is not registered at the point of use** — so the exclusion is stated HERE, where a pass is actually
+> told to go read prior material.* Existing material predates whatever
+disciplines have been written since, and inherited findings are where Gate 9 fires hardest.
+
+> **⚠ And read it in this order, because "everything" can be twelve thousand lines.** *(Tri-Cities, 2026-08-30
+> — the cluster carried ~4,000 lines per city before the universe repo was even opened, and an
+> undifferentiated "read everything" is unrunnable at that volume.)*
+>
+> ⭐ **This is `Run_Modes_Warm_and_Cold.md` §2's own mandated order, restated here at the point of use — open
+> that file rather than trusting the six items below as a paraphrase.** *"IN A WARM RUN NOTHING [physically
+> prevents opening it early]. This is the single point where a warm run can silently destroy its own value."*
+>
+> **1.** specs / physical facts → **2.** symbol assignment → **3.** composition, census, **and population
+> change across census snapshots** → **4.** founding and events → **5.** the sibling set's differentiation
+> instrument, if one exists → **6.** *last of all*, the location's own completed culture material.
+>
+> **Culture material is read last and read as a CHECK, never as an input** — see the circularity rule in
+> `05` §6.1. A prior pass's *conclusions* about this same location are not evidence about it.
+> ⚠ **And `06_Worked_Example_Provenance.md` still applies in warm mode** — required reading may carry THIS
+> location's own worked example; check `06` for the subject before Step 0.2, not after.
+
+**0.5 Note reserved decisions and what would foreclose them** — and know you will probably find material
+bearing on them anyway. **When you do: write it as a numbered finding, marked reserved**, stating what was
+found, what it would decide, and that it is explicitly not adopted here. **A parenthesis is lost; a reserved
+finding is a handoff.**
+
+**0.6 State provisional assumptions about an unwritten parent** (`01` §5.2), and prefer building on physical
+constraint over provisional inheritance wherever the choice exists.
+
+# Step 1 — Audit what is inherited
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`04_QA_Gates_and_Differentiation.md`, Gate 9 (Asymmetry)** — the check this step runs early, against
+>   inherited material specifically, **before** the pass's own new thresholds exist to be checked in turn (Gate
+>   9 runs a second time, at Step 7, against what this pass itself writes). Open the gate's own entry rather
+>   than the summary below — it carries the worked case (a membership mechanism written entirely from the
+>   favorable side) that shows what the check actually catches.
+
+**Run the asymmetry check on existing findings before writing new ones.** For every inherited finding describing
+a threshold, gate, conversion, verdict, admission or status change: *the mechanism runs both ways — did the file
+write both?* Ask what happens to someone it decides **against**, whether that outcome is as durable, and
+**whether there is a route back.**
+
+**This fires on inherited material at a very high rate**, because early material is typically written to explain
+how a place *works*, which is a framing that documents the favorable path and stops.
+
+# Step 2 — Build the spine
+
+**Phase 1, and the whole of `02`.** This is the step everything else hangs on.
+
+1. Select **at least three independent generators**.
+2. Run each to a **full four-quadrant profile, separately, before comparing.**
+3. Compare. **Agreement is grounding. Conflict is the richest site in the method. Shared silence is a shape
+   result.**
+4. Read the **shape**; apply its matching question. ⛔⛔ **THE CROSS-LOCATION FORM IS TERMINAL, NOT IN-RUN**
+   *(ruled 2026-09-06; this line was MISSED in that sweep and corrected 2026-09-07)*. **A pass may NOT ask
+   "does this shape repeat a sibling?"** — *that requires reading another location* — **and "table the
+   comparison on four axes" is REVOKED for per-location passes.**
+   > ⭐ **THE IN-RUN FORM — the three steps run against `02` §4.0's DOUBLE READING, not against a sibling.**
+   > *The second reading the rule needs is **this same location read twice** — once on the withheld-input set,
+   > once on the full one.* **1.** The shape gives the question. **2.** The generator gives the instrument.
+   > **3.** The instrument gives the consequence — ***and that is where the two readings separate.***
+   > ⚠ **And read `02` §4.0 before trusting the shape at all. The shape is a property of the INPUT SET, not of
+   > the location** — demonstrated 2026-08-30, when two passes on the same city produced **opposite** shapes
+   > (`cost-dominant` vs `cost-absent`) purely because one admitted the location's known institutions and the
+   > other quarantined them. **Never report a shape without reporting the inputs that produced it**, and where
+   > two input sets exist, **run it twice — the disagreement is worth more than either reading.**
+5. Read each deficit's **address**, and **count the addresses.**
+6. **Divide population by extent.** *(One division; no interpretation.)* It sets the band, exposes a
+   population/extent divergence, and is **the cheapest plausibility check in the methodology** — `04` Gate 11's
+   only recorded catch came from it. **Do it here, not at QA.**
+
+**Do not research yet.** Researching before you know the deficit produces interesting material with nowhere to
+attach.
+
+# Step 3 — Research, aimed at what Step 2 named
+
+> # ⭐⭐⭐ LAW 0-R — RESEARCH FULLY. **A PICK IS NOT EXHAUSTED BECAUSE IT HAS BEEN SEARCHED.**
+>
+> **GOVERNING. Added 2026-09-06 at the developer's direction, during Shirayuki's Step 3. Stated in FULL here
+> and in `Disciplines/Real-World_Basis_Extrapolation_Method.md` (and its original), because a procedure that
+> cites its governing law instead of stating it will be run without it.**
+>
+> > ### **"When doing web research on a particular place/location/topic/idea/etc etc etc, research FULLY. I don't expect you to deliver 'fast results'. What I want is for you to do it *RIGHT*."**
+> > ### **"Doing web research is for ensuring REALISM and ACCURACY, and that's only possible with real, accurate input data."**
+>
+> **⭐ WHY:** ***research is the INPUT DATA layer of the worldbuilding, not decoration on top of it.***
+> ⛔ **A RECALLED fact is a guess wearing a confident tone.** ⛔⛔ **A WRONG fact is worse than a MISSING one**
+> — it produces worldbuilding that is confident, coherent and wrong, and nothing downstream flags it.
+> *(Measured twice here: a census parse returning "33 plausible rows, a sensible mean, and a sensible spread —
+> all wrong"; and 22 cities carrying wrong polar-night spans, `M-141`.)* ⭐ ***A zero invites suspicion; a
+> plausible number does not.*** ⛔ **And a thin fact set produces a thin place, which no gate can detect.**
+>
+> ## ⛔ ONE SEARCH AGAINST A PICK ESTABLISHES THAT THE PICK EXISTS. **IT DOES NOT ESTABLISH WHAT IT HOLDS.**
+> **`LAW 0` anti-pattern 2 guards against NOT LOOKING. This is the next channel out — a pick looked at ONCE
+> and therefore treated as spent.**
+>
+> | Measured | |
+> |---|---|
+> | `LAW 0`'s controlled comparison | **the two strongest findings came from picks four, five and six; they did not exist at two** |
+> | **2026-09-06, eleven searches, one city** | a three-pick convergence was **invisible until the third**; the sharpest import arrived on the **sixth** |
+> | ⭐⭐⭐ **2026-09-06, same session** | ***the finding that resolved the pass's own spine tension came from the ELEVENTH search — run only because the developer sent the session back to a pick already logged as covered*** |
+>
+> **In practice:** *don't stop at the first useful return* · **query every pick from more than one ANGLE**
+> *(founding · physical constraint · what residents do about it · what it lost · **what it is a contrast
+> FOR**)* · ⭐ **a pick with a sub-part is at least TWO picks** *(a district is not its city; a station is not
+> its site)* · ⭐⭐ **GO BACK TO PICKS ALREADY LOGGED AS COVERED** · **run and log near-duplicates** · **log
+> dead ends AND whether each died at the QUERY or at the SOURCES** · ⛔ **never assert redundancy from a title.**
+>
+> ## ⛔⛔ THERE IS NO TIME LIMIT AND NO SEARCH BUDGET.
+> ⭐ **A log with eleven searches, two dead ends and four honest *"not used"* rows is a BETTER artifact than one
+> with four clean hits** — *it tells the next session where not to go.*
+
+**3.1 Research the deficit.** The single most reliable move available: the profile says what the place cannot
+do; it does not say what the missing thing looks like. **Find a real culture that has it, and the contrast
+writes the finding.**
+
+**3.2 Research can supply a substitute institution**, not only texture — a real culture that lacked the same
+formal capacity and evolved a workaround no design process would have invented.
+
+**3.3 Prioritize by difference, not tier — but prioritizing is not skipping.** The most valuable pick is usually
+the one least like the others. **Look at each pick at least far enough to know what it would have given.**
+
+**3.4 The source is not a specification.** Three outcomes are all legitimate: close resemblance with a new paint
+job · one mechanism taken and divergence everywhere else *(commonest)* · somewhere the source never went
+*(often best)*. **The two tests that bind are internal:** is it characteristically consistent with *itself*, and
+is it consistent in-world? **Divergence stated is stronger than resemblance implied.**
+
+**3.5 Two failure modes:** **transcription** (a costumed version of somewhere real) and **importing a vivid
+detail that does not follow.** **If the only argument for a detail is that it is interesting, cut it or earn
+it.**
+
+**3.6 Then run the Unrecognized Instrument** — never before Step 2 is finished.
+
+**⭐ 3.7 Log every search in this location's own research log, as you run it.** *(Standing developer
+instruction, 2026-08-30, Zhongshan Run 3.)* **One dedicated file per location** — for cities,
+`Cities/Research_Logs/[Location]_Research_Log.md`; other location types keep theirs with their own material.
+**Full convention in that folder's `README.md`.**
+
+**Record the exact search strings verbatim**, the sources actually used, a fact-by-fact table of *what came
+back → which finding it became*, what was **withheld** versus **omitted**, the **divergences from source**, and
+**⭐ the open threads** — sources surfaced but unread, questions not chased, and what each might yield.
+
+**Why it is in the procedure and not in a style guide:** a finished pass publishes conclusions and buries
+evidence. Without the log, the next session cannot re-check a claim against its source, cannot distinguish a
+researched fact from an assumed one, re-runs searches already run — and **loses every deliberately-unpursued
+thread, which is routinely the best material the research produced.** *(Run 3 left seven.)*
+
+**It also survives quarantine:** a research log holds *attributes*, not conclusions, so per `05` §6.1 it stays
+**admissible input even to a later cold run on the same location** — which the pass it fed does not.
+
+> ## ⛔⛔ AND A HOLE IS NOT ADDRESSED BY LABELING IT — `M-158`
+> **Measured 2026-09-06.** *A phase found its source described the wind for ONE season and said nothing about
+> the other. It wrote an inference for the unstated half, **labeled the inference honestly, and listed the
+> hole in its own nulls section** — and the inference was still load-bearing three sections earlier.*
+> ⛔ **One first-result search refuted it.**
+>
+> ### ⭐ THE OPERATIONAL RULE
+> ***When a phase reaches for the UNSTATED half of a qualified source, it may not write an inference at all
+> until `Step 3` has been asked.***
+> ⚠ **A description scoped to one season, one population, one district or one era is a SCOPE, not a contrast.**
+> **When a source qualifies — *"most summer days," "in the older quarter," "among the founding generation"* —
+> the qualifier says what was OBSERVED, never what is true elsewhere.**
+> ⭐ **This is the mirror of the `M-151`/`M-152`/`M-154` family** *(partial sources read as complete)*: **there a
+> source said LESS than the reader took; here it said NOTHING and was taken to say "not."**
+> ⛔ **And it is more dangerous, because it presents as rigor.** *Labeling a guess does not stop the guess
+> being load-bearing.*
+
+# Step 4 — Write the phases
+
+**Phases 2–10, per `03`.** Fold the generators in as you write; do not bolt on a separate "substrate section."
+
+> ## ⛔⛔⛔ BEFORE WRITING EACH PHASE — **OPEN THAT PHASE'S `📂 MUST OPEN` BLOCK IN `03_The_Phase_Spine.md`**
+> **Added 2026-09-07 — `M-169`.** ***Every phase in `03` now carries its own required-canon list with absolute
+> addresses that resolve, sitting directly under its `Asks:` line.*** **Open them before writing, not after.**
+>
+> ### ⚠ WHY THIS IS A HARD REQUIREMENT AND NOT A REMINDER
+> **The obligation already existed** — `ULM_Input_Required_Reference.md` §G has always listed per-phase canon
+> targets. ⛔ ***It lived in a file the phase-writing procedure never told anyone to open, so it was
+> unreachable at the point of use*** *(`M-121`: "registered globally is not registered at the point of use")*.
+> **Measured 2026-09-07 on a live pass: `15` required sources unopened across ten phases, and `Phase 9` —
+> POPULATIONS — had opened NONE of its three robot-canon targets.**
+>
+> ### ⛔⛔ AND THE COST IS NOT A MISSING CITATION. **IT IS A CONFIDENT FALSE FINDING.**
+> **That pass's `Phase 9` headline read *"this is the one city where a robot can walk past the place she was
+> made"* — while `Robot_Universals` Ch. 14 states *"a robot's fabrication and her home city are, as a rule, the
+> same place."*** ***The claim was true almost everywhere, so it was not the location's distinction at all.***
+> **It passed the spelling sweep, the table check, the cross-city sweep, the quotation audit, the dual-tag
+> diagnostic AND the swap test.** ⛔ ***Nothing except opening the source could have caught it.***
+>
+> ✅ **A phase that finds a required source empty, withheld or non-applicable RECORDS THAT** — *an opened-and-empty
+> source is a result; an unopened one is a hole.* ⚠ **`Phase 3`'s physical-infrastructure row is a live example:
+> it addresses `City_Megasheets/`, which the standing facts WITHHOLD. Record the conflict; do not open it.**
+
+Standing reminders, all of which have their own recorded failure behind them:
+- **Formalize before inventing.** **Check canon before deriving anything structural** — ⭐ **and `03`'s `📂 MUST OPEN` block is WHICH canon, with addresses.**
+- **Name the axis, in bold, before writing the content** — and check it against the differentiation instrument.
+- **A null is a result**, but distinguish *covered in substance, absent in form* from *absent and unexplained*.
+- **General-population discipline throughout.** **Shadow proportion throughout.**
+- **Phase 5 is mandatory and is written mid-spine specifically so it cannot be dropped.**
+- **Push every finding to a physical or behavioral expression.** The violation is usually the gameplay.
+
+> ### ⛔⛔⛔ BINDING — **`T1`–`T8` RUN ON EVERY STEP, EVERY PHASE, EVERY CITY.** ***Developer ruling, 2026-09-11.***
+>
+> > **Developer, verbatim:** ***"Not just on Davis. Every step, every phase, for EVERY CITY. That's why it's
+> > IN THE TEMPLATE."***
+>
+> ⛔⛔ **THIS SUPERSEDES the earlier "on trial, not binding" standing, and it supersedes
+> `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.3's "never auto-invoked" clause.** **`T8` is NOT opt-in, NOT
+> per-invocation, and NOT something a pass waits to be asked for.** ***A step or phase that runs without it has
+> not been run.***
+>
+> | | |
+> |---|---|
+> | ⭐⭐ **`T8` — three-subagent read consensus** | **`Tools/triple_read_verify.py`.** *Three independent readers per step/phase, each emitting a `PROOF:` block; mechanical ground-truth check; then agent-to-agent cross-check. **Write only on UNANIMOUS.*** **23 commands are written into the template — 12 steps, 11 phases** *(Step 4 routes to its phases rather than dispatching)* |
+> | ⭐ **`T8_Standing_Brief_Lines.md`** *(2026-10-21)* | **The nine lines every three-reader brief and its record must carry** (PROOF fields by hand, admitted spans, the one graphify ground, source pointers, forbidden names in positional lines, excerpted-output labels, generated entry ranges, DOUBLE-CHECK last, saved Round 3 replies), plus the post-write check commands as the tools now work |
+| **Part V** — `Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close. ⭐ *(2026-10-21: `--step N` / `--phase N` / `--files` / `--all` required; `--own-pass` optional.)* |
+> | **Part V.2** — `Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
+> | **`Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
+> | ⭐ **The `T8` WRITE is a MERGE, not a pick** *(developer, 2026-09-28, `M-246`)* | **Contradiction → the most conservative current view, split named in the row** *(population-origin material → DEMOTED, never EXCLUDED — §C.9c, "a pass that refuses all ethnic material")*. **No contradiction → UNION: every single-reader find is written and credited to its finder.** Full statement: `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 |
+>
+> ### ⚠ STILL MEASURED, NO LONGER OPTIONAL — the two are not the same thing
+> **The falsification conditions in `04` Parts V/V.2 and §N.5 REMAIN IN FORCE and must still be recorded.**
+> ***Mandatory and unproven are compatible states:*** **`T8` has never been run and therefore has no baseline
+> at all** — **so the first invocations are simultaneously the procedure AND its own trial.** ⛔ **A run that
+> reports T8 "not invoked" is now a defect, not a data point.**
+>
+> ⛔ **`Zhongshan_Opus` remains the frozen baseline and must NOT be corrected; `Zhongshan_Sonnet` remains a held
+> control and must NOT run any `T`-instrument.** *Those two guards survive the ruling — they protect
+> measurements already taken.*
+
+> ## ⛔⛔⛔ CLOSE-OUT CHECK — **RUN BEFORE STEP 4 IS DECLARED DONE. `§C.8c-i`, `M-208`.**
+> **The `MUST OPEN` blocks are checked per phase, as you write it. Nothing checks the whole step.** ***A
+> generator can be live in every phase and absent from every receipt, and nothing in the per-phase discipline
+> above will ever notice — that is exactly the G1 failure `§C.8c-i` records.*** **This is the check that
+> catches it, run once, after Phase 10, before moving to Step 5.**
+>
+> ```bash
+> # Run from the repo root, against the pass's own folder.
+> # Every G1-G8 must appear in at least one phase's "Generators used" line, OR be
+> # explicitly recorded as never demoted / not applicable at Step -1.
+> PASS_DIR="City_Development_Passes/<Subnet>/<City>"
+> for g in G1 G2 G3 G4 G5 G6 G7 G8; do
+>   hits=$(grep -l "Generators used:.*$g\b" "$PASS_DIR"/04_Phase_*.md 2>/dev/null | wc -l)
+>   printf '%-4s %s\n' "$g" "$([ "$hits" -gt 0 ] && echo "OK — cited in $hits phase(s)" || echo "⛔ NEVER CITED")"
+> done
+> ```
+>
+> **A `⛔ NEVER CITED` row is not automatically a hole** — Step −1 may have ruled a generator genuinely thin or
+> not applicable for this location type, and that is a legitimate result. ***But the row means someone has to
+> go check, by hand, which of the two it is*** — the same way an unopened `MUST OPEN` source means someone has
+> to go check whether it was correctly refused or simply missed. **A pass may not proceed to Step 5 with a
+> `⛔ NEVER CITED` row that nobody has looked at and explained.**
+>
+> **Where a row fires legitimately:** write the disposition into `09.5_Log.md` once — *"`G1` never cited:
+> `Planetary_Symbols.md`/`Robot_Elementals.md` member terms opened and found [uncharacteristic / duplicative
+> of Phase N / genuinely thin] — see [phase]"* — so the check passes clean on any future re-run without
+> re-litigating the question.
+
+# Step 5 — Reconciliation *(and the CLOSE pass)*
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`02_Generators_Capability_and_Symbols.md` §5.3** — the both-are-true test, restated below. **Open it
+>   rather than the paraphrase**: it names the specific scales to check (public/private, mainstream/counter-
+>   culture, generational, legal-vs-narrative) before concluding a contradiction is a real one.
+> - **`05_The_Input_Contract.md` §6.1** — the circularity rule this step's canon-ranking table sits inside.
+>   **§6.3 specifically** — ratification is a separate axis from circularity, and a source can pass one and
+>   fail the other (a genuinely upstream file that is nonetheless an unratified *suggestion*, not canon).
+> - **`04_QA_Gates_and_Differentiation.md`, the note under Gate 6** — the both-are-true test also governs a
+>   cold pass's finding against opened canon at Step 7, not only generator-vs-generator conflict here.
+
+> ### ⚠ This step is also where deferred complete-file checks close. `03` §0.4.
+>
+> **Draft order is not close order.** Phases are *written* 0 → 10, but a few checks are only meaningful against
+> a **finished** file and cannot run inside the phase that owns them. **A phase that defers such a check is
+> complete, not blocked** — it must never be held open "pending Phase Y" where Y comes later. **Work the
+> close-pass docket at `03` §0.4 here**, and fold in any Zodiac Lens person-shaped results as explicit
+> amendments to Phase 9. *(Added 2026-08-31, after Runs 6 and 7 were found generating false forward
+> dependencies that this file never actually stated.)*
+
+**Expect contradictions between generators, and between a generator and canon, to resolve both-are-true**
+(`02` §5.3, opened above). The recurring shape: **one property producing two opposite effects on two different
+objects, or at two different scales.** Do not ask which is true — ask **what single property would produce
+both**, then check whether the two claims are about different objects.
+
+**Canon outranks a generator** (`05` §6.1, opened above). State the contradiction and the reconciliation in the
+text; do not silently pick one. **Where it genuinely cannot be reconciled, flag it open.**
+
+> # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS FOUR TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
+> > ***"Anywhere that the ULM derived answers that are different from what's currently listed in the
+> > datasheets, it is entirely possible that the new results may be valid, and the older, previous results may
+> > be invalid. **That's a major reason why I created the ULM — to be able to produce accurate results.** So
+> > don't throw anything away from the ULM results, because that data will have a lot of supported validity."***
+>
+> | Tier | What it is | vs a ULM finding |
+> |---|---|---|
+> | ⭐⭐ **1 · HARD CANON** | **developer rulings · census arithmetic · `locked-canon` files · a spec's explicit `CANON NOTE` · founding instruments · the Acts** | ✅ **OUTRANKS.** *A pass does not overturn these* |
+> | ⭐⭐⭐ **2 · AUTHORIAL VISION** | **"Vision session" material.** *Developer, 2026-09-06:* ***"literally my own personal mental visions that I see in my head when I picture being in these locations… perhaps may not literally BE canon, but they absolutely are a BASIS OF canon"*** | ⛔⛔ **NOT DERIVED — it is PRIMARY, and UPSTREAM of canon.** ***A pass cannot out-reason it, because it is not a reasoning product.*** ⭐ **The ULM's job is to find the MECHANISM that produces it** |
+> | ⚠ **3 · DERIVED DATASHEETS** | **Cultural Spec Sheets' own inferences · extrapolations · Megasheets · tier tables · any characterization an earlier instrument reached** | ⛔ **DOES NOT AUTOMATICALLY OUTRANK.** ***The ULM is the better instrument, and where they conflict the ULM result may simply be the correct one*** |
+> | ⛔⛔⛔ **4 · TEST RUNS** | **`Test_Runs/` — every run.** *Developer, 2026-09-06:* ***"those are only to be used as references for possible ideas… I was testing the methodology before committing to using it for the final results"*** | ⛔⛔⛔ **CLOSED DURING THE ULM. See the ruling immediately below — this row was WEAKER than the law and is superseded** |
+
+> ## ⛔⛔⛔ STRENGTHENED 2026-09-07 — **ZERO INTAKE. NOT "REFERENCE-ONLY."**
+>
+> **Developer, 2026-09-07, twice in one session:**
+> > ***"All those 'test runs' are strictly for testing purposes only. If necessary, we can draw data from them **after** the entire ULM is complete, but **don't** intake data from any of those test runs, because I was just testing the ULM to make sure that the methodology works properly."***
+> > ***"During the process of the ULM, while the methodology is in progress, don't absorb any data from any of the test runs. Those are for future reference later on, afterwards."***
+>
+> ⛔ **The old wording — *"may suggest an idea"* — permitted intake at low weight. IT IS WITHDRAWN.**
+> ***A test run's location content is CLOSED for the whole duration of the ULM, corpus-wide.*** **Not
+> down-weighted, not corroboration-tier, not "a possible idea." Closed.**
+>
+> | ⛔ CLOSED during the ULM | ✅ Still open, and unaffected |
+> |---|---|
+> | **Any location CONTENT a test run produced** — findings, figures, phases, gates, panels, catalogs, zodiac results, verdicts | ⭐⭐ **METHODOLOGY findings — the `M-` series.** *That is what the test runs were FOR, and the instrument is built from them* |
+> | *Its conclusions about the city it ran on* | **The run's own record of what the INSTRUMENT did** — which gate fired, which step stalled, what the procedure got wrong |
+>
+> ### ⭐ THE DISTINCTION, STATED SO NEITHER HALF IS LOST
+> ***A test run is evidence about the METHOD, never evidence about the PLACE.*** **Reading "Gate 6 fired and
+> found a collision" is reading the instrument. Reading *what* the collision was is reading the place.**
+>
+> ### ⏸️ REOPENS **PER CITY**, once THAT city's own ULM pass is complete — *clarified 2026-09-07*
+> > ***"The results of the test runs may suggest ideas for some particular city **after** the ULM for that particular city has been completed."***
+>
+> ⭐ **So the gate is per-location, not corpus-wide.** ⛔ **CLOSED for the whole duration of that city's own
+> pass — Step −1 through Step 10.** ✅ **Once the pass is closed, that city's test-run material may SUGGEST
+> IDEAS for that city.** *(An earlier draft of this section read "after the WHOLE ULM." That was stricter than
+> the ruling and is corrected.)*
+> ⚠ **The order is the whole point:** ***the independent derivation must exist first.*** **A suggestion
+> entertained afterward is compared against a finished pass; the same suggestion entertained during it becomes
+> the pass.**
+
+> ### ⭐⭐ AND THE EXCEPTION THAT IS NOT AN EXCEPTION — **PROMOTION LAUNDERS PROVENANCE**
+> ⛔ **The ban covers test-run FILES. It does not cover a fact the developer has RATIFIED INTO CANON.**
+> **Where a test-run finding has been developer-named and written into a `Specs/` file, a canon reference or a
+> ruling, ***it is canon now*** — read it from the canon source, at that source's tier, exactly as any other
+> canon.** ⚠ **The `Test_Runs/` file it came from stays closed; the ratified fact does not.**
+>
+> ### ⛔ HOW TO TELL, AND IT IS ONE QUESTION
+> ***Is this fact sitting in a canon file, or am I reading it out of `Test_Runs/`?***
+> ✅ **In the `Specs/`, with a promotion note** → **canon. Cite the SPEC, never the run.**
+> ⛔ **Only in `Test_Runs/`** → **closed for this pass, whatever its quality.**
+> ⚠ **Never cite the run as the source for a promoted fact** — *the citation is what would reopen the file.*
+>
+> ### ⚠⚠ AND THIS BINDS HARDEST WHERE THE TEMPTATION IS BIGGEST
+> **The largest test-run corpus in the project is one city's, at 19 files and ~3,100 lines** — *a full cold
+> pass with phases, gates, a Review Panel, a twelve-sign Zodiac Lens and a 216-cell cross-check.*
+> ⛔ ***That is precisely the pile a warm pass on the same city would most want to open, and precisely the
+> pile this ruling closes.*** **A warm pass re-derives it from canon, or it does not have it.**
+>
+> ### ⭐⭐⭐ TIER 2 IS THE ONE MOST EASILY MIS-FILED — **and mis-filing it costs the pass**
+> ***Vision material looks like a conclusion and is not one.*** **It is the author reporting what the place is
+> like, which is the thing the whole methodology exists to serve.** ⛔ **A pass that tags it "conclusion-tier"
+> and then HEDGES findings that rest on it has discounted its own best input.**
+> ⭐ **The contamination concern is separate and stays:** *reading vision material out of order can steer a
+> derivation, and that is worth tagging.* ⚠ ***But the tag records a READING-ORDER problem, never a CONFIDENCE
+> one.*** **Keep the tag; drop the hedge.**
+>
+> ## ⛔⛔ **THE FAILURE THIS PREVENTS, AND IT WAS MEASURED THE DAY THE RULE WAS WRITTEN**
+> **Shirayuki's Step 5 opened a Cultural Spec Sheet, found six real conflicts, and CONCEDED one of them —
+> re-tiering a live, five-canon-fact finding to an "operational form" of a weaker asserted one — purely on the
+> phrase *"canon outranks."*** ⭐ ***The datasheet in question declared no `locked-canon` banner, carried two
+> placeholders, and had already been self-corrected five times.*** **It was prior derivation, not settled canon.**
+>
+> ### ⭐ HOW TO TELL WHICH TIER A SOURCE IS IN — cheap, and it works
+> **Read its own header and its own edit history.** *A `locked-canon` banner · a developer ruling cited inline ·
+> arithmetic from the census. Against: `(placeholder name)` · `TBD` · dated self-corrections · "vision session"
+> attributions · figures that predate a later ruling.* ⚠ **A file that has been repeatedly corrected is a file
+> that is still being derived.**
+>
+> ### ✅ THE OUTPUT FORM WHEN THE PASS IS RIGHT
+> ⛔ **Not a concession, and not a silent overwrite.** ⭐ ***A PROPOSED-CORRECTION DOCKET*** — **one row per
+> conflict: the datasheet section, the proposed change, and a confidence.** **Proposed, never applied: the
+> datasheet belongs to the developer.**
+> ⭐⭐ **And the pass's own finding STAYS AT FULL STRENGTH in the pass's files.** ***Nothing derived is discarded
+> to make room for an older answer.***
+
+> ### The strongest-finding check — run it here, retrospectively
+>
+> **Ask: *which finding in this pass is the strongest, and what does it rest on?***
+>
+> **`01` §5.2 rule 4 forbids building a location's single strongest finding on a provisional assumption about
+> an unwritten parent.** That rule is easy to obey while writing a weak finding and hard to obey when the
+> strong one arrives — **because you do not know which finding is strongest until the pass is nearly done.**
+> Stated at declaration time it is advice; **stated here it is checkable.**
+>
+> *(Tri-Cities, 2026-08-30: the run's best finding — that a city is replaceable because the thing the parent
+> actually needs is a design owned elsewhere — rested entirely on an assumption about a Band-6 parent that has
+> never been written. Caught only because the question was asked at the end.)*
+
+**Translation discipline:** the generator's vocabulary never appears in the location's own claims. Bracketed
+citations only. **Sweep with word boundaries on every alternative and inspect every hit.**
+
+# Step 6 — Differentiate — ⭐ **WRITE-ONLY, as of 2026-09-06**
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument)** — the governing file
+>   for this whole step. **III.0** (a differentiation instrument only works if findings actually reach it —
+>   the measured case is a symbol collision noticed once and never propagated) · **III.4** (the no-sibling
+>   substitutes, run for every location as of the ruling below) · **III.2/III.3** (now terminal-only, per the
+>   table below — read them to know what is *not* run in-run, not only what is).
+
+> ### ⛔⛔⛔ THE STEP DID NOT DISAPPEAR. **ITS DIRECTION REVERSED.**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+>
+> | ⛔ Was | ⭐ Now |
+> |---|---|
+> | *Read the relevant rows **before** writing each category* | ⛔ **Do not read any other location's row. Ever.** |
+> | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
+> | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
+> | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
+> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN COLUMN, same commit** *(Step 9.2, unchanged)* |
+>
+> ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.
+> **See `00_RUNBOOK.md` → THE LAW OF ONE LOCATION.** ⚠ **District passes are out of scope and keep
+> read-before-write.**
+
+> ### ⭐ THE ADDRESSES — added 2026-09-04, because this instrument had none for cities
+> | Set | File |
+> |---|---|
+> | ⭐ **The 37 cities** | **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Cross_City_Culture_Differentiation_Table.md`** *(created 2026-09-04 — the cities had NO Part III instrument until then; only the districts did)* |
+> | The 13 districts | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Cross_District_Differentiation_Table.md` |
+> | ⚠ **NOT this instrument** | `…/Cities/Division_of_Industry/02_Cross_City_Industry_Differentiation_Table.md` — **a different guard for a different pass** *(the necessary-industries bulk run)*. **Both exist; neither replaces the other** |
+>
+> ⛔ **CELLS HOLD THE AXIS, NEVER THE CONTENT.** *"Different content is not differentiation; a different
+> question is."*
+> ⚠ **The table is FILLED DURING synthesis, not before it.** ***It is not a prerequisite and its emptiness is
+> not a gap*** — it contributes nothing to the first city and everything to the thirty-seventh.
+
+# Step 7 — QA
+
+`04` Parts I–II. Gates 0–11 carried, plus **C** (canon check, federated) · **F** (frame integrity) · **I** (inheritance classification) ·
+**P** (parent reconciliation, on parent passes) · **G** (generator honesty).
+
+**Paste raw scan output. Verify the instrument before trusting any zero. Report what Gate 11 cleared as well as
+what it flagged.**
+
+> ### ⚠ Verification is not only about zeros — the dangerous case is a plausible number
+>
+> **Broadened 2026-08-30 after a measured failure.** A census parse indexed the wrong column and reported
+> **robot-only** retention as though it were combined. **It did not error.** It returned 33 plausible rows, a
+> sensible mean, and a sensible spread — **all wrong.** A zero invites suspicion; *a plausible number does
+> not.*
+>
+> **So:**
+> 1. **Before trusting any computed figure, hand-check ONE row against the source.** Print the row, count the
+>    columns, compare the number to the file. **Do this for plausible results especially.**
+> 2. **Verify by spot-check, not by re-reading the logic.** The wrong column survived four readings of the
+>    code and died instantly to one printed row.
+>
+> ### ⛔⛔ SCORING AGAINST THE FULL SET IS **TERMINAL, NOT IN-RUN** — ruled 2026-09-06
+>
+> ***The instruction here used to read: "report the z-score, not the difference."*** ⛔ **REVOKED for every
+> ULM / CST / RWBEM per-location pass.** **A z-score is a rank; a rank is a comparison; no city is ever
+> compared to any other city.** ⭐ **In-run, report THIS location's own figure and hand-check it (items 1–2
+> above, which are untouched and remain mandatory).**
+>
+> ⏸️ **Kept for the terminal check, where it is correct and load-bearing:** *a difference between two or three
+> locations means nothing until you know how much locations differ in general.* *(Tri-Cities: a
+> human-vs-robot retention gap looked like an excellent finding across three cities; scored against all 33 it
+> sat at z = ±0.4 and was discarded. The combined-retention finding survived at z = −1.26 and z = +1.41.)*
+>
+> ### ⭐ AND NOTE WHAT THE OLD RULE WAS ACTUALLY PROTECTING AGAINST — **the protection is still needed**
+> **It was guarding against *a small-set difference read as meaningful*.** ⭐ **Under the law, the pass no
+> longer HAS a small set — so the failure mode it guarded against cannot occur, and the guard is not lost, it
+> is unnecessary.** ⚠ **What replaces it in-run is the honest form of the same discipline:** ***do not dress a
+> bare number as a finding.*** **A percentage is a fact; what it means for this place is the finding, and
+> writing the second is the work.**
+
+# Step 8 — The Review Panel
+
+`Disciplines/00f_Review_Panel.md` *(the ULM copy)*, carried unchanged; only the casting changes. Six Flat Archetypes plus the mandatory
+**Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
+
+**Six dispositions:** accepted · noted · rejected · refereed · **unmet** · **declined.** *(Corrected 2026-09-28 — this
+line read "Five" and omitted `declined`; `Disciplines/00f_Review_Panel.md` L746 and `CLAUDE.md` both carry six.
+Found reading the runbook in full at Mirny's Step −1.)*
+
+**The test that keeps this from homogenizing a whole set** — ⭐ **restated 2026-09-06 in its peer-free form,
+because the old wording required reading a sibling:**
+
+| | |
+|---|---|
+| ⛔ **Was** | *"Would satisfying this objection make the location more like its siblings?"* — **unrunnable in-run; it needs the sibling set** |
+| ⭐ **Now** | ***"Would satisfying this objection replace something SPECIFIC TO THIS PLACE with something that could be true anywhere?"*** |
+
+**If yes, it is `unmet`, and the refusal is written as characterization rather than as a gap to close.**
+
+> ⭐⭐ **The new form is strictly stronger, not a weakened stand-in.** *"More like its siblings" catches only
+> collisions with the cities that happen to be finished already.* ***"Could be true anywhere" catches
+> genericness itself*** — **including the generic answer no sibling has written down yet**, which is the one a
+> sibling-based test can never see coming.
+
+# Step 9 — Record
+
+1. Append the **QA block** and the **Review Panel block**.
+2. **Confirm the location's own ENTRY in its differentiation set is written and in the same commit.**
+   ⭐ *(Reconciled 2026-10-21, Mirny handoff decision 13, group C; `M-298`.)* **The entry is WRITTEN at Step 6, on
+   the UNANIMOUS verdict, as the Pre-Trip's Step 6 row says; Step 9 CONFIRMS it is present and commits it in the
+   same commit as the Step 9 record.** *Name it by the table's own shape: the CITY table holds one ROW per city
+   (`Cross_City_Culture_Differentiation_Table.md`); the DISTRICT table holds one COLUMN per district. Never mix the
+   two words inside one table. A city pass writes only its own row and never reads another's.* *(Correction, same
+   day: the first wording of this item called the city's entry a "column"; the city table's rows are cities.)* **Cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md`** *(full path in Step 6)*.
+   **Districts → `Cross_District_Differentiation_Table.md`.** ***One AXIS per cell, never the content.***
+   ⚠ **And if this pass noticed anything about ANOTHER city, record that here too** — `04` III.0:
+   ***propagation is part of the finding, not a follow-up.*** *(A symbol collision was once noticed correctly,
+   filed in one city's own culture file, and never reached the guide whose entire job was catching it.)*
+3. Update whatever tracker claims completion — **per Gate 0, list what the file actually contains, not a summary
+   claim.** ⭐ *(Added 2026-10-21, `M-287`.)* **A city's tracker row carries each phase's status, PROPOSED or
+   confirmed, in the same one line, so an overclaim cannot hide behind "Step 4 done."**
+   > ### ⛔ **BUT PUT THE FINDING IN THE OBSERVATIONS LOG, NOT IN THE TRACKER.** *(M-109.)*
+   > **Gate 0's concern is OVERCLAIMING COMPLETION. It is not a license to write substance into a queue.**
+   > ***A tracker entry is: what remains to be done, one line, plus a pointer to where the detail lives.***
+   > **The finding itself goes to `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` and nowhere else.**
+   > **If you have written more than ~3 lines into a tracker, you are writing in the wrong file.**
+4. **If this pass changed the methodology, update these files in the same commit**, and record **what was
+   learned and on which location.** A methodology change that does not update the runbook has not been made —
+   the next pass will follow the runbook, not the commit message.
+5. ⭐ **Discharge every deferral to "the pass's close."** *(Added 2026-10-21, `M-291`; Mirny's Phase 2 snag 1 and
+   Phase 3 snag 12 deferred a sweep of line-anchored citations to the close, and no step listed it.)* **Run the
+   stale-anchor and span sweep over the pass's own files: every citation by line number or span is re-checked
+   against the file as it now stands, because edits shift lines.** Record what moved. This step discharges any
+   phase's "sweep at the close" deferral; a deferral that no step names is a hole.
+
+## 9.5 — THE RECORDING LAW: log everything that happened, not everything that worked
+
+**Developer instruction, 2026-08-30 (Run 3, Zhongshan), stated twice in one session. Binding on every pass, not
+only on test runs.** The shared log is
+**`Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`**, which carries the full statement.
+
+> **Record every finding — and "finding" does not mean "successful technique."** It means, in the developer's
+> own enumeration: **ways of achieving results, snags, problems, unintended blockages, etc., etc., etc.**
+
+**What that covers in practice:**
+
+- **Techniques that worked** — and *why* they worked, not merely that they did.
+- **Snags** — anything that slowed the pass, however trivial-seeming.
+- **Problems and unintended blockages** — a step that could not be run, and **what stopped it.**
+- **Contradictions between two instructions inside this methodology.** *(Run 3 found three.)*
+- **Dead ends**, and the exact point at which each died.
+- **Killed findings** — an attractive result destroyed by its own evidence. ***The most valuable entries in the
+  file.*** Run 1's best moment was a finding killed by its own arithmetic; Run 3's was the same.
+- **Self-corrections** — written as *what you believed · why it was wrong · what changed it.*
+- **Environmental and tooling obstacles** — a hook, a stale index, a missing file, a `CLAUDE.md` rule that
+  conflicts with a rule in here.
+- **Anything merely unclear**, even where the guess turned out right.
+
+**Three procedural rules, each already violated at least once:**
+
+1. **Write it when it happens.** Precision decays; a snag logged hours later has lost the file, the wording, and
+   the reason it mattered.
+2. **Log the failure even when you routed around it.** **Solving a problem privately is how a methodology stays
+   broken.**
+3. **Never compress a negative result into a positive one.** *"Checked the census, all fine"* destroys what
+   *"the parse read the wrong column and returned plausible numbers; only a printed row caught it"* preserves.
+
+**Number entries `M-n` continuously across all runs; never restart per run** — recurrence across runs is much
+stronger evidence than a single sighting, and only continuous numbering makes it visible.
+
+> **The location is the whetstone; the methodology is the deliverable.** **A pass that produces a beautiful
+> location and a thin observations log has failed at the thing it was for.**
+
+---
+
+# Step 10 — THE READINESS CHECK
+
+**Standing step, added 2026-08-30 at the developer's direction. Run it before declaring a pass complete and
+before handing off to another session.**
+
+> ## The governing principle: **VERIFY, DO NOT ASSERT.**
+>
+> ***"Everything is ready"* is a claim, and it requires evidence like any other.** The check exists because a
+> handoff feels finished long before it is, and because **the person best placed to declare readiness is the
+> one who can no longer see what they have absorbed.**
+>
+> **On its first use it caught the single largest hole in the anti-contamination protocol** — see below. **It
+> is not a formality.**
+
+## 10.1 Contamination surface — the half that has actually caught something
+
+**Run these against the NEXT pass's subject location, not this one's.**
+
+1. **⚠ Scan auto-loaded memory for the subject location.** *(The check that found M-21.)* Every hit must be
+   **attribute-only** — founding, dates, names, census, corrections, open questions — **or carry a
+   contamination banner.** **An entry stating the place's character, temperament, personality triple, or a
+   signature phrase is a live vector**, because memory is *pushed* into a session rather than pulled by it.
+   **Fix the entry or band it. Nothing else will.**
+   > **⚠ Corrected 2026-09-02, Run 12.** This item used to call memory *"the only vector no do-not-open list
+   > can intercept."* **That was wrong, and the error was load-bearing** — it implied the surface was closed
+   > once memory was checked. **There are at least three**: memory, **the required reading itself** (1a), and
+   > **filenames** (1b). **All three are pushed rather than pulled, and Run 12 was burned by all three at
+   > once.**
+
+   **1a. ⚠ Scan the REQUIRED READING for the next subject's name** — `00`–`06`, `README`, and **everything in
+   `Disciplines/`** *(the ULM's own copies — the originals are withheld, not read)*.
+   **Return line numbers, band or neutralize every hit, and manifest it in
+   `06`.** **`CLAUDE.md` mandates these files be read in full, so a worked example naming the next subject is
+   a guaranteed leak with a mandatory delivery mechanism.** ***This has now failed three times — M-82 (Sanay),
+   and twice more on Run 12*** — **which is why Step −2 has a reader scan them rather than trusting `06`.**
+
+   **1b. ⚠ Sanitize the file tree.** **Check whether any file or folder the next run must navigate is
+   *titled* with a claim about the location.** **If so, the handoff carries sanitized paths** — directory,
+   file count, line counts — **never the filenames.** *(Vector 3, Run 12: eleven filenames, each a
+   thesis, delivered by a single mandated `ls`.)*
+
+   **1c. ⚠⚠ GREP YOUR OWN NEW PROSE FOR THE SUBJECT'S NAME, BEFORE COMMITTING.** **For every hit ask: does
+   this state the leak's SHAPE, or its CONTENT?** ***Shape is the lesson. Content is the leak.***
+   **"Eleven titles, four naming civic facts" teaches everything; the four facts teach nothing and
+   contaminate.** *(M-97 — the rule against vector 1 recreated vector 1, inside the section documenting vector
+   1, in the same session that fixed it. **No gate caught it.** It surfaced only because the developer asked
+   the session to account for its own exposure.)*
+   > **Why this needs to be mechanical rather than an exhortation:** ***a rule that leaks is more persuasive
+   > than one that does not, because it shows its evidence.*** **The incentive runs toward contamination.**
+
+2. **Update `06_Worked_Example_Provenance.md` with any worked examples this pass added to the methodology.**
+   An unmanifested example is invisible contamination for the next same-location run.
+3. **Confirm the quarantine list was built by RULE, not by recall** — `05` §6.1's content split applied section
+   by section. **A list assembled from memory is written by the one person who has already read everything.**
+4. **Open the header of every file on the admissible list and check its own cited sources.** A file that cites
+   a withheld document is downstream of it, whatever its filename says. **Seconds per file, and it would have
+   caught both of Run 3's contamination events.**
+5. **Confirm any corpus-wide retrieval layer is flagged as unusable** — a graph, an embedding index, a
+   full-text search cannot honor a quarantine, because quarantine is provenance and retrieval is content.
+
+## 10.2 Path and structure integrity
+
+6. **Every path named in the handoff exists** — admissible and withheld alike. A withheld path that has moved
+   is a quarantine hole.
+7. **The next run's OUTPUT files do NOT already exist.** A pass creates its own output (`00_Frame.md`, `01`…`10`
+   and their round records). ⭐ **Scaffolding MAY be pre-seeded** *(2026-10-21, developer-approved at the Mirny Step 10
+   review; `M-299`)*: the Pre-Trip sheet, the Position-Coverage ledger, `README.md` and the `Datasheets/` set are
+   inputs, not output, and a warm run needs them. ⛔ **For a COLD run the folder's contents are still a contamination
+   surface** (leak-register row 5, filenames as theses; Step −2 sanitized paths), so a cold run delegates the listing
+   and reads only the sanitized form. A pre-seeded folder that holds *output* is still a contamination risk and a
+   status lie.
+8. **The shared observations file sits OUTSIDE every quarantined folder**, or the next run cannot write to it
+   without breaking its own quarantine *(M-0)*.
+
+## 10.3 Record integrity
+
+9. **Run Gate 0 outward:** does every tracker's completion claim match what the files actually contain?
+   **List what the file contains, never a summary claim.**
+10. **Confirm findings were IMPLEMENTED, not merely recorded.** A finding logged in the observations file and
+    absent from the rule it should have changed has not been made — **the next pass follows the rules, not the
+    log.**
+11. **Check the handoff states what the next run CANNOT prove**, as well as what it can. A run whose limits are
+    undeclared will be over-read.
+
+## What it caught the first time it was run
+
+**Asked whether a handoff was ready, the honest response was to check rather than answer — and the check found
+that a memory entry recording an analytical *technique* had inlined its own per-city results**, including a
+withheld personality read and a quarantined axis phrase, verbatim, in the auto-loaded index. **Ten further
+entries carried conclusion vocabulary about the same cluster.**
+
+> **The declaration "everything is prepared" would have been wrong, and the cold run it authorized would have
+> produced a confident, coherent, contaminated result — precisely the failure the protocol exists to prevent.**
+
+---
+
+# Where everything lives
+
+| File | What it is |
+|---|---|
+| **`00_RUNBOOK.md`** | **this file — the procedure** |
+| `README.md` | scope, status, and the four findings that forced the generalization |
+| `01_Frame_Typology_and_Inheritance.md` | types, bands, status, frame, nesting, the declaration block |
+| `02_Generators_Capability_and_Symbols.md` | the generator stack, the four-quadrant frame, shapes, open symbol binding |
+| `03_The_Phase_Spine.md` | the eleven phases |
+| `04_QA_Gates_and_Differentiation.md` | gates 0–11 + C/F/I/P/G, and the differentiation instrument |
+| `05_The_Input_Contract.md` | **the boundary — PROVIDED / RESERVED / PRODUCED / REQUESTED, and the pre-flight checklist** |
+| ⭐⭐ **`Run_Modes_Warm_and_Cold.md`** | **added 2026-09-04, developer ruling — THE TWO RUN MODES, defined.** ***Read this BEFORE `Step −1` of any pass, because it decides which input set is admissible.*** **WARM = everything about this city open in the mandated read order, every OTHER city's conclusions closed until Step 6; the memory blackout, reader briefs, pre-contamination review and pins are NOT required. COLD = the full quarantine.** ⛔ **The one rule that never relaxes in either mode: THIS city's own culture material is read LAST, as a CHECK** *(`05` §6.1, Step 0.4 item 6)* — **in a cold run the quarantine enforces it; in a warm run nothing does.** ⛔ **There is no third mode** |
+| ⭐ **`ULM_Diagnosis_and_Accuracy_Approaches.md`** | **added 2026-09-04 — why the instrument appeared to work and then did not, what actually threatens the 37 cities, and 34 approaches for ensuring accurate results.** ⚠ **Its §1–4 are reproducible measurements; §5 onward is a view, and the file says so** |
+| ⭐ **`Stepwise_Execution/`** | **added 2026-09-03 — the ULM sliced into 29 invocable units** *(12 spine steps + 17 gates)*, **each an extract stamped with its source and line range.** **For step-at-a-time invocation instead of one large one.** ⛔ **Extracts, not authority — if a unit disagrees with its source, THE SOURCE WINS** |
+| ⭐ **`ULM_Input_Required_Reference.md`** | **added 2026-09-03 — EVERY input the methodology cannot produce, with a verified project ADDRESS and a MECHANICAL presence test per row.** *(Universal requirement, project address column. The bar against which the audit measures.)* |
+| ⭐ **`ULM_Input_Available_Audit.md`** | **added 2026-09-03 — the measurement: all 37 chartered cities checked against that bar, by subnet.** ⚠ **Carries a SCOPE-CORRECTIONS box; four fields were struck after measurement and its rows for them are stale by design** |
+| ⭐ **`Location_Data-Input_To-Do.md`** | **added 2026-09-03 — the actionable list, ranked by how many cities are missing each field**, with a stated tie-break per row, a `Removed` section *(do not re-add)*, and a blind-spot warning: ***when the count and the tier disagree, the tier wins*** |
+| **`06_Worked_Example_Provenance.md`** | ⚠ **CHECK THIS BEFORE THE MANDATORY READ.** Which rules in `00`–`05` and `00f` carry which location's answers as worked examples. **If your subject location is in the manifest, read those rules and skip their examples** — otherwise the required reading hands you your own prior conclusions. **And add your own examples to it in the same commit that adds them to a rule** |
+| ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md` **— ORIGINAL, `WITHHELD` from a cold run; read `Disciplines/` instead** | **the generative toolkit — sixteen techniques, already general-scope** |
+| ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the research method |
+| ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the panel, carried unchanged |
+| ⭐ **`Disciplines/`** | **THE ULM'S OWN COPIES of the five shared instruments** — `00b` · `00d` · `00f` · `Cultural_Synthesis_Techniques` · `Real-World_Basis_Extrapolation_Method`. **Read THESE during a cold run** — ⛔ *but in a
+ULM pass, only `00b` · `00d` · `00f`; the CST and RWBEM copies are not ULM inputs (`DR-14`, 2026-09-29)*. ***The originals are unchanged, authoritative, and `WITHHELD` until Step 7*** — they carry worked instances for ~14 locations, which is a vector-1 leak for whichever subject is next |
+| `.../00b_…` · `.../00d_…` | general population · shadow proportion — **originals**, binding, and the district methodology's own |
+| `.../00_RUNBOOK.md` | **the district procedure — the parent of this one, and still authoritative for districts** |

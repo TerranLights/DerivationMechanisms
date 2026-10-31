@@ -45,7 +45,7 @@ Near the end, typically after the third revelation (step 17) and just before the
 ## In the composite
 
 - **Not yet in the composite** under Truby's name; the gap analysis lists it as missing.
-- Related material in the master (`from CurrentNovelDocs/story-structure-definitions.md`): All Is Lost's "whiff of death" (Snyder), and the Mirror Moment's realization of possible death in its several forms (Bell, at the Midpoint).
+- Related material in the master (`story-structure-definitions.md`): All Is Lost's "whiff of death" (Snyder), and the Mirror Moment's realization of possible death in its several forms (Bell, at the Midpoint).
 - The author's arc template has no slot for it (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 
 ## The author's adjusted meaning

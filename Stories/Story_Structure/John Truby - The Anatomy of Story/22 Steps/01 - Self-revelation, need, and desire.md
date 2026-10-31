@@ -51,7 +51,7 @@ Step 1 has no position on the story's timeline. It is the first thing the writer
 ## In the composite
 
 - **Not yet in the composite** as a frame or step. The master has no step that joins self-revelation, need and desire.
-- The nearest wording is in the master's **Self-Revelation** section (`from CurrentNovelDocs/story-structure-definitions.md`), which calls the self-revelation the end point of the arc that the Need opens in Act 1.
+- The nearest wording is in the master's **Self-Revelation** section (`story-structure-definitions.md`), which calls the self-revelation the end point of the arc that the Need opens in Act 1.
 - "Initial error" does not appear anywhere in the master.
 - The author's character-sheet template (`CurrentNovelDocs/y-template/background notes/characters/doll.md`) has separate fields for Core Desire, Psychological Need, Moral Need, Goal (initial and later) and Self-Revelation.
 

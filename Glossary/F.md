@@ -698,7 +698,7 @@
 - **Definition:** Out of fiction: the calibration step that opens Stage 3 of the character pipeline: decide how much of the full character-data node set a given character warrants (for example whether she has drive or only drift) before filling anything in. Stage 4 pairs it with a front-gate sequencing trio, whose tools (the MICE Quotient, the character hierarchy) come from published craft books.
 - **Status:** project canon (part of the pipeline)
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; CurrentNovelDocs
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/03_Character_Data.md` (Step Zero); `04_Story_Material.md` (The Front-Gate / Sequencing Trio)
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/03_Character_Data.md` (Step Zero); `04_Story_Material.md` (The Front-Gate / Sequencing Trio)
 
 ### Frontier Hardened
 - **Category:** game term
@@ -786,7 +786,7 @@
 - **Definition:** The Tepenian robots' own laws, currently two and explicitly open to extension. Law 1, Maximizing One's Own Future Possibilities: a robot has the full capacity to make decisions that widen her own future options; Law 2, Reciprocal Vulnerability: a robot understands that anything she can do to others can realistically be done to her. Begun as a voluntary ethic among robot-loving humans in the First Interwar Period, they were hard-coded by robots after the exile into how robots build robots, as a civic safeguard rather than into any robot's mind, deliberately inverting Asimov's control-based laws.
 - **Status:** Timeline canon (provenance established 2026-08-06/07)
 - **Used in:** TepenianUniverseTimeline; InnerTepeniaGDD; DerivationMechanisms; CurrentNovelDocs; Hybrid-Anthro_Culture
-- **Sources:** TepenianUniverseTimeline `Reference/Laws_of_Robotics.md`; `to-be-integrated/laws_of_robotics.txt`; DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/01_The_Fundamental_Laws_of_Robotics/README.md`
+- **Sources:** TepenianUniverseTimeline `Reference/Laws_of_Robotics.md`; `to-be-integrated/laws_of_robotics.txt`; DerivationMechanisms `Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/01_The_Fundamental_Laws_of_Robotics/README.md`
 - **Open:** Whether robots have an in-world name for the system is open.
 
 ### Fundamentality bands

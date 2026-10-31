@@ -25,7 +25,7 @@
 - **Definition:** Out of fiction. A deliberately light alternative to the character pipeline for standing up hundreds or thousands of minor characters: copy a folder template, fill in a seed template (TBD is a valid answer), and transfer each seed field straight into the profile with no inference.
 - **Status:** project canon.
 - **Used in:** TepenianUniverseTimeline; DerivationMechanisms; InnerTepeniaGDD.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Rapid_Intake/seed-to-README-process.md`; `seed-template-init.txt`; `z-template/`.
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Rapid_Intake/seed-to-README-process.md`; `seed-template-init.txt`; `Characters/Character_Development_Methodology/Templates/Character_Folder_General/`.
 
 ### Rastra
 - **Category:** technology
@@ -474,7 +474,7 @@
 - **Definition:** Tepenia's symbolic set of eight elements: Earth, Air, Fire, Water, Wood and Metal (names from the Greek and Chinese systems) plus two robot elements, Electricity and Magnetism. Each meaning is built from a real physical fact, with no traditional correspondence; each element is paired with a planet and assigned to cities, forming the other half of each outer city's Planet + Element pair.
 - **Status:** project canon for the framework and for the two developer-authored robot elements. Working for the six traditional elements: DR-1 (2026-09-13) pulled their meanings back from canon for review, and they were rebuilt from physics on 2026-09-21.
 - **Used in:** InnerTepeniaGDD (City Symbolic Substrate; local robot culture; city passes); CurrentNovelDocs (Robot Fundamental Concepts); DerivationMechanisms; Hybrid-Anthro_Culture.
-- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md`; `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (DR-1); DerivationMechanisms `Data_Reference/Symbolism/Robot-Elementals/from InnerTepeniaGDD/Robot_Elementals.md`.
+- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md`; `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (DR-1); DerivationMechanisms `Data_Reference/Symbolism/Robot-Elementals/Robot_Elementals.md`.
 - **Open:**
   - **Magnetism or Electromagnetism.** The elements file says Magnetism (Electromagnetism was reverted to Magnetism); DR-1 says Electromagnetism.
   - **Labels.** The file still calls itself an official reference framework while DR-1 pulls six meanings back; the harvest counts six or seven one-word labels still under review.
@@ -553,9 +553,8 @@
 - **Definition:** Out of fiction. The cross-project reference book for robot meta-culture in every Tepenian work: a floor of what is true of all robots plus a method for deriving what varies, modeled on Donald E. Brown's Human Universals method. Its four parts (27 chapters) cover ground-level fundamentals (the Fundamental Laws, the gel brain, Build, mortality, personality, language), the differentiation method, robot cultural universals (kinship and mentorship, cooperation, city-locality identity, Gen/Mark, religion, consumption, sexuality) and applying the universals; its transfer classes are Direct-Transfer, New Universal and Non-Transfer. It deliberately holds no specific population's culture.
 - **Status:** Timeline canon for its content (the Timeline keeps a summary and pointer); the full book moved from the Timeline to Derivation Mechanisms on 2026-10-30 as a derivation method.
 - **Used in:** DerivationMechanisms; TepenianUniverseTimeline (summary); InnerTepeniaGDD (ULM Phase 9 input; Local Robot Culture Methodology; mentions); CurrentNovelDocs (Robot Fundamental Concepts); Hybrid-Anthro_Culture.
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/README.md`; TepenianUniverseTimeline `Reference/Robot_Universals_Summary.md`; InnerTepeniaGDD `Neo-Races-and-Cultures/_Method/Human_Universals_Culture_Framework.md` (source notes).
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/README.md`; TepenianUniverseTimeline `Reference/Robot_Universals_Summary.md`; InnerTepeniaGDD `Neo-Races-and-Cultures/_Method/Human_Universals_Culture_Framework.md` (source notes).
 - **Open:**
-  - DerivationMechanisms `COPIED_FROM.md` says the book was copied, not moved, with the originals left untouched, but the Timeline now holds only the summary.
   - Stale pointers: Hybrid-Anthro_Culture (`CLAUDE.md`, `MASTER_PLAN.md`, M-3) and the Local Robot Culture Methodology still cite the Timeline's `Reference/Robot_Universals/`.
   - It covers the same ground as the GDD's own robot-culture framework.
 
@@ -585,7 +584,7 @@
 - **Definition:** Out of fiction. Every robot (doll) character is a robotification of a real-world doll; the doll's measurements are carried into the story by Doll Height Transposition.
 - **Status:** project canon (method).
 - **Used in:** CurrentNovelDocs (a *Streetside Harmonies* email); DerivationMechanisms.
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Doll_Height_Transposition.md`; CurrentNovelDocs `Streetside Harmonies/legal-and-production/emails/Michalina 02 project details and dolls.md`.
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Doll_Height_Transposition.md`; CurrentNovelDocs `Streetside Harmonies/legal-and-production/emails/Michalina 02 project details and dolls.md`.
 
 ### Robot-only city
 - **Category:** culture and society

@@ -71,7 +71,7 @@ At the very beginning: both the ghost and the world exist from the opening (PDF 
 
 ## In the composite
 
-- **Not yet in the composite.** The master (`from CurrentNovelDocs/story-structure-definitions.md`) defines neither ghost nor story world; the gap analysis lists both as missing.
+- **Not yet in the composite.** The master (`story-structure-definitions.md`) defines neither ghost nor story world; the gap analysis lists both as missing.
 - The nearest master beats are Snyder's **Opening Image** and **Set-Up**. The author's arc template (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`) opens with those two slots.
 - The character-sheet template has no Ghost field. ⚠️ Its "Wounding Message" field appears to come from the Enneagram material, not from Truby.
 

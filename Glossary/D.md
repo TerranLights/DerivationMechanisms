@@ -129,7 +129,7 @@
 - **Definition:** For a robot, genuine death is irreversible damage to her cognitive architecture (the gel brain) or to her energy-source architecture (the battery, her equivalent of a heart), with no way to bring her back online; anything short of that is ordinary, survivable damage. Robots do not age, so they die in incidents such as breaches, collapses and wars, many at once or none for a long while.
 - **Status:** Timeline canon (Robot Universals, "Mortality & Integrity," moved to DerivationMechanisms on 2026-10-30); project canon in the GDD's physiology file.
 - **Used in:** TepenianUniverseTimeline (summary); InnerTepeniaGDD; DerivationMechanisms (Robot Universals)
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/04_Mortality_and_Integrity/README.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` ("What Counts as Death"; "What Happens After — Ossuaries")
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/04_Mortality_and_Integrity/README.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` ("What Counts as Death"; "What Happens After — Ossuaries")
 - **Open:**
   - Whether sustained overwork can corrupt a gel brain is flagged, not ruled.
   - GDD `Worldspace/Characters/Dolls/Doll_Visual_Design_Canon.md` says corruption of the central personality module past a threshold is effectively death of the self even if the body works; the physiology file says a substantial change in who a robot is is not death-adjacent.
@@ -298,11 +298,11 @@
 
 ### Derivation Mechanisms
 - **Category:** method term
-- **Definition:** Out of fiction: the author's universe-wide repo of mechanisms for deriving in-universe details (characters, locations, symbols, stories). It was created 2026-10-29 by copying, not moving, methods from InnerTepeniaGDD, TepenianUniverseTimeline and CurrentNovelDocs, whose originals stay the working copies until the author decides otherwise; on 2026-10-30 the Timeline moved its generic methodology (Robot Universals, Doll Height Transposition, the character creation methodology) into it.
+- **Definition:** Out of fiction: the author's universe-wide repo of mechanisms for deriving in-universe details (characters, locations, symbols, stories). It was created 2026-10-29 by copying, not moving, methods from InnerTepeniaGDD, TepenianUniverseTimeline and CurrentNovelDocs (later also TorontoFellOutGDD and TheCryptographHelixDD). On 2026-10-30 each mechanism was combined into one version written to apply everywhere, with no folder named for a source repo; where everything came from is kept in the root sync record. The same day, the Timeline moved its generic methodology (Robot Universals, Doll Height Transposition, the character creation methodology) into it.
 - **Status:** project canon (author, 2026-10-29)
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD and CurrentNovelDocs (pointer lines); TepenianUniverseTimeline (moved material)
-- **Sources:** DerivationMechanisms `README.md`; `COPY_MANIFEST (2026-10-29).md`
-- **Open:** Per the manifest, still open: one canonical version per method (the character methodology exists three times, the Enneagram set twice), separating method from project run data, deliberate duplicates (RWBEM, CST, the zodiac inside the ULM copy), and updating pointers.
+- **Sources:** DerivationMechanisms `README.md`; `SYNC_RECORD.md`
+- **Open:** Per the sync record, still open: separating method from project run data, deliberate duplicates (RWBEM, CST and the zodiac sheet inside the ULM folder), a setting-agnostic pass on the character methodology, and the pointers in the GDD and the Timeline marked for review.
 
 ### Derivation pass
 - **Category:** method term
@@ -316,7 +316,7 @@
 - **Definition:** Out of fiction: part of the character methodology's step 00a. It rebuilds all 25 Stage 1 categories from a small seed (name, robot or human, Personal Vision, Enneagram percentage and Undercurrent, origin, timeframe) plus folder materials, project canon and inference, deferring what isn't needed yet; with the Clarification Protocol (00b) it yields a Stage 1 Derived Input Sheet that tags each field SOURCED, ENNEAGRAM, PROPOSED or BLOCKED.
 - **Status:** project canon (method) in CurrentNovelDocs' copy; the GDD's copy is marked working.
 - **Used in:** CurrentNovelDocs (root seed file; Starlit Engines; Maggie Aarden notes); DerivationMechanisms; InnerTepeniaGDD; TepenianUniverseTimeline
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from CurrentNovelDocs/methodology/00a_Initial_Input.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00a_Initial_Input.md`; CurrentNovelDocs `character_seed-input.txt`; `Starlit Engines (Alaska Rescue novel)/background notes/characters/Lucy Grayson - Stage 1 Derived Sheet.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/00a_Initial_Input.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00a_Initial_Input.md`; CurrentNovelDocs `character_seed-input.txt`; `Starlit Engines (Alaska Rescue novel)/background notes/characters/Lucy Grayson - Stage 1 Derived Sheet.md`
 
 ### the desert collective
 - **See:** [Arizona desert tribe](A.md#arizona-desert-tribe)
@@ -406,7 +406,7 @@
 - **Definition:** Out of fiction: Robot Universals' method for deriving how a universal is expressed differently by different robot populations, by asking which concrete condition (a city, a locality, a class position, a specific history) shapes it. It includes the Universal Pool Mechanism (populations draw different selections from one shared pool, which can itself shift over time) and the Honesty Check (causes are always concrete conditions, never robot-ness, and a universal that shows no local variation is reported as such).
 - **Status:** Timeline canon in origin (moved with Robot Universals to DerivationMechanisms, 2026-10-30)
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD (Local Robot Culture Methodology); TepenianUniverseTimeline; CurrentNovelDocs; Hybrid-Anthro_Culture
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/4_-_Part_IV_Applying_the_Universals/18_The_Differentiation_Engine/README.md`
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/4_-_Part_IV_Applying_the_Universals/18_The_Differentiation_Engine/README.md`
 
 ### Differentiation table
 - **Category:** method term
@@ -693,7 +693,7 @@
 - **Definition:** Out of fiction: the y-template's character-arc role files. `doll.md` is the robot lead's arc, built on the full composite structure (Save the Cat, Truby, Weiland, Campbell, Bell); `huMan-1.md` and `huMan-2.md` are the human companions' arcs on Dan Harmon's eight steps, and unnamed humans are written as "huMan" placeholders.
 - **Status:** project canon (standing rule: foreground robots always get the composite structure)
 - **Used in:** CurrentNovelDocs (every novel and film folder; y-template); z-staging; TheCryptographHelixDD (arc files); DerivationMechanisms
-- **Sources:** CurrentNovelDocs `y-template/structure/character arcs/doll.md` and `huMan-1.md`; `reference/story-structure-definitions.md` (Which Structure Applies to Which Character); z-staging `Alaska-Cascadia Rescue/structure/character arcs/` and `Colorado ethics/structure/character arcs/`; DerivationMechanisms `Stories/Story_Structure/from CurrentNovelDocs/story-structure-definitions.md`
+- **Sources:** CurrentNovelDocs `y-template/structure/character arcs/doll.md` and `huMan-1.md`; `reference/story-structure-definitions.md` (Which Structure Applies to Which Character); z-staging `Alaska-Cascadia Rescue/structure/character arcs/` and `Colorado ethics/structure/character arcs/`; DerivationMechanisms `Stories/Story_Structure/story-structure-definitions.md`
 - **Open:** The z-staging copies of `doll.md` still contain a Magic Flight beat, which the author removed from the y-template on 2026-10-29 (Fantasy only). The "huMans" spelling already appears in the 2022 dream log at the CurrentNovelDocs root.
 
 ### Doll perks
@@ -721,7 +721,7 @@
 - **Definition:** Out of fiction: the author's umbrella name for the whole universe of his doll-based characters, across all projects; every character in it is based on a real, physically existing doll. Robot Universals are described as Dolliverse-wide, above Tepenia-wide and city-level canon, and music descriptions introduce each robot as living in the Dolliverse.
 - **Status:** Timeline canon (used, not formally defined)
 - **Used in:** TepenianUniverseTimeline; InnerTepeniaGDD; CurrentNovelDocs (doll-music extraction); DerivationMechanisms; Hybrid-Anthro_Culture
-- **Sources:** TepenianUniverseTimeline `Reference/Doll_Representation_Categories.md`; DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md` (Input Category E)
+- **Sources:** TepenianUniverseTimeline `Reference/Doll_Representation_Categories.md`; DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Input Category E)
 - **Open:** Its relation to the Tepenian universe (the same thing, or wider) is not stated.
 
 ### Doll-to-Living Height Transposition
@@ -730,7 +730,7 @@
 - **Definition:** Out of fiction: the rule for reading a real doll's height as an in-universe woman's height. The doll world's typical range (about 158 to 165 cm) maps onto a normal in-universe female range of about 165 to 175 cm (5'5" to 5'9"), and each doll keeps her relative position in the distribution rather than getting a literal conversion.
 - **Status:** project canon (developer-originated, 2026-09-18, universe-wide); filed in the Timeline until it moved to DerivationMechanisms on 2026-10-30 (Timeline commit 5d15159).
 - **Used in:** DerivationMechanisms; CurrentNovelDocs; TepenianUniverseTimeline (formerly)
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Doll_Height_Transposition.md`
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Doll_Height_Transposition.md`
 
 ### Dome Fuji
 - **Category:** place
@@ -845,7 +845,7 @@
 - **Definition:** Out of fiction: Step 5 of the Local Robot Culture Methodology. Each finding is tagged twice, once for inheritance (directly inherited, adapted, or genuinely emergent and robot-only) and once for its iceberg layer (Surface or Deep Culture), so findings are more than the local human culture with robots added; the ULM's Phase 9 uses a related dual tag of inheritance and depth.
 - **Status:** working
 - **Used in:** InnerTepeniaGDD (Local Robot Culture; ULM Phase 9); DerivationMechanisms
-- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md` (Step 5); InnerTepeniaGDD `Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md`; `ULM/03_The_Phase_Spine.md` (Phase 9)
+- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 5); InnerTepeniaGDD `Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md`; `ULM/03_The_Phase_Spine.md` (Phase 9)
 
 ### Dual-Network Operators
 - **Category:** group or people
@@ -860,7 +860,7 @@
 - **Definition:** Out of fiction: the design principle that a character's personal arc resolves into two to five mutually exclusive outcome branches (three is the default, five the cap), each a genuinely different ending, so one choice forecloses the others. It generalizes Inner Tepenia's Dual-Outcome Companion Perks rule.
 - **Status:** project canon (production rule; optional, for branching works)
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; CurrentNovelDocs; TorontoFellOutGDD; TepenianUniverseTimeline
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Dual_Outcome_Branching.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Dual_Outcome_Branching.md`
 
 ### Dual-Outcome Companion Perks
 - **Category:** game term

@@ -354,7 +354,7 @@
 - **Definition:** (Out of fiction) A reusable fifteen-section prose questionnaire, generalized from Maggie Aarden's worksheet, that is copied into a character's folder to capture her inherent qualities conversationally before formal analysis. It feeds the standard folder files (README plus Personal_Background) and leaves out Original Doll Model, Manufacturer and Catalog, which belong to the Doll Wiki; an optional companion worksheet covers companion and romance questlines.
 - **Status:** Timeline canon (ported from the GDD 2026-08-06)
 - **Used in:** InnerTepeniaGDD; TepenianUniverseTimeline (copies in character folders); DerivationMechanisms
-- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Character_Spec_Fill-In_Sheet_Template.md`; TepenianUniverseTimeline `Worldspace/Characters/z-template/Character_Spec_Fill-In_Sheet.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Templates/Character_Spec_Fill-In_Sheet_Template.md`
+- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Character_Spec_Fill-In_Sheet_Template.md`; TepenianUniverseTimeline `Worldspace/Characters/z-template/Character_Spec_Fill-In_Sheet.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Templates/Character_Spec_Fill-In_Sheet_Template.md`
 
 ### Characteristic Plausibility
 - **Category:** method term
@@ -633,7 +633,7 @@
 - **Definition:** (Out of fiction) Intake step 00b of the character methodology (2026-08-09), which finds the fewest questions the Derivation Protocol leaves open. It tags every derived character field by confidence, applies a three-part surfacing test, ranks the surviving gaps by downstream leverage and caps them, asks closed multiple-choice questions with a "you decide" option, then records, re-tags and tracks recurring gaps, so the author is asked only what cannot be inferred.
 - **Status:** project canon (part of the pipeline)
 - **Used in:** InnerTepeniaGDD; TepenianUniverseTimeline; CurrentNovelDocs; DerivationMechanisms
-- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00b_Clarification_Protocol.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/00b_Clarification_Protocol.md`
+- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00b_Clarification_Protocol.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/00b_Clarification_Protocol.md`
 
 ### Class (OOLSD)
 - **Category:** method term
@@ -706,7 +706,7 @@
 - **Definition:** Brown's term for the innate human drive to seek explanations that underlies religion's universality. Robot Universals holds that it structurally does not transfer to robots, so robot belief arises differently.
 - **Status:** Timeline canon (as a ruling about robots)
 - **Used in:** TepenianUniverseTimeline; InnerTepeniaGDD; DerivationMechanisms; CurrentNovelDocs
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/2_-_Part_II_Differentiation_Method/07_The_Cognitive_Imperative/README.md`
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/2_-_Part_II_Differentiation_Method/07_The_Cognitive_Imperative/README.md`
 - **Open:** the phrase itself is a real-world anthropology term; the Tepenian content is the non-transfer ruling.
 
 ### Coherence vs. Contrast
@@ -879,7 +879,7 @@
 - **Definition:** (Out of fiction) The Part 2 worksheet for a recruitable Doll. Part A covers the companion questline (core problem, what only the player can do, 2 to 5 resolutions and their costs, meaningful districts, grief over a past self); Part B covers romance (attraction, dealbreaker, turn-down line, how she is earned, exceptions).
 - **Status:** working
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms (copy)
-- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Companion_and_Romance_Questline_Fill-In_Sheet_Template.md`; DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Templates/Companion_and_Romance_Questline_Fill-In_Sheet_Template.md`
+- **Sources:** InnerTepeniaGDD `Worldspace/Characters/Dolls/Companion_and_Romance_Questline_Fill-In_Sheet_Template.md`; DerivationMechanisms `Characters/Character_Development_Methodology/Templates/Companion_and_Romance_Questline_Fill-In_Sheet_Template.md`
 
 ### companion homes
 - **See:** [Romance-unlocked homes](R.md#romance-unlocked-homes)
@@ -921,7 +921,7 @@
 - **Definition:** (Out of fiction) A game-oriented design principle for projects with both a companion arc and an optional romance layer: romance is a narrow extraction from companion material already built, plus one small tool of its own, never a second full pass through Stages 3 to 5.
 - **Status:** project canon (production rule; optional)
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Companion_vs_Romance_Scoping.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Companion_vs_Romance_Scoping.md`
 
 ### Companion-Mediated Access
 - **Category:** game term
@@ -990,7 +990,7 @@
 - **Definition:** (Out of fiction) Step 1 of the Local Robot Culture Methodology: before any reasoning, gather a city's raw material outward in rings, from its own files to cluster-level documents, cross-reference databases, an unrestricted repo-wide search, sibling cities and project-wide syntheses, reading the files rather than only searching them. CGRM Path 6 relies on the same rule.
 - **Status:** working
 - **Used in:** InnerTepeniaGDD (Local_Robot_Culture methodology); DerivationMechanisms
-- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 1); DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md`
+- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 1); DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md`
 
 ### Conclusion-tier marker
 - **Category:** method term
@@ -1281,7 +1281,7 @@
 - **Category:** game term
 - **Definition:** In Toronto Fell Out, a trait adapted from the GDD's Ripple Intuitive: +20% Insight when reading volatile situations and +25% effect from environmental hazards set off in combat, at −1 Brains under high stress.
 - **Status:** project canon
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD)
+- **Used in:** TorontoFellOutGDD
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`
 - **Open:** the candidate perk names Storm Sense and Chaos Reader were split off from it.
 
@@ -1348,7 +1348,7 @@
 - **Definition:** (Out of fiction) Step 3 of a GDD Megasheet, the implication-hunting pass that plays a location's inputs and inventions against each other, pairing facts that live in different files to find connections nobody has drawn. It records numbered Findings with their second- to fourth-order effects, saved as `[Location]_Cross_Reference_Synthesis.md`; the DLC main questline method takes each Finding's fourth-order effect as input. The Local Robot Culture Methodology reuses the name for its Step 4, where input categories are combined.
 - **Status:** project canon (method)
 - **Used in:** InnerTepeniaGDD; TepenianUniverseTimeline; CurrentNovelDocs; SouthernLights; TorontoFellOutGDD; DerivationMechanisms
-- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`, `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/README.md`, `Worldspace/Locations-and-Levels/Concordia-City/Districts/Concordia_Ultra_Megasheet/Concordia_Cross_Reference_Synthesis.md` and `Storyline/DLC-Questlines/DLC_Main_Questline_Design_Method.md` (Step 1); DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md` (Step 4)
+- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`, `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/README.md`, `Worldspace/Locations-and-Levels/Concordia-City/Districts/Concordia_Ultra_Megasheet/Concordia_Cross_Reference_Synthesis.md` and `Storyline/DLC-Questlines/DLC_Main_Questline_Design_Method.md` (Step 1); DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 4)
 - **Open:** individual findings are cited as "Cross-Reference Finding N," for example Concordia's Finding 1 (the Falkland Treaty wound) and Finding 2 (the Recognition Cascade). One reading counts effects from the first order, another from the second.
 
 ### Cross-Referenced Extrapolation Findings

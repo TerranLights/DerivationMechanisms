@@ -49,7 +49,7 @@ From the plan (step 10) to the apparent defeat (step 14); usually the biggest bl
 ## In the composite
 
 - **Not yet in the composite** under this name; the gap analysis lists Drive as missing. The author's arc template does not use the term.
-- The closest master beats are **Road of Trials / Fun and Games** and **Bad Guys Close In** (`from CurrentNovelDocs/story-structure-definitions.md`). The master's Bad Guys Close In mentions internal pressure, but not the hero's moral decline as Truby frames it.
+- The closest master beats are **Road of Trials / Fun and Games** and **Bad Guys Close In** (`story-structure-definitions.md`). The master's Bad Guys Close In mentions internal pressure, but not the hero's moral decline as Truby frames it.
 
 ## The author's adjusted meaning
 

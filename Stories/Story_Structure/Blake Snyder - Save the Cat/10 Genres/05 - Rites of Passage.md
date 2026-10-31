@@ -40,7 +40,7 @@ Boundary case: in the chapter summary he rules that *The Breakfast Club*, which 
 Snyder's genres are story types, not beats, so there is no matching step in Bell, Campbell, Harmon or Weiland. Truby's *The Anatomy of Story* is not a genre system ⚠️. Snyder's own outside reference here is Kübler-Ross's stages of acceptance, not a story framework.
 
 ## In the composite
-Not yet in the composite. A search of `from CurrentNovelDocs/story-structure-definitions.md` finds no Rites of Passage entry.
+Not yet in the composite. A search of `story-structure-definitions.md` finds no Rites of Passage entry.
 
 ## The author's adjusted meaning
 *To be drafted with the author (05:00-14:59 window).*

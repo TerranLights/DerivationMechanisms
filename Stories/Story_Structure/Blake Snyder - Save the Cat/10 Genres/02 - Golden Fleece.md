@@ -43,7 +43,7 @@ Cross-chapter mentions of the same script:
 Snyder's genres are story types, not beats, so there is no matching step in Bell, Harmon or Weiland. The closest link is Campbell's hero's journey, which is itself a quest pattern. Snyder praises Campbell in his introduction but does not map this genre onto him ⚠️. Truby's *The Anatomy of Story* is not a genre system ⚠️.
 
 ## In the composite
-Not yet in the composite. A search of `from CurrentNovelDocs/story-structure-definitions.md` finds no Golden Fleece entry. The composite does use Campbell's Road of Trials as an alias of Fun and Games, which is a beat, not this genre.
+Not yet in the composite. A search of `story-structure-definitions.md` finds no Golden Fleece entry. The composite does use Campbell's Road of Trials as an alias of Fun and Games, which is a beat, not this genre.
 
 ## The author's adjusted meaning
 *To be drafted with the author (05:00-14:59 window).*

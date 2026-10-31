@@ -278,7 +278,7 @@
 - **Definition:** The psychological seed set when a robot is fabricated: an underlying weighting of concepts that determines her value tendencies, roughly like an Enneagram specification, not a finished personality. It is separate from her Build and her Language Module. By law, whoever initiates the build may set only part of it and the rest is mandatorily randomized, as the engineering expression of Law 1 of the Fundamental Laws of Robotics; after that, personality develops through lived experience.
 - **Status:** Timeline canon for the partial-randomization rule; project canon for the details (2026-08-06).
 - **Used in:** TepenianUniverseTimeline; InnerTepeniaGDD; CurrentNovelDocs; SouthernLights; DerivationMechanisms; Hybrid-Anthro_Culture.
-- **Sources:** TepenianUniverseTimeline `Reference/Laws_of_Robotics.md`; `Reference/Robot_Universals_Summary.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` (Notes: Personality, the Personality Module); DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/` (Chapter 5).
+- **Sources:** TepenianUniverseTimeline `Reference/Laws_of_Robotics.md`; `Reference/Robot_Universals_Summary.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` (Notes: Personality, the Personality Module); DerivationMechanisms `Characters/Robot-specific/Robot_Universals/` (Chapter 5).
 - **Open:**
   - In the First Interwar Period on Upper Earth, before the exile, a buyer could have a robot's personality fully specified; Tepenia's rule is a later correction.
   - The Doll Visual Design Canon's "central personality module" (the component holding a doll's self) may be the same part; the two are not reconciled.
@@ -402,7 +402,7 @@
 - **Definition:** Out of fiction. Characters whose names are not yet final carry a bracketed To Be Named (TBN) marker in their folder or file name, in the shape TBN [series or real-doll model code, brief descriptor, working name] (for example TBN [SE-031 Palmer City self-defense Akina]), repeated in the profile header, until real developed content lets them graduate out. The same marker flags places, cities and districts whose names are not final, as in "TBN-district" for Concordia districts without an in-fiction name.
 - **Status:** project canon (production rule); Timeline canon in usage.
 - **Used in:** TepenianUniverseTimeline (many TBN folders); InnerTepeniaGDD; CurrentNovelDocs; TheCryptographHelixDD; SouthernLights; Outer Tepenia; TorontoFellOutGDD; DerivationMechanisms; Hybrid-Anthro_Culture.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Placeholder_Naming_Convention.md`; InnerTepeniaGDD `.../Concordia-City/Districts/District_Canon_Reference.md` (header); `Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/` (TBN folders); TepenianUniverseTimeline `Worldspace/Characters/Dolls/`; `TODO.md`.
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Placeholder_Naming_Convention.md`; InnerTepeniaGDD `.../Concordia-City/Districts/District_Canon_Reference.md` (header); `Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/` (TBN folders); TepenianUniverseTimeline `Worldspace/Characters/Dolls/`; `TODO.md`.
 - **Open:** names inside the brackets are working titles, not confirmed names. Other placeholder forms include "yet-TBN-NPC_D-01..12" (`Prominent_NPCs.md`) and "NPC-District-Role" handles. The convention file moved from the Timeline to DerivationMechanisms.
 
 ### Plan of Action phases
@@ -419,7 +419,7 @@
 - **Definition:** Out of fiction. Each outer Tepenian city's pair of independent symbols, one Planetary Symbol and one Robot Elemental, chosen from the city's established personality and checked against its Enneagram reads. In the ULM it is generator G1, applied only after a place is known and reconciled after Phases 1 to 9.
 - **Status:** project canon (assignments official since 2026-08-30; application deferred by DR-8).
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms.
-- **Sources:** DerivationMechanisms `Data_Reference/Symbolism/from InnerTepeniaGDD (City_Symbolic_Substrate)/City_Symbol_Assignments.md`; `README.md`; InnerTepeniaGDD `Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` §C.7; `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (DR-8).
+- **Sources:** DerivationMechanisms `Data_Reference/Symbolism/City_Symbol_Assignments.md`; `README.md`; InnerTepeniaGDD `Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` §C.7; `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (DR-8).
 - **Open:** 34 of 35 cities are assigned; Santa Luce is excluded pending its founding fix. It is not to be cross-applied to Concordia's zodiac districts or to the subnet scale.
 
 ### Planetary Split Brain
@@ -440,7 +440,7 @@
 - **Definition:** Out of fiction. The author's symbol system of eleven members (the Sun, the nine planets Mercury through Pluto, and the Asteroid Belt), invented rather than taken from astrology: each meaning is grounded in a real astronomical or physical fact about that body, with a one-word, summary, neutral, positive and negative reading. It is one half of each outer city's Planet + Element pair.
 - **Status:** project canon (official reference framework since 2026-08-30; ratified by authorship in DR-1, since the developer hand-wrote every entry).
 - **Used in:** InnerTepeniaGDD (cities; ULM; local robot culture); DerivationMechanisms; CurrentNovelDocs; Hybrid-Anthro_Culture.
-- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md`; `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (DR-1); DerivationMechanisms `Data_Reference/Symbolism/Planetary_Symbols/from InnerTepeniaGDD/Planetary_Symbols.md`.
+- **Sources:** InnerTepeniaGDD `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md`; `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (DR-1); DerivationMechanisms `Data_Reference/Symbolism/Planetary_Symbols/Planetary_Symbols.md`.
 - **Open:**
   - **Member count.** The file, its README and the ULM register give eleven (the Sun was added as the eleventh); `City_Symbol_Assignments.md`, the CST's Elemental/Planetary Cross-Check and the Local Robot Culture checklist give ten.
   - No file says whether Tepenians use these symbols in-world.
@@ -527,7 +527,7 @@
 - **Definition:** Out of fiction. A Stage 4 (story material) rule of the character pipeline giving the protagonist (the player, in a game) a unique task in a character's arc; it is Stage 4's version of the Personal Questline Design Rule. It comes with the categorical-block check, the compounding-reasons technique, the no-escort-quest constraint and retrofit discipline, and the Branching Investigation-Route Structure gates how many ways the task can be carried out.
 - **Status:** project canon as part of the pipeline (the GDD's copy is marked working).
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms; CurrentNovelDocs.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/04_Story_Material.md` (The Player-Necessity Rule and Related Constraints); `05_Beats_Paths_Results.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/04_Story_Material.md`.
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/04_Story_Material.md` (The Player-Necessity Rule and Related Constraints); `05_Beats_Paths_Results.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/04_Story_Material.md`.
 
 ### Pleasure-receptor network
 - **Category:** robot biology
@@ -877,7 +877,7 @@
 - **Definition:** Out of fiction. A cross-stage discipline of the character pipeline: whenever a stage generates several candidates (a hypothesis, a casting choice, a whole arc) and carries one forward, the others are written down in full, not discarded. It began as the overflow file in Arc-Space Enumeration.
 - **Status:** project canon (production rule).
 - **Used in:** DerivationMechanisms; TepenianUniverseTimeline.
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Preserve_Unchosen_Material.md`.
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Preserve_Unchosen_Material.md`.
 - **Open:** it echoes the author's standing relocate-don't-delete habit.
 
 ### pre-Split-Brain Arcanet archive

@@ -43,7 +43,7 @@ In Truby's sequence: after the self-revelation (step 20), which it proves, and b
 
 ## In the composite
 
-- ✅ **Defined in the master under Truby's name** (`from CurrentNovelDocs/story-structure-definitions.md`). It is placed inside Dark Night of the Soul and described as a choice between equally hard options tied to the protagonist's moral flaw, used together with Self-Revelation and Bell's Q-Factor.
+- ✅ **Defined in the master under Truby's name** (`story-structure-definitions.md`). It is placed inside Dark Night of the Soul and described as a choice between equally hard options tied to the protagonist's moral flaw, used together with Self-Revelation and Bell's Q-Factor.
 - That placement differs from Truby's sequence (after the battle and the self-revelation), though his *Godfather* example does put it before the battle.
 - The author's arc template has a MORAL DECISION slot at the end of its "Initiation" section, after REFUSAL OF RETURN and before the "Return" section (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The **thematic revelation** is not yet in the composite.

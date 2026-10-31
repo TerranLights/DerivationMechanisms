@@ -264,7 +264,7 @@
 - **Definition:** (out of fiction; the Local Robot Culture Methodology) One of three canon altitudes for robot culture: facts established for the whole Tepenian nation (for example siligel, coolant, robot coffee and glitch-coolant), sitting between the Dolliverse-wide Robot Universals and single-city local culture.
 - **Status:** working
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms
-- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md` (Input Category E)
+- **Sources:** DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Input Category E)
 
 ### Terragenesis
 - **See:** [Outer Tepenia](O.md#outer-tepenia)
@@ -590,7 +590,7 @@
 - **Definition:** (out of fiction; the character methodology) The design principle for a character's Inciting Event triggers: one consistent trigger type matched to her background and personality, with at least about seven concrete triggers of that type (ideally twelve to sixteen), some not tied to a place, so that no single path is required to begin her story. It gates questline entry.
 - **Status:** project canon (a production rule) in DerivationMechanisms; working in the GDD's process scaffold
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; CurrentNovelDocs
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Design_Principles/Trigger_Type_Pattern.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00_Overall_Process_Scaffold.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Design_Principles/Trigger_Type_Pattern.md`; InnerTepeniaGDD `Worldspace/Characters/Dolls/Methodology/00_Overall_Process_Scaffold.md`
 
 ### Troll
 - **Category:** place
@@ -639,7 +639,7 @@
 - **Category:** game term
 - **Definition:** (Toronto Fell Out) A trait renamed from the GDD's Undergrid Phantom: +20% Repair and +15% Sneak in low-light or underground places such as the subway, sewers and PATH tunnels, at −1 Might.
 - **Status:** working: tentative name
-- **Used in:** TorontoFellOutGDD (from InnerTepeniaGDD)
+- **Used in:** TorontoFellOutGDD
 - **Sources:** TorontoFellOutGDD `Game-Mechanics/Character-Creation/Traits.md`
 - **Open:** alternate names under consideration are Undercity Native, Deep Line Rider and Sewer Sense.
 
@@ -725,4 +725,4 @@
 - **Definition:** (out of fiction; the Enneagram extractions) The repeatable process for mining each Enneagram type's source-book chapters into its own folder (README, Core Psychology, Subtypes, Growth Path), with every named source section assigned a destination. It was built from the gaps found while extracting Type One.
 - **Status:** project canon
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms; TepenianUniverseTimeline
-- **Sources:** DerivationMechanisms `Characters/Enneagram/from InnerTepeniaGDD/Type_Chapter_Mining_Method.md`
+- **Sources:** DerivationMechanisms `Characters/Enneagram/Type_Chapter_Mining_Method.md`

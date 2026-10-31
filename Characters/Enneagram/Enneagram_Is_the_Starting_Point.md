@@ -19,7 +19,7 @@ The type data is never copied unchanged into a character's file.
 - The author wants no character to be predictable from her type alone.
 
 ## How to apply
-1. **Start from the type files.** The canonical mined Enneagram set is in `InnerTepeniaGDD/Worldspace/Enneagram/`, one folder per type; a copy sits beside this file in `from InnerTepeniaGDD/`. Record the plain type data as the cited **baseline**.
+1. **Start from the type files,** which sit beside this file, one folder per type (`Type_1_The_Reformer/` to `Type_9_The_Peacemaker/`). Record the plain type data as the cited **baseline**.
 2. **Rewrite each field in the character's own terms:**
    - what the fear is *of*, specifically, in her life;
    - what sets it off;

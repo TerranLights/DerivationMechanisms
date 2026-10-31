@@ -1332,7 +1332,7 @@
 - **Definition:** (out of fiction; the character pipeline) A one-time, project-level check made before any character intake: is the finished work linear (one telling) or non-linear (branching)? It decides whether Arc-Space Enumeration collapses to one arc or keeps its survivors as parallel branches.
 - **Status:** project canon (part of the pipeline)
 - **Used in:** DerivationMechanisms; TepenianUniverseTimeline; InnerTepeniaGDD; CurrentNovelDocs
-- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/from TepenianUniverseTimeline/Pipeline/00a_Initial_Input.md`
+- **Sources:** DerivationMechanisms `Characters/Character_Development_Methodology/Pipeline/00a_Initial_Input.md`
 
 ### Structural Analog
 - **Category:** method term
@@ -1423,7 +1423,7 @@
 - **Definition:** Sumerian as some robots use it: never a vernacular or general robot language, but a specialized liturgical register for rites and scripture layered over a robot's local language, as Latin is in the Mass or Sanskrit in liturgy, plus an archaic script for the most formal records and a near-unbreakable private channel. It is vocational: robots and factions who take up a memory-keeper calling, emphatic about preserving human history, adopt it. Its main justification is that robot consciousness began at U.R.U.K., echoing Uruk, the birthplace of writing.
 - **Status:** Timeline canon in origin, as the Robot Universals worked example (moved with that book to DerivationMechanisms on 2026-10-30); in the GDD, working (four justifications confirmed as direction on 2026-07-12).
 - **Used in:** DerivationMechanisms; InnerTepeniaGDD; TepenianUniverseTimeline; CurrentNovelDocs; TorontoFellOutGDD
-- **Sources:** DerivationMechanisms `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/4_-_Part_IV_Applying_the_Universals/26_Worked_Example_Sumerian_Liturgical_Register/README.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Sumerian_Language_in_Robot_Culture.md`
+- **Sources:** DerivationMechanisms `Characters/Robot-specific/Robot_Universals/4_-_Part_IV_Applying_the_Universals/26_Worked_Example_Sumerian_Liturgical_Register/README.md`; InnerTepeniaGDD `Worldspace/Robot_Biology_and_Culture/Sumerian_Language_in_Robot_Culture.md`
 - **Open:** who practices it and how widely, and whether the U.R.U.K. naming was deliberate in-world, are open. The Human Universals framework records a 2026-08-06 correction of an earlier claim that robots speak Sumerian by default.
 
 ### Sumerian's Liturgical Register
@@ -1516,7 +1516,7 @@
 - **Definition:** (out of fiction; Inner Tepenia location and culture methods) A check that asks whether a finding would still make sense unchanged if it were moved to another place, such as a similar neighbor. If it would, it is not yet a finding about this place, and it is sent back or dropped. It is ULM Gate 4, the closing step of the Local Robot Culture Methodology, and a check in the district culture passes.
 - **Status:** project canon (ULM Gate 4; the district method); the robot-culture methodology that uses it is a draft.
 - **Used in:** InnerTepeniaGDD (ULM; Local Robot Culture; districts); DerivationMechanisms; Hybrid-Anthro_Culture
-- **Sources:** InnerTepeniaGDD `.../Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` (Gate 4); `.../Universal_Location_Methodology/Stepwise_Execution/02_Gates/G05_Gate_4_Swap_test.md`; `.../Concordia-City/Districts/Phase_Instructions/08_Phase_8_Robot_Specific_Culture.md`; DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/00_DRAFT_Input_Categories_and_Approach.md` (Step 6)
+- **Sources:** InnerTepeniaGDD `.../Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` (Gate 4); `.../Universal_Location_Methodology/Stepwise_Execution/02_Gates/G05_Gate_4_Swap_test.md`; `.../Concordia-City/Districts/Phase_Instructions/08_Phase_8_Robot_Specific_Culture.md`; DerivationMechanisms `Environment/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` (Step 6)
 - **Open:** since 2026-09-06, ULM passes run it peer-free, because the Law of One Location bars comparing with real neighbors mid-pass; older Local Robot Culture runs and wording still name a sibling city in the same subnet. The No National Stereotypes rule has its own swap self-check (swap the station-builder nation).
 
 ### Sylvester James Gates Adinkras

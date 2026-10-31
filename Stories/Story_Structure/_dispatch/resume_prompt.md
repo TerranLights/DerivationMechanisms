@@ -13,4 +13,4 @@ Run `bash _dispatch/check_status.sh` from `Stories/Story_Structure/` first.
 - Snyder EPUB: spine order, with `{section N: file}` markers.
 - StudioBinder PDFs: `pdftotext -layout`.
 
-The commands the session used are in `../../../COPY_MANIFEST (2026-10-29).md`'s history, or ask the coordinator.
+If anything here is unclear, ask the coordinator.

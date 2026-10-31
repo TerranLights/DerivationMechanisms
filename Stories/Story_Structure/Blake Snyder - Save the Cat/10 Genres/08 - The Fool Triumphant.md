@@ -41,7 +41,7 @@ From the genre roster and the section (Snyder, ch. 2):
 Snyder's genres are story types, not beats, so there is no matching step in Bell, Campbell, Harmon or Weiland. Truby's *The Anatomy of Story* is not a genre system ⚠️. No clear equivalent established.
 
 ## In the composite
-Not yet in the composite. A search of `from CurrentNovelDocs/story-structure-definitions.md` finds no Fool Triumphant entry.
+Not yet in the composite. A search of `story-structure-definitions.md` finds no Fool Triumphant entry.
 
 ## The author's adjusted meaning
 *To be drafted with the author (05:00-14:59 window).*

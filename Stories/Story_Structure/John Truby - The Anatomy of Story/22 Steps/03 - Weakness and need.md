@@ -50,7 +50,7 @@ At the opening, together with step 2. The problem should appear at the very begi
 ## In the composite
 
 - **Not yet in the composite** as a structural step; the gap analysis lists it as missing.
-- The master's **Set-Up** (Snyder) says it establishes the hero's weaknesses and goals, and its **Moral Decision** section refers back to a "Moral/Character Flaw" set up in Act 1 (`from CurrentNovelDocs/story-structure-definitions.md`).
+- The master's **Set-Up** (Snyder) says it establishes the hero's weaknesses and goals, and its **Moral Decision** section refers back to a "Moral/Character Flaw" set up in Act 1 (`story-structure-definitions.md`).
 - The author's arc template labels its SETUP slot as where weakness and goal are shown (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The character-sheet template (`CurrentNovelDocs/y-template/background notes/characters/doll.md`) has Core Weakness, Character Flaw/Weakness, Psychological Need, Moral Need and Problem (initial and later) fields.
 - The three openings are not yet in the composite.

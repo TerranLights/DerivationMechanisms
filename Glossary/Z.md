@@ -53,7 +53,7 @@
 - **Definition:** (out of fiction) A design substrate mined from eight astrology books that gives each of Concordia's thirteen districts a temperament family, material texture, shadow expression and conflict geometry (twelve signs plus Ophiuchus for the Hub), used alongside the Enneagram reads. Its repeatable use is the Substrate Application Pass, and none of it is in-fiction.
 - **Status:** project canon (built 2026-08-29; the out-of-fiction rule is a standing developer correction).
 - **Used in:** InnerTepeniaGDD; CurrentNovelDocs; DerivationMechanisms; Hybrid-Anthro_Culture.
-- **Sources:** InnerTepeniaGDD `Concordia-City/Districts/Zodiac_Personality_Substrate/00_Method_and_Sources.md`; `Concordia-City/Districts/Phase_Instructions/00e_Substrate_Application_Pass.md`; DerivationMechanisms `Data_Reference/Symbolism/Zodiac/from InnerTepeniaGDD/Zodiac_Personality_Substrate/00_Method_and_Sources.md`.
+- **Sources:** InnerTepeniaGDD `Concordia-City/Districts/Zodiac_Personality_Substrate/00_Method_and_Sources.md`; `Concordia-City/Districts/Phase_Instructions/00e_Substrate_Application_Pass.md`; DerivationMechanisms `Data_Reference/Symbolism/Zodiac/Zodiac_Personality_Substrate/00_Method_and_Sources.md`.
 - **Open:** its shadow sections are deliberately heavy from extraction and must not be applied in proportion. The ULM's symbol register rates it the only RICH symbol system in the project.
 
 ### Zodiac Signs Full Attributes
@@ -61,7 +61,7 @@
 - **Definition:** (out of fiction) A reference catalog of the twelve Western zodiac signs (element, modality, ruling planet, symbol, positive and negative attributes), compiled as creative input for Concordia's districts and later used by the Zodiac Lens. It is not in-world lore.
 - **Status:** project canon (reference tool).
 - **Used in:** InnerTepeniaGDD; DerivationMechanisms.
-- **Sources:** DerivationMechanisms `Data_Reference/Symbolism/Zodiac/from InnerTepeniaGDD/Zodiac_Signs_Full_Attributes.md`; ULM `Corpus_Reference_Sheets/Zodiac_Signs_Quick_Reference.md`.
+- **Sources:** DerivationMechanisms `Data_Reference/Symbolism/Zodiac/Zodiac_Signs_Full_Attributes.md`; ULM `Corpus_Reference_Sheets/Zodiac_Signs_Quick_Reference.md`.
 
 ### Zukellesi
 - **Category:** group or people

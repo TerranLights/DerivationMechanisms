@@ -43,7 +43,7 @@ After the hero's own plan (the previous step), and it plays out during the drive
 
 ## In the composite
 
-- **Not defined** in the master (`from CurrentNovelDocs/story-structure-definitions.md`); the gap analysis lists it as a template beat with no meaning.
+- **Not defined** in the master (`story-structure-definitions.md`); the gap analysis lists it as a template beat with no meaning.
 - The author's arc template uses the name **OPPOSITION'S MAIN COUNTER-ATTACK**, in the "Initiation" section after ROAD OF TRIALS and before FAKE-ALLY ATTACK (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The master's **Bad Guys Close In** (Snyder) covers external pressure from antagonists, but without Truby's opponent's plan or his concealed attacks.
 

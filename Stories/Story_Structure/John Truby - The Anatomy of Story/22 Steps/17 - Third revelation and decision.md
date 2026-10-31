@@ -51,7 +51,7 @@ After the audience revelation (step 16) and before step 18 (gate, gauntlet, visi
 ## In the composite
 
 - **Not yet in the composite.** The gap analysis lists the three revelation-and-decision steps as missing.
-- The master's **Break into Three** (`from CurrentNovelDocs/story-structure-definitions.md`) covers the hero finally seeing what to do, but it is credited to Snyder and Bell, not Truby, and does not involve uncovering the opposition.
+- The master's **Break into Three** (`story-structure-definitions.md`) covers the hero finally seeing what to do, but it is credited to Snyder and Bell, not Truby, and does not involve uncovering the opposition.
 
 ## The author's adjusted meaning
 

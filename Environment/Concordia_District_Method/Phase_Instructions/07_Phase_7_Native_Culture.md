@@ -1,0 +1,313 @@
+# Phase 7 — Native Culture
+
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
+**Purpose:** the seven template categories covering a district's own home-grown culture — what it eats, plays,
+makes, believes about its two populations, hides, and celebrates. Runs before Phase 8 because four of the seven
+are direct inputs to Robot-Specific Culture.
+
+**Governing discipline: native, not transplanted.** `District_Refugee_Diaspora_Composition.md` records what
+feeder populations **brought with them**. This phase covers what the district **itself developed** across 250
+years. A district whose only cuisine is other cities' cuisine does not have a cuisine. Read the diaspora file
+to know what to write *around*, not what to repeat.
+
+---
+
+## 1. The seven categories
+
+| Template § | Category | The district-level question |
+|---|---|---|
+| 10 | **Cuisine** | (a) human food — what does this district actually eat, and what is the central food object? (b) social context — what does eating *mean* here beyond nutrition? (c) **robot cuisine / siligel culture** — how is siligel produced, prepared, and consumed here, and is it treated as craft, utility, or something else? |
+| 12 | **Music** | What musical tradition did this district develop on its own? What is serious vs. social? Who performs, and who just listens? |
+| 13 | **Arts & Aesthetics** | Visual arts, literature, crafts — what does this district make, and what does it consider beautiful? |
+| 16 | **Human-Robot Relations** | How do the two populations actually coexist *here specifically*? Distinct from Phase 8: that is robot culture among robots; this is the relationship between the groups. |
+| 19 | **Underground / Counterculture** | What exists beneath or against the dominant culture? Who forms its backbone? How do mainstream and counterculture actually regard each other? |
+| 20 | **Private Life & Minority Communities** | What is the integration bargain? Public face vs. what lives behind closed doors? What has it cost, generationally? |
+| 26 | **Municipal Holidays** |
+| — | **Death and the Dead** *(no template section — added 2026-08-29, see §1b)* | Local civic observances distinct from Federation-wide holidays — occasion, rough time of year, public/ceremonial vs. private in character. |
+
+---
+
+## 1b. ⚠ The eighth category — Death and the Dead *(added 2026-08-29; a real gap in the 32-section template)*
+
+**The 32-section template has no mortuary slot.** Not a thin one — **none.** Verified against the Plan's own
+"Complete template audit": there is no section for funerary practice, mourning, burial, remembrance, or what a
+district does with a body.
+
+**And the measured consequence across eight completed districts is unambiguous.** Findings-only counts, QA
+blocks stripped:
+
+> ### ✅ Re-verified 2026-08-29 against nine districts, with a verified strip and a wider term set.
+>
+> **The table below is the original eight-district scan and is superseded by this one.** The headline claim
+> survives and is now better sourced than when it was made — **including against the two stems that were never
+> scanned the first time.**
+>
+> | District | death | funeral | funerar | mortuar | mourn |
+> |---|---|---|---|---|---|
+> | **Scorpio** | **8** | 0 | **1** | **2** | 0 |
+> | Cancer | 3 | 0 | 0 | 0 | 1 |
+> | Aries | 3 | 0 | 0 | 0 | 0 |
+> | **The Circuit** | 2 | 0 | **2** | 0 | **3** |
+> | Taurus | 1 | 1 | 0 | 0 | 1 |
+> | Leo | 1 | 0 | 0 | 0 | 1 |
+> | The Yards | 0 | 1 | 0 | 0 | 1 |
+> | **The Labs** | **0** | **0** | **0** | **0** | **0** |
+> | **The Government District** | **0** | **0** | **0** | **0** | **0** |
+>
+> **The two zeroes are confirmed, and confirmed against five terms rather than four.** Scorpio is richer than
+> first recorded (8, not 7, plus previously-uncounted `funerar` and `mortuar`). **The Circuit is the only
+> district whose numbers come from a section written on purpose** rather than dragged in by another finding —
+> which is what the category was added to produce.
+>
+> ### The term list for this category, corrected four times and still assumed incomplete
+>
+> **Scan with all of these, case-insensitively, against a dash-normalized copy of the text:**
+> `death` · `funerar` · `mortuar` · `mourn` · **`griev`** · **`bereave`** · `burial`
+>
+> **Four defects found in four consecutive districts, every one by content that existed and scored zero:**
+> `funeral` does not match *funerary* (the Circuit); `mortuary` was never on the list at all (Scorpio, Leo);
+> **`mourn` does not match *grief*, *grieving* or *bereavement*** — which is the entire register of a district
+> whose characteristic bereavement **has no body and no event** (the Frostlands); and a term can fail on a
+> **character**, since `human-robot` scored zero against an en dash (the Undergrid). **Assume the list is still
+> short.**
+>
+> ⚠ **Scan-term correction, 2026-08-29, found by the Circuit's Gate 1.** The term `funeral` **does not match
+> `funerary`**, which is the word a section on this subject is most likely to actually use. The Circuit's own
+> §XXII scored **0** on `funeral` while scoring **2** on the `funerar` stem. **Use the `funerar` stem, not
+> `funeral`**, and treat the counts below as a possible undercount for the same reason. Re-scan during the
+> back-fill.
+
+| District | death | funeral | burial | mourn |
+|---|---|---|---|---|
+| Scorpio | **7** | 0 | **5** | 0 |
+| Aries | **4** | 0 | 0 | 0 |
+| Cancer | 3 | 0 | 0 | 1 |
+| Taurus | 1 | 1 | 0 | 1 |
+| Leo | 1 | 0 | 0 | 1 |
+| The Yards | 0 | 1 | 2 | 1 |
+| **The Labs** | **0** | **0** | **0** | **0** |
+| **The Government District** | **0** | **0** | **0** | **0** |
+
+**Death practice appears only where some *other* finding happened to drag it in.** Scorpio has it because
+mortuary work is its civic function; Aries because of the martyrs and the Silence Board; the Yards because the
+missing guild burial fund became a finding. **Where nothing else pulled it in, it is simply absent** — and
+**the template never asked.**
+
+**That is not a district-level omission. It is a hole in the instrument**, and it is the second one found
+*(the first: no phase covers inter-district relationships, `00e` §6)*.
+
+### The category, and the questions
+
+**Every society has a relationship to its dead, so the *question* is obligatory. A local cemetery is not, and
+neither is a dedicated section.** *(Developer note, 2026-08-29.)* In a real city most districts have a local
+burial ground — **but not all of them do**, and the ones that don't are not thereby societies without death
+practice. **The gap this category closes is that the instrument never asked, not that every district is missing
+a graveyard.**
+
+**So the deliverable is an answer, and *"it happens somewhere else"* is a complete one.** Concordia is a sealed
+city with **finite interior volume and no ground to open** — which makes a centralized or exported answer the
+*expected* one and a district-local burial ground the **exception that needs a reason.** Scorpio's mortuary
+function is a citywide service; a district that uses it has answered the question fully by using it.
+
+**Write a Death and the Dead section only where the district's answer is characteristic of that district.**
+Where the answer is *"the remains go wherever the city's arrangement sends them, the family does what families
+do, and nothing about that is particular to us,"* **record it in a line and move on — do not inflate it into a
+section to satisfy a checklist.** *(And per §1b, do not name that arrangement: it is deferred.)* A thin invented rite is worse than an honest sentence. *(Same discipline as Gate 8: a category that
+produces nothing standout for this district is allowed to produce nothing.)*
+
+**The obligation, precisely:** ask the four questions below of every district; **write a section only where the
+answers are distinctive.** Do not manufacture divergence — thirteen bespoke funerary traditions in one sealed
+city would be its own Gate 6b failure.
+
+- ⚠ **DO NOT ANSWER "what happens to a body."** *(Developer decision, 2026-08-29 — deferred.)*
+  **Concordia has no canonical disposal arrangement.** No cremation, no interment, no civic mortuary service,
+  for any district — verified against `District_Canon_Reference.md`, which contains none of it. A sealed city
+  with finite interior volume and no ground to open must do *something*, and **the project has not decided
+  what.**
+  **An earlier version of this section asserted that "the body goes to Scorpio, which does this for the city as
+  a civic function." That was invented, and it was wrong twice over** — it is not in canon, and the line it was
+  half-remembered from (*"the most elaborate memorial tradition in the city; the dead are not simply remembered,
+  they are maintained"*) **belongs to Cancer, not Scorpio.** It passed Gate 3 on three districts because each
+  pass checked against the previous pass instead of against canon.
+  **Until it is decided: write disposal as explicitly unresolved.** Say the district's practice *around* the
+  dead and state that where the remains go is not established. **Do not invent a mechanism, and do not repeat
+  another pass's invention.**
+- **Who does it?** A trade, a duty, a rotation, an outside service? *(Scorpio's body-breakers are one answer;
+  the Yards, which never developed a burial fund, is another.)*
+- **What is remembered, by whom, and for how long?** Distinguish the **record** from the **rite** — Aries sings
+  its dead and keeps no archive; Libra keeps everything and marks nothing.
+- **Who is not mourned properly, and why not?** The most productive of these, and usually a shadow finding.
+- **Is the absence itself the finding?** A district with no practice of its own is a real and often better
+  answer than an invented one — **but say *why*.** Somewhere that outsources its dead because it has no room,
+  because its people arrived too recently to have buried anyone here, or because it would rather not look, are
+  three different districts.
+- **And the two districts scoring zero have the sharpest unanswered versions:** the Labs runs a thirty-year
+  closed experiment on residents who live inside it; **Libra legislated how long other people may grieve** and
+  has no stated practice for its own dead.
+
+**Back-filling the eight completed districts is now a real outstanding task**, not a tidy-up. It is recorded in
+the Plan. **Expect that pass to produce fewer than eight sections** — and that is the correct outcome, not an
+incomplete one.
+
+---
+
+## 2. Prerequisites
+
+Phases 1-6 for the target district. This phase draws on Architecture and Sensory Profile (what art and music
+physically happen in, and sound like), Religious/Philosophical Landscape (what holidays observe, and what the
+counterculture pushes against), Ordinary Daily Life (who actually lives here), and the Thematic Breadth Catalog
+(where all of this takes place).
+
+---
+
+## 3. Sources
+
+Everything from Phases 1-6, plus specifically:
+
+1. **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** — siligel, coolant,
+   robot coffee, smoking, and **Glitch-Coolant** (the robot alcohol equivalent, with its established
+   bohemian-variety vs. working-class-potency split). **Mandatory** before writing Cuisine §c. Do not write
+   robot cuisine without reading it.
+2. **The district's completed Phase 5 Ordinary Daily Life finding** — the population picture everything here
+   must remain consistent with.
+3. **`District_Canon_Reference.md`**'s Cultural Texture and Community Infrastructure sections — these often
+   already contain an unlabeled food, craft, or music practice.
+4. **The district's up-front real-world research** (Phase 1 §0). Cuisine, music, and craft are what real-world
+   locations document most thoroughly, so unused picks are usually richest exactly here.
+5. **`District_Refugee_Diaspora_Composition.md`** — read it specifically to know **what to write around**. Its
+   contents are the transplanted layer; this phase writes the native layer underneath and beside it.
+
+---
+
+## 4. Process
+
+**Step A — Native first, transplanted second, kept visibly separate.** For each category, answer what the
+district developed on its own before touching what arrived with feeder populations. The diaspora file already
+handles the latter; this finding's job is the former, plus how the two now interact.
+
+**Step B — Cuisine: all three sub-sections, and §c is not optional.** Robot cuisine is the single most neglected
+part of the template across this entire project. Siligel is national canon; how a district produces, prepares,
+and regards it is genuinely district-differentiating, and Glitch-Coolant's existing bohemian/working-class
+split is a ready-made axis to localize.
+
+**Step C0 — Look for the counterculture's seed in Ordinary Daily Life before deriving it. *(Mode A districts
+only — see the scope note at the end of this step.)*** *(Added 2026-08-29.)*
+Phase 5 is written to describe people doing ordinary things, which means it routinely records small acts of
+quiet non-compliance without recognizing them as such. Taurus's entire counterculture was already sitting in its
+Phase 5 finding as a throwaway clause — *"small unrecorded personal crafts deliberately kept apart from the
+heirloom-repair co-ops (not everything needs to become a genealogical object)"* — and needed formalizing rather
+than inventing. **Re-read Phase 5 looking specifically for the word "not," and for anything a resident is
+described as deliberately keeping out of an institution.** That is usually the counterculture, already observed.
+
+**Confirmed 2026-08-29 — two for two, so run this step before deriving, not after.** Leo's entire counterculture
+was likewise already present in its Phase 5 finding, as the observation that genuine escapism there means
+finding a moment *without an audience*, in private unrecorded spaces off the district's information network.
+Both seeds were single throwaway clauses describing an ordinary person's downtime, and in both cases the
+formalized counterculture is more grounded than anything derivation alone would have produced. **Phase 5
+records what people do when nobody is making them perform their district's values — which is, definitionally,
+where its counterculture already lives.**
+
+> **Scope: Mode A only.** *(Corrected 2026-08-29 after the first Mode B run.)* The technique works because the
+> seed was written by someone **not thinking about counterculture**, often months earlier — an independently
+> observed detail. In Mode B, Phase 5 and Phase 7 are written in the same pass, so mining Phase 5 means planting
+> your own seed and then finding it. That is circular and yields a worse answer than deriving honestly.
+> **In Mode B, derive from Step C and treat any Phase 5 resonance as corroboration, not as the source.**
+
+> **First, check whether the district already has one in canon.** *(Added 2026-08-29.)* Capricorn did — the
+> Recalibration Underground — and Step C correctly **confirmed** it rather than inventing a rival. That is a
+> legitimate and probably under-used outcome: a district with an established dissenting body does not need a
+> second one, and giving it one would be the same error as inventing a religion for a district that already has
+> a named faith (`02_Phase_2` §8). **Search `District_Unity_of_Opposites.md` and the district's Canon Reference
+> before deriving.**
+>
+> **And check whether the district's dissent is a *population* at all before assuming it is one.** *(Added
+> 2026-08-29 from Aquarius — a sixth type, and the first that is not a group.)* **The Labs has no dissenting
+> body**, because its review board and its underground annex are **the same people**: the district's two
+> accounts of itself are held simultaneously by each individual rather than distributed between factions.
+> **A counterculture written for it would have been a fabrication.** The consequence is worth having — such a
+> district **cannot be reformed from within and cannot be opposed from within either, because there is nobody
+> to organize.** Ask: *is the contradiction between groups here, or inside each person?*
+>
+> **Do not default to a refusal.** *(Added 2026-08-29, after four countercultures.)* Three of the four so far
+> are refusals — Taurus's decline the record, Leo's decline recognition, Scorpio's decline the silence — and the
+> shape was becoming a habit. **Aries's breaks it: the Tally *add* a practice the district does not have at
+> all**, keeping unofficial ledgers of what the district gave away and what it cost, in a culture whose ethic
+> forbids the accounting. **A counterculture can refuse what the district demands, perform what the district
+> cannot, or demand the district's own stated rule be applied more literally than the mainstream applies it** —
+> Capricorn's is the third kind, and it is the hardest to dismiss precisely because it is *more* orthodox than
+> the establishment it embarrasses. The second kind is rarer, more interesting, and much likelier to be missed — check for it
+> deliberately, especially where the capability reading has already named a faculty the district lacks, since
+> that is exactly where someone will be doing it unofficially.
+
+**Step C — Counterculture: derive it from the dominant culture's specific pressure, never from generic
+rebellion.** The strongest countercultures are the exact negative image of what the district demands. A district
+built on compulsory visibility generates people who refuse to be seen; one built on permanence generates people
+who refuse to be recorded; one built on performance generates people who refuse to perform. Ask: **what does
+this district require of everyone, and who cannot or will not give it?** That population is the counterculture.
+Keep it sympathetic rather than criminal, per the project's established non-malice discipline
+(`Cross_District_Non_Malice_Audit.md`).
+
+**Step D — Human-Robot Relations: find the local inflection, not the national baseline.** **The strongest
+available move is that the district reorganizes its population along a different axis entirely** *(added
+2026-08-29)*. Taurus's finding is not that humans and robots relate unusually there — it is that the operative
+social division is **paired versus unpaired**, which cuts across both populations and leaves an unpaired human
+and an unpaired robot with far more in common with each other than either has with a bonded pair. That is a
+genuine local inflection, it is invisible from the national baseline, and it made the district's existing
+central wound cut deeper. **Ask: is there a category here that matters more than species?** If so, that is the
+finding, and the human-robot question answers itself underneath it. The national baseline
+is egalitarian and robot-skewed (`project_human_robot_relations_baseline`). Restating it is not a finding. The
+finding is what *this district's* function does to that baseline — which roles each population concentrates in,
+where friction actually occurs, and what here would look unusual to a resident of another district.
+
+**Step E — Municipal Holidays: two to four, and at least one should be small and unserious.** A district does
+not need a full calendar. Give it a couple of real observances tied to its own history, and resist making them
+all solemn — one ordinary, slightly silly, genuinely enjoyed local holiday does more for a district's
+livability than a third memorial day.
+
+**Step F — Apply `00b_General_Population_Discipline.md` throughout.** Music especially: a district's
+professional performers are not its general musical culture.
+
+---
+
+## 5. Per-district status
+
+| District | Status |
+|---|---|
+| 01 Cancer | **Done 2026-08-16**, **depth re-run 2026-08-29** — the district this phase was discovered on; **Death and the Dead written in the re-run** (XXXIX), disposal deferred |
+| 02 Taurus | **Done 2026-08-29** — added retroactively; the district had been marked "all phases complete" without it |
+| 03 Leo | **Done 2026-08-29** — added retroactively; same defect as Taurus, caught by Gate 0 |
+| 04 Scorpio | **Done 2026-08-29** — first Mode B district |
+| 05 Aries | **Done 2026-08-29** — second Mode B district |
+| 06 Capricorn | **Done 2026-08-29** — third Mode B district; first Review Panel run on the archetype roster |
+| 07 Aquarius | **Done 2026-08-29** — fourth Mode B district; first run under LAW 0 |
+| 08 Libra | **Done 2026-08-29** — fifth Mode B district; first complete research set (4/4) |
+| 09 Gemini | **Done 2026-08-29** — sixth Mode B district; **first district to receive the Death and the Dead category as part of the pass rather than by back-fill** |
+| 10 Pisces | **Done 2026-08-29** — seventh Mode B district; **first written under the Virgo/Pisces pairing rule**; second district to earn a Death and the Dead section in-pass |
+| 11 Sagittarius | **Done 2026-08-29** — eighth Mode B district; **Death and the Dead is the strongest section yet** (no body, so nobody is ever declared dead) |
+| 12 Virgo | **Done 2026-08-29** — ninth Mode B district; **first run with Gate 11**; second doubled row, written under the pairing rule |
+| 13 Hub | Not started — **deferred by the developer**, and note it has **no capability row at all** (round 10) |
+
+---
+
+## 6. Output format and placement
+
+Same convention as every phase: new Roman-numeral Findings appended to `{Name}_Full_Extrapolation.md`, tagged
+`(District Culture Development Plan, Phase 7)`, opening **Proposed:**, with Worth Your Attention updated after.
+Seven categories is a lot for one Finding — split into two or three grouped sensibly. Cancer used: Cuisine +
+Music + Arts as one, Human-Robot Relations + Counterculture + Private Life as another, Holidays as a third.
+
+---
+
+## 7. Pitfalls
+
+- **Skipping robot cuisine.** The most-skipped item in the template, and the one with the most established
+  canon sitting behind it.
+- **Writing transplanted culture as native.** The diaspora file already did that work; duplicating it produces
+  nothing.
+- **Generic counterculture.** "Some people dislike the rules" is not a finding. Derive it from the specific
+  pressure (Step C).
+- **Restating the national human-robot baseline** instead of finding the local inflection.
+- **All-solemn holidays.** At least one should be genuinely fun.

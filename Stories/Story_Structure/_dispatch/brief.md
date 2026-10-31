@@ -21,7 +21,7 @@ These are local only and git-ignored. Never copy them anywhere else.
 - **Truby:** `Truby - The Anatomy of Story (PDF pages).txt`. `{p.N}` marks the start of PDF page N. Cite as (Truby, PDF p. N).
 - **Snyder:** `Snyder - Save the Cat (EPUB sections).txt`. There are no page numbers; cite by chapter title, e.g. (Snyder, ch. 4 "Let's Beat It Out!").
 - **Harmon:** the two StudioBinder worksheet texts (`Harmon - ...`). Use web research too; see the Harmon assignment.
-- **The author's composite master** (for the "In the composite" section): `Stories/Story_Structure/from CurrentNovelDocs/story-structure-definitions.md`.
+- **The author's composite master** (for the "In the composite" section): `Stories/Story_Structure/story-structure-definitions.md`.
 - **The gap analysis** (what the master lacks): `Stories/Story_Structure/GAP ANALYSIS - sources vs definitions (2026-10-29).md`.
 
 ## What to write

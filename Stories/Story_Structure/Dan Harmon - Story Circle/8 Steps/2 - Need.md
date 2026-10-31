@@ -66,7 +66,7 @@ In the circle's symmetry, step 2 is the first of the two "paternal," active, mas
 - **Others:** StudioBinder ties this step to the sequence approach's main tension. ⚠️
 
 ## In the composite
-The master (`from CurrentNovelDocs/story-structure-definitions.md`) names "NEED" only in its standing-rule list. It does not define it.
+The master (`story-structure-definitions.md`) names "NEED" only in its standing-rule list. It does not define it.
 
 The Campbell stages Harmon places here appear in the master as aliases:
 - Call to Adventure, under **Catalyst**;

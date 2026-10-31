@@ -1,6 +1,6 @@
 # Gap analysis: the source frameworks against the definitions file (2026-10-29)
 
-**Research only. Nothing here is decided.** This compares each source framework's full list of beats, signposts or steps with `from CurrentNovelDocs/story-structure-definitions.md`, the master composite. The Timeline copy (`from TepenianUniverseTimeline/definitions/README.md`) and the Cryptograph Helix copy add nothing beyond a blank beat-sheet template, so the master is the complete version.
+**Research only. Nothing here is decided.** This compares each source framework's full list of beats, signposts or steps with `story-structure-definitions.md`, the master composite. The Timeline copy (TepenianUniverseTimeline `definitions/README.md`) and the Cryptograph Helix copy add nothing beyond a blank beat-sheet template, so the master is the complete version. That template is now the master's appendix.
 
 Legend:
 - ✅ = defined in the master;

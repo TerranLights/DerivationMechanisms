@@ -43,7 +43,7 @@ After the first revelation and decision (step 9). The plan opens the **drive**, 
 
 ## In the composite
 
-- **Not defined** in the master (`from CurrentNovelDocs/story-structure-definitions.md`); the gap analysis lists Plan as a template beat with no meaning.
+- **Not defined** in the master (`story-structure-definitions.md`); the gap analysis lists Plan as a template beat with no meaning.
 - The author's arc template has a PLAN slot at the start of its "Initiation" section, directly after the threshold / Doorway to Act 2 (`CurrentNovelDocs/y-template/structure/character arcs/doll.md`).
 - The character-sheet template has a "Plan" field.
 - Training is not yet in the composite.
