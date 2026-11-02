@@ -61,7 +61,7 @@ rescued a dead end and supplied the pass's best structural contrast.***
 
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 0953f4429c55b512 · 417 lines · re-pinned 2026-09-06**
+> **Source:** `../../RWBEM [Real-World Basis Extrapolation Method]/Real-World_Basis_Extrapolation_Method.md` · **pinned 0953f4429c55b512 · 417 lines · re-pinned 2026-09-06**
 > *(was `87c96bdb1c7bff79` · 199 lines. **The original gained `LAW 0-R` on 2026-09-06 and this copy gained it in the same commit** — so the pin moved for a known, deliberate reason, not by drift. ⭐ The block above this box is that addition, stated in full in both files per its own rule.)*
 >
 > ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the

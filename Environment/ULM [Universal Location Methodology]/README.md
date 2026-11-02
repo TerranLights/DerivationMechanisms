@@ -195,8 +195,8 @@ These already exist, are already general, and are referenced rather than rebuilt
 
 | File | Why it is not duplicated here |
 |---|---|
-| `../Cultural_Synthesis_Techniques.md` | Already explicitly general-scope — it names districts, outer cities, DLC locations, *"or a location in any future project."* It supplies the **operations**; this folder supplies the **procedure**. Eighteen techniques, each with a divergence table. |
-| `../Real-World_Basis_Extrapolation_Method.md` | The research method. Already cross-scale. |
+| `../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md` | Already explicitly general-scope — it names districts, outer cities, DLC locations, *"or a location in any future project."* It supplies the **operations**; this folder supplies the **procedure**. Eighteen techniques, each with a divergence table. |
+| `../RWBEM [Real-World Basis Extrapolation Method]/Real-World_Basis_Extrapolation_Method.md` | The research method. Already cross-scale. |
 | The Review Panel *(`00f`; address in `00_RUNBOOK.md`)* | Explicitly stated to carry unchanged to *"a surface city, a nation, an orbital settlement, a station, or a ship — and in a novel or a film as readily as in a game."* Only the casting changes. |
 | `.../00d_Shadow_Proportion_Discipline.md` | Explicitly binding on any derived methodology. |
 | `.../00b_General_Population_Discipline.md` | Universal in substance — but see `01`, because it **inverts below roughly thirty people** and that limit was never stated. |
@@ -226,7 +226,7 @@ this project's methodology work, and asking it once is worth more than another s
 
 ## The rule that governs everything here
 
-Carried unchanged from `../Cultural_Synthesis_Techniques.md`, because it is the reason any of this exists:
+Carried unchanged from `../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md`, because it is the reason any of this exists:
 
 > **Never carry one location's answers into another. If two places produce similar-shaped answers to the same
 > technique, at least one of them is wrong.**

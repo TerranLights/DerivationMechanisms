@@ -1,6 +1,6 @@
 ## [Full Name] / "[Common Nickname / Callsign]"
 
-- **Type:** (human / synthetic / other — whatever ontological categories your setting actually has)
+- **Type:** (human / synthetic / other — whatever physical or ontological categories your setting actually has)
 - **Role / Archetype:** (archetype)
 - **Personal timeline/timeframe:** (whatever date/era format your setting uses)
 - **Place of origin:** (placeholder)
@@ -10,6 +10,10 @@
 - **Original Manufacturer:** (if applicable)
 - **Original Catalog Page (if applicable):**
 
+*Medium-agnostic variant:* **Type** reads "(Doll / Human / other — physical or ontological
+classification)", the timeframe placeholder is a year (`XXXX`), and the three origin fields are **Original Doll
+Model**, **Original Doll Manufacturer** and **Original Doll Website Catalog Page (if applicable)**.
+
 ## Core Identity
 **Enneagram / Personality Framework:**
 - Type: XwY (Z Subvariant)
@@ -18,9 +22,9 @@
 - Hornevian Group: Withdrawn / Compliant / Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
 
-*Project-specific characterization frameworks (e.g. a novel's own arc-typing system, or a game's stat block
-and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not
-duplicated here.*
+*Project-specific characterization frameworks (e.g. a novel's own arc-typing system, such as its KWML type /
+Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's
+own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
 **Strengths & Skills (what they're good at):** TBD
@@ -29,7 +33,8 @@ duplicated here.*
 **Internal Conflict (competing desires or psychological contradiction):** TBD
 
 ## Visual Description
-(1–2 paragraph description. Reference any existing reference art directly.)
+(1–2 paragraph description. Reference any existing reference art directly, e.g. files in the `Reference_Images/`
+folder.)
 
 ## Personality & Voice
 - Brief Personality Summary (abbreviated): TBD

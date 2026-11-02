@@ -1,6 +1,6 @@
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Cultural_Synthesis_Techniques.md` · **pinned d9de2a3f2882c542 · 1193 lines · re-pinned 2026-09-06**
+> **Source:** `../../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md` · **pinned d9de2a3f2882c542 · 1193 lines · re-pinned 2026-09-06**
 >
 > ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the
 > same rules — identical in substance, with location-specific worked instances replaced by pointers** — so the

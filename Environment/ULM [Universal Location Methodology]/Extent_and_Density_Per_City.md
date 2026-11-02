@@ -418,10 +418,10 @@ Antarctica**.* **Northern half: a high, level, extensive plateau, max ~180 m. So
 dissected, "ribbed" with small hills. A transverse valley cuts the island east–west at barely above sea
 level.** ⚠ *And **>80% of the surrounding James Ross archipelago is glacier and permanent snowfield.***
 
-> ### ⭐⭐⭐ **THE ONE TEPENIAN CITY THAT NEVER HAD TO BUILD ON ICE.**
+> ### ⭐⭐⭐ **ONE OF ONLY TWO TEPENIAN CITIES THAT NEVER HAD TO BUILD ON ICE.**
 > **Everywhere else builds on ice, on a rock scrap, or on stilts. This one has ground — bare, flat, drained,
-> 78 km² of it.** ⭐⭐ ***And it is the same fact as the airfield:*** *the real runway here is the only one in
-> Antarctica needing no snow or ice preparation, for precisely this reason.* **The aviation identity is not
+> 78 km² of it.** ⭐⭐ ***And it is the same fact as the airfield:*** *the real runway here sits on bare ground
+> and needs no snow or ice preparation, for precisely this reason.* **The aviation identity is not
 > sited on the geology; it IS the geology.**
 
 ⚠ **Note against [[feedback_realworld_fact_vs_fiction_driver]]:** *"ice-free" is a striking fact, and striking
@@ -618,7 +618,7 @@ Foothills. *Same shape, one subnet over.*
 | Princess Elisabeth | Halley | 1,137,917 | 114 | 163 | Utsteinen ridge |
 | Belgrano | Halley | 1,071,890 | 107 | 153 | Bertrab nunatak |
 | Sinheung | Mirny | 1,069,350 | 107 | 153 | Larsemann Hills |
-| Abowasa | Halley | 1,034,241 | 103 | 148 | Basen nunatak |
+| Abowasa *(now Santa Luce)* | Halley | 437,614 *(was 1,034,241; scenario `DR-67`/`DR-68`, 2026-10-28)* | 44 *(was 103)* | 63 *(was 148)* | Basen nunatak |
 | **Concordia** | Janbogo | 1,015,947 | 102 | 145 | **Dome C plateau — 0% rock** |
 | Troll | Halley | 954,450 | 95 | 136 | Jutulsessen |
 | Sanay | Halley | 463,669 | 46 | 66 | inland bedrock + coastal port |

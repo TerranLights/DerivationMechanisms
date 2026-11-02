@@ -270,7 +270,7 @@ quirk bolted on, it is somebody noticing that the thing everyone complains about
 *(Real-world instances of the pattern, offered as evidence that it is a pattern and not a whim — Siberian
 permafrost mammoth-ivory trade; Norilsk reprocessing century-old smelter slag heaps as ore; the Svalbard seed
 vault; cold-active enzymes from polar organisms in commercial detergent. **Per the standing rule, these are
-sources, not specifications** — see `../Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md`, and
+sources, not specifications** — see `../../Environment/RWBEM [Real-World Basis Extrapolation Method]/Real-World_Basis_Extrapolation_Method.md`, and
 research any of them properly before it becomes canon.)*
 
 **In-corpus, the model already exists and the sweep already identified it**: Cape Adare's **guano extraction**

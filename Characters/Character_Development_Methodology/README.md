@@ -58,8 +58,10 @@ kind of character at all — skip it entirely otherwise).
 
 Two character-folder templates, one per project type — copy the whole folder for a new character:
 - **`Character_Folder_Game/`** — the character-folder template the Pipeline fills for a game: the profile
-  `README.md` (with category, companion, stat-profile and lore-presence sections), `Personal_Background/`, and
-  `Questlines/`.
+  `README.md` (with category, companion, stat-profile and lore-presence sections), `Personal_Background/`,
+  `Questlines/` and `Reference_Images/`. One folder serves every character category (still present in the game,
+  known only from past history, off-world or missing); sections that apply to only one category are marked
+  inline, and so are per-project differences.
 - **`Character_Folder_General/`** — the lighter cross-project profile template, used by `Rapid_Intake/`: the
   profile `README.md`, `Personal_Background/` (formative history, conflict experiences, relationships,
   loyalties, timeline, logs) and `Reference_Images/`.

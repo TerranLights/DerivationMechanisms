@@ -120,7 +120,7 @@ mainstream/counterculture, generational, legal-versus-narrative), not an error.
 
 **Web research on a real, specific comparable, fused against established in-fiction fact.**
 
-**Governed entirely by `../Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md`** — this system does
+**Governed entirely by `../../Environment/RWBEM [Real-World Basis Extrapolation Method]/Real-World_Basis_Extrapolation_Method.md`** — this system does
 not restate that method, it calls it. **Three of its rules matter most here:**
 
 - **Research the specific place, never the category.** *"An ancient Greek healing sanctuary"* yields nothing;

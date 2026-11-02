@@ -266,10 +266,10 @@ To work through with the author later:
 - Skills: Skills.md gives both 25 and 26; old 44-skill references remain.
 - Sinian Federation: CurrentNovelDocs copy of Zhongshan's sheet still says it "drove the war" (corrected 2026-08-30).
 - St. Carsten's Landing (Feb 17, from a non-canon Course of Events file) vs St. Carsten's Wintering (culture sheet's central observance): DRQ-01b awaits a ruling; St. Carsten also missing from the National_Holidays Saints roster.
-- St. Richard: Amundsen Station culture file calls St. Richard "Scott, who reached the Pole second"; everywhere else St. Richard is Byrd and Scott is St. Robert. Byrd spec hedges on whether Byrd venerates him.
+- St. Richard: Amundsen Station culture file calls St. Richard "Scott, who reached the Pole second"; everywhere else St. Richard is Byrd and Scott is St. Robert. Byrd spec hedges on whether Byrd reveres him.
 - St. Jules: culture sheet says France "gave it St. Jules", but French founders are ruled out; the city is to be renamed (DR-58); not on the Saints roster.
 - St. Ernest: which Peninsula city claims him (Signy vs Rothera) is open.
-- St. Roald's Day (Amundsen Station) vs St. Roald's Landing (Troll): two observances for one Saint; Troll spec asks whether Troll venerates him.
+- St. Roald's Day (Amundsen Station) vs St. Roald's Landing (Troll): two observances for one Saint; Troll spec asks whether Troll reveres him.
 - Splinters: SouthernLights says destroyed with Casey in 2812; GDD rows silent.
 - Space workforce: the shore-leave custom (DR-64) has no ruled name.
 - The Standing Works: post-war industrial survival (culture sheet, SouthernLights) vs the pre-war network's completed reach (Background-Lore, Palmer enhancement file).
@@ -280,7 +280,7 @@ To work through with the author later:
 - Temirötkel war damage: GDD "damaged" vs SouthernLights' Sayowa "spared in 2812 as too critical to destroy"; Timeline, SouthernLights, CurrentNovelDocs and TorontoFellOutGDD still say Sayowa; Japanese-founding passages to revisit; demonym open.
 - Temirötkel Junction: the city spec's Notable Locations and the Dome Fuji spec still describe a two-highway junction with Hwy 37 nearby; post-war control open.
 - Tepenian Constitution vs the Suspended Compact (GDD calls the Compact the Federation's founding document).
-- Tepenian Saints: St. Carsten and St. Jules missing from the roster; feast days unset; "pre-War of Upper Earth" vs "Pre-War" wording.
+- Tepenian Saints: St. Carsten and St. Jules missing from the roster; Saints' days unset; "pre-War of Upper Earth" vs "Pre-War" wording.
 - Tepenia's first bureaucratic archive: last haul ~2614 (Timeline) vs open (Pergamino spec); the Timeline and SouthernLights still say Juan Carlos.
 - Tactical Grid Combat: now a perk, but two perks and the 2026-10-18 log still treat it as a skill.
 - The Twin Channels origin: Long Night War information warfare (Concordia cultural sheet) vs a 250-year-old founding structure from the Treaty (SouthernLights).

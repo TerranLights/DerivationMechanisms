@@ -1,106 +1,12 @@
-> # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
->
-> **Source:** `../../Cultural_Synthesis_Techniques.md` · **pinned d9de2a3f2882c542 · 1193 lines · re-pinned 2026-09-06**
->
-> ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the
-> same rules — identical in substance, with location-specific worked instances replaced by pointers** — so the
-> ULM stays usable for any location in any universe *(the LAYERING LAW, `../00_RUNBOOK.md`)*.
->
-> **The ULM is a BROADER-SCALE methodology sitting ABOVE the District Synthesis Methodology, not a replacement
-> for it.** **⚠ This instrument is SHARED: the district methodology reads the original and depends on its
-> worked examples. Those stay exactly where they are.**
->
-> ### ⛔ The original is `WITHHELD` from a ULM COLD RUN — it carries ~11 worked instances plus findings for ~8 locations
-> **It opens at Step 7 with every other withheld source.** **Worked instances are copied to
-> `../Test_Runs/Worked_Examples_Archive/`, also withheld.**
->
-> ### ⚠ RE-VERIFY THE PIN before relying on this copy.
-> **A moved hash means the original changed and this copy may be stale — re-derive it in the same commit.**
-
----
-
 # Cultural Synthesis Techniques
 
-**A generative toolkit for building the culture of any specific place.** Scoped deliberately general — **any location, at any scale, in any setting.** Sibling to
+**A generative toolkit for building the culture of any specific place.** Scoped deliberately general — Concordia
+districts, the 35 outer Tepenian cities, DLC locations, or a location in any future project. Sibling to
 `Real-World_Basis_Extrapolation_Method.md`, which supplies raw material; this file supplies the *operations* to
 perform on it.
 
 **This repo is a CRPG.** The end consumer is a **player moving through the space**, not a reader of design
 documents. See §0b.
-
----
-
-# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.
-
-**Stated in full rather than cross-referenced, because a procedure that cites its governing law instead of
-stating it will be run without it.**
-
-**Worldbuilding is upstream of the entire project.** Every character, questline, faction, companion arc,
-personal struggle, daily hardship, pastime and small joy is **downstream of decisions made here.** A shallow
-location does not produce a shallow location — it produces shallow people living in it, shallow problems for
-them to have, and shallow reasons for anyone to care. **The cost of going fast here is not paid here.** It is
-paid later, everywhere, by work that cannot be fixed without coming back and redoing this.
-
-**Therefore:**
-
-- **Contemplate before writing.** The first plausible answer is usually the generic one, and a generic answer is
-  worse than no answer because it occupies the slot.
-- **Do actual research.** Not recalled, not inferred from a name. **The one controlled comparison this project
-  has ever produced** — same location, same author, same day, at two researched picks and at six — found that
-  **the two strongest findings came from picks four, five and six and did not exist at two.** The "redundant"
-  picks were not redundant; four of them were the pass.
-- **Chase nth-order effects.** For every finding ask **"and what does that cause?" three times.** First-order is
-  the observation. Second-order is usually the interesting one. **Third-order is where the place stops
-  resembling anywhere else.**
-- **Go deep on the specific, not wide on the general.** One institution understood to its third-order
-  consequences beats six sketched.
-- **Take the time.** There is no deadline and no credit for finishing quickly.
-
-## The anti-patterns this law exists to stop
-
-1. **Producing a location because it is the next one**, rather than because it has been thought through.
-   **Completion is not the goal; a place somebody could live in is the goal.**
-2. **Skipping research by declaring it redundant.** Prioritizing by difference is a real rule and it is also
-   *convenient*. **A pick is only redundant once you have actually looked at it. Redundancy asserted from a
-   title is a guess wearing the costume of a method.**
-3. **Treating "the phase is covered" as "the phase is done."** A finding that answers the template question is
-   the floor, not the ceiling.
-4. **Accepting the first coherent answer** because it fits and the pass is long.
-5. **Letting the gates substitute for thinking.** They confirm a pass is not *wrong*. **None of them can tell
-   you it is not thin.**
-
-**And the companion failure — research used as decoration.** Doing the research is not the same as letting it
-change anything. After each source, ask plainly: **did this change a finding, or ornament one?** Both answers
-are honest and must be recorded differently. A citation attached to a conclusion that would have been written
-anyway makes a thin pass look researched.
-
-## The closing test
-
-> **Could a person live an entire life here — and would that life be unlike a life in any comparable place?**
-
-If the honest answer is *"probably, I suppose,"* the pass is not finished regardless of what the gates say.
-
-> ### ⚠ Restated again, 2026-08-31, mid-Run-5 — because it needs to be heard again, not just cited
->
-> **Developer instruction, verbatim, given directly during Sinheung's cold pass:**
->
-> > *"Refining, fine-tuning, and perfecting this methodology is of absolute top-priority and importance to me.
-> > If it takes a month to get it right, then we spend a month testing and refining it."*
->
-> **What this adds, beyond what LAW 0 already says above:** it is not only that speed is not rewarded — it is
-> that **there is no ceiling on how long this is allowed to take, and no session should treat a long runtime as
-> a signal that something has gone wrong or that it should wrap up.** A pass, a phase, or a single finding that
-> is still open after extensive work is not evidence of failure; stopping early to manufacture a sense of
-> completion is the actual failure. **A future session reading this: you do not need to do this "quickly." You
-> need to do it *right*.** If the honest, current state of the work is "still going," that is a legitimate and
-> expected state, not a problem to paper over.
-
-*(Copied here in full, verbatim, from `00_RUNBOOK.md`, 2026-09-03 — per developer instruction, after a live
-session read this law once at the start of a run and still failed to follow it partway through. Placed at the
-top of every ULM instruction file rather than cross-referenced, for the reason the law itself already states.)*
-
----
-
 
 ---
 
@@ -116,9 +22,8 @@ the point of the entry — more than any single worked example.
 least one of them is wrong. A technique that yields a worn keepsake token in one district and a worn keepsake
 token in the next has not been applied; it has been copied.
 
-**Worked examples are marked `[one instance]`.** **In THIS COPY they are replaced by pointers**; *the
-original states each one in full, and the district methodology depends on them.* ***A worked instance is AN
-answer, never THE answer.***
+Worked examples cite Concordia's Cancer district, the first location run through the full method. They are
+marked **[one instance]** and kept deliberately brief. Cancer is *an* answer, never *the* answer.
 
 ---
 
@@ -312,7 +217,8 @@ how people work in it. Change the substrate, change the franchise.
 
 **Player value.** Turns undifferentiated surfaces into a readable field of individual human decisions.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: the **Window Reach** — alter the wall as far as your arm reaches from your own
+window, no further.
 
 ---
 
@@ -341,7 +247,9 @@ to?*
 **The refusal is often the strongest half.** A culture that declines to make its worst outcome comfortable —
 no consoling ritual, no clean closure — says more than any ceremony.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: continuation fails when the keepers run out → strangers adopt lapsed routines;
+unadopted ones wait indefinitely somewhere that never discards anything; and the district pointedly never
+developed a rite to make final lapse feel acceptable.
 
 ---
 
@@ -373,7 +281,7 @@ non-believers perform it identically; and it should be what a displaced resident
 **Player value.** Cheap to animate, reads instantly on every ambient NPC, and becomes a live social mechanic
 the moment the player can conspicuously skip it.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: a brief settling pause before any shared task.
 
 ---
 
@@ -401,7 +309,8 @@ differ completely person to person — and what's the etiquette around asking?*
 **Player value.** One reused art asset that promises depth on every NPC; a natural dialogue opener; a giftable
 item; a quest token.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: half of a deliberately broken small object, worn at the collar; meanings vary
+entirely by bearer and nobody asks.
 
 ---
 
@@ -426,7 +335,9 @@ technology — an agricultural district and a foundry district cannot explain th
 
 **Player value.** Atmosphere becomes a structure the player can find, enter, climb, sabotage, or repair.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: a long-established ambient haze finally explained by the district's own
+plant-and-air infrastructure — which then also produced a new smell and an unresolved question about where the
+vented air goes.
 
 ---
 
@@ -447,7 +358,8 @@ what one founding trade already knew how to make · what a shortage forced · wh
 **Why it personalizes.** The forcing constraint comes from founding conditions, which differ per place — and
 the *rationalization* differs again, because each culture moralizes its constraint in its own idiom.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: a no-straight-lines aesthetic rule, re-derived as the cheapest fast warm shelter its
+founding generation could build — the curve came first, the virtue was assigned later.
 
 ---
 
@@ -468,7 +380,8 @@ an inventory that doesn't balance · a population gap.
 **Player value.** Investigation content in its natural form — a truth deduced from the environment rather than
 confessed.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: written records of a triage crisis were destroyed, but the emergency-era buildings
+still stand, and their construction style is culturally legible as an admission.
 
 ---
 
@@ -491,7 +404,7 @@ record, and what would an outsider wrongly conclude from the surviving record al
 | Decisions | Who argued against them |
 | Names | Numbers, or vice versa |
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: successes are permanently posted in public; failures are recorded nowhere at all.
 
 ---
 
@@ -512,7 +425,8 @@ grows, casts, cuts, or refines anyway; a skill its main trade requires that is u
 **Player value.** A tradeable object carrying a place's identity outward, and a quiet way for the player to
 recognize provenance.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: a cast metal household object, made by a real local trade with no connection to the
+district's headline function, traded citywide and entirely unsolemn.
 
 ---
 
@@ -539,7 +453,8 @@ does still doing it convert them into a resident?*
 
 **Player value.** A reputation on-ramp that works without a quest ever announcing itself.
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Cancer: placed into ordinary needed labor on arrival; residency is simply what has happened
+once the term ends and you're still doing it.
 
 ---
 
@@ -584,7 +499,7 @@ them interact.
 **The question.** *Setting aside everything incoming populations brought — what did this place develop on its
 own? Only then: how do the two layers now sit together?*
 
-**Caution.** A real and easy failure, recorded from a real district set: transplant records were mistaken for
+**Caution.** A real and easy failure: in Concordia's district work, transplant records were mistaken for
 coverage, leaving an entire tier of categories unwritten.
 
 ---
@@ -618,7 +533,8 @@ it?* Start there.
 > *(cities)* · the pass's own `03_Research.md` and `04_Phase_10_Catalog.md` §B. ⚠ **A location with no research
 > log has genuinely not been mined yet** — *the absence is informative, not an obstacle.*
 
-**[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
+**[one instance]** Four of eight Cancer picks had never been used; three of those four produced the district's
+strongest material. Per-pick table in `Real-World_Basis_Extrapolation_Method.md`.
 
 ---
 
@@ -635,7 +551,7 @@ context's version? If the latter, what does everyone else do?*
 every crowd, every random door. The narrow answer is what they meet in one building. Reversed, a district feels
 like a themed attraction.
 
-Full discipline: `00b_General_Population_Discipline.md`, in this folder.
+Full discipline in `Concordia-City/Districts/Phase_Instructions/00b_General_Population_Discipline.md`.
 
 ---
 
@@ -648,7 +564,7 @@ Full discipline: `00b_General_Population_Discipline.md`, in this folder.
 4. **Filter through §0 and §0b.** New is good. Uncharacteristic is not. Unplayable is weak.
 5. **Not every technique fires everywhere.** A technique that produces nothing is a legitimate result — record
    the null rather than manufacturing a weak answer. Expect several nulls per location; a place where all
-   eighteen fire is a place someone has over-written.
+   fourteen fire is a place someone has over-written.
 6. **Genuinely new things that fit no category are kept**, named, and cross-referenced. That is the method
    working.
 7. **Add to this file.** Any new operation that produced a good result and could plausibly produce a
@@ -675,18 +591,19 @@ up empty — mourning, celebration, arbitration, hospitality, apprenticeship —
 populations' own home traditions before generating anything.** If one of them already had the missing form,
 that is very likely the real answer, and it is a better answer than an invention for three reasons:
 
-1. **It explains an institution that already exists** rather than adding a parallel one. **A site already
-   sitting in canon under a vague label — "a grief-processing space" — is very often the location's FIRST
-   institution of that kind, taught to it by an incoming population**, which explains why it exists at all
-   somewhere whose native practice had no such form. *(Worked instance in the original.)*
+1. **It explains an institution that already exists** rather than adding a parallel one. The Circuit's Zukelli
+   Memory Circles were sitting in canon as a "grief-processing space"; reading them as **the district's first
+   funerary institution, taught to it by its refugees**, explains why they exist at all in a district whose
+   native practice was to report a death and let it decay out of circulation.
 2. **It comes with a relationship, free.** A borrowed form is used by people it does not belong to, in the
    presence of people it does. That asymmetry generates ordinary, low-stakes, unresolvable social texture
    without anyone being at fault — a host-born resident who attends and feels they have no right to be there;
    a donor community that has never objected and finds it touching.
-3. **The host usually cannot say what it is receiving**, which is where the third-order finding lives. **A
-   host names the surface — the food, the music — and cannot name the FORM it is receiving** *(in the archived
-   instance: a meal with a beginning and an end, eaten in one place, with the same people present at the end
-   as at the start)*. **No native version, so no word for it.**
+3. **The host usually cannot say what it is receiving**, which is where the third-order finding lives. The
+   Circuit adores the Zukelli food-and-music venues and believes it is enjoying the cooking. What it is
+   actually experiencing, in the only rooms where this is possible, is **a meal with a beginning and an end,
+   eaten in one place, with the same people present at the end as at the start** — a form it has no native
+   version of and cannot name.
 
 **The diagnostic question:** *does this district lack the form, or does it merely lack a native one?*
 
@@ -699,23 +616,26 @@ that is very likely the real answer, and it is a better answer than an invention
 
 ### ⚠ Measured after twelve districts, and the honest count is not what it looked like
 
-**A run of consecutive passes producing findings from this technique reads as a perfect record — and is very
-likely the wrong denominator.** *(Four such passes are named in the original.)*
+**Four consecutive passes have produced Borrowed Form findings** — the Markets (mourning, from Zukelli), the
+Frostlands (the only durable record-form, from Denison), the Undergrid (its only closure instrument, from Davis
+and Casey), and the Circuit (two). **That reads as four for four and is the wrong denominator.**
 
-***Count the passes that had the source material open and produced NOTHING from it.*** **Three early passes
-cited the composition file heavily — 7, 3 and 6 times — entirely as TEXTURE**: a transplanted festival
-mentioned, a custom noted, a community named. **Not once was it asked what the host could not do for itself.**
+**The three early districts that used the diaspora file most heavily — Cancer, Taurus and Leo — produced
+*zero* findings from it.** They cite it 7, 3 and 6 times respectively, entirely as **texture**: a transplanted
+festival mentioned, a custom noted, a community named. **Not once was it asked what the host district could not
+do for itself.**
 
 **So the real claim is narrower and more useful: the technique works every time it is *applied*, and it was
 never applied before it existed.** The file was open in front of three passes that used it decoratively.
 
-> **Back-fill candidates, recorded rather than assumed: the passes that mined the material for texture only
-> should be re-checked for Borrowed Form.** Their diaspora material is present and unmined. Same class of task as the death-category back-fill,
+> **Back-fill candidate, recorded rather than assumed: Cancer, Taurus and Leo should be re-checked for Borrowed
+> Form.** Their diaspora material is present and unmined. Same class of task as the death-category back-fill,
 > and **expect fewer than three findings** — some districts genuinely borrowed nothing.
 
-**Where the material is.** *(This project: see `../00_RUNBOOK.md` §C.)* Weighted
+**Where the material is.** `Concordia-City/Districts/District_Refugee_Diaspora_Composition.md` — weighted
 per-district composition with named, portable institutions and social-cohesion mechanisms per contributing
-city. **Measured 2026-08-29: five of the nine completed districts make no use of it at all**, including one whose file uses the word *refugee* zero times.
+city. **Measured 2026-08-29: five of the nine completed districts make no use of it at all**, including
+Scorpio, which is a Stage 2 Override district and uses the word *refugee* zero times.
 
 
 ---
@@ -742,14 +662,14 @@ exception to anything.
 
 ### Worked instances
 
-**Two are stated in full in the original.** **What they demonstrate, stated generally:**
-
-- **A place can hold MORE THAN ONE instance of the faculty it lacks**, each filed under some other heading (an
-  accent, a piece of salvage, a maintenance chore), and **can be actively looking after one of them for an
-  unrelated reason without ever asking what it does.**
-- **The instance is usually a process where a quantitative standard or a physical constraint makes the call**,
-  so nobody's judgment is needed. **A place can solve its own central problem in one process, generations ago,
-  and never notice the method generalizes.**
+- **The Frostlands** can only keep what can be made to mean something — and hold **two** non-narrative recorders
+  already: an imported fixed-form recitation filed as a regional accent, and **salvage frames recovered from
+  lost expeditions that report intervals and readings without needing any of it to signify.** The district
+  repairs the second for morale and never asks what it saw.
+- **The Undergrid** cannot declare anything finished — and **closes items every day on its siligel purification
+  line**, where two independent measurements agreeing *is* the close-out, because the standard is quantitative
+  and needs nobody's judgment. **It solved its own constitutional problem in one process two hundred and fifty
+  years ago and never noticed the method generalizes.**
 
 ### How to run it
 
@@ -775,7 +695,7 @@ you can see it holding the answer and not recognizing it.
 
 ---
 
-## Technique — The Zodiac Lens *(added 2026-08-31, developer-proposed)*
+## Technique — The Zodiac Lens *(added 2026-08-31, developer-proposed, mid-Sinheung-Run-5 aftermath)*
 
 **Developer's own words, preserved in full, since this technique exists exactly as stated and any rewording
 risks losing the precision of the original instruction:**
@@ -795,13 +715,13 @@ risks losing the precision of the original instruction:**
 > shows up as in-world characteristically consistent, then that's fine, too. 'More' is only better if it
 > actually makes sense within the context of the setting, not 'more' simply for the sake of 'more results'."
 
-**Architecture.** **Where a setting already uses a RICH symbol system as a BINDING ASSIGNMENT** — one member
-per sub-location, its dignity terms read as that sub-location's capability profile *(`02` §6; this project's
-own instantiation is in `../00_RUNBOOK.md` §C.7)* — **this technique is a different, non-exclusive use of the
-SAME symbol set, available to any location the methodology touches, assigned or not.** Run all twelve
+**Architecture.** Concordia's thirteen districts use the zodiac as a **binding assignment** — one sign per
+district, the sign's dignity terms read as that district's actual capability profile (`02` §6, the RICH system,
+`Zodiac_Personality_Substrate/`). **This technique is a different, non-exclusive use of the same underlying
+symbol set, available to any location this methodology touches — Concordia district or not.** Run all twelve
 signs, one at a time, as independent interrogation prompts against a location's own already-established
 character (Phases 1–9, whatever generators actually produced it) — **never as an assignment, never as a
-capability-profile substitute, and never compared against or borrowed from any completed assigned sub-location's
+capability-profile substitute, and never compared against or borrowed from any completed Concordia district's
 own write-up.** The zodiac here supplies a *question*, not a *verdict*.
 
 **The question, run per sign.** *If this location had to produce something that embodied [Sign]'s own
@@ -810,11 +730,11 @@ registered character, what would that be — and does anything characteristicall
 **Process.**
 1. **Read each sign's dignity terms from `Zodiac_Personality_Substrate/`'s own registered files** — per `02`
    §6.0's standing rule, from the file, never from the sign's name or zodiac-tradition reputation. **This is
-   reading the raw symbol system, not the assigned sub-locations' own culture content** — the distinction matters and
+   reading the raw symbol system, not reading Concordia's own district content** — the distinction matters and
    must be kept clean: the *system* (what the sign's dignities say) is admissible; any *specific completed
    district's own culture-pass conclusions* about that sign are not, and must not be consulted, referenced, or
-   echoed. If a finding here happens to resemble an assigned sub-location's known character, that is a
-   coincidence to flag, not a reason for suspicion — but it must never be produced *by* consulting it.
+   echoed. If a finding here happens to resemble a Concordia district's own known character, that is a
+   coincidence to flag, not a reason for suspicion — but it must never be produced *by* consulting Concordia.
 2. **For each sign, ask the question against this location's own established capability profile, composition,
    founding condition, and every other phase already written** — never against a hypothetical, generic
    reading of what the sign "usually means."
@@ -826,10 +746,11 @@ registered character, what would that be — and does anything characteristicall
 4. **Zero, one, or several results per sign are all legitimate outcomes.** A sign producing nothing
    characteristically consistent is a real result (a null, per `03` §0.2 item 4's standing rule — record it,
    with the reason, rather than manufacturing a weak answer to fill the slot). **⚠ Added 2026-08-31, Run 10
-   M-78: where a sign's own file contains more than one internally distinct
-   register** *(e.g. a domestic/civic register and a separate mythic/cosmic one — several signs' files are built this way)*, **check the base-run question against each register
+   (Mountain Pass Airport), M-78: where a sign's own file contains more than one internally distinct
+   register** (e.g. a domestic/civic register and a separate mythic/cosmic one, as Cancer's own file does —
+   see `Zodiac_Personality_Substrate/04_Cancer.md`), **check the base-run question against each register
    separately before declaring a total null.** A location that opposes one register may still have real,
-   specific purchase in another — one archived run found nothing in a sign's domestic
+   specific purchase in another — Cancer's own run at Mountain Pass Airport found nothing in its domestic
    register (fully expected, given that location's own established deficit) but three genuine hits in its
    mythic register, producing a sharper, more precise finding ("selectively actualizes one register while
    refusing the other entirely") than either a flat total null or a forced match in the opposing register
@@ -845,7 +766,7 @@ registered character, what would that be — and does anything characteristicall
    governs every other technique in this file. A Zodiac Lens result is not exempt from either discipline just
    because it came from a symbol prompt rather than a generator.
 6. **⚠ State the stopping criterion explicitly, per sign — added 2026-08-31, developer-caught, twice, on the
-   same run.** A fixed target count is never the right stopping rule, whatever the count is. One recorded run's
+   same run.** A fixed target count is never the right stopping rule, whatever the count is. Sinheung Run 5's
    own first pass stopped at one candidate per sign; caught, it was re-run and mostly stopped at two — which is
    the identical failure at a different number, not a fix. **The only legitimate stopping rule is a stated
    reason, checkable by someone else:** either *"a further candidate was generated and rejected because it
@@ -876,14 +797,72 @@ named at `Universal_Location_Methodology/03_The_Phase_Spine.md` §0.4. A person-
 and folded into Phase 9 at `00_RUNBOOK.md` Step 5**, on that section's close-pass docket, and recorded as a
 revision inside Phase 9 itself rather than silently merged.
 
-**Divergence table.** ***A fully populated example exists in the original and is copied to
-`../Test_Runs/Worked_Examples_Archive/`.*** **What it demonstrates, stated generally:** **a full twelve-sign
-run yields a MIX** — mostly new results *(often two per sign)*, a few **corroborations**, at least one
-**sharpened framing**, and **at least one result recovered from an INITIAL NULL on re-check.**
-***Record the category per sign — new / corroboration / sharpened / null.*** **A run reporting only "new"
-results has probably not re-checked its nulls.**
+**Divergence table — populated 2026-08-31, Sinheung, Run 5, after two developer-caught corrections to the
+search discipline (see step 6 above and M-38b/observations log).** Full write-up, including both correction
+passes: `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
 
-### Extension — the Elemental/Planetary Cross-Check *(added 2026-08-31, developer-proposed
+| Sign | Results at Sinheung | Category |
+|---|---|---|
+| Aries | Chamber/freight emergency responder; freeze-thaw structural-emergency corps | New — 2 persons |
+| Taurus | A quarrier/stonemason; a private, never-forgetting counter-tradition to the civic record's amnesia | New — 2, one person one custom |
+| Gemini | An informal freight-priority fixer; a cross-community grapevine | New — 2 persons |
+| Cancer | A newly-manufactured-robot orientation practice (speculative); a founding-generation lineage tradition | New — 2, one flagged weaker |
+| Leo | The posted-output record board (corroboration); a small ship-day observance (fills Phase 6E's null) | 1 corroboration + 1 new |
+| Virgo | The Chamber Works quality examiner (corroboration); a thermal-regulation institution | 1 corroboration + 1 new |
+| Libra | Founding-as-instrument, not ancestor (sharpened framing); a ceremonial tri-city meeting | 1 sharpened + 1 new |
+| Scorpio | An unlisted violator registry; a concealed founding-elder influence circle (speculative) | New — 2, one flagged weaker |
+| Sagittarius | The historical Dome Fuji route pilot | New — 1 (checked, confirmed) |
+| Capricorn | Confirms the Chief Engineer / Neumayer relationship | 1 corroboration (checked, confirmed) |
+| Aquarius | The Mark IV compliance standard; a cross-origin voluntary technical society | New — 2, one thing one institution |
+| Pisces | An informal salvage/scrap trade — **reversed from an initial null** | New — 1 (initially missed) |
+
+**What two rounds of developer correction actually taught, kept here rather than only in the run's own log,
+because it is a property of the technique, not just of this run:** an under-searched pass and a well-searched
+pass can produce **outputs that look identical** — a plausible one-per-sign spread, then a plausible two-per-
+sign spread — while differing entirely in whether the stated result is what the setting actually supports or
+merely the first (or second) thing that came up. **The count is not evidence of rigor. The stated stopping
+reason is.** This is why step 6 above exists, and why it is binding on every future run of this technique, not
+optional polish.
+
+**Standing caution, restated because it is the whole point of the technique:** never carry one location's
+Zodiac Lens results into another's, and never let a completed Concordia district's own established character
+leak in as a comparison, a template, or an unconscious anchor. The lens is the same twelve signs every time;
+what each sign produces must come **entirely** from the location currently being read.
+
+7. **⚠ Per-HIT contradiction check — added 2026-08-31, developer instruction, immediately after Sinheung's
+   Elemental/Planetary Cross-Check run.** Developer's own words, preserved in full:
+
+   > "As a subagent is exploring, during the exploration, extrapolation, and analysis, any time there's a
+   > 'HIT', mark that particular symbol for further exploration, extrapolation, and analysis. This time,
+   > seeing if there are any 'contradictions' that may additionally also be true. For example, if the 'HIT'
+   > was an industry based around mining, could there also be anything different that may also
+   > characteristically fit? One possible example of 'contradicting' an industry based around mining could be,
+   > let's say for example, an establishment based around leisure. An example of this could be a bar where
+   > they have social activities somehow. Each 'HIT' should be explored further just to make sure that
+   > additional possibilities aren't lost. Ideally, the 'what sorts of things would also exist here' stage
+   > will ideally find emergent (possibly surprising) results that weren't part of the original per-location
+   > data, so it's important to make sure to check for additional results per 'HIT' just as a self-checking
+   > mechanism."
+
+   **Procedure.** Every time a result survives the §0/§0b filter and is kept — whether from the base twelve-
+   sign run or from an Elemental/Planetary cross-check cell — **do not move on immediately.** Deliberately
+   generate one candidate that sits in apparent tension with the hit just kept: a different register (industry
+   vs. leisure, formal vs. informal, communal vs. private, solemn vs. unserious, visible vs. concealed), and ask
+   whether *that* candidate **also** characteristically fits this location, on its own terms, per the same
+   filter every other candidate is held to. **This does not replace or challenge the original hit** — a
+   surviving contradiction-check candidate is kept *alongside* it, as a second, independent finding, the same
+   way the base technique already allows several results per sign where each genuinely earns its place.
+   **Most contradiction checks will find nothing**, exactly as most of the base 216 prompts found nothing — the
+   value is in the ones that do, precisely because an opposite-register possibility is the kind of thing a
+   single-direction search is likeliest to miss entirely.
+   **This is not the both-are-true test** (`02` §5.3) — that test *resolves* an apparent conflict between two
+   findings that already exist. This step *generates* the second candidate in the first place, before any
+   conflict has been found, specifically to check whether one is hiding under the other.
+   **Applies at every layer this file's techniques operate at**: the base twelve-sign run, each of the 216
+   Elemental/Planetary cross-check cells, and — per the subagent pattern above — inside each of the twelve
+   parallel per-sign agents' own work, not only in a later coordinating pass.
+
+### Extension — the Elemental/Planetary Cross-Check *(added 2026-08-31, developer-proposed, mid-Sinheung-Run-5
 aftermath, immediately after the technique's own first run and its two search-discipline corrections)*
 
 **Developer's own words, preserved in full:**
@@ -897,7 +876,7 @@ aftermath, immediately after the technique's own first run and its two search-di
 > the results against each other and see if they can combine in novel, emergent ways."
 
 **What this adds, formalized.** The base Zodiac Lens run (above) asks each of the twelve signs, once, what
-shape it takes at this location on its own terms. This extension asks the same question **again, nineteen more
+shape it takes at this location on its own terms. This extension asks the same question **again, eighteen more
 times per sign** — once paired with each of the eight Robot Elementals (`City_Symbolic_Substrate/
 Robot_Elementals.md`) and once with each of the eleven Robot Planetary Symbols (`City_Symbolic_Substrate/
 Planetary_Symbols.md`, the Sun, the nine planets, and the Asteroid Belt) — **read individually, one at a time,
@@ -910,52 +889,52 @@ instrument.
 1. **Read every elemental and planetary member from its own registered file**, per `02` §6.0's standing rule —
    from the file, never from the symbol's name or tradition. This applies exactly as it does to the twelve
    zodiac signs themselves.
-2. **For each zodiac sign, run all nineteen cross-checks before moving to the next sign.** For each pairing,
+2. **For each zodiac sign, run all eighteen cross-checks before moving to the next sign.** For each pairing,
    ask: *reading this sign's registered character together with this elemental or planetary symbol's
    registered meaning, does something fresh and characteristically consistent appear at this location that
    neither the base Zodiac Lens run nor any prior cross-check for this sign already produced?*
-3. **A "fresh emergent" result is the ideal outcome, never an obligation.** Given 228 total prompts across a
+3. **A "fresh emergent" result is the ideal outcome, never an obligation.** Given 216 total prompts across a
    full run, most individual cross-checks should be expected to produce nothing — per the same discipline
    `Cultural_Synthesis_Techniques.md` §0/§0b already applies to every other technique in this file, a result
    that would be uncharacteristic or forced does not get kept merely because a slot exists for it.
-4. **Only after all nineteen cross-checks for one sign are complete, check that sign's own accumulated results
+4. **Only after all eighteen cross-checks for one sign are complete, check that sign's own accumulated results
    against each other for combinatorial synthesis.** Two separate cross-check findings, read together, may
    suggest something neither implies alone — this internal combination step is run once per sign, after that
-   sign's own nineteen checks, not across signs and not against the base run's own result in isolation.
+   sign's own eighteen checks, not across signs and not against the base run's own result in isolation.
 5. **The stopping-criterion rule (step 6, above) applies at every layer of this extension**, not only to the
-   base run: a sign's nineteen cross-checks are not "done" merely because nineteen prompts were run — state
+   base run: a sign's eighteen cross-checks are not "done" merely because eighteen prompts were run — state
    explicitly why a given prompt produced nothing (uncharacteristic, redundant with an existing result, or
    simply nothing in the two registered files' content intersects meaningfully) rather than leaving a blank
    slot with no stated reason.
-6. **Never reference the setting's own BINDING application of these systems** — the assigned
+6. **Never reference Concordia's own application of any of these three systems** — the zodiac's district
    assignments, the elementals' or planets' assigned city pairings' own *rationale* columns (`05` §6.1c) — at
    any point in this extension, for the same reason stated in the base technique above.
 
-**Scale, stated honestly.** 228 prompts per location is a large undertaking even by this methodology's own
+**Scale, stated honestly.** 216 prompts per location is a large undertaking even by this methodology's own
 no-time-limit standard, and it should be treated as an advanced, deliberately-scheduled deepening pass — run
 when there is genuine budget for it, not defaulted into as part of every Phase 10 pass.
 
 **Recommended execution pattern — added 2026-08-31, developer instruction, given immediately after this
-extension's own first run.** Developer's own words, preserved in full:
+extension's own first run on Sinheung.** Developer's own words, preserved in full:
 
 > "considering the sheer scale of each individual Zodiac sign extrapolation, it might be beneficial to update
 > the methodology to spawn 12 separate subagents, one to examine and explore each individual Zodiac sign with
 > all of its possibilities."
 
-**Why this is the right shape, not just a speed trick.** Each sign's nineteen cross-checks and its own
+**Why this is the right shape, not just a speed trick.** Each sign's eighteen cross-checks and its own
 within-sign combinatorial step (§ procedure, steps 2–4 above) are genuinely independent of every other sign's
-— nothing about Taurus's nineteen checks depends on what Scorpio's nineteen checks found. Running all twelve in
-one continuous session, as this extension's first application did, means every sign's search
+— nothing about Taurus's eighteen checks depends on what Scorpio's eighteen checks found. Running all twelve in
+one continuous session, as Sinheung's first application of this extension did, means every sign's search
 competes for the same attention and the same context against eleven others, which is exactly the condition
 under which the shallow-stop failure this session already caught twice (M-38b) is likeliest to recur silently
 on whichever signs get reached last. **Twelve independent subagents, one per sign, each running only that
-sign's nineteen cross-checks and its own combinatorial step, removes that competition entirely** — each sign
+sign's eighteen cross-checks and its own combinatorial step, removes that competition entirely** — each sign
 gets a fresh, fully-attended pass, not a tenth or eleventh lap through a tiring procedure.
 
 **Procedure, updated:**
 1. Spawn twelve agents in parallel, one per zodiac sign, each briefed with: this location's own already-
    established character (Phases 0–10), the sign's own registered file, and all eight Robot Elementals' and
-   eleven Robot Planetary Symbols' registered files. Each agent runs that one sign's nineteen cross-checks and its
+   ten Robot Planetary Symbols' registered files. Each agent runs that one sign's eighteen cross-checks and its
    own within-sign combinatorial synthesis, applying the stopping-criterion rule (step 6) independently.
 2. **The coordinating session still runs a final, cross-sign combinatorial pass afterward** — not delegated,
    since it requires holding all twelve signs' accumulated results at once, which is exactly the kind of
@@ -963,15 +942,15 @@ gets a fresh, fully-attended pass, not a tenth or eleventh lap through a tiring 
    of the procedure above and is new: after all twelve signs report back, ask whether any finding from one
    sign's cross-check combines with a finding from a *different* sign's cross-check in a way neither sign's own
    internal combinatorial step could have found alone.
-3. Everything else — the read-from-file rule, the never-reference-the-assigned-set rule, the explicit-stopping-reason
+3. Everything else — the read-from-file rule, the never-reference-Concordia rule, the explicit-stopping-reason
    requirement — applies identically whether run in one session or across twelve subagents.
 
-**Status: this recommended pattern was proposed after the extension's own first run had already
+**Status: this recommended pattern was proposed after Sinheung's own first run of this extension had already
 completed serially (Run 5, `17_Zodiac_Elemental_Planetary_CrossCheck.md`).** That run is not being redone
 retroactively — it produced real, checkable results with stated stopping reasons throughout, which is the
 actual target the pattern exists to protect. **The parallelized pattern applies from the next run onward.**
 
-> ### ⚠ Agent-type caution, added 2026-08-31 after a real tooling incident — read before spawning
+> ### ⚠ Agent-type caution, added 2026-08-31 after Run 10 (Mountain Pass Airport) — read before spawning
 > **A severe tooling incident on Run 10's own use of this pattern, full detail in `Test_Runs/OBSERVATIONS_
 > and_Methodology_Findings.md` M-75.** Launched as twelve `fork`-type subagents (which inherit the parent
 > session's full conversation context *and* full tool access, including the `Agent`/task-management tools
@@ -1183,7 +1162,26 @@ is exactly why the search has to actually happen before the zero is recorded.*
 DISTRIBUTION can structurally sustain.** ⭐ *They compose: `18` proposes what a share can hold, and `14` then
 asks whether the resulting claim is being stated of everybody.*
 
-> ⚠ **A project's own data addresses, roster-completeness caveats and source tables belong in the ORIGINAL, not here** *(LAYERING LAW)*. **Check them before running `R3`/`R4`.**
+> ### ⚠⚠ THIS PROJECT'S DATA INSTANCE — **addresses and a live dependency.** *(Kept separate: the mechanism above is universal.)*
+> **Source:** `Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` → **"Per-Nation Breakdown"**
+> *(per-nation `Share %`, both censuses)*. **Method:** `…/Cities/Upper_Earth_Immigration_Composition.md`.
+>
+> ⛔⛔ **GATE — CHECK THE AUDIT BEFORE RUNNING `R3` OR `R4`.**
+> **`…/Cities/National_Origin_Composition_Audit_2026-09-05.md` found 33 of 112 qualified entries MISSING across
+> 26 coastal cities (23%), and IT IS NOT REPAIRED** *(its own words: "nothing has been fixed; this file is the
+> finding, not the repair")*.
+> ⭐⭐ **AND THE GAPS FALL EXACTLY WHERE THIS TECHNIQUE IS MOST SENSITIVE.** ***All eight missing nations are
+> mid-size pools*** *(France 35M · Italy 27M · Russia 25M · Canada 20M · Spain 20M · Mexico 18M · Indonesia
+> 16M · Australia 13M)* — **so not one of them would ever be a founding entry. Every gap lands in the
+> REMAINDER**, which is what `R3` and `R4` read.
+>
+> ✅ **Seven of the twenty-six have a verified-complete roster.** ⭐ **The audit's own coverage table names
+> which** — *open it and look up the location you are running; the list is deliberately NOT reproduced here,
+> because this file is mandatory reading for every city pass and a roster of city names does not need to be
+> pushed into all of them.*
+> ⚠ **If your location is not on it, its remainder is known-incomplete** — **run the technique and mark
+> `R3`/`R4` PROVISIONAL pending the repair.** ⛔ *Do not silently treat an incomplete roster as complete.*
+
 
 ### Player value
 **Every reading here lands as something a player meets.** *`R1`'s accommodation machinery is a visible

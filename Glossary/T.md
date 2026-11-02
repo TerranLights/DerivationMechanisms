@@ -219,13 +219,13 @@
 ### Tepenian Saints
 - **Category:** culture and society
 - **Also called:** Saints
-- **Definition:** The civic veneration of pre-2083 Antarctic explorers as Saints who unknowingly prepared the home the exiles would later need; the honorific uses the first name. The national roster so far is St. Robert (Scott), St. Ernest (Shackleton), St. Roald (Amundsen), St. Douglas (Mawson) and St. Richard (Byrd), and city files add St. Carsten (Borchgrevink) and St. Jules (Dumont d'Urville). Tepenian Saints Days are a category of the national holiday calendar, though no feast days are set.
-- **Status:** project canon for the framework (confirmed in the GDD TODO); working for the full roster, feast days and the dedicated culture document still to be written
+- **Definition:** Tepenia's cultural and historical reverence, not religious, for pre-2083 Antarctic explorers: the men who gave up huge portions of their lives, and sometimes their lives themselves, for the sake of Antarctica's future, and so unknowingly prepared the home the exiles would later need. Tepenians, robots and humans alike, do not regard the Saints as anointed by God or made holy. The nearest real-world equivalent is the American regard for the Founding Fathers, held higher still, but short of anything divine. The honorific uses the first name. The national roster so far is St. Robert (Scott), St. Ernest (Shackleton), St. Roald (Amundsen), St. Douglas (Mawson) and St. Richard (Byrd), and city files add St. Carsten (Borchgrevink) and St. Jules (Dumont d'Urville). Tepenian Saints Days are a category of the national holiday calendar, though no dates are set yet. A religious building or establishment may still carry a Saint's name; whether one does is decided case by case.
+- **Status:** project canon for the framework (confirmed in the GDD TODO) and for its non-religious nature (the author's ruling, 2026-11-01); working for the full roster, the Saints' days and the dedicated culture document still to be written
 - **Used in:** InnerTepeniaGDD (TODO; README; National_Holidays; city specs and culture files); CurrentNovelDocs (reference copy); SouthernLights; TorontoFellOutGDD; DerivationMechanisms
-- **Sources:** InnerTepeniaGDD `TODO.md` ("Tepenian Saints — create dedicated culture document"); `Worldspace/National_Holidays.md` (Tepenian Saints Days); `README.md`
+- **Sources:** InnerTepeniaGDD `TODO.md` ("Tepenian Saints — create dedicated culture document"); `Worldspace/National_Holidays.md` (Tepenian Saints Days); `README.md`; the author's ruling of 2026-11-01 (CurrentNovelDocs `worldbuilding/Tepenian_National_Saints/README.md`)
 - **Open:**
   - St. Carsten and St. Jules are not on the national roster yet. Davis's namesake, John King Davis, is explicitly not a Saint, because supporting mariners don't qualify.
-  - Whether each city venerates its namesake is affected by GDD rulings `DR-25`, `DR-32` (namesakes are flavor only) and `DR-58` (Dumont d'Urville to be renamed).
+  - Whether each city reveres its namesake is affected by GDD rulings `DR-25`, `DR-32` (namesakes are flavor only) and `DR-58` (Dumont d'Urville to be renamed).
   - The TODO says "pre-War of Upper Earth (pre-2083)," while National_Holidays says "Pre-War (pre-2083)."
   - See St. Richard for a file that gives Scott's name to St. Richard.
 

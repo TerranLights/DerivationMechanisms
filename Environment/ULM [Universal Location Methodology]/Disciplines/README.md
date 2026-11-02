@@ -92,8 +92,8 @@ location-specific worked instance replaced by a pointer.**
 | `00b_General_Population_Discipline.md` | `../../Concordia-City/Districts/Phase_Instructions/00b_…` |
 | `00d_Shadow_Proportion_Discipline.md` | `../../Concordia-City/Districts/Phase_Instructions/00d_…` |
 | `00f_Review_Panel.md` | `../../Concordia-City/Districts/Phase_Instructions/00f_…` |
-| `Cultural_Synthesis_Techniques.md` | `../../Cultural_Synthesis_Techniques.md` |
-| `Real-World_Basis_Extrapolation_Method.md` | `../../Real-World_Basis_Extrapolation_Method.md` |
+| `Cultural_Synthesis_Techniques.md` | `../../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md` |
+| `Real-World_Basis_Extrapolation_Method.md` | `../../RWBEM [Real-World Basis Extrapolation Method]/Real-World_Basis_Extrapolation_Method.md` |
 
 ## Why the ULM cannot simply read the originals
 

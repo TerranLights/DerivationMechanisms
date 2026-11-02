@@ -91,6 +91,8 @@ is a city whose lore is still mostly And Then.
 
 ## 5. Plot — or rather, History — Schematics
 
+A fill-in template for a city's change over time, in this grammar, is `City_History_Template.md` (same folder).
+
 ### 5a. The Founding-to-Present Causal Spine (default city/place template)
 
 ```

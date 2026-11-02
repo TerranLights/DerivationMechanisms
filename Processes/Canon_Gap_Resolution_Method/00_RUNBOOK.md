@@ -319,7 +319,7 @@ evidence that triage was actually run rather than skipped on the way to closing 
 | `Test_Runs/` | **instances, NOT the method** — per-run data. Nothing in here generalizes (LAW C) |
 
 **Inherited, not reinvented** — this system uses these rather than writing its own versions:
-`../Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md` (research discipline) ·
+`../../Environment/RWBEM [Real-World Basis Extrapolation Method]/Real-World_Basis_Extrapolation_Method.md` (research discipline) ·
 **`/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`** (GPS-only, binding — **⚠ this is in the UNIVERSE REPO, outside this repo; a repo-local search will not find it**) ·
 `../Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` §A (the canon authority hierarchy) ·
 `../Locations-and-Levels/Universal_Location_Methodology/05_The_Input_Contract.md` §6.1 (admissibility) ·

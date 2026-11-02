@@ -1,6 +1,6 @@
 # Open decisions: where combined copies disagree (2026-10-30)
 
-When the drifted copies of each mechanism were combined, every spot where they contradict each other kept both readings and got an inline **⚠️ Versions differ** mark. There are **27**, listed here so they can be decided in one pass. Many of them repeat the same question in several files, so they are grouped into **12 decisions**.
+When the drifted copies of each mechanism were combined, every spot where they contradict each other kept both readings and got an inline **⚠️ Versions differ** mark. There are **29**, listed here so they can be decided in one pass. Many of them repeat the same question in several files, so they are grouped into **14 decisions**. Spots 28 and 29 came from the 2026-10-31 sync.
 
 - **Version labels** are the ones used in the files: the **game version** (the base of most combined files), the **prose version** (written for linear, fixed-length books) and the **medium-agnostic version** (with project-specific terms stripped out). Which repo each came from is in `SYNC_RECORD.md`.
 - **Paths:** `CDM/` = `Characters/Character_Development_Methodology/`. Line numbers are as of 2026-10-30.
@@ -84,7 +84,7 @@ In each case one copy is newer than the other.
 - **Decision:**
 
 ## J. Section number in the Character Spec sheet (1 spot)
-24. `CDM/Templates/Character_Spec_Fill-In_Sheet_Template.md:33`, intro. The game copies say "Section 13 (Role in the Story / Companion Potential)". The medium-agnostic copy says "Section 12 (Role in the Story)". The heading itself is numbered 12 in every copy.
+24. `CDM/Templates/Character_Spec_Fill-In_Sheet_Template.md:43`, intro. The game copies say "Section 13 (Role in the Story / Companion Potential)". The medium-agnostic copy says "Section 12 (Role in the Story)". The heading itself is numbered 12 in every copy.
 
 - **Suggested:** "Section 12 (Role in the Story / Companion Potential)", which matches the heading.
 - **Decision:**
@@ -100,6 +100,18 @@ In each case one copy is newer than the other.
 27. Same file, `:93`, Step 2. Inner Tepenia makes "actually emergent" a third required test. Toronto Fell Out filters on two criteria and treats emergence as a preference.
 
 - **Suggested:** keep both as labeled per-game variants, like the rest of that file, and drop the ⚠️ marks. If one rule should be the default for new games, the author picks it.
+- **Decision:**
+
+## M. How many eras does the general character timeline use? (1 spot)
+28. `CDM/Templates/Character_Folder_General/Personal_Background/Timeline.md:14`. The template's note describes five eras. The medium-agnostic copy has six: it adds a Post-Exile / Tepenia Era (28XX) between the Long Night War and Post-Solar / Colonization, and has had six from its first version.
+
+- **Suggested:** six. The years after the Long Night War, the present of Inner Tepenia, are a period of their own before the Solar Colonization.
+- **Decision:**
+
+## N. Does every game character folder keep `Questlines/`? (1 spot)
+29. `CDM/Templates/Character_Folder_Game/README.md:13`. The combined game template keeps `Questlines/` for every category ("Leave it in place regardless"). The separate templates for characters known only from past history and for off-world or missing characters leave it out.
+
+- **Suggested:** keep it for every category, but allow it to stay empty for characters the player can't meet. A missing character can still have a questline about finding her.
 - **Decision:**
 
 ---

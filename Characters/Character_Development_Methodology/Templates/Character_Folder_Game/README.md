@@ -6,10 +6,20 @@ were already identical to each other) into one structure general enough for any 
 Sections that only make sense for one register are marked accordingly — leave them as N/A rather than
 deleting them, in case a character's status ever changes (e.g., an Off-World character who later returns).
 
+**Folder layout by category:** this folder (`README.md`, `Personal_Background/`, `Questlines/`,
+`Reference_Images/`) serves every category, with these exceptions:
+- *For a character known only from past history, or one off-world or missing (MIA):* the per-category
+  template has no `Questlines/` folder.
+  > ⚠️ Versions differ: the composite keeps `Questlines/` for every category ("Leave it in place regardless,"
+  > per `Questlines/README.md`'s applicability note); the separate Past-History and Off-World or MIA templates
+  > leave the folder out.
+- *Toronto Fell Out variant:* one identical template serves both Major NPCs and Minor NPCs (with `Questlines/`),
+  so no per-category differences apply there; its project-specific fields are marked inline below.
+
 ## [Full Name] / "[Common Nickname / Callsign]"
 
 - **Category:** Still-Present – In-Game / Past-History – Known to Tepenians / Off-World or MIA
-- **Type:** (Doll / Human / other — physical or ontological classification)
+- **Type:** (Doll / Human / other — physical or ontological classification; e.g. Android / Gynoid / Advanced Robot / Other)
 - **Role / Archetype:** (archetype)
 - **Personal timeline/timeframe:** XXXX
 - **Place of origin:** (placeholder)
@@ -19,10 +29,13 @@ deleting them, in case a character's status ever changes (e.g., an Off-World cha
 - **Known by Concordia?:** Widely known / Known in specific circles / Obscure / Forgotten
 - **Companion Potential** *(Still-Present only — otherwise N/A):* Yes / No / Conditional / Romance / Rivalry / etc.
 - **Escape Date** *(Past-History / Off-World only, if applicable):* (Via Amundsen Tower)
+- **Last Known Location** *(Past-History / Off-World only, if applicable):* (Ship name, colony, deep space, etc.)
 
 ## Core Identity
 
 **Activation Date & Origin:**
+
+*Toronto Fell Out variant:* **Date of Birth & Origin:**
 
 **Enneagram / Personality Framework:**
 - Type: XwY (Z Subvariant)
@@ -31,10 +44,13 @@ deleting them, in case a character's status ever changes (e.g., an Off-World cha
 - Hornevian Group: Withdrawn / Compliant / Assertive
 - Harmonic Group: Positive Outlook / Competency / Reactive
 
+*Toronto Fell Out variant:* the Enneagram block is *(populated during character design — Enneagram is
+confirmed, binding Toronto Fell Out infrastructure; this is not an optional field)*.
+
 *Project-specific characterization frameworks (e.g. a novel's KWML type / Want-Need-Idea / story-circle arc, or a game's stat block and romance/companion flags) belong in that project's own repo, layered on top of this baseline — not duplicated here.*
 
 **Weakness (fundamental flaw):** TBD
-**Strengths & Skills (what they're good at):** TBD
+**Strengths & Skills (what they're good at — technical, social, combat, leadership, etc.):** TBD
 **Goal (broad-scale desire):** TBD
 **Values & Passions (what/who they care about most):** TBD
 **Internal Conflict (competing desires or psychological contradiction):** TBD
@@ -49,6 +65,16 @@ otherwise — leave blank for characters who will never appear as an active part
 - Nerve:
 - Engine:
 
+*Toronto Fell Out variant:* **MAPLE-BUD Stat Profile (rough baseline):**
+- Might:
+- Agility:
+- Perception:
+- Luck:
+- Endurance:
+- Brains:
+- Utility:
+- Determination:
+
 **Key Traits / Notable Perks (companion-relevant)** *(Still-Present only — otherwise N/A):*
 
 ## Visual Description
@@ -59,15 +85,20 @@ otherwise — leave blank for characters who will never appear as an active part
 - Character summary:
 - Speech patterns / quirks / recurring phrases:
 - Mannerisms (recurring physical habits/tics): TBD
-- Behavior under stress:
+- Behavior under stress or in different districts:
 - Response to Failure (pragmatic vs. emotional; what they learn): TBD
-- Moral tendencies:
+- Moral tendencies & player influence:
 - Signature Objects/Possessions (what they carry or own that reveals identity or values): TBD
+- Core Personality — how were they known before leaving? Any defining traits that made them memorable? *(Past-History / Off-World)*:
+- Famous or Infamous Moments (any well-known stories or incidents from their time in Concordia?) *(Past-History / Off-World)*:
 
 ## Background
 
 **Pre-War History**
 (Background before the first global war, early activation if applicable, human creators/owners, initial purpose, what day-to-day life looked like.)
+
+**Pre-Escape History** *(Past-History / Off-World only — otherwise N/A)*
+(Brief summary of who they were in Concordia before the Long Night War / evacuation. Include role, notable achievements, relationships, or personality traits.)
 
 **The Escape via Amundsen Tower** *(Past-History / Off-World only — otherwise N/A)*
 (How and why they managed to get on one of the last flights. Any notable events, sacrifices, or drama during the evacuation?)
@@ -106,7 +137,7 @@ Characters not actively present during the game (Past-History / Off-World) can s
 the categories below; Still-Present characters may also accumulate some of this over the course of the story.
 
 ### Terminal Entries / Records
-- Old evacuation manifests, personal messages left behind, research logs or AI archives, in-game terminal locations
+- Old evacuation manifests, personal messages left behind, research logs or AI archives, example in-game terminal locations and sample text
 
 ### Journal / Log Entries
 - Entries written by people who knew them, last messages sent before departure, post-evacuation reflections by those left behind
@@ -118,12 +149,14 @@ the categories below; Still-Present characters may also accumulate some of this 
 - Remembered as a hero, traitor, symbol, or cautionary tale? Any statues, memorials, or named locations in Concordia?
 
 ## Relationships & Hooks
-- Key connections (ally, rival, former owner, mentor, lover, etc.) — and, for departed/historical characters, how those left behind feel about it now
+- Key connections (ally, rival, former owner, mentor, lover, friend, family, etc.) — and, for departed/historical characters, how those left behind feel about it now
 - Factions/Groups: stance toward each major faction
 - Any ongoing connections *(Past-History / Off-World)*: still in contact with anyone on Earth? Through what means?
 - Dialogue / quest hooks (skills, reputation, etc.) *(Still-Present)*
 
 ## Potential Narrative Hooks
+
+Even without a personal questline, Past-History / Off-World characters can still serve story purposes:
 - Emotional Hooks for characters who knew them
 - Inspiration or Warning for the player's own journey
 - Mystery (what really happened to them, if departed/historical)
@@ -142,4 +175,12 @@ the categories below; Still-Present characters may also accumulate some of this 
 - Replayability ideas *(Still-Present)*:
 - How their departure affected the people who stayed — guilt, inspiration, resentment, hope *(Past-History / Off-World)*:
 - Profiles in this category should feel lighter than active Concordia dolls — no quest steps or degradation tracking, focus on lore density and emotional resonance *(Past-History / Off-World guidance)*
+- They work best when tied to existing Concordia characters' backstories or the broader evacuation narrative *(Past-History / Off-World guidance)*
 - TODOs:
+
+## Example Usage *(Past-History / Off-World)*
+This template can be used to create entries such as:
+- A famous robot scientist who helped design the evacuation ships
+- A military doll who led the final defense of Amundsen Tower
+- A cultural icon doll whose last performance was broadcast during the evacuation
+- A controversial figure who was accused of abandoning Concordia

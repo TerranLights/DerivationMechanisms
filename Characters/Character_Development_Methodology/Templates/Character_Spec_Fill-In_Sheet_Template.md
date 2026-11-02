@@ -14,6 +14,11 @@ Tepenians`, `Off-World_or_MIA`). It's organized as a set of questions with a sho
 fill in whatever you have a clear sense of under "Your answer," and leave the rest as `TBD`. Nothing here
 needs to be answered all at once, and nothing here needs to be answered in order.
 
+*Medium-agnostic variant:* a conversational intake document for developing a character's
+fundamental, inherent, intrinsic qualities — the "who's involved" layer that repo exists to hold, alongside the
+timeline ("when") and worldspace ("where") layers. It is rebuilt around that repo's own existing field set (the
+`Character_Folder_General/` skeleton) rather than a game's — see "What Was Deliberately Left Out" at the bottom.
+
 **How this maps onto the existing structure:** this sheet's sections feed directly into the standard Doll
 folder skeleton (`Character_Folder_Game/`: `README.md`, `Personal_Background/PreWar_History.md`,
 `Personal_Background/Relationships.md`, `Personal_Background/Loyalties.md`, `Personal_Background/Timeline.md`,
@@ -21,9 +26,14 @@ folder skeleton (`Character_Folder_Game/`: `README.md`, `Personal_Background/Pre
 `Questlines/Personal_Questline_Summary.md`). In any other project, this sheet's sections are meant to feed
 directly into whatever folder skeleton a project keeps per character (a profile document, a background/history
 file, a relationships file, a timeline, and — if she turns out to be a recruitable/major character — a personal-
-arc-design file; `Character_Folder_General/` is one such skeleton). You don't need to write
-in that structured format yourself; write in plain prose here, in your own words, and the structured files get
-built from your answers afterward. If she turns out to be a companion candidate, the separate
+arc-design file; `Character_Folder_General/` is one such skeleton: `README.md`,
+`Personal_Background/Formative_History.md`, `Personal_Background/Relationships.md`,
+`Personal_Background/Loyalties.md`, `Personal_Background/Timeline.md`,
+`Personal_Background/Conflict_Experiences.md`). For that skeleton, copy this file into a character's own folder
+(alongside their `README.md`) once you're ready to start developing them; it applies to both Dolls and humans —
+`Formative_History.md` and `Conflict_Experiences.md` already carry their own dual framing for each. You don't
+need to write in that structured format yourself; write in plain prose here, in your own words, and the
+structured files get built from your answers afterward. If she turns out to be a companion candidate, the separate
 `Companion_and_Romance_Questline_Fill-In_Sheet_Template.md` is the natural next step once this sheet is filled
 in — that sheet covers how her personal questline and romance actually work, this one covers who she is.
 
@@ -44,8 +54,8 @@ require you to already have a finished answer. If a section stalls you out, any 
 works just as well, and I'll do the derivation — use the blanks right under each one:
 
 - **A comparison.** A real person you know, an existing fictional character, or another Doll already in this
-  project — "she's like X, but Y." A comparison plus one point of difference is usually enough for me to
-  pattern-match the rest.
+  project (or another character already in this universe) — "she's like X, but Y." A comparison plus one
+  point of difference is usually enough for me to pattern-match the rest.
 
   TBD
 
@@ -56,7 +66,8 @@ works just as well, and I'll do the derivation — use the blanks right under ea
   TBD
 
 - **What you don't want.** Ruling something out ("I don't want her to be a generic tsundere," "I don't want
-  her weakness to be that she's 'too nice'") narrows the space just as effectively as picking something.
+  him to be a generic stoic soldier," "I don't want her weakness to be that she's 'too nice'") narrows the
+  space just as effectively as picking something.
 
   TBD
 
@@ -66,8 +77,9 @@ works just as well, and I'll do the derivation — use the blanks right under ea
   TBD
 
 - **Whatever's already written about her**, even fragments — an existing `README.md` stub, her
-  `Reference_Images/` folder, a half-formed note in `TODO.md`. I can mine existing material directly rather
-  than making you restate it.
+  `Reference_Images/` folder, a half-formed note in `TODO.md`, a note in a project-specific repo that hasn't
+  propagated to the cross-project canon yet. I can mine existing material directly rather than making you
+  restate it.
 
   TBD
 
@@ -75,10 +87,11 @@ works just as well, and I'll do the derivation — use the blanks right under ea
 
 ## 1. Identity Basics
 
-Her full name, any nickname or callsign she goes by, what kind of Doll she is (gynoid, etc.), and — even
-roughly — where and when she comes from. A specific year for her activation date isn't necessary if you don't
-have one in mind; "early Second Interwar," "shortly before the war," "unknown, possibly pre-Falkland Treaty"
-are all usable answers.
+Her full name, any nickname or callsign she goes by, what kind of Doll she is (gynoid, etc.) — or, more
+broadly, what kind of character this is (Doll type, human, other) — and, even roughly, where and when she comes
+from. A specific year for her activation date (the `Personal timeline/timeframe` field) isn't necessary if you
+don't have one in mind; "early Second Interwar," "shortly before the war," "unknown, possibly pre-Falkland
+Treaty" are all usable answers.
 
 **Your answer:**
 
@@ -125,7 +138,7 @@ While you're in here, four more specific things worth including if you have a se
 - **What she values most** — the people, ideals, or things she cares about above everything else.
 - **Any internal contradiction** — two things she wants that can't both be true at once (Maggie Aarden's own
   SP 5w6 pull between wanting to withdraw and being unable to abandon people who need her is the reference
-  example for what this looks like).
+  example for what this looks like — see her own folder in `Worldspace/Characters/Dolls/`).
 
 **Your answer:**
 
@@ -136,8 +149,9 @@ TBD
 ## 5. Goal & Drive
 
 What does she actually want — not a plot objective assigned to her, but her own broad-scale desire, the thing
-she'd still be chasing even if the player never showed up. This is often the single most useful thing for
-turning a personality description into an actual character arc.
+she'd still be chasing even if the player never showed up (or, for a character who spans projects, regardless
+of which project or era she appears in). This is often the single most useful thing for turning a personality
+description into an actual character arc.
 
 **Your answer:**
 
@@ -164,6 +178,10 @@ TBD
 Where she comes from and what her life was before she became who she is now — a human creator or owner if she
 had one, her original purpose or work, what her day-to-day life looked like before the war reshaped everything.
 
+*Medium-agnostic variant:* titled "Formative History." Where they come from and what shaped them
+before the story's main focus. For Dolls: pre-activation manufacture, initial purpose, first owner(s). For
+humans: upbringing and early influences. Feeds `Personal_Background/Formative_History.md`.
+
 **Your answer:**
 
 TBD
@@ -175,6 +193,12 @@ TBD
 What she went through during the War of Upper Earth, the Falkland Treaty era, or the Long Night War — if
 anything. Combat, support, evacuation, hiding, loss — whatever's true for her. Fine to leave blank if she
 wasn't meaningfully touched by any of it, or if this isn't decided yet.
+
+*Medium-agnostic variant:* titled "Conflict Experiences (if applicable)." Involvement in major
+historical conflicts — the War of Upper Earth, the Long Night War, or later-era conflicts, depending on where
+this character sits in the timeline. Feeds `Personal_Background/Conflict_Experiences.md`. Fine to leave blank,
+or to note that this file should be deleted from their own folder entirely, if their timeline placement falls
+before or after all relevant conflicts.
 
 **Your answer:**
 
@@ -230,6 +254,14 @@ stay essentially the same person throughout? If she's a companion candidate, the
 `Companion_and_Romance_Questline_Fill-In_Sheet_Template.md` is the natural next step once the rest of this
 sheet is filled in — no need to design plot beats here yet.
 
+*Medium-agnostic variant:* titled "Role in the Narrative." Why do they matter to the story — do they
+unlock something, know something, gate something? Do they change over the course of their appearances, or are
+they meant to stay essentially the same person throughout? This section covers narrative function only.
+**Project-specific mechanics — whether a character is a recruitable companion, a romance option, stat-gated in
+some way, or anything else tied to a particular game's own systems — belong in that project's own repo, layered
+on top of this baseline, not here** (per that template's own standing rule — see the note under "Core Identity"
+in `Character_Folder_General/README.md`).
+
 **Your answer:**
 
 TBD
@@ -239,9 +271,11 @@ TBD
 ## 13. Canonical Appearances
 
 Does she appear in, or originate from, any other Tepenia-branded project (the `TepenianUniverseTimeline`
-cross-project repo, an Outer Tepenia title, etc.)? If so, is her portrayal locked-canon and identical across
-all of them, or does it diverge somewhere — and if it diverges, how? Fine to leave blank if she's
-Inner-Tepenia-only or this hasn't been decided yet.
+cross-project repo, Inner Tepenia, an Outer Tepenia title, the Cryptograph Helix novels, etc.)? If so, is her
+portrayal locked-canon and identical across all of them, or does it diverge somewhere — and if it diverges, how?
+Fine to leave blank if she's Inner-Tepenia-only or this hasn't been decided yet. This is likely the single most
+important section for a character who shows up in more than one project, since the `TepenianUniverseTimeline`
+repo is where that cross-project consistency actually gets tracked.
 
 **Your answer:**
 
@@ -279,6 +313,26 @@ doesn't fit neatly into the sections above but you don't want to lose track of.
 **Your answer:**
 
 TBD
+
+---
+
+## What Was Deliberately Left Out
+
+*Medium-agnostic variant:* the following are removed or adapted there, since they're specific to a
+game's own systems rather than that repo's cross-project "who's involved" layer:
+
+- **MACHINE stat profile, Companion Potential, Personal Questline Hook.** Game-specific stat blocks and
+  romance/companion flags belong in that project's own repo, per `Character_Folder_General/README.md` — not
+  duplicated there.
+- **The three-way category split** (Still-Present / Past-History / Off-World-or-MIA) InnerTepeniaGDD organizes
+  its own Dolls by. The Timeline repo's `Worldspace/Characters/Dolls/` folder is flat, not split that way, so
+  Section 12 covers narrative role in general terms instead.
+- **"How loyalties may shift based on player actions"** (Section 11's InnerTepeniaGDD equivalent) — a
+  game-mechanic concept with no equivalent there.
+- **Section/file renames to match that repo's own existing, already-generalized field names:**
+  `PreWar_History.md` → `Formative_History.md` (broadened to cover both Dolls and humans, not just
+  pre-war-framed), `War_Experiences.md` → `Conflict_Experiences.md` (broadened beyond just the wars Inner
+  Tepenia's own timeline sits closest to).
 
 ---
 

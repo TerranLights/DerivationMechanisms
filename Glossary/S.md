@@ -40,7 +40,7 @@
 
 ### The Saint Cities
 - **Category:** group or people
-- **Definition:** A faction possibility pairing Mawson and Scott, cities named after explorers venerated as Tepenian Saints. Their Saints' stories give them opposite civic attitudes, Mawson's survival with cost and Scott's dignity in failure and death, and the two argue over what lesson the expedition era teaches.
+- **Definition:** A faction possibility pairing Mawson and Scott, cities named after explorers revered as Tepenian Saints. Their Saints' stories give them opposite civic attitudes, Mawson's survival with cost and Scott's dignity in failure and death, and the two argue over what lesson the expedition era teaches.
 - **Status:** working (a GDD faction possibility)
 - **Used in:** InnerTepeniaGDD; SouthernLights; CurrentNovelDocs
 - **Sources:** InnerTepeniaGDD `Worldspace/Factions/City_Origin_Factions_Second_Interwar.md` ("The Saint Cities"); SouthernLights `Worldspace/Factions-and-Religions.md`
@@ -1021,11 +1021,13 @@
 
 ### St. Carsten
 - **Category:** culture and society
-- **Definition:** Carsten Borchgrevink, who led the 1899 Southern Cross expedition, venerated as Cape Adare's founding Saint. Cape Adare's theology honors him for staying, as the first to deliberately winter on the continent, not for arriving. The city's spec lists a St. Carsten memorial site, probably tied to the hut heritage site, whose form is TBD.
+- **Definition:** Carsten Borchgrevink, who led the 1899 Southern Cross expedition, revered as Cape Adare's founding Saint. Cape Adare's tradition honors him for staying, as the first to deliberately winter on the continent, not for arriving. The city's spec lists a St. Carsten memorial site, probably tied to the hut heritage site, whose form is TBD.
 - **Status:** project canon in the city files; working nationally, since he is not yet on the national Saints roster.
 - **Used in:** InnerTepeniaGDD (Cape Adare; TODO; the Developer Ruling Queue; Concordia diaspora files); CurrentNovelDocs (reference copy); SouthernLights; DerivationMechanisms
 - **Sources:** InnerTepeniaGDD `.../Locations/Cities/Local_Cultures/Janbogo_Subnet/Cape_Adare.md` §2, §18; `.../Cities/Specs/Janbogo subnet/Cape_Adare.md`
-- **Open:** he is still absent from `Worldspace/National_Holidays.md`'s Saints roster (GDD `TODO.md`; `DRQ-01b`).
+- **Open:**
+  - He is still absent from `Worldspace/National_Holidays.md`'s Saints roster (GDD `TODO.md`; `DRQ-01b`).
+  - The culture sheet calls Cape Adare's tradition about him a "theology". The author ruled on 2026-11-01 that the Saints are revered culturally and historically, not religiously (see Tepenian Saints); the sheet's wording predates that ruling.
 
 ### St. Carsten's Landing
 - **Category:** culture and society
@@ -1046,7 +1048,7 @@
 ### St. Douglas
 - **Category:** culture and society
 - **Also called:** Saint Douglas
-- **Definition:** Douglas Mawson, venerated as a Tepenian Saint and the patron of the city and subnet of Mawson, whose connection to him is described as complete.
+- **Definition:** Douglas Mawson, revered as a Tepenian Saint and the patron of the city and subnet of Mawson, whose connection to him is described as complete.
 - **Status:** project canon
 - **Used in:** InnerTepeniaGDD (Mawson, Scott; National_Holidays; TODO; Factions); CurrentNovelDocs (reference copy); SouthernLights; TorontoFellOutGDD
 - **Sources:** InnerTepeniaGDD `Worldspace/National_Holidays.md`; `.../Locations/Cities/Specs/Mawson subnet/Mawson.md`; `.../Cities/Local_Cultures/Mawson_Subnet/Mawson.md`
@@ -1062,7 +1064,7 @@
 
 ### St. Ernest
 - **Category:** culture and society
-- **Definition:** Ernest Shackleton, venerated as a Tepenian Saint. His veneration is strongest at Signy, near the Endurance expedition's open-boat route.
+- **Definition:** Ernest Shackleton, revered as a Tepenian Saint. He is most revered at Signy, near the Endurance expedition's open-boat route.
 - **Status:** project canon for the Saint; which city claims him is open.
 - **Used in:** InnerTepeniaGDD (Signy, Rothera, Scott; National_Holidays; TODO); CurrentNovelDocs (reference copy); SouthernLights; TorontoFellOutGDD
 - **Sources:** InnerTepeniaGDD `Worldspace/National_Holidays.md`; `.../Locations/Cities/Local_Cultures/Palmer_Subnet/Signy.md`; `.../Cities/Specs/Palmer subnet/Signy.md`; `TODO.md`
@@ -1098,13 +1100,13 @@
 
 ### St. Richard
 - **Category:** culture and society
-- **Definition:** Richard E. Byrd, venerated as a Tepenian Saint; the city of Byrd keeps his name.
-- **Status:** project canon for the honorific; working for whether Byrd venerates him.
+- **Definition:** Richard E. Byrd, revered as a Tepenian Saint; the city of Byrd keeps his name.
+- **Status:** project canon for the honorific; working for whether Byrd reveres him.
 - **Used in:** InnerTepeniaGDD (Byrd, Scott, Amundsen Station culture; National_Holidays; TODO); CurrentNovelDocs (reference copy); SouthernLights; TorontoFellOutGDD; DerivationMechanisms
 - **Sources:** InnerTepeniaGDD `Worldspace/National_Holidays.md`; `.../Locations/Cities/Specs/Byrd subnet/Byrd.md`; `.../Cities/Local_Cultures/Byrd_Subnet/Byrd.md`
 - **Open:**
   - ⚠ `.../Cities/Local_Cultures/Amundsen_Station/Amundsen_Station.md` calls St. Richard "Scott, who reached the Pole second," but Scott's Saint is St. Robert, and St. Richard is Byrd everywhere else.
-  - The rewritten Byrd spec leaves it to the city's own culture whether it venerates him; `Local_Cultures/Byrd_Subnet/Byrd.md` §26 calls him "the founding Saint."
+  - The rewritten Byrd spec leaves it to the city's own culture whether it reveres him; `Local_Cultures/Byrd_Subnet/Byrd.md` §26 calls him "the founding Saint."
 
 ### St. Richard's
 - **See:** [St. Richard's Marker](S.md#st-richards-marker)
@@ -1115,13 +1117,13 @@
 - **Status:** working (placeholder name)
 - **Used in:** InnerTepeniaGDD (Byrd)
 - **Sources:** InnerTepeniaGDD `.../Locations/Cities/Local_Cultures/Byrd_Subnet/Byrd.md` §26
-- **Open:** it conflicts with the Byrd spec's hedge on whether the city venerates him.
+- **Open:** it conflicts with the Byrd spec's hedge on whether the city reveres him.
 
 ### St. Richard's Marker
 - **Category:** place
 - **Also called:** St. Richard's (SouthernLights)
 - **Definition:** A modest memorial at Byrd's original surface encampment, honoring the moment of uncertainty before the buried station was found. Built as a founding-era compromise, it became a cross-guild ritual site that people from all of Byrd's guilds visit quietly before uncertain undertakings.
-- **Status:** working: it came from a non-canon Course of Events file (GDD TODO ruling, 2026-09-30/10-01) and is repeated in the megasheet and provisional robot-culture files; SouthernLights proposes it as Byrd's civic veneration site.
+- **Status:** working: it came from a non-canon Course of Events file (GDD TODO ruling, 2026-09-30/10-01) and is repeated in the megasheet and provisional robot-culture files; SouthernLights proposes it as Byrd's site of civic reverence for him.
 - **Used in:** InnerTepeniaGDD (Byrd megasheets; robot culture); SouthernLights; CurrentNovelDocs; TorontoFellOutGDD; DerivationMechanisms
 - **Sources:** InnerTepeniaGDD `.../Locations/Cities/City_Megasheets/Byrd_Subnet/Byrd/Byrd_Physical_Infrastructure_Attributes.md` (Finding 13); `.../Cities/Local_Robot_Culture/Byrd_Subnet/Byrd.md`; `Background-Lore/Cities/Byrd_Subnet/Byrd/Byrd_Course_of_Events_Suggestions.md` (#8); SouthernLights `Worldspace/Environments-Federation-Cities.md` (Byrd)
 - **Open:** the Byrd spec still says St. Richard's civic site is TBD, and the Byrd reference treats the marker as vignette content, not canon.
@@ -1129,19 +1131,21 @@
 ### St. Roald
 - **Category:** culture and society
 - **Also called:** Saint Roald
-- **Definition:** Roald Amundsen, venerated Federation-wide as a Tepenian Saint for being the first to reach the South Pole. He is honored at Amundsen Station and treated as the patron Saint of Troll's region and its founding heritage.
+- **Definition:** Roald Amundsen, revered Federation-wide as a Tepenian Saint for being the first to reach the South Pole. He is honored at Amundsen Station and treated as the patron Saint of Troll's region and its founding heritage.
 - **Status:** project canon
 - **Used in:** InnerTepeniaGDD (Amundsen Station, Troll, Scott; National_Holidays; TODO; census and capital files); CurrentNovelDocs (reference copy); SouthernLights; TorontoFellOutGDD
 - **Sources:** InnerTepeniaGDD `Worldspace/National_Holidays.md`; `.../Locations/Cities/Local_Cultures/Amundsen_Station/Amundsen_Station.md`; `.../Cities/Specs/Amundsen-Scott subnet/Amundsen_Station.md`; `.../Cities/Specs/Halley subnet/Troll.md`
-- **Open:** two different observances exist for him (St. Roald's Day and St. Roald's Landing). The Troll spec still asks whether Troll venerates him, and whether any St. Roald observance survived at the Pole is a proposal, not canon.
+- **Open:** two different observances exist for him (St. Roald's Day and St. Roald's Landing). The Troll spec still asks whether Troll reveres him, and whether any St. Roald observance survived at the Pole is a proposal, not canon.
 
 ### St. Roald's Chapel
 - **Category:** place
-- **Definition:** Troll's older, quieter site of continuing Saint veneration, overshadowed by the airfield.
+- **Definition:** Troll's older, quieter site of continuing reverence for the Saint, overshadowed by the airfield.
 - **Status:** working (megasheet only)
 - **Used in:** InnerTepeniaGDD (Troll megasheets; robot culture)
 - **Sources:** InnerTepeniaGDD `.../Locations/Cities/City_Megasheets/Halley_Subnet/Troll/Troll_Physical_Infrastructure_Attributes.md` (#11)
-- **Open:** the Troll spec still lists veneration at Troll as open.
+- **Open:**
+  - The Troll spec still lists reverence for him at Troll as open.
+  - The Saints are not religious (see Tepenian Saints), but a religious building may still carry a Saint's name. Whether this chapel is one is decided case by case.
 
 ### St. Roald's Day
 - **Category:** culture and society
@@ -1162,7 +1166,7 @@
 ### St. Robert
 - **Category:** culture and society
 - **Also called:** Saint Robert
-- **Definition:** Robert Falcon Scott, venerated as a Tepenian Saint and the namesake of the city of Scott, which is organized around him and the 1902 Hut Point refuge. His death is reframed as purposeful sacrifice.
+- **Definition:** Robert Falcon Scott, revered as a Tepenian Saint and the namesake of the city of Scott, which is organized around him and the 1902 Hut Point refuge. His death is reframed as purposeful sacrifice.
 - **Status:** project canon
 - **Used in:** InnerTepeniaGDD (Scott, Fort McMurdo, Signy robot culture; National_Holidays; TODO; Factions); CurrentNovelDocs (reference copy); TorontoFellOutGDD; DerivationMechanisms
 - **Sources:** InnerTepeniaGDD `Worldspace/National_Holidays.md`; `.../Locations/Cities/Specs/Janbogo subnet/Scott.md` (St. Robert paragraph); `.../Cities/Local_Cultures/Janbogo_Subnet/Scott.md`

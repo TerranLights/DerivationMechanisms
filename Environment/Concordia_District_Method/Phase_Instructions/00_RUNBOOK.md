@@ -173,7 +173,7 @@ regardless of what the gates say.
 
 ---
 
-> **The one rule under all of it** (`../../../Cultural_Synthesis_Techniques.md`): **never carry one location's
+> **The one rule under all of it** (`../../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md`): **never carry one location's
 > answers into another.** If two places produce similar-shaped answers to the same technique, at least one is
 > wrong. Every gate below serves that. **Law 0 is what makes it possible to obey** — two places produce
 > similar-shaped answers mainly when neither was thought about long enough to become itself.
@@ -509,7 +509,7 @@ written source declared unnecessary without being opened.
   register attached to non-religious objects. **It does not always return a religion** — a district that already
   has one yields a *stake*, a *compact*, or a *creed* instead.
 - **When a category comes up empty, ask who *brought* one before inventing one.** *(New technique, 2026-08-29,
-  from the Circuit — see `../../../Cultural_Synthesis_Techniques.md`, **Borrowed Form**.)* A district that lacks a
+  from the Circuit — see `../../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md`, **Borrowed Form**.)* A district that lacks a
   form very often has an incoming population that already had one, and **an institution the district borrowed
   is a better answer than one it invented**, because it explains something already in canon and it carries a
   built-in relationship: the host uses it, values it, and cannot quite say what it is receiving.
@@ -532,7 +532,7 @@ written source declared unnecessary without being opened.
   parallel.**
 - **Check `../Cross_District_Differentiation_Table.md` before writing each category.** See Step 6.
 - **After the capability reading, ask whether the district already holds its own remedy.** *(New technique
-  2026-08-29 — `../../../Cultural_Synthesis_Techniques.md`, **The Unrecognized Instrument**.)* A deficit is of the
+  2026-08-29 — `../../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md`, **The Unrecognized Instrument**.)* A deficit is of the
   *general* faculty, not of every instance: the Frostlands hold two non-narrative recorders they file as an
   accent and a repair job; **the Undergrid closes items daily on its purification line and never noticed the
   method generalizes.** **Run it after Step 2, never before** — found first it softens the deficit, found
@@ -707,7 +707,7 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
 | `01`-`08` | the eight phases |
 | `../Cross_District_Differentiation_Table.md` | **check before writing each category; update on completion** |
 | `../District_Culture_Development_Plan.md` | the what and in what order; progress tracker |
-| `../../../Cultural_Synthesis_Techniques.md` | the generative toolkit — where new culture actually comes from |
+| `../../CST [Cultural Synthesis Techniques]/Cultural_Synthesis_Techniques.md` | the generative toolkit — where new culture actually comes from |
 | `../Zodiac_Personality_Substrate/` | per-district substrate; `99_Application_to_Districts.md` is the bridge |
 
 ---
