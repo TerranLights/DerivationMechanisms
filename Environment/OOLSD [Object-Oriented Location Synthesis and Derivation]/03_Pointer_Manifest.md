@@ -26,9 +26,9 @@ admissibility or reliability.** A tier column will be added when the data pack i
 
 | Item | Address | State |
 |---|---|---|
-| Orbital Infrastructure scaffold | `GDD/Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/README.md` | OK, 40 lines. **The only file in that folder.** The three build stages, the open items, the three downstream consumers. |
+| Orbital Infrastructure scaffold | `GDD/Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/README.md` | OK, 40 lines. **The only file in that folder.** The three build stages, the open items, the three downstream consumers. Copied to `Orbital_Infrastructure/README.md` (2026-11-01). |
 | Build order and rationale | `GDD/TODO.md`, the entry "Orbital infrastructure — logistics, mathematics, and dimensions" (line 1338 on 2026-10-06) | OK. Not copied. |
-| Engineering math | `GDD/Theoretical-Calculations/` — `Orbital_Infrastructure_Mass_Budget.md`, `Von_Braun_Wheel_Mass_Budget.md`, `Design_Efficiency_Comparison.md`, `Amundsen_Tower_Space_Fountain_Design.md` | OK. **At the repo root, not under `Worldspace/`.** Note this when copying. |
+| Engineering math | `GDD/Theoretical-Calculations/` — `Orbital_Infrastructure_Mass_Budget.md`, `Von_Braun_Wheel_Mass_Budget.md`, `Design_Efficiency_Comparison.md`, `Amundsen_Tower_Space_Fountain_Design.md` | OK. **At the repo root, not under `Worldspace/`.** Note this when copying. `Orbital_Infrastructure_Mass_Budget.md` copied to `Orbital_Infrastructure/` (2026-11-01); the other three not yet. |
 | Orbital population (Census II) | `GDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` ("Orbital Population (Census II)") | OK, 796 lines. |
 | Reserved home for orbital culture | `GDD/Neo-Races-and-Cultures/Orbital_Cryptograph_Helix_Era/` | OK. **Empty** (a `.gitkeep` and a 7,041-byte `README.md`). The `README.md` reads "extend the same method to the orbital infrastructure population". |
 | The neo-culture method | `GDD/Neo-Races-and-Cultures/_Method/` | OK. Not read this session. |

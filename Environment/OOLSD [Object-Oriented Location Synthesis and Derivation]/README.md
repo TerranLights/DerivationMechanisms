@@ -75,11 +75,11 @@ copied in, so the receiving repo is self-contained. The manifest is the copy lis
 
 ## What is established, and what is not
 
-- **LEO:** very little is established. `Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/` already exists as the
-  shared source for the novel and TV repos. It holds **one file**, a 40-line README that is scaffolding only. This
-  library points at it and does not duplicate it. That README held its "planned structure" until the developer said
-  so, and the developer has now said so for the library. Nothing has been built in that folder yet. (The sibling
-  `Upper-Earth/` holds a 7-line `Timeline.md` and an empty `Geography.md`.)
+- **LEO:** very little is established. The game's `Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/`
+  is the shared source for the novel and TV projects. It holds **one file**, a 40-line README that is scaffolding only,
+  now copied with the orbital mass budget into `Orbital_Infrastructure/` here. That README held its "planned
+  structure" until the developer said so, and the developer has now said so for the library. Nothing has been built
+  in that folder yet. (Next to it, `Upper-Earth/` holds a 7-line `Timeline.md` and an empty `Geography.md`.)
 - **The three build stages** (robot-only staging stations, then O'Neill Cylinders, then Von Braun Wheels with
   Cylinders) are canon. See `03_Pointer_Manifest.md`. The cause of the orbital population's human-heavy tilt is
   **open**; this library does not settle it.
@@ -105,6 +105,7 @@ copied in, so the receiving repo is self-contained. The manifest is the copy lis
 | `02_Design_Brief.md` | the class declaration template, the slot taxonomy, the starting class list (non-exhaustive), the binding rules and the open questions |
 | `03_Pointer_Manifest.md` | every pointer, verified or not, and the copy list for handoff |
 | `04_Handwave_Register.md` | the enumerated handwaves (nanotech gel-brain consciousness is H-1). Anything not on it obeys known physics. |
+| `Orbital_Infrastructure/` | the orbital-infrastructure scaffolding README (purpose, what already exists, open items) and `Orbital_Infrastructure_Mass_Budget.md` (debris mass, O'Neill-cylinder mass, gravity gradient, population bounds) |
 | `classes/` | class declarations, one file per class, drafted from the template in `02_Design_Brief.md` §1. `01_Robot-Only_Staging_Station.md` is the first (a test of the template). |
 | `research/` | the sourced physics data per body group, with search logs. `_BRIEF.md` is the shared research brief; `_inputs/` holds downloaded transcripts and other source material. |
 | `research/DEFERRED_RESEARCH.md` | searches to run again later, with what to try next. Separate from the shopping list. |
