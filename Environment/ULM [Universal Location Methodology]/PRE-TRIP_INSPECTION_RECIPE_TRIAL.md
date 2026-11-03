@@ -881,7 +881,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 | **0** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` | Read in full at Step 0, not merely by the phase that first needs it |
 | **1** | `04_QA_Gates_and_Differentiation.md`, **Gate 9** (Asymmetry) | Cite Gate 9 by name when Step 1 runs the asymmetry check on inherited material |
 | **5** | `02_Generators_Capability_and_Symbols.md` §5.3 (both-are-true) + `05_The_Input_Contract.md` §6.1/§6.3 | Open both at the point of use, not from memory |
-| **6** | `04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument) | Add this location's column, write-only, per `04` III.4 |
+| **6** | `04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument) | Add this location's row, write-only, per `04` III.4 |
 
 ## 6b · §D TEMPLATE — the per-phase canon, Phases 0 through 10 · **`U`** = universe repo · **`P`** = this project
 
@@ -983,7 +983,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 | Ph | Must open | Resolved address | Tier |
 |---|---|---|---|
 | **9** | ⚠⚠ **U** Laws of Robotics | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md` | binding |
-| **9** | ⚠⚠ **U** Robot Universals *(Ch. 13, 14 esp.)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/` | `MAPPED` |
+| **9** | ⚠⚠ **U** Robot Universals *(Ch. 13, 14 esp.)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` | `MAPPED` |
 | **9** | **U** Doll Representation Categories | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md` | `MAPPED` |
 | **9** | Human-robot baseline | *(Robot_Physiology_and_Cultural_Practices.md, as Phase 4)* | |
 
