@@ -105,6 +105,8 @@ what has actually been resolved elsewhere. **A file's self-reported status is un
 check the target, never the claim.** And when a phase is added to this methodology, **every location already
 marked complete reverts to incomplete for that phase.**
 
+**Gate 0 outward also reads a tracker's scope words (*unattended*, *in the developer's absence*, *complete*) and its forward references (*Step N to confirm*) against the files, not only its completion marks.** *(Added 2026-11-04, `M-287`.)*
+
 **Gate 1 — Coverage.** Confirm each applicable phase is *answered*, not gestured at.
 > **The instrument-verification discipline is the important half, and it is fully general.** A mechanical scan
 > is worthless until you have proved it could have found a hit. Recorded defects, every one found by content
@@ -328,6 +330,7 @@ These have no district equivalent because the district set had no type, band, fr
   > In the measured case a cuisine finding was justified by *"feeding itself through a six-month polar night"*;
   > the real figure was ~60 days, and swapping the number in would have left a weak claim. **The actual
   > constraint — nothing grows on that continent in any season — was both true and stronger.**
+- **When a ruling changes a fact, check its "applied" list against every file that states the fact, at once.** A ruling applied to some sources and not others is recorded as a Gate C failure, with the files that lag. *(Added 2026-11-04, `M-312`/OBS-9.)*
 - **Any thin-looking canon file checked for being a redirect stub** before concluding the canon is thin?
 - **Rank order respected** where sources disagreed, with the contradiction stated rather than silently resolved?
 - **Anything binding beyond this location** routed to RESERVED instead of decided here?
@@ -425,7 +428,7 @@ When a location is written *after* locations it contains:
 
 | | During a per-location pass | ⏸️ At the TERMINAL check |
 |---|---|---|
-| **Adding this location's column** | ✅ **REQUIRED, same commit as the finding** *(Step 9 unchanged)* | — |
+| **Adding this location's row** | ✅ **REQUIRED, same commit as the finding** *(Step 9 unchanged)* | — |
 | **Reading another location's row** | ⛔⛔ **FORBIDDEN** | ✅ **This is the whole job** |
 | **III.2 step 1, "before writing a category, read its row"** | ⛔ **REVOKED in-run** | ✅ **Restored** |
 | **III.4 substitutes** | ✅ **The ordinary path, for EVERY location** | — |
@@ -462,7 +465,7 @@ The one file whose entire job was keeping those three cities apart did not know.
 > 1. **Has anything been established about these locations since the instrument was last updated?** Symbol
 >    assignments, census revisions, founding corrections, and renames are the usual stragglers.
 > 2. **A finding recorded in a file nobody consults during differentiation is not doing differentiation work.**
-> 3. **Propagation is part of the finding, not a follow-up.** Per Step 9, the column goes in **the same
+> 3. **Propagation is part of the finding, not a follow-up.** Per Step 9, the row goes in **the same
 >    commit** — and so does anything discovered about a *sibling* along the way.
 
 ## III.1 What it is
@@ -480,7 +483,7 @@ and deficit-address table first, because that is what everything else descends f
 ## III.2 How to run it
 
 > ⛔ **STEPS 1–2 ARE TERMINAL-ONLY as of 2026-09-06. Do not run them inside a per-location pass.**
-> ✅ **In-run, jump to III.4 and add your own column.**
+> ✅ **In-run, jump to III.4 and add your own row.**
 
 1. ⏸️ **Before writing a category**, read its row.
 2. ⏸️ **If your answer rhymes with any entry, either differentiate it explicitly and inline — in the finding
@@ -490,7 +493,7 @@ and deficit-address table first, because that is what everything else descends f
    locations that otherwise look identical.
 3. **Name the axis the category answers on**, in bold. ⏸️ *Confirming that no completed sibling already uses
    it is TERMINAL-ONLY, like steps 1–2.* **Different content is not differentiation; a different question is.**
-4. **After completing a location, add its column in the same commit.**
+4. **After completing a location, add its row in the same commit.**
 
 ## III.3 Sibling sets of different sizes
 
