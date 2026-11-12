@@ -409,6 +409,11 @@ Flagged only; none accepted. The developer decides.
 - **1960s rotating-room studies** behind CR-178345's ladder, elevator and sickness figures (its references 4-35 to 4-48) not opened; Lackner and DiZio full papers (abstracts only).
 - **NASA HRP short-radius experiments up to 15 rpm** (Zipay 2019): whether any results have been published since; not searched.
 - **Communication nodes and LEO power platforms** as separate infrastructure: left to sections 5 and 7 of this tranche.
+- **Consumables and shielding mass for LEO habitats** (water, nitrogen, hydrogen-rich shielding and propellant): where they come from in a
+  later supply chain. A popular-science video (Isaac Arthur, "Floating Cities Above Gas Giants") argues the gas giants hold about 99% of the
+  hydrogen outside the Sun and are the bulk source of hydrogen, helium and nitrogen, that hydrogen can be shipped in to make water with local
+  oxygen, and that propellant tanks double as radiation shielding. Unchecked; the chain begins beyond the inner system, so it bears on a later
+  era than the two interwar delivery modes. See `gas_giant_cities_and_deuterium_2026-11-12.md`.
 - **Sierra Space LIFE burst tests** (77 psi full-scale, 255 psi for LIFE 10): trade press only; NASA's requirement behind 60.8 psi not found.
 - **Full papers behind the IAF abstracts** (Gravity Ring 2021; AGOS 2023), including AGOS's rotating-to-static joint design.
 - **Kalpana Two** (Globus and Marotta, *The High Frontier: An Easier Way*): no paper found; the NSS roadmap page is the only source for a 100 m, 500-person ELEO settlement.
