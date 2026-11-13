@@ -56,6 +56,10 @@ Physics, engineering and economics only; no story or canon assumed. Mark each fi
 
 Q8 is separate from the maritime idea; run it only if the author wants the gas-giant side.
 
+## 3b. Who does what (author, 2026-11-12)
+
+Hermes, the author's local supplementary agent, collects the facts. Its assignments are in `CurrentNovelDocs/worldbuilding/Hermes_research/assignments/` (`SeaDeuterium_00_CHECKLIST.md` and nine tasks, T01 to T09, covering Q1 to Q8 plus a cross-check of the fusion and tritium figures); its findings go to `findings/` and are indexed in `INDEX.md`, under the GDD's `HERMES_RULES.md`. Claude checks Hermes's output, does the arithmetic and reasoning across tasks, and writes the synthesis. The author wants Claude to still do some of the research itself.
+
 ## 4. Order and size
 
 1. Q1 and Q2 together (the method and the site decide the rest), then Q3.
