@@ -1,0 +1,34 @@
+# Brief: DCI springboard scouting (one nation × one sign × one concept)
+
+Saved in the repo so a cutoff loses nothing. You are given **NATION**, **SIGN** (number and name) and **CONCEPT** (a number from that sign's avenue file; **0 = the sign's domain and folkways**).
+
+**This is scouting, not research.** You write a short *springboard sheet*: where a researcher should start looking. You report **no findings** about the culture. Read `<DM>/Shared/Springboard_Scouting.md` first: it defines what a sheet is, what it must not hold, and the rules. Read it in full; it is short.
+
+**Paths**
+- `<DM>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/DCI [Deep Culture Investigation]`
+- `<RESULTS>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Deep_Culture_Investigation`
+
+**Inputs: read only these**
+1. `<DM>/Shared/Springboard_Scouting.md` and the template `<DM>/Templates/T_Springboard.md`.
+2. The concept: `python3 -I "<DM>/_dispatch/concept_block.py" <sign number> <concept number>` prints its working definition, facets, avenues and source types. (Concept 0 prints the sign's domain.) Its avenues are prompts for where to look; they are not findings.
+3. The nation: find its folder with `find "<RESULTS>/Targets" -type d -name "<NATION>" -exec test -f "{}/PROGRESS TRACKER.md" \; -print` (nations sit at `Targets/<region>/<nation>/`, or `Targets/Asia/<sub-region>/<nation>/` for the four Asian regions; the nation Russia sits at `Targets/Russia/Russia/`), then read only the header of its `PROGRESS TRACKER.md` (region, pre-war lands carried). **The target is the post-war nation:** write for the lands it consists of, not the old country. If `00 - Scope.md` exists in the folder, you may read its units section.
+4. Nothing else. **No web search. No web fetch. No other files.**
+
+**Write to:** `<RESULTS>/Targets/<region path>/<NATION>/Springboards/<NN> - <Sign>/<file>` where `<file>` is `00 - Domain and folkways.md` for concept 0, otherwise `<concept number, two digits> - <Concept name>.md`. Create the folders if needed. Touch no other file.
+
+**Checkpoint:** write the file early with first line `STATUS: in progress`; finish it and set the first line to `STATUS: done <today's date>, not verified`. Follow the template's five sections.
+
+**How to write it**
+- **Length:** a concept sheet is about 450 to 750 words counting the table markup; a domain sheet up to about 900. The pilot (2026-11-15) showed 700 to 800 is the natural size and still useful; do not pad past it.
+- **Search terms:** the concept's words in the nation's main language(s) (more than one if the nation is multilingual; include the main minority and Indigenous languages of its lands), with a gloss. English keywords too. Transliterate non-Latin scripts and give the native script when you are sure of it.
+- **Where to look first:** name only what you are confident exists (a named survey, dataset, institution, archive, journal, standard work or author, newspaper, broadcaster, genre). If you are not sure of an exact title, author or URL, **write the type of source and the query that would find it instead. Never invent a name.** Mark every named item *check*. Say how it can be reached (open web, library, archive, paid, offline or in person, unknown).
+- **Who to compare:** the regional cultures, ethnic and Indigenous peoples and other groups inside the nation worth separating. Say why, in a phrase.
+- **Flags:** likely rich, mixed or thin data; languages needed; anything sensitive or restricted (a people's restricted knowledge, for example); pointers held for review under the standing rules.
+- **First queries:** three to five concrete first steps, in order.
+- **A thin answer is fine.** If you know little about where to look for this concept in this nation, say so and give the generic route (the language's dictionaries, the national statistics office, the main universities' collections, national library catalogs).
+
+**South Asian rule, strictly:** name no South Asian work, scholar, community or language anywhere in a sheet except the one "Held for review" line, and there only as a category ("South Asian-heritage communities in the nation's lands"). Not in "who to compare", not in search terms.
+
+**Standing rules (also in the spec):** American English. Native, Indigenous or Aboriginal, never "Indian". No South Asian works or scholars as pointers. No law outside Libra and Capricorn. No national stereotypes: name variation, never one voice. No findings. The zodiac is a classifier only.
+
+**Finish:** reply with one line: the file path and `done`, plus any problem. Do not summarize the content.
