@@ -1,4 +1,4 @@
-STATUS: draft v1 (2026-11-11), for the author to review.
+STATUS: draft v1 (2026-11-11), for the author to review; candidate subtopics consolidated across signs 2026-11-15 (see `_dispatch/SUBTOPIC_CONSOLIDATION.md`).
 
 # Avenues of investigation: 02 Taurus (possessions and value)
 
@@ -570,18 +570,25 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* food ways are Fischer's folkway for this sign (the long food-ways bullet in section 0); the research notes give appetite and nourishment; Sensuality holds food only as a pleasure. *Also fits:* Cancer (feeding and nurture), Virgo (health and diet), Leo (feasting as celebration).
 - *What it would add:* a concept for one of the best-recorded areas of any culture, with its own measures (diet surveys, food spending, time spent eating), in place of a bullet in section 0 and a facet of Sensuality.
 - *Avenues:* the food-ways bullets in section 0; meal times, and who eats with whom; the foods of feasts, fasts and mourning; food rules and taboos; food and status; food as identity (Aries, identity); hunger and food aid; children's food rules (the clean plate); cookbooks and food television.
+- *See also (consolidation, 2026-11-15; food):* Virgo C6, Diet and eating right; Cancer C14, Feeding as love; Cancer C11, Family meals and gatherings; Gemini C30, *Sobremesa*.
 
 ### C4. Dress and clothing
 - *Working definition:* what people wear; how clothing is made, bought, kept, mended and passed on; and what it says about the wearer.
 - *Why here:* dress ways are Fischer's folkway for this sign (runner-up Leo), now one bullet of section 0; the research notes give dress as natural fabrics in earthy colors, or conspicuous jewelry worn to show substance. *Also fits:* Leo (display), Aries (C2, appearance and self-presentation).
 - *What it would add:* clothing as a possession and a value (materials, care, mending, cost, plainness), apart from clothing as display, which an Aries or Leo concept would take.
 - *Avenues:* the dress-ways bullet in section 0; natural against synthetic fibers; mending and hand-me-downs; Sunday best and work clothes; uniforms; regalia, as the nations describe it; dress codes; spending on clothing; fast fashion and resale.
+- **Merged here (consolidation, 2026-11-15) from Leo C9, Dressing up and personal style.** Its full entry, word for word:
+  - *Working definition:* dressing to be seen: best clothes for an occasion, costume, style and flair, and the judgments of others' looks that follow.
+  - *Why here:* dress ways are this sign's runner-up folkway, with their home in Taurus (section 0's "Dress ways" bullet: dress as display and costume); the research notes give fashion ("high fashion and showy dress"), appearance ("dresses to be seen") and glamour. Taurus's C4 holds clothing as a possession and a value and leaves "clothing as display" to Aries or Leo; Aries's C2 holds appearance and self-presentation. *Also fits:* Taurus (C4, dress; C40, display of wealth), Aries (C2).
+  - *What it would add:* dress as a performance: Sunday best, the *quinceañera* gown, the prom tuxedo, the *charro* suit, Western wear for the rodeo, the zoot suit, lowrider style, drag, cosplay and Halloween; and words for the well-dressed and the overdressed (*catrín*, *fresa*, "dapper", "flashy").
+  - *Avenues:* section 0's dress-ways bullet; prom and Halloween spending (retail surveys *check*); the *pachuco* and the zoot suit (under Self-expression's History); Western-wear stores and rodeo dress; men's style and grooming magazines; school "spirit days" and dress-up days; what people wear to church, weddings and funerals, and how that has changed; Mexican *catrines* and the *Catrina* as a figure of dressed-up vanity; costume at Carnival.
 
 ### C5. Thrift and waste
 - *Working definition:* careful use of money and things, so that nothing is wasted; and how a culture judges waste.
 - *Why here:* thrift is half of section 0's "Thrift and display" bullet, and a child quality in the World Values Survey ("thrift, saving money and things"); the research notes give resourcefulness and the accounting of resources. *Also fits:* Virgo (order, improvement), Capricorn (discipline).
 - *What it would add:* a value with strong measures and many sayings that neither Security nor Wealth holds: saving and mending as virtues; waste as a sin, or as a mark of status (C29, *mottainai*, gives one language's word for the feeling).
 - *Avenues:* the thrift sayings and the WVS item in section 0; saving rates; mending, reuse and repair; leftovers and food waste; coupons and bargain hunting; Depression-era habits passed down in families; frugal-living communities online; how the thrifty are mocked as cheap (C42).
+- *See also (consolidation, 2026-11-15; thrift, waste and salvage):* Taurus C29, *Mottainai* (regret over waste); Pisces C24, Salvage (worth in what others throw away); Aries C26, Resourcefulness (making do); Virgo C12, Maintenance and repair.
 
 ### C6. Exchange and trade
 - *Working definition:* how goods change hands for other goods or for money (buying, selling, bartering, bargaining), and what people think a fair price is.
@@ -594,6 +601,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* section 0's "Saving, credit and debt" bullet; the research notes' gaps name debt as missing from the sign's material. Framed here through custom, feeling and commerce only. *Also fits:* Scorpio (shared resources, power), Capricorn (obligation), Libra (reciprocity).
 - *What it would add:* the moral weight of owing (shame, gratitude, dependence, power over the debtor), which neither Security nor Wealth names.
 - *Avenues:* buying on trust at the corner store (*fiado*), and the sign *hoy no fío, mañana sí*; *cuentas claras, amistades largas*; loans between kin and friends, and what they do to friendships; credit cards, and pride in "owing nothing"; whether debt is felt as shame or as normal; favors owed, and the Japanese *on* and *giri*, debts of gratitude and of social obligation *check*; religious teaching on lending and on forgiving debts (the Jubilee year); the household-debt figures in section 0.
+- *See also (consolidation, 2026-11-15; debts and gratitude):* Libra C33, *Utang na loob* and *on* (debts of gratitude); Capricorn C24, *Giri* and *ninjō*.
 
 ### C8. Poverty and want
 - *Working definition:* lacking what a culture holds necessary; and how that lack is explained, named, lived, shamed or honored.
@@ -638,48 +646,44 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give rest, laziness (contested in the sign's material: laziness, or energy saved on purpose?) and restlessness (Io, stung so that she can never rest); procrastination is a Tier 2 concept, under six signs. Other languages praise idleness: Italian *dolce far niente*, Dutch *niksen*; Mexican Spanish *flojera* and *hueva* name it with a smile or a sneer. *Also fits:* Virgo (work), Capricorn (discipline), Leo (play).
 - *What it would add:* the other side of work, which Virgo's concepts would treat only as an absence.
 - *Avenues:* time-use data on leisure and sleep; vacation days taken and left unused; the siesta; the sabbath; claims of laziness aimed at groups (recorded as claims, never adopted); "hustle culture" against the slogan "rest is resistance"; retirement as earned rest; sayings on idleness ("the devil finds work for idle hands").
+- *See also (consolidation, 2026-11-15; rest and leisure):* Leo C49, Leisure and free time (split from play); Virgo C31, *Feierabend*; Virgo C35, *Tǎng píng* (lying flat); Virgo C5, Sleep.
 
 ### C15. Routine and habit
-- *Working definition:* doing the same things in the same way and at the same times, and the value placed on that sameness.
-- *Why here:* the research notes give routine (a routine held as a possession) and habit; routine is a Tier 2 concept, under seven signs. *Also fits:* Virgo (order), Capricorn (discipline).
-- *What it would add:* the everyday side of Stability: whether routine is felt as comfort, as discipline, or as a rut.
-- *Avenues:* daily schedules from time-use data; bedtime and mealtime routines for children; the same breakfast, the same seat; habit praised as virtue (Benjamin Franklin's chart of daily virtues) or scorned as deadness; self-help books on habits and their sales; how people react when a routine breaks (a store closes; a show is canceled; a bus route changes).
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Virgo C1, Daily routine and the shape of the day, where its full text is kept word for word under "Merged here".
 
 ### C16. Patience and waiting
 - *Working definition:* bearing delay calmly, and letting things ripen in their own time.
 - *Why here:* the research notes give patience (with long, slow processes others abandon) and slowness; patience is a Tier 2 concept, under six signs; Aries proposes impatience (Aries C5), with patience as its pole. *Also fits:* Aries (C5, impatience), Capricorn (time and discipline), Pisces (surrender).
 - *What it would add:* the slow virtues (waiting, slow work, deferred reward) as a value of their own.
 - *Avenues:* delay-of-gratification studies across cultures; proverbs of patience (*poco a poco se va lejos*; "Rome wasn't built in a day"); waiting in lines and offices (under Self-worth, Time and rhythm); slow movements (slow food, slow travel); the patience of farmers and craftsmen; patience in religious teaching (Job); how long courtships and engagements last.
+- *See also (consolidation, 2026-11-15; patience and time):* Aries C5, Impatience and urgency; Capricorn C5, Punctuality and whose time it is; Capricorn C54, Queues and waiting one's turn (split from order); Capricorn C13, The long view (planning and the deferred reward).
 
 ### C17. Reliability
 - *Working definition:* being someone, or something, others can count on: keeping one's word, showing up, finishing, being on time.
 - *Why here:* the research notes give reliability (in the sign's material, the one others build long-term plans around "because it actually shows up"), punctuality, commitment and follow-through; reliability is a Tier 2 concept, under seven signs. *Also fits:* Capricorn (duty, responsibility), Scorpio (trust), Virgo (work).
 - *What it would add:* the dependable person as a cultural ideal, with measures of its own (punctuality, promises kept) and words of praise and blame ("flaky"; in Mexico *cumplido* for the one who keeps his word, and *quedar mal* for letting someone down *check*).
 - *Avenues:* punctuality norms (Levine, *A Geography of Time*, 1997); "flakiness" and the "Seattle Freeze" as regional claims to test; promises and how they are kept; the tradesman who never shows up; the reliability of machines and of public services, and how people talk about it.
+- *See also (consolidation, 2026-11-15; keeping one's word):* Leo C50, Keeping one's word (split from honor); Libra C25, Commitment; Capricorn C22, *Cumplir*; Taurus C43, Steadfastness (split from stubbornness).
 
 ### C18. Loyalty
-- *Working definition:* staying faithful to a person, a group, a place, a brand or a cause through time and at a cost.
-- *Why here:* the research notes give loyalty ("deep and unglamorous"); loyalty is a Tier 2 concept, under ten signs, and has no home yet. *Also fits:* Scorpio (trust and betrayal), Cancer (family), Aquarius (friendship), Leo (honor). Its home may be better in one of those.
-- *What it would add:* faithfulness kept over time, the steady side of three Taurus concepts (Stability, Possessiveness and Stubbornness).
-- *Avenues:* loyalty to employers, and its decline; brand loyalty; fans who stay with a losing team; loyalty to a hometown; friendships across decades; turncoats and traitors (*chaquetero*, under Stubbornness); loyalty programs as the market's imitation of it.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Scorpio C22, Loyalty, where its full text is kept word for word under "Merged here".
 
 ### C19. Craftsmanship
 - *Working definition:* making things well with skilled hands, and pride in work that is not careless or half-done.
 - *Why here:* the research notes give craft (artisans, laborers, farmers and builders; "skilled hands that refuse careless or half-finished work"), method and art. *Also fits:* Virgo (work, perfectionism), Leo (creativity).
 - *What it would add:* the value placed on things made well and made to last, which joins Possession (well-made things), Values and Self-worth (pride in one's work).
 - *Avenues:* craft traditions and their apprenticeships; handmade against mass-made; folk arts as their makers share them (carving, weaving, pottery, saddle-making, the stitched leather of *piteado* belts); repair culture; "they don't make them like they used to"; the maker movement; heritage fellowships and craft awards.
+- *See also (consolidation, 2026-11-15; craft and skill):* Virgo C9, Skill, competence and mastery; Virgo C28, *Shokunin* and *kodawari*; Leo C14, Talent and giftedness.
 
 ### C20. Cultivation
 - *Working definition:* growing things (gardens, crops, orchards and herds), and the patience and attachment this asks of people.
 - *Why here:* the research notes give cultivation (growing plants patiently from seed and staying near the garden), fertility and land. *Also fits:* Virgo (work), Cancer (nurture).
 - *What it would add:* the gardener's and the farmer's bond with land and growth, which is not the same as owning land.
 - *Avenues:* home gardens and community gardens; the family *milpa* and the orchard; farmers' markets; seed saving; county fairs and their prize vegetables; the farm as identity; gardening in time-use and hobby surveys; planting and harvest festivals, as each people shares them.
+- *See also (consolidation, 2026-11-15; nature):* Scorpio C47, Mastery over nature (split from control); Pisces C56, Nature as sacred (split from spirituality); Aquarius C40, Environmentalism (split from reform and idealism); Capricorn C39, Stewardship (split from responsibility).
 
 ### C21. Hospitality
-- *Working definition:* receiving and feeding guests, and the duties of host and guest.
-- *Why here:* the research notes give hospitality (in the sign's material, "without limits") and the remembering of occasions; hospitality rules appear in this file only among section 0's source types. Greek *philoxenia*, "love of strangers", names it as a virtue. *Also fits:* Cancer (home), Leo (generosity), Libra (reciprocity).
-- *What it would add:* the code for sharing one's possessions with others, with its own rules of offering, refusing and returning.
-- *Avenues:* *mi casa es su casa*; what a host must offer, and how many times a guest must refuse before accepting; potlucks against hosted dinners; *sobremesa*; the scale of feasts; how strangers and newcomers are received; the hospitality trade (hotels, restaurants) against hospitality at home.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Cancer C5, Hospitality at home, where its full text is kept word for word under "Merged here".
 
 ### C22. Earning and spoiling
 - *Working definition:* the belief that what one has should be earned by one's own work, and its opposite, being given what one has not earned (spoiling).
@@ -698,6 +702,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give beauty (an earthy, unpolished beauty rooted in nature) and appreciation; Values includes valuation, and beauty is one of the kinds of value. *Also fits:* Libra (harmony), Leo (art), Virgo (perfection).
 - *What it would add:* aesthetic value beside money value and moral value: what is kept because it is beautiful, and what beauty is worth.
 - *Avenues:* what people decorate, and how; natural beauty and scenic places, and the fights to protect a view; ideals of bodily beauty (Aries, C1 and C2); folk art; how homes are decorated; "pretty" against "useful"; spending on beauty; C34 (*wabi-sabi*) for the beauty of the worn.
+- *See also (consolidation, 2026-11-15; taste and beauty):* Virgo C51, Taste and connoisseurship (split from discernment).
 
 ### C25. Contentment and "enough"
 - *Working definition:* being satisfied with what one has, and knowing when one has enough.
@@ -706,18 +711,21 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* life-satisfaction surveys; "enough" in religious teaching (Paul: "I have learned, in whatsoever state I am, therewith to be content"); simple-living movements; *lagom* as an exported idea; how a household decides it has enough; the "number" people say they need to retire.
 
 **From the Tier 2 concepts and the near-synonym groups** (`Shared/Concept_Lists_by_Sign.md`; the concept index's "Concepts under six or more signs" and "Names to reconcile later"; routine, patience, reliability and loyalty, above, are Tier 2 concepts too)
+- *See also (consolidation, 2026-11-15; happiness and enough):* Leo C51, Happiness and life satisfaction (split from joy); Aquarius C28, *Buen vivir* (*sumak kawsay*).
 
 ### C26. Resistance to change, and stagnation
 - *Working definition:* resisting change even when it is needed, and the stillness that follows.
 - *Why here:* stagnation is a Tier 2 concept, under seven signs, and change is one, under six; the research notes give change (resisted even when clearly needed), stagnation, complacency and "calcification". *Also fits:* Aries (beginning), Scorpio (crisis), Aquarius (reform).
 - *What it would add:* the judgment of stability's excess (the rut) as a topic of its own; it is now one line under Stability.
 - *Avenues:* openness to change in values surveys (Schwartz's conservation against openness); "if it ain't broke, don't fix it"; complacency in firms and towns; stagnant economies and dying towns, as their people describe them; blame between generations ("OK, boomer"); research on status-quo bias.
+- *See also (consolidation, 2026-11-15; changing one's mind):* Gemini C16, Changing one's mind; Libra concept 8, Indecision.
 
 ### C27. Envy
 - *Working definition:* pain at another's good fortune, and the wish to have what they have, or for them to lose it.
 - *Why here:* the near-synonym group envy / jealousy sits under Possessiveness; envy is the shadow of Wealth (whose Beliefs line asks how a culture holds envy in check). *Also fits:* Aries (competition), Leo (pride), Scorpio.
 - *What it would add:* jealousy guards what one has; envy covets what others have. Many cultures build customs around it: the evil eye, leveling, the "crab in the bucket", the tall poppy.
 - *Avenues:* evil-eye beliefs and remedies (*mal de ojo*), as communities describe them; Foster's "image of limited good" (1965, from a Michoacán town) and its critics; envy in proverbs (*la envidia mata*); German *Schadenfreude*, joy at another's misfortune; the crab mentality (Aries, competition); research on benign and malicious envy (van de Ven and colleagues *check*); envy on social media.
+- *See also (consolidation, 2026-11-15; envy and jealousy):* Scorpio C20, Jealousy.
 
 ### C28. Class
 - *Working definition:* the ranked groups a society sorts people into by wealth, work, schooling, family and taste, and how people place themselves and others among them.
@@ -726,36 +734,34 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* the class people say they belong to, in surveys; class markers in speech, dress, food and names; *naco* and *fifí* as class insults; mobility between classes (under Wealth); class in jokes and telenovelas; "middle class" as an identity; class at school.
 
 **Concepts other languages name that English lacks** (besides those already in C7, C9, C11, C13, C14, C23 and C25)
+- *See also (consolidation, 2026-11-15; class and getting ahead):* Capricorn C43, Social mobility (split from ambition and merit); Capricorn C45, Elites and the establishment (split from hierarchy); Capricorn C46, Credentials (split from merit); Aquarius C39, Privilege (split from equality); Sagittarius C51, Schooling as the way up (split from education).
 
 ### C29. *Mottainai* (regret over waste)
 - *Working definition:* the Japanese word for the regret felt when something of worth is wasted, and the cry "what a waste!".
 - *Why here:* one word that joins Possession, thrift (C5) and Values: things have a worth that waste insults. The Kenyan environmentalist Wangari Maathai took the word up in her campaigns (2005 *check*). *Also fits:* Virgo (order), Capricorn (discipline).
 - *What it would add:* whether waste is felt as a wrong done to the thing itself, and not only as a loss to its owner.
 - *Avenues:* thrift in Japanese American and Japanese Canadian households, as they describe it; words for waste in the pilot's languages (*desperdicio*; *¡qué desperdicio!*); food-waste data; campaigns against waste; repair and reuse.
+- *See also (consolidation, 2026-11-15; thrift, waste and salvage):* Taurus C5, Thrift and waste; Pisces C24, Salvage (worth in what others throw away); Aries C26, Resourcefulness (making do); Virgo C12, Maintenance and repair.
 
 ### C30. *Querencia* and *arraigo* (the place one belongs to)
-- *Working definition:* Spanish *querencia*, the place one loves and returns to, where one feels safe (in bullfighting, the spot in the ring the bull makes its own); *arraigo*, rootedness; *terruño*, one's home soil.
-- *Why here:* section 0's "Land and attachment to place" bullet; the research notes give land, territory and refuge. English has no single word for the safe place one has chosen and keeps returning to. *Also fits:* Cancer (home and belonging), Capricorn (heritage).
-- *What it would add:* attachment to place as a value apart from owning it: people deeply attached to places they don't own, and owners attached to none.
-- *Avenues:* place-attachment research (under section 0); talk of a "home place"; going home to die; migrants' *terruño*; the nations' own teachings on land and belonging, as they state them; the Welsh *cynefin*, a habitat or place of belonging *check*; the region's songs of place.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Cancer C3, Roots and rootedness, where its full text is kept word for word under "Merged here".
 
 ### C31. Inalienable treasures (*at.óow*, *taonga*)
 - *Working definition:* things a group keeps out of exchange forever because they carry its identity: crests, regalia, relics, crown jewels, family treasures.
 - *Why here:* Weiner's "inalienable possessions" (*Inalienable Possessions*, 1992, under Possession's Beliefs); the Tlingit *at.óow*, owned clan treasures, as the nations describe them (under Ownership's Words); the Māori *taonga*, treasures that include language and knowledge, as Māori describe them *check*. *Also fits:* Capricorn (heritage), Sagittarius (the sacred), Cancer (lineage).
 - *What it would add:* the class of things that may never be sold, which neither Possession nor Ownership names.
 - *Avenues:* relics and church treasures; regalia and crests, as the nations share them; family heirlooms never to be sold; museums' returns of objects; national treasures; the shame of "selling the family silver"; sacred objects offered at auction, and the protests that follow.
+- *See also (consolidation, 2026-11-15; heirlooms and legacy):* Scorpio C4, Inheritance and succession; Scorpio C18, Legacy.
 
 ### C32. Connections as wealth (*guanxi*, *palanca*, *compadrazgo*)
 - *Working definition:* a person's web of kin, friends and contacts, counted as a resource that can be drawn on.
 - *Why here:* section 0 names personal resources (time, skills, kin and contacts; Lomnitz on reciprocity among the poor of Mexico City); Chinese *guanxi*, Mexican Spanish *palanca* (leverage: a contact who can pull strings; *tener palancas* *check*) and *compadrazgo* (the bonds of godparenthood) name it, where English has only the scholars' "social capital". *Also fits:* Gemini (connection), Aquarius (community), Capricorn (hierarchy).
 - *What it would add:* wealth held in people rather than things: who you know, as part of what you have.
 - *Avenues:* *compadrazgo*, and the *padrinos* who share the costs of a celebration (under section 0); *guanxi* in the region's Chinese communities, as studied; finding work through contacts (Granovetter, "The Strength of Weak Ties", 1973); the exchange of favors; networking culture; measures of social capital (Putnam).
+- *See also (consolidation, 2026-11-15; networks and connections (compadrazgo's home is Cancer C27)):* Aquarius C11, Networks and weak ties; Gemini C41, Keeping in touch (split from connection); Cancer C27, *Compadrazgo* (ritual kinship).
 
 ### C33. Giving owed from wealth (*tzedakah*, *zakat*)
-- *Working definition:* giving from one's wealth treated as a duty owed, not as a free kindness.
-- *Why here:* Hebrew *tzedakah* (giving, from a root meaning "righteousness") and Arabic *zakat* (the alms owed on wealth, one of the pillars of Islam) frame giving as owed, where English "charity" frames it as kindness; church tithing (under section 0) is the region's best-known form. *Also fits:* Leo (generosity), Pisces (compassion), Capricorn (duty), Sagittarius (faith).
-- *What it would add:* whether giving is a duty that comes with wealth, and to whom it is owed.
-- *Avenues:* tithing in practice; giving by congregation; Jewish and Muslim giving in the region's communities, as they describe it; giveaways and the potlatch, as the nations describe them; *noblesse oblige* and the duties of the rich; surveys of giving.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Pisces C41, Charity and almsgiving (split from compassion), where its full text is kept word for word under "Merged here".
 
 ### C34. *Wabi-sabi* (beauty in the worn and imperfect)
 - *Working definition:* the Japanese ideal of beauty in things that are simple, imperfect, aged and passing.
@@ -770,12 +776,10 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* Possession now holds lending, borrowing and sharing as facets; the research notes give generosity toward guests and a wariness of obligation. *Also fits:* Libra (reciprocity), Leo (generosity), Aquarius (community).
 - *What it would add:* the everyday norms of "what's mine is yours", with institutions of their own (tool libraries, gifting groups) and their own lessons for children.
 - *Avenues:* sharing taught in preschool; borrowing tools and cups of sugar from neighbors; what may never be lent (a car, a toothbrush, a spouse's things); returning what was borrowed; sharing food; experiments on children's sharing (House et al., 2013, under Possessiveness); the "sharing economy" and how much sharing is in it.
+- *See also (consolidation, 2026-11-15; sharing, the commons and mutual aid):* Scorpio C5, The commons and pooled resources; Aquarius C14, Solidarity and mutual aid; Aquarius C24, *Comunalidad*; Aquarius C15, The common good; Virgo C26, Communal work (*tequio*, *minga*, *dugnad*, *bayanihan*).
 
 ### C36. Heirlooms and inheritance customs (split from possession and ownership)
-- *Working definition:* how things, land and houses pass from the dead to the living by custom and family feeling, and what is kept as an heirloom.
-- *Why here:* Possession and Ownership each hold inheritance as a facet; the research notes give inheritance among the things fought over between "my resources" and "our resources"; Possession's Relations now place inheritance with Scorpio. This candidate covers customs and family feeling only. *Also fits:* Scorpio (where the file now places inheritance), Cancer (family).
-- *What it would add:* the moment possessions cross generations: who gets what, what is fair among heirs, and what may never be sold.
-- *Avenues:* inheritance customs (equal shares; the youngest son who stays with the parents; the eldest; the child who cared for the parents to the end; Robichaux's Mesoamerican family system, under Ownership); family quarrels over heirlooms; heirlooms and their stories; how the bereaved divide things; what the young no longer want (the "brown furniture" of their grandparents); ethical wills.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Scorpio C4, Inheritance and succession, where its full text is kept word for word under "Merged here".
 
 ### C37. Owning the intangible (split from ownership)
 - *Working definition:* the feeling, and the custom, that songs, stories, names, recipes, designs and ideas belong to someone.
@@ -800,6 +804,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* Wealth's facets include wealth shown or hidden; section 0's "Thrift and display" bullet; the research notes give luxury (silk, satin, fur, velvet) and conspicuous jewelry worn to show substance. *Also fits:* Leo (being seen), Aries (C2, appearance).
 - *What it would add:* the line between pride and vulgarity in showing wealth, and the reasons people hide it (envy, modesty, fear).
 - *Avenues:* conspicuous consumption (Veblen, under section 0); stealth wealth and "quiet luxury"; *buchón* style and *corridos tumbados*; *quinceañera* and wedding spending; luxury brands and their counterfeits; the rich who live plainly (Stanley and Danko, under Wealth); giveaways and the potlatch, as the nations describe them.
+- *See also (consolidation, 2026-11-15; showing off):* Leo C12, Showing off and boasting; Leo C24, Vanity and narcissism; Aries C20, Self-centeredness and entitlement.
 
 ### C41. Territoriality and localism (split from possessiveness)
 - *Working definition:* claiming a space and defending it against outsiders: a seat, a street, a surf break, a neighborhood, a town.
@@ -818,24 +823,29 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* Stubbornness now holds both the vice and the virtue (moral firmness, tenacity); the research notes give determination, commitment and constancy; persistence / perseverance / endurance is a near-synonym group. *Also fits:* Sagittarius (conviction), Aries (C18, endurance), Capricorn (discipline).
 - *What it would add:* the praised side of holding firm, with heroes and words of its own ("steadfast", "faithful"; *firme*, *constante*), kept apart from the blamed side.
 - *Avenues:* hymns and sermons on steadfastness; constancy in love (songs of fidelity); keeping one's word; long service honored; holdouts praised after the fact; "stay the course" in politics and sport.
+- *See also (consolidation, 2026-11-15; keeping one's word):* Taurus C17, Reliability; Leo C50, Keeping one's word (split from honor); Libra C25, Commitment; Capricorn C22, *Cumplir*.
+- *See also (consolidation, 2026-11-15; endurance and perseverance):* Aries C18, Endurance (*aguante*, *gaman*, *sisu*); Capricorn C20, Perseverance; Aries C17, Follow-through.
 
 ### C44. Admitting mistakes (split from stubbornness)
 - *Working definition:* saying one was wrong, and apologizing.
 - *Why here:* Stubbornness's facets include refusing to admit error or to apologize; the research notes give mistakes and blame (refusing to admit a mistake and blaming subordinates instead); blame is a Tier 2 concept, under six signs. *Also fits:* Libra (diplomacy), Capricorn (responsibility), Leo (face).
 - *What it would add:* the cultural scripts of apology, and of losing or saving face when one is wrong.
 - *Avenues:* studies of apology across cultures; public apologies (under Stubbornness's Ritual); "sorry" in Canadian English; *perdón*, *disculpe* and *lo siento*, and when each is used; whether leaders may admit mistakes and keep their standing; blame-shifting at work; how children are taught to apologize.
+- *See also (consolidation, 2026-11-15; mistakes, apology and forgiveness):* Virgo C25, Failure and mistakes; Libra C21, Apology and reconciliation; Libra C26, Forgiveness; Scorpio C14, Remorse and repentance.
 
 ### C45. Touch (split from sensuality)
 - *Working definition:* who may touch whom, how and where, and what touch means.
 - *Why here:* Sensuality's facets include touch, warmth and texture, and its Feeling line gives touch norms (Jourard; Sorokowska et al.); Mexican Spanish *apapacho* (under Sensuality's Words) names a warm, soothing touch. *Also fits:* Cancer (care), Scorpio (intimacy), Gemini (greeting).
 - *What it would add:* touch as a whole topic: in greeting, comfort, child-rearing, care for the old and the sick, and among strangers.
 - *Avenues:* greeting with a kiss, a hug or a handshake; touch between men, and how it has changed; touch and children ("give Grandma a kiss", under Aries, autonomy); touch in care work; touch deprivation, and "skin hunger" in the 2020 lockdowns; massage; touch in worship (the sign of peace; the laying on of hands).
+- *See also (consolidation, 2026-11-15; romance and partnership):* Leo C2, Romance and romantic love; Libra C44, Choosing a partner (split from partnership); Libra C2, Marriage as an institution; Scorpio C1, Sex and sexuality; Scorpio C3, Intimacy.
 
 ### C46. Indulgence and restraint (split from sensuality)
 - *Working definition:* how freely people may satisfy their wants for pleasure, food, drink and fun, and how much they are expected to hold back.
 - *Why here:* Sensuality's excess (gluttony, hedonism) and deficiency (joylessness, puritanism) frame it; the research notes give self-indulgence (generosity toward oneself tipping into excess); Hofstede's indulgence-restraint dimension measures it (under Sensuality's Measures). *Also fits:* Capricorn (discipline, self-control), Leo (play).
 - *What it would add:* the moral line on pleasure as a concept of its own, apart from the pleasures themselves.
 - *Avenues:* indulgence scores by country; "treat yourself" against "everything in moderation"; Lent and Ramadan; diet culture; the history of temperance movements; "guilty pleasures"; treats and sweets for children, and who rations them.
+- *See also (consolidation, 2026-11-15; pleasure and restraint):* Capricorn C19, Self-control; Pisces C48, Asceticism and self-denial (split from self-sacrifice); Leo C1, Pleasure; Libra C49, Moderation and the middle way (split from balance); Virgo C20, Plainness and simple living.
 
 **Considered and not proposed:** grudges (Aries C31, a split of anger; the research notes hold grudges "like property"); endurance and persistence (Aries C18); risk and caution (Aries C34); follow-through (Aries C17); self-confidence (Aries C12); entitlement (Aries C20, touched in C22 here); resourcefulness and making do (Aries C26); generosity (in Leo's ten; its opposite is C42); reciprocity and fairness (in Libra's ten; touched in C6 and C7); the commons and shared resources (Scorpio, where Possession's Relations place them; touched in C2); pride and dignity (Leo); trust, betrayal and secrecy (Scorpio); theft (crime is settled in Pisces); care, nurture and shelter (Cancer); sexuality (Scorpio); health (Virgo); work and making a living (Virgo; touched in C19 and C39); discipline, self-control and merit (Capricorn; touched in C22 and C46); procrastination (Virgo or Capricorn; touched in C14); isolation and withdrawal (Pisces or Cancer); honesty (Sagittarius); joy and play (Leo); the rules of the state on property, debt and inheritance (Libra and Capricorn only).
 

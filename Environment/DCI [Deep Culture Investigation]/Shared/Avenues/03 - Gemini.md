@@ -1,4 +1,4 @@
-STATUS: draft v1 (2026-11-11), for the author to review.
+STATUS: draft v1 (2026-11-11), for the author to review; candidate subtopics consolidated across signs 2026-11-15 (see `_dispatch/SUBTOPIC_CONSOLIDATION.md`).
 
 # Avenues of investigation: 03 Gemini (communication and learning)
 
@@ -497,10 +497,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* language attitudes (matched-guise studies; perceptual dialectology, under section 0); language loss over generations (Rumbaut, Massey and Bean, under section 0); heritage-language schools and Saturday classes; Indigenous-language revival, as the nations describe it (under section 0); parents' choices about which language to speak to their children; pride and shame in an accent; purism against mixing (Spanglish; Chinuk Wawa words in local English); learning a second language as an adult, and how learners are treated; sign languages as languages, as Deaf communities describe them.
 
 ### C4. Childhood
-- *Working definition:* what a culture takes childhood to be: when it starts and ends, what a child is, what children may and must do, and what is kept from them.
-- *Why here:* early learning and the early environment are the sign's traditional areas (the research notes sum up the sign's area in one sentence: early environment, siblings, early schooling, teachers, neighbors and short journeys); the research notes give childhood ("early childhood, when we learn to talk and walk"); childhood is a Tier 2 concept, under seven signs. *Also fits:* Cancer (nurture), Leo (children, play), Capricorn (age ways).
-- *What it would add:* the child's own world as a topic (children's games, lore, secrets and rules among themselves: Bronner; Knapp and Knapp, under the investigation sheet's B8), not only childhood as the time when learning happens.
-- *Avenues:* children's folklore and playground culture; how much freedom children have (walking to school alone; playing unsupervised; the "free-range" parenting debates); children's work (chores; helping in the family business); what children are told and not told; the "age of reason", at about seven in Catholic teaching, and the first communion that marks it; whether children may speak at the table among adults; childhood remembered as a happy time or as a time to get through (memoirs); the Día del Niño (under Learning's Ritual).
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Cancer C6, Childhood, where its full text is kept word for word under "Merged here".
 
 ### C5. Literacy, reading and writing
 - *Working definition:* who can read and write, what people read and write, and what reading and writing are taken to be for.
@@ -513,18 +510,29 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the investigation sheet's angles for this sign name requests, refusals and apologies (Brown and Levinson); Aries points to politeness as Gemini's (Aries, Self-assertion's Relations); section 0's speech ways list forms of address and politeness formulas; the research notes give tact and clarity. *Also fits:* Libra (civility, diplomacy), Capricorn (deference and rank), Taurus (C21, hospitality).
 - *What it would add:* manners as a concept of their own: Mexican *educación* as good upbringing shown in courtesy (under Learning's Words); Canadian "sorry"; regional reputations for niceness ("Minnesota nice"), recorded as claims to test; the rude and the well-bred.
 - *Avenues:* politeness research (Brown and Levinson, under section 0); *tú* and *usted*; how a refusal is made; how often people say "please", "thank you" and "sorry"; etiquette books and advice columns; manners taught to children; *con permiso*, *provecho* and the other formulas (under section 0); manners on transit and in lines; surveys of rudeness and civility (*check* for regional studies); civility campaigns.
+- **Merged here (consolidation, 2026-11-15) from Libra C6, Civility (manners among strangers).** Its full entry, word for word:
+  - *Working definition:* the forms of courtesy that let strangers and opponents share public space and public life (queues, road manners, waiting one's turn, civil disagreement, the courtesy owed to anyone), and how far a culture sees them as the base of social life.
+  - *Why here:* section 0's "Civility and manners" bullet holds it now (queues; *usted* and *tú*; *mande*; door-holding; road manners; apology; Carreño's *Manual*; surveys of incivility); the research notes give civility ("orderly queues and graceful public life, treated as structural to society rather than decorative") and etiquette. Gemini proposes politeness and manners (C6), from the side of speech, and names Libra's civility as another home. *Also fits:* Gemini (C6, politeness and manners), Capricorn (public order), Aquarius (civic life).
+  - *What it would add:* manners as the glue of public life rather than of conversation: the courtesy of the road, the line, the bus and the sidewalk; civil disagreement in meetings and in politics, and its decline; the "civility" campaigns and their critics, who say calls for civility can silence the wronged (C55); and the difference between being polite and being civil.
+  - *Avenues:* section 0's bullet; Carter, *Civility* (1998); Weber Shandwick's *Civility in America* surveys; road-rage and driving-courtesy surveys by state (*check*); queuing customs and line-cutting (under Fairness); civility pledges for city councils and school boards; the "Seattle Freeze" and Canadian "sorry" as claims about strangers' manners; *urbanidad* in Mexican schooling; transit codes of conduct; studies of incivility at work (Porath and Pearson *check*).
 
 ### C7. Directness and indirectness
 - *Working definition:* how plainly people say what they mean, and how much they leave to context, tone and silence.
 - *Why here:* the investigation sheet's angles for this sign begin with directness and context (Hall); section 0's first bullet holds high- and low-context talk; Aries proposes the same idea as its C7 (Directness) and names Gemini as another home, and Sagittarius's honesty points to "Gemini's directness". *Also fits:* Aries (C7), Sagittarius (honesty), Libra (diplomacy).
 - *What it would add:* the speech-style axis on which cultures are most often compared, given a concept of its own; one home is to be chosen between Aries and Gemini.
 - *Avenues:* Hall's high- and low-context communication; business-culture guides (Meyer, under section 0); how criticism is given at work; "no" said outright or softened (the elastic Mexican *ahorita*; "let me think about it" *check*); hints and *indirectas* (under Communication's Words); feedback norms in schools; directness between generations, and between men and women; comparisons across the international borders (Canadians and Americans; northern and central Mexicans), recorded as claims to test.
+- **Merged here (consolidation, 2026-11-15) from Aries C7, Directness.** Its full entry, word for word:
+  - *Working definition:* saying what one means plainly, without softening; frankness.
+  - *Why here:* the research notes give directness ("blunt, frank and transparent") and honesty without pretense. *Also fits:* Gemini (directness and context, after Hall), Sagittarius (honesty).
+  - *What it would add:* the spoken form of self-assertion. It may serve better as a facet of self-assertion, or as a Gemini concept, than as a concept here.
+  - *Avenues:* high- and low-context communication (Hall); research on politeness and indirectness; feedback norms at work; regional reputations for niceness or frankness (the "Seattle Freeze"; "Midwestern nice"), as claims to test; business-culture guides on directness; how refusals are made, and how long they take.
 
 ### C8. Argument and debate
 - *Working definition:* how people disagree in words (arguing, debating, quarreling over ideas), and how far open disagreement is welcome.
 - *Why here:* the investigation sheet's angles for this sign name styles of argument; the research notes give debate ("it wins arguments by bringing in new debates and contrary opinions"), rivalry (arguing forever over whose idea is right) and wit. *Also fits:* Libra (diplomacy; conflict avoidance), Aries (competition), Sagittarius (conviction).
 - *What it would add:* disagreement as talk: whether arguing is a pleasure, a sport, a duty or a danger; who may argue with whom; and what happens to a friendship after an argument.
 - *Avenues:* Tannen, *The Argument Culture* (1998), as one claim about American talk; comparative studies of arguing in families and at work (*check*); school speech and debate (under Communication's Institutions); arguments at the holiday table; political talk between people who disagree (under Communication's Change); "agree to disagree"; arguing as play (verbal duels; *albures*, under section 0); the customs of online arguments; whether losing an argument costs face (cross-reference: Taurus C44, admitting mistakes).
+- *See also (consolidation, 2026-11-15; arguing):* Libra C42, Fighting fair (split from fairness); Libra C19, Deliberation.
 
 ### C9. Sociability
 - *Working definition:* the taste and the skill for company: mixing, mingling, joining in, and making a gathering go.
@@ -539,12 +547,18 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give wit ("quick wit, sharp enough to make any exchange better"), humor ("holding more than one frame at once"), mischief and sarcasm; humor is a Tier 2 concept, under seven signs. *Also fits:* Leo (play and joy), Aquarius (nonconformity).
 - *What it would add:* the play of language, which Communication holds only in passing: what is funny, who may joke about whom, and whether wit is admired or distrusted ("too clever by half").
 - *Avenues:* *albures* and double-meaning wordplay (under section 0); Cantinflas (under Communication); stand-up comedy and its clubs (the Comedy Store, Los Angeles); puns and their reputation; sarcasm and irony, and who gets them; jokes about other groups, and who may tell them; humor at work; cross-cultural research on humor (*check*); joking relationships between certain kin, as each people describes them.
+- **Merged here (consolidation, 2026-11-15) from Leo C21, Comedy and laughter.** Its full entry, word for word:
+  - *Working definition:* what a people finds funny, how it makes others laugh (jokes, clowning, satire, comedy as a performing art), and the standing of the comic.
+  - *Why here:* humor is a Tier 2 concept, under seven signs; the research notes give playfulness ("plays and clowns to steal the scene"); Play's Relations list humor, and Joy's senses list laughter. Gemini proposes wit, wordplay and humor as its C10, centered on quickness with words; this entry takes comedy as a performance and laughter as joy shown. *Also fits:* Gemini (C10, wit and humor; C27, teasing and banter), Aquarius (satire and nonconformity).
+  - *What it would add:* the comedian as a figure (loved, envied, feared), physical and clown comedy, satire of the powerful, the joke at someone's expense and its limits (where comedy meets humiliation), and laughter as the sound of a happy gathering.
+  - *Avenues:* comedy clubs, specials and their audiences; Cantinflas and Chespirito (under Play's Exemplars); the Mexican *carpa* (C11); regional and ethnic humor and where people say it crosses a line; satire magazines and cartoons (*El Chamuco*; editorial cartoons); clowns at children's parties and fiestas; laughter research (Provine, *Laughter*, 2000); the Humor Styles Questionnaire (Martin and colleagues, 2003); Bergson, *Laughter* (1900); what may not be joked about, and who decides.
 
 ### C11. Storytelling
 - *Working definition:* telling stories aloud (anecdotes, family stories, tall tales, jokes with a plot), and the standing of the good storyteller.
 - *Why here:* the research notes give storytelling ("it tells stories by acting out the parts and imitating people"); section 0's speech ways name storytelling as a speech genre. *Also fits:* Leo (creativity), Sagittarius (myth and meaning), Capricorn (heritage).
 - *What it would add:* everyday narrative as a practice: who tells, who listens, when stories are told (at wakes, around fires, at the table), and how a story is judged good. Owned and restricted stories are kept to what the nations share.
 - *Avenues:* family stories and how they change in the retelling; tall tales of loggers, miners and fishers (Paul Bunyan as a figure of the lumber camps *check*); *cuentos* and *leyendas* (La Llorona); storytelling festivals and the storytelling revival; story slams (The Moth, New York, 1997, and its imitators); storytellers in the nations' own programs, as they share them; stories in everyday conversation, as conversation analysts study them; bedtime stories.
+- *See also (consolidation, 2026-11-15; story):* Sagittarius C43, Myth and sacred story (split from truth and belief); Sagittarius C17, Exaggeration, bluffing and the tall tale.
 
 ### C12. Listening
 - *Working definition:* attending to what others say, and the worth a culture gives to listening well.
@@ -557,12 +571,14 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give teaching ("it loves work that lets it teach and learn at once"), mentorship and guidance; the notes' one-sentence summary of the sign's area names teachers. *Also fits:* Sagittarius (education), Capricorn (authority), Cancer (nurture).
 - *What it would add:* Learning asks how people come to know; this asks how the one who teaches is regarded: as a respected *maestro*, a poorly paid public servant, a second parent, or a master whose secrets must be earned.
 - *Avenues:* the standing of teachers in surveys (the Global Teacher Status Index, 2013 and 2018 *check*); Día del Maestro and Teacher Appreciation Week (under Learning's Ritual); *maestro* as an honorific for a skilled tradesman (under Learning's Words); mentors in the trades and professions; elders as teachers, as the nations describe them; teachers in film (under Learning's Expression); teachers' pay and second jobs (under Learning's economy); what students owe a teacher after they leave school.
+- *See also (consolidation, 2026-11-15; teaching):* Sagittarius concept 9, Education; Gemini concept 3, Learning; Virgo C17, Advice and counsel.
 
 ### C14. Cleverness and intelligence
 - *Working definition:* what a culture counts as being smart (quick wit, book learning, practical sense, social skill, wisdom), and which kinds it most admires.
 - *Why here:* the research notes give intellect, cleverness ("clever more often than profound"), competence ("demonstrated ability of any kind, regardless of content, usefulness or truth") and reason. *Also fits:* Virgo (analysis, discernment), Sagittarius (wisdom), Leo (being seen).
 - *What it would add:* folk theories of intelligence, which differ widely: some cultures fold social responsibility and good conduct into "smart", others do not (studies of folk ideas of intelligence in Kenya and in Chinese-speaking communities, as models *check*).
 - *Avenues:* "book smart" and "street smart" (under Learning's Words); *listo*, *vivo* and *abusado* (Mexican Spanish: sharp, quick, alert to the main chance *check*); studies of folk ideas of intelligence (Sternberg and colleagues *check*); the "nerd" and the "genius" in Silicon Valley lore; what people think of IQ tests; the wisdom of elders against the cleverness of the young; who gets called "smart" (girls or boys; the children of immigrants).
+- *See also (consolidation, 2026-11-15; knowledge and cleverness):* Sagittarius C6, Wisdom; Sagittarius C50, Book learning and practical know-how (split from education); Sagittarius C52, Intellectuals and anti-intellectualism (split from education); Gemini C39, Apprenticeship (split from learning).
 
 ### C15. Adaptability and versatility
 - *Working definition:* the ability, and the readiness, to change with circumstances: to switch roles, skills, places and manners as the situation asks.
@@ -575,6 +591,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give fickleness ("a right to change one's mind, switch sides or back out at the last minute"), belief "adopted on contact with any new theory", commitments "made eagerly, dropped quietly", and statements that "report its current state and are not promises about the future". *Also fits:* Taurus (stubbornness, its opposite; Taurus C43, steadfastness), Capricorn (commitment and duty), Sagittarius (conviction).
 - *What it would add:* the opposite pole of Taurus's stubbornness, as a concept of its own: the "flip-flopper" (under Duality's Words), the convert, the friend who cancels at the last minute.
 - *Avenues:* conversion stories, religious and political; canceling plans, and how late and how often is forgivable (RSVP customs; "flaking", and the "Seattle flake" beside the "Seattle Freeze" *check*); the soft "yes" that means "maybe"; public admissions of a change of view, and how they are received; studies of how often people change their political views; *palabra* (one's word) and what it means to go back on it.
+- *See also (consolidation, 2026-11-15; changing one's mind):* Taurus C26, Resistance to change, and stagnation; Libra concept 8, Indecision.
 
 ### C17. Depth and superficiality
 - *Working definition:* the judgment of breadth against depth: knowing a little about many things or much about one, and talk that skims against talk that goes deep.
@@ -593,18 +610,21 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give discretion as lacking ("never confide in it, since a secret leaks for being too interesting, not from malice"); Gossip's Neighbors and opposites name discretion and confidentiality as its opposites. *Also fits:* Scorpio (secrecy, trust), Libra (diplomacy).
 - *What it would add:* the virtue opposite gossip, with its own trades (confessors, counselors, doctors, bartenders, and hairdressers who "hear everything") and its own sayings.
 - *Avenues:* *en boca cerrada no entran moscas* (under Communication's Expression); the seal of the confessional; keeping confidences as an ethic of the caring trades; what friends may tell their spouses; "what happens in Vegas stays in Vegas"; the friend known as "a vault"; children taught not to tell family business (*la ropa sucia se lava en casa*: dirty laundry is washed at home).
+- *See also (consolidation, 2026-11-15; secrets and silence):* Scorpio C44, Codes of silence (split from betrayal and secrecy); Scorpio C50, Family secrets (split from secrecy); Scorpio C52, Anonymity (split from secrecy).
 
 ### C20. Open-mindedness
 - *Working definition:* readiness to hear, weigh and take on views other than one's own; its opposite is closed-mindedness.
 - *Why here:* the research notes give perspective ("it can hold two opposed positions without collapsing into either"), belief "adopted on contact with any new theory", and a hatred of dogma. *Also fits:* Sagittarius (belief, conviction; fundamentalism as its opposite), Aquarius (tolerance), Libra (impartiality).
 - *What it would add:* the side of tolerance that concerns ideas: whether being open to every idea is wisdom or having no backbone ("so open-minded your brains fall out").
 - *Avenues:* openness to experience by region (under Curiosity's Measures); scales of "actively open-minded thinking" (Baron; Stanovich and West *check*); attitudes to changing one's mind (C16); "two-eyed seeing" (under Curiosity's Beliefs); whom people refuse to hear (surveys on having friends with other politics); the open-minded and the closed-minded in jokes and sayings.
+- *See also (consolidation, 2026-11-15; tolerance and openness):* Aquarius C8, Tolerance and diversity; Sagittarius C9, Religious pluralism and tolerance; Libra C40, Prejudice and discrimination (split from fairness); Aquarius C13, Segregation and mixing.
 
 ### C21. Youthfulness and the refusal to grow up
 - *Working definition:* staying young in looks, manner and way of life, and how a culture judges adults who do (or who don't).
 - *Why here:* the research notes give youthfulness ("lasting youth"), immaturity ("Peter Pan childishness to escape boredom: denying age and avoiding growing up") and studenthood ("the perpetual student"); maturity and adulthood are a near-synonym group in the concept index. *Also fits:* Leo (play), Capricorn (age ways, maturity), Aries (C1, the body).
 - *What it would add:* the line between youthful and immature: "forever young" as an ideal, and "failure to launch" (under Aries, independence's Margins) as a fault.
 - *Avenues:* the youth ideal in advertising and in cosmetic procedures; "Peter Pan syndrome" (Kiley, 1983) as a popular label; "kidults" and adult hobbies once kept for children; how people speak of their age (hiding it; "young at heart"); what older people are expected to do and not do; the milestones that make an adult, by group; youth culture in a region that sells itself as young (California).
+- *See also (consolidation, 2026-11-15; youth and maturity):* Capricorn C17, Maturity and adulthood.
 
 ### C22. Complaining and venting
 - *Working definition:* telling others one's troubles and grievances in order to be heard, not to get something fixed.
@@ -619,24 +639,24 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* the traveling salesman and the used-car dealer as figures; the *merolico*, the Mexican street seller of remedies with a patter (*check*), and the cries of market vendors; sales training and its scripts; rhetoric taught in schools; advertising and what people think of it; "spin" in politics; the tech pitch and the "reality distortion field" said of Steve Jobs; who is thought easy to persuade (C25).
 
 **From the Tier 2 concepts and the near-synonym groups** (`Shared/Concept_Lists_by_Sign.md`; the concept index's "Concepts under six or more signs" and "Names to reconcile later"; childhood and humor, above, are Tier 2 concepts too)
+- *See also (consolidation, 2026-11-15; persuasion and manipulation):* Scorpio C21, Manipulation.
 
 ### C24. Lying and deception
 - *Working definition:* saying what one knows is false, or leading others to believe it; and which untruths a culture forgives (the white lie, the polite fiction) and which it does not.
 - *Why here:* the near-synonym group deception / lying / duplicity / pretense is named at the top of this file as touching Duality; the research notes give deception (Jacob and Esau; Rachel and Leah), duplicity and self-deception; the notes' gaps name lying among the missing ethics of communication. *Also fits:* Sagittarius (honesty, truth), Scorpio (betrayal, secrecy), Pisces (the hidden).
 - *What it would add:* the act of lying itself, apart from Sagittarius's honesty as a value: when lying is kind (*mentiras piadosas*, under Sagittarius), when it is play (tall tales; April Fools' Day; the Día de los Santos Inocentes, December 28, Mexico's day for pranks *check*), and when it is a sin.
 - *Avenues:* white lies and polite fictions; diary studies of everyday lying (DePaulo and colleagues, 1996 *check*); lies told to children (Santa Claus; the tooth fairy; the ice-cream truck that "plays music when it has run out"); lying in selling and in courtship; tricksters who lie and win, in stories as the nations share them; religious teaching on lying; folk signs of a liar (the eyes, the hands) against what research finds; lying online (fake profiles; "catfishing").
+- *See also (consolidation, 2026-11-15; lying and honesty):* Sagittarius concept 4, Truth; Sagittarius concept 8, Honesty; Gemini C29, *Honne* and *tatemae*; Gemini C43, Hypocrisy and double standards (split from duality).
 
 ### C25. Credulity and skepticism
 - *Working definition:* how readily people believe what they are told, and how a culture judges the believer and the doubter.
 - *Why here:* the near-synonym group gullibility / naivety / credulity; the research notes give verification ("it claims to want proof and credible sources, yet may take facts from poor sources"); Information's facets include trust in sources. *Also fits:* Sagittarius (belief, truth; conspiracy belief), Scorpio (trust), Pisces (intuition).
 - *What it would add:* the listener's side of information: the "sucker" and the cynic, the person fooled by a scam and the person who believes nothing, and the folk rules people use to decide what to believe.
 - *Avenues:* how people speak of being fooled, and whom they blame (elders targeted by scams, under Information's Life course; phone calls that fake a relative in trouble); April Fools' Day and the Día de los Santos Inocentes (C24); habits of checking a claim (asking around; looking it up; trusting the person who told it); media-literacy teaching (under Information's Life course); organized skeptics (the Skeptics Society, Altadena, California *check*); sayings on belief and doubt ("seeing is believing"; "too good to be true"); how far people take a stranger's word.
+- *See also (consolidation, 2026-11-15; belief and skepticism):* Sagittarius C40, Conspiracy belief (split from truth and belief); Sagittarius C39, Ways of knowing (split from truth); Virgo C50, Trust in experts (split from analysis and discernment).
 
 ### C26. Privacy
-- *Working definition:* what a person or a family may keep from others' eyes and ears, and the customs that protect it (closed doors, curtains, not asking, not reading another's letters).
-- *Why here:* privacy is a Tier 2 concept, under seven signs; Information's facets include privacy and personal data, and its Who it applies to asks who may know what about whom. Framed here through custom and feeling only. *Also fits:* Scorpio (secrecy), Cancer (home), Aries (autonomy).
-- *What it would add:* privacy as an everyday expectation that differs widely: whether children have closed doors, whether one may read a spouse's phone, whether neighbors may look in, whether one's pay or illness is one's own business.
-- *Avenues:* surveys of how people feel about privacy and personal data (Pew; Statistics Canada *check*); a child's own room and door (under Taurus, possession); reading another's mail, diary or phone, and how families judge it; curtains, blinds, hedges and fences (under Aries, self-assertion); asking about pay, age and illness (under Curiosity's Silences); privacy in crowded and shared housing (the *vecindad*; homes with three generations); life without privacy in small towns (under Gossip); how people feel about doorbell cameras and phones that track them.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Scorpio C23, Privacy, where its full text is kept word for word under "Merged here".
 
 ### C27. Teasing and banter
 - *Working definition:* playful mockery between people, meant (at least on the surface) in fun; and the line between teasing and cruelty.
@@ -657,12 +677,15 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* Duality's facets include the face kept for others against the feeling behind it, and Paz's *máscara* (under Duality's Words); these words treat that two-ness as normal and even good, where English "two-faced" condemns it. *Also fits:* Scorpio (secrecy), Leo (face).
 - *What it would add:* whether showing a public face that differs from private feeling is hypocrisy, courtesy or maturity.
 - *Avenues:* the words in Japanese American and Japanese Canadian life, as they describe them; Paz on the mask (under Duality); "putting on a brave face"; feeling managed for a living at work (Hochschild, *The Managed Heart*, 1983, a study of flight attendants *check*); English talk of "authenticity" as the opposite ideal; *quedar bien* (under Communication's Words).
+- *See also (consolidation, 2026-11-15; lying and honesty):* Gemini C24, Lying and deception; Sagittarius concept 4, Truth; Sagittarius concept 8, Honesty; Gemini C43, Hypocrisy and double standards (split from duality).
+- *See also (consolidation, 2026-11-15; authenticity and the public self):* Leo C20, Authenticity; Aries C2, Appearance and self-presentation.
 
 ### C30. *Sobremesa*
 - *Working definition:* the Spanish word for the time spent talking at the table after a meal is over.
 - *Why here:* it names a custom of unhurried talk (under Communication's senses) that English has no single word for; the research notes give conversation and nourishment ("what feeds us is conversation and information"). *Also fits:* Taurus (C3, food and eating), Cancer (family), Aquarius (friendship).
 - *What it would add:* the meal as a frame for talk: how long people stay, who leaves first, and what the custom's survival or decline says about time and family.
 - *Avenues:* time spent eating and talking at meals (ATUS, under Taurus); the Mexican mid-afternoon *comida* and its *sobremesa*; family dinners in surveys; coffee after the meal; restaurants that rush diners or let them linger (the check brought unasked, or only when asked); *sobremesa* in memoirs and films.
+- *See also (consolidation, 2026-11-15; food):* Taurus C3, Food and eating; Virgo C6, Diet and eating right; Cancer C14, Feeding as love; Cancer C11, Family meals and gatherings.
 
 ### C31. The palaver
 - *Working definition:* the long public talk in which a community talks a matter through until it reaches agreement, named in West African French *palabre* and in the "palaver tree" (*arbre à palabres*) under which it is held *check*.
@@ -719,30 +742,35 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* Learning's facets include learning a trade; section 0's learning ways name apprenticeship and family trades. *Also fits:* Virgo (craft and work), Capricorn (hierarchy), Taurus (C19, craftsmanship).
 - *What it would add:* the oldest form of teaching as a cultural institution: its hardships, its secrets, its rites (the first tool; the piece that proves mastery), and how it survives beside schooling.
 - *Avenues:* union and trade apprenticeships (under Learning's Institutions); family trades handed from parent to child (the *taller*; the family restaurant); apprentices in carving, weaving and other arts, as the nations describe their teaching; Lave and Wenger, *Situated Learning* (1991), whose cases include Yucatec Maya midwives and tailors in Liberia *check*; "paying your dues"; the decline of shop class.
+- *See also (consolidation, 2026-11-15; knowledge and cleverness):* Gemini C14, Cleverness and intelligence; Sagittarius C6, Wisdom; Sagittarius C50, Book learning and practical know-how (split from education); Sagittarius C52, Intellectuals and anti-intellectualism (split from education).
 
 ### C40. Exploration (split from curiosity)
 - *Working definition:* curiosity about places: going to see what is there, off the trail, over the hill, into the cave.
 - *Why here:* Curiosity's facets include curiosity about places (exploring); the research notes give adventure and movement. *Also fits:* Sagittarius (travel, long journeys), Aries (C8, being first).
 - *What it would add:* exploring close to home, which travel (Sagittarius) does not hold: children's roaming, back roads, local hiking and caving, urban exploring, and the explorer seen as hero or as trespasser.
 - *Avenues:* children's roaming range (under section 0's short journeys); hiking, caving and tide-pooling; explorers as heroes, and the peoples who were already there (under Curiosity's History); urban exploration (under Curiosity's Margins and extremes); "off the beaten path" in travel advertising; geocaching, whose first cache was hidden in Oregon in 2000 *check*.
+- *See also (consolidation, 2026-11-15; exploration and frontiers):* Sagittarius C14, Adventure; Sagittarius C37, The frontier (split from freedom and travel); Aries C8, Being first (pioneering).
 
 ### C41. Keeping in touch (split from connection)
 - *Working definition:* keeping a tie alive across distance and time: calls, letters, visits, messages, cards, gifts and money sent home.
 - *Why here:* Connection's facets include keeping in touch at a distance; section 0 and Communication hold the means (mail, phones, messaging apps). *Also fits:* Cancer (family), Taurus (remittances).
 - *What it would add:* the duty of staying in touch, and who carries it: the kin-keeper, often a woman (di Leonardo, "The Female World of Cards and Holidays", 1987).
 - *Avenues:* kin-keeping (di Leonardo); how often adult children call their parents; holiday cards and annual letters (under Communication's Time and rhythm); migrants' calls and visits home; reunions; "losing touch", and the guilt it brings; social media as a way of keeping up without talking.
+- *See also (consolidation, 2026-11-15; networks and connections (compadrazgo's home is Cancer C27)):* Aquarius C11, Networks and weak ties; Taurus C32, Connections as wealth (*guanxi*, *palanca*, *compadrazgo*); Cancer C27, *Compadrazgo* (ritual kinship).
 
 ### C42. Living between two cultures (split from duality)
 - *Working definition:* the experience of belonging to two cultures, languages or countries at once, and of moving between them.
 - *Why here:* Duality's facets include double identity, biculturalism and belonging to two countries; the concept now shares space with paired worldviews, contradiction and two-facedness. *Also fits:* Aries (identity), Cancer (belonging).
 - *What it would add:* biculturalism as a topic of its own, apart from duality's moral side (hypocrisy, C43) and its side in thought (paired worldviews).
 - *Avenues:* *ni de aquí ni de allá* (under Duality's Words); studies of acculturation (Berry's four strategies *check*) and of bicultural identity (Benet-Martínez and colleagues *check*); "third-culture kids"; people who move back to Mexico after growing up in the U.S., and how they are received; memoirs of growing up between languages (Rodriguez; Anzaldúa); the two-country lives of daily border crossers and snowbirds (under Duality's Everyday practice).
+- *See also (consolidation, 2026-11-15; migration and newcomers):* Cancer C42, Those who stay behind (split from abandonment); Cancer C33, Taking in the stranger (split from shelter); Sagittarius C47, Migration (split from travel); Sagittarius C48, Exile and diaspora (split from travel); Sagittarius C8, The foreign and the far away; Pisces C50, Assimilation (split from dissolution); Pisces C53, Borderlands (split from boundary); Aquarius C10, Newcomers and the passage to membership; Scorpio C51, Passing and hidden identities (split from secrecy).
 
 ### C43. Hypocrisy and double standards (split from duality)
 - *Working definition:* saying one thing and doing another; holding others to rules one breaks; judging the same act differently in different people.
 - *Why here:* Duality's facets include double lives and two faces (*doble moral*), and its Silences name institutions' double standards on sex, drink and money. *Also fits:* Sagittarius (honesty), Libra (fairness), Scorpio (secrecy).
 - *What it would add:* the moral charge against two-ness: what counts as hypocrisy, who gets accused of it, and the double standards a culture lives with (for men and for women; for the rich and for the poor).
 - *Avenues:* *doble moral* in Mexican public debate (under Duality's Words); the sexual double standard, as surveys measure it; hypocrisy scandals (under Duality's Conflict and crisis); "do as I say, not as I do"; integrity, a Tier 2 concept under seven signs, as its opposite; experiments on moral hypocrisy (Batson and colleagues *check*).
+- *See also (consolidation, 2026-11-15; lying and honesty):* Gemini C24, Lying and deception; Sagittarius concept 4, Truth; Sagittarius concept 8, Honesty; Gemini C29, *Honne* and *tatemae*.
 
 ### C44. Twins (split from siblings and duality)
 - *Working definition:* children born together, and what a culture believes about them: blessing or danger, one soul or two, alike or opposite.
@@ -761,18 +789,21 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* Siblings' Who it applies to lists non-kin called brother or sister (fellow believers, union members, soldiers, fraternities, gangs, *carnales*); the research notes give the sign's figure as a pair of brothers. *Also fits:* Aquarius (community, friendship), Capricorn (duty), Scorpio (loyalty and betrayal).
 - *What it would add:* the sibling bond as a model for other ties, and what it asks of those who use it (loyalty to the death; sharing; deference to an elder brother).
 - *Avenues:* "brothers in arms" and the ties among veterans; fraternities and sororities and their rites (under Siblings' Institutions); "brothers and sisters" in churches and unions; *carnal*, *bro* and *hermano* among friends; blood brotherhood and sworn siblinghood (under Siblings' source types), including sworn brotherhood in Chinese communities, as studied *check*; sisterhood in the women's movement; men's friendships spoken of as brotherhood.
+- *See also (consolidation, 2026-11-15; friendship and chosen kin):* Cancer C35, Chosen family (split from family); Aquarius C30, Mateship; Aquarius C44, Men's friendships (split from friendship).
 
 ### C47. Intercession (split from mediation)
 - *Working definition:* pleading with a power on another's behalf: saints and the Virgin before God, a patron before an official, a mother before an angry father.
 - *Why here:* Mediation's facets include intercession, and its Beliefs line contrasts Catholic intercession with the Protestant teaching of one mediator. *Also fits:* Sagittarius (faith), Pisces (spirituality, compassion), Capricorn (authority).
 - *What it would add:* the go-between who turns upward, toward power, as distinct from the go-between between equals: prayers to saints, vows to them (*mandas*, under the investigation sheet's ritual family), the *padrino* who "puts in a word", and the mother as intercessor in the family.
 - *Avenues:* devotion to the saints and to the Virgin of Guadalupe; *ex-votos* (painted thanks for a miracle); prayer requests and prayer chains; "putting in a good word" at work; the *padrino* and the *palanca* (under Connection's Words); mothers who plead with fathers for their children, as families describe it; intercession in the other faiths of the pilot, as each describes it.
+- *See also (consolidation, 2026-11-15; brokers and patrons (note: Leo's patronage is of the arts, Capricorn's is clientelism)):* Gemini C48, Go-betweens and brokers (split from mediation); Capricorn C7, Patrons and clients; Leo C16, Patronage and sponsorship; Leo C35, *Personalismo* (loyalty to persons); Capricorn C28, *Caudillismo*.
 
 ### C48. Go-betweens and brokers (split from mediation)
 - *Working definition:* those who stand between two parties for any purpose (trade, marriage, paperwork, introductions), not only to settle a quarrel.
 - *Why here:* Mediation's working definition reaches "more broadly" to the go-between who stands between parties (brokers, interpreters, intercessors); its Words include *gestor*, *coyote* and *celestina*. *Also fits:* Taurus (C6, exchange and trade), Libra (diplomacy).
 - *What it would add:* the middleman as a cultural figure, trusted and resented, apart from peacemaking: the matchmaker, the fixer, the labor contractor, the real-estate agent, the influencer who stands between brands and buyers.
 - *Avenues:* brokers in Mexican political life (the *cacique*, under Mediation's Margins and extremes); matchmakers and *celestinas*; labor contractors in farm work (under Mediation's Everyday practice); *gestores* (under Mediation's economy); suspicion of "the middleman" in sayings and politics ("cut out the middleman"); studies of brokerage in social networks (Burt's "structural holes" *check*).
+- *See also (consolidation, 2026-11-15; brokers and patrons (note: Leo's patronage is of the arts, Capricorn's is clientelism)):* Gemini C47, Intercession (split from mediation); Capricorn C7, Patrons and clients; Leo C16, Patronage and sponsorship; Leo C35, *Personalismo* (loyalty to persons); Capricorn C28, *Caudillismo*.
 
 **Considered and not proposed:** boredom, novelty and restlessness (Aries C21, boredom and the need for excitement, which the research notes' restlessness and novelty fit); impatience (Aries C5); impulsiveness and spontaneity (Aries C6); names and naming (Aries C3, which the research notes' naming fits); being first (Aries C8); follow-through and procrastination (Aries C17; Virgo or Capricorn); exchange and trade (Taurus C6, which names Gemini as another home; touched in C23); connections as wealth, with *palanca* and *compadrazgo* (Taurus C32; already under Connection); owning the intangible (Taurus C37, which names Gemini's information as another home); touch (Taurus C45; touched in Communication's senses); reliability (Taurus C17; touched in C16); admitting mistakes and apology (Taurus C44, which the research notes' apology fits); indecision (in Libra's ten, which the research notes' choice and drift fit); diplomacy, negotiation and reconciliation (Libra; held for now under Mediation); detachment (in Aquarius's ten); friendship (in Aquarius's ten; touched in C9); loneliness, isolation and solitude (Tier 2; Aquarius or Pisces; held now among Connection's facets); travel (Sagittarius, the cross-reference below; short journeys are C2); education as an institution (in Sagittarius's ten; the research notes' gap); truth and honesty (Sagittarius; touched in C24 and C25); secrecy (Scorpio; touched in C19 and C26); trust, betrayal and manipulation (Scorpio; touched in C23); reputation (Capricorn or Leo, where Gossip's Relations place it); humiliation and ridicule (Leo; touched in C27); forgiveness (Pisces or Libra); empathy (Pisces; touched in C12 and C28); commitment, duty and discipline (Capricorn; touched in C16); meddling and interference (Mediation's excess; Aries, initiative's margins); questioning and observation (held under Curiosity); messengers and the carrying of word (held under Communication and C37); sibling rivalry, feuds and fratricide (held under Siblings; touched in C45); the rules of the state on speech, the press, privacy, schooling and languages (Libra and Capricorn only); omens and other astrological material in the research notes (excluded).
 

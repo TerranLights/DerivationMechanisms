@@ -26,7 +26,7 @@ Every target culture goes through the same eight stages, in the same order, with
 | 1 | **Lineage profiles** | unit | research | `T1_Lineage_Profiles.md` | `Units/<unit>/01 - Lineage/` (one file per profile) |
 | 2 | **Measured data** | unit | research | `T2_Measured_Data.md` | `Units/<unit>/02 - Measured data.md` |
 | 3 | **Five axes** | unit | research | `T3_Five_Axes.md` | `Units/<unit>/03 - Five axes.md` |
-| 4 | **Sign passes,** one sign at a time from Aries to Pisces | unit | research | `T4_Sign_Pass.md` | `Units/<unit>/04 - Signs/NN - <Sign>.md` |
+| 4 | **Sign passes,** one sign at a time from Aries to Pisces | concept × unit | research | `T4_Sign_Pass.md` | `Units/<unit>/04 - Signs/NN - <Sign>/` (`00 - Domain and folkways.md`, then one file per concept) |
 | 5 | **Composite** | target, after each sign | research | `T5_Composite.md` | `Targets/<target>/05 - Composite/NN - <Sign>.md` |
 | 6 | **Divergence** (the post-war order first) | target | **derivation: 05:00-14:59, the author decides** | `T6_Divergence.md` | `Targets/<target>/06 - Divergence/` (`00 - Post-war order.md`, then one file per sign) |
 | 7 | **Verification** | every output | check | `T7_Verification_Checklist.md` | a `VERIFIED` line in the file's STATUS |
@@ -84,7 +84,8 @@ How the 2083 war, statehood and the time since changed each composite reading, a
 Run `Templates/T7_Verification_Checklist.md` on every output before its STATUS says done.
 
 ## Running it with agents
-- **One job = one unit × one stage**, or one unit × one sign at Stage 4. Small enough to finish and resume.
+- **One job = one unit × one stage.** At Stage 4, **one concept × one unit** (author, 2026-11-15), plus one job per unit for the sign's domain and folkways. Small enough to finish and resume, and clean however deep it goes.
+- **Depth follows the data** (author, 2026-11-15). Go as deep as the research turns up. A candidate subtopic is researched as a facet of its parent concept by default; it gets the full treatment where data is plentiful and a light one where it's scarce. Data that goes unused is archived in ArchiveVault, never thrown away.
 - **Briefs** are written from `_dispatch/BRIEF_TEMPLATE.md` and saved in the results root's `_dispatch/` before launch.
 - **Every working file** has a `STATUS:` line as its first line, updated at each checkpoint (`STATUS: in progress, section N of M`).
 - **Resume** per `_dispatch/RESUME.md`.

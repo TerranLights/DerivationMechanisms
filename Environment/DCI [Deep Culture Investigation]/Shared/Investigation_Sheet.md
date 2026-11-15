@@ -346,7 +346,9 @@ As in `Templates/T5_Composite.md`: per concept, the dominant reading, the shared
 
 ---
 
-## Part G: running it (proposed; the author decides)
+## Part G: running it
+
+**Decided 2026-11-15 (author): option 2, one unit and one concept per job,** plus one job per unit for the domain and folkways. Output: `Units/<unit>/04 - Signs/NN - <Sign>/` (`00 - Domain and folkways.md`, then one file per concept). The comparison across units stays at Stage 5. The analysis below is kept as the record.
 **The scale.** At full depth, this sheet is very wide. One concept across Cascadia's eleven units is about 250 family-by-unit cells; at one or two searches a cell, that is roughly 3,000 searches per sign for one target, about three sessions' worth. Two things keep it in bounds:
 1. **The source pack** (A0), built once per unit and reused for every concept.
 2. **The depth flags** (A3): full, brief or null expected, set per family per concept before the agents start.

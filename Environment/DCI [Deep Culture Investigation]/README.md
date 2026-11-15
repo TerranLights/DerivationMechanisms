@@ -128,5 +128,16 @@ See `RUNBOOK.md`. In short: scope the target; build lineage profiles, measured d
 - **A structured, repeatable system** is required before any research, the same for every target culture (`RUNBOOK.md`).
 - **Results live in CurrentNovelDocs `worldbuilding/Deep_Culture_Investigation/` for now,** and move into this repo once the methodology is sorted.
 
+- **2026-11-15, subtopics, depth and job shape** (the author's answers to six questions):
+  1. **Consolidate the candidate subtopics:** each idea proposed in more than one sign gets one home. Do it now.
+  2. **How deep a subtopic goes: as deep as the research turns up.** It depends on what data exists.
+     - The default is a **facet of its parent concept**.
+     - Where data is plentiful, it gets the **full treatment**: all the families, as a concept would.
+     - Where data is scarce, it gets a **light treatment**.
+  3. **Settle each remaining sign's concept list before that sign's pass.**
+  4. **The domain sections get the six newer families too.** Always more depth rather than less; data that goes unused is archived in ArchiveVault, not thrown away.
+  5. **Stage 4 job shape: one concept × one unit at a time** (plus one job per unit for the domain and folkways). This keeps agents unconfused and results clean however deep they go. It replaces "one unit × one sign" and the Investigation Sheet's option 1.
+  6. **The *check* marks** in the avenue files are verified sign by sign, as each sign is researched.
+
 ## 6. Open
 - **The name:** "Deep Culture" is also the hidden layer of Hall's cultural iceberg (`../Neo-Races_and_Cultures_Method/Cultural_Iceberg_Method.md`). Is the overlap intended?

@@ -1,4 +1,4 @@
-STATUS: draft v1 (2026-11-11), for the author to review.
+STATUS: draft v1 (2026-11-11), for the author to review; candidate subtopics consolidated across signs 2026-11-15 (see `_dispatch/SUBTOPIC_CONSOLIDATION.md`).
 
 # Avenues of investigation: 01 Aries (self and identity)
 
@@ -516,12 +516,19 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* appearance is a traditional area with no concept. The research notes list appearance (first impressions; a brisk walk, a firm handshake). The concept index groups appearance, appearances and self-presentation as near-synonyms, and the investigation sheet's Aries angles include self-presentation and self-enhancement (Goffman; Heine et al., 1999). *Also fits:* Leo (being seen), Taurus (dress ways, display), Gemini (first contact).
 - *What it would add:* the managed self (Goffman, *The Presentation of Self in Everyday Life*, 1959) as a topic of its own: when showing off is fine, when modesty is required, and what counts as "fake".
 - *Avenues:* dress codes at work, school and worship; advice on first impressions and job interviews; grooming norms by gender and age; smiling or solemn portraits; profile pictures and filters; makeover media; ideals of effortlessness (the Italian *sprezzatura*) against visible effort; regional dress (outdoor gear as everyday wear; *norteño* hats and boots); what is said of people who dress above or below their station.
+- **Merged here (consolidation, 2026-11-15) from Leo C39, Persona and the public self (split from self-expression).** Its full entry, word for word:
+  - *Working definition:* the self a person shows in public (at work, on stage, online, in office), kept apart from the private self, and the masks and characters people wear on purpose.
+  - *Why here:* Self-expression's facets end with "restraint and masks", and its Key questions ask whether restraint is a mask or a form of dignity; the research notes give persona ("a public self performed for the world and dropped only with a trusted kindred spirit"). *Also fits:* Gemini (C29, *honne* and *tatemae*), Aries (C2, appearance and self-presentation), Scorpio (secrecy).
+  - *What it would add:* the deliberate public self as a normal part of life rather than a failure of expression: stage names and characters, the work persona, the politician's image, the wrestler who never breaks character, the separate account for friends; and when a persona is admired, expected or condemned as fake.
+  - *Avenues:* Goffman's front stage and back stage (*The Presentation of Self in Everyday Life*, 1959); Paz's "Máscaras mexicanas" (under Self-expression's Beliefs), read as a claim to test; stage names and ring names (*lucha libre* masks, under Humiliation's Ritual); politicians' public images and the moments they slip; "finstas" and second accounts; code-switching at work (under Self-expression's Variation); the customer-service voice; what people say they can be only with their closest friends.
+- *See also (consolidation, 2026-11-15; authenticity and the public self):* Leo C20, Authenticity; Gemini C29, *Honne* and *tatemae*.
 
 ### C3. Names and naming
 - *Working definition:* how people receive, carry, change and use names, and what a name is taken to say about the one who bears it.
 - *Why here:* naming ways are this sign's folkway (Fischer, by `Shared/Folkways_Crosswalk.md`), now covered only by a bullet in the domain section. *Also fits:* Cancer (family and lineage), Gemini (forms of address), Capricorn (titles and rank).
 - *What it would add:* a concept with unusually hard evidence (name-frequency data) that links identity, family, individuality and beginnings. Naming is where a culture says, at the start of a life, who the person is.
 - *Avenues:* rare against common first names by region (Varnum and Kitayama, 2011); naming after kin, saints and places; surnames at marriage; nicknames and pet names; renaming at migration, conversion, adoption and transition; names and naming ceremonies, as the nations share them; hereditary names on the Northwest Coast, as the nations describe them; the names given to businesses, boats, pets, teams and streets; names people refuse or hide.
+- *See also (consolidation, 2026-11-15; titles and names):* Capricorn C44, Titles (split from hierarchy).
 
 ### C4. Personhood
 - *Working definition:* who or what counts as a person, when personhood begins and ends, and whether it is held alone or through others.
@@ -536,6 +543,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give impatience ("it needs results now") and urgency ("act now, before someone else gets there first"); impatience is a Tier 2 concept, under eight signs in the concept index. *Also fits:* Capricorn (time ways), Taurus (patience), Virgo.
 - *What it would add:* the time side of the sign's concepts. No current concept asks how a culture values speed, waiting and delay.
 - *Avenues:* pace-of-life studies (Levine and Norenzayan, 1999: walking speed, post-office service and accurate clocks across countries); queues and waiting rooms; delay-of-gratification research and its cultural replications (the "marshmallow test"); same-day delivery and fast food as markets for impatience; field experiments on how long drivers wait before honking *check*; proverbs for and against haste (*vísteme despacio, que tengo prisa*: "dress me slowly, I'm in a hurry").
+- *See also (consolidation, 2026-11-15; patience and time):* Taurus C16, Patience and waiting; Capricorn C5, Punctuality and whose time it is; Capricorn C54, Queues and waiting one's turn (split from order); Capricorn C13, The long view (planning and the deferred reward).
 
 ### C6. Impulsiveness and spontaneity
 - *Working definition:* acting on the urge of the moment without planning; prized as spontaneity, faulted as impulsiveness.
@@ -544,22 +552,21 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* personality-survey items on impulsivity and planning; impulse buying, and how stores invite it; improvisation in music, cooking and talk; how children's impulses are handled (redirected, punished, indulged); proverbs against haste; popular talk of ADHD, and how far it is treated as illness or as temperament.
 
 ### C7. Directness
-- *Working definition:* saying what one means plainly, without softening; frankness.
-- *Why here:* the research notes give directness ("blunt, frank and transparent") and honesty without pretense. *Also fits:* Gemini (directness and context, after Hall), Sagittarius (honesty).
-- *What it would add:* the spoken form of self-assertion. It may serve better as a facet of self-assertion, or as a Gemini concept, than as a concept here.
-- *Avenues:* high- and low-context communication (Hall); research on politeness and indirectness; feedback norms at work; regional reputations for niceness or frankness (the "Seattle Freeze"; "Midwestern nice"), as claims to test; business-culture guides on directness; how refusals are made, and how long they take.
+- **Consolidated 2026-11-15:** one home per idea. This entry now lives in Gemini C7, Directness and indirectness, where its full text is kept word for word under "Merged here".
 
 ### C8. Being first (pioneering)
 - *Working definition:* the value placed on being the first to do, reach or try something, and on firsts as markers of honor.
 - *Why here:* the research notes give pioneering ("the compulsion to move first and try the untested"), aspiration, an ambition "to be first right now", and glory (Achilles insisting on being first ashore). *Also fits:* Leo (glory), Capricorn (ambition).
 - *What it would add:* beginning is about starts; this is about priority and the honor it carries, including "first in the family" achievements and disputes over who came first.
 - *Avenues:* "firsts" in local histories and museums; first ascents and records; first-generation college students and the pride of being the first; priority disputes in science and invention; claims to have been first on the land, against the peoples who were there before; "early adopter" pride in technology.
+- *See also (consolidation, 2026-11-15; exploration and frontiers):* Gemini C40, Exploration (split from curiosity); Sagittarius C14, Adventure; Sagittarius C37, The frontier (split from freedom and travel).
 
 ### C9. Toughness and the proving of manhood
 - *Working definition:* the demand to show strength, endurance and nerve to earn and keep standing, most of all as a man.
 - *Why here:* the research notes give bravado ("a hard front"), contempt for weakness, self-neglect, and a fear of pain hidden under toughness. The investigation sheet's Aries angles include the body, appearance and manhood ideals, and the sheet gives manhood its own line because the author writes for men. *Also fits:* Leo (honor), Scorpio (power), Capricorn (age ways).
 - *What it would add:* one home for manhood ideals now scattered across courage, anger, recklessness and the body, framed as questions to research for each group, never as types. Women's toughness ideals ("strong woman") are researched alongside.
 - *Avenues:* precarious manhood (Vandello and Bosson, 2008); *machismo* and *caballerismo* (Arciniega et al., 2008); masculine-norms inventories (Mahalik's Conformity to Masculine Norms Inventory *check*); the masculinities of particular trades (logging, fishing, ranch work, the military); "man up", "boys don't cry" and their equivalents in each language; men's help-seeking (doctor visits, therapy use); fathers' advice to sons; initiation and hazing.
+- *See also (consolidation, 2026-11-15; chivalry and manhood):* Leo C18, Chivalry and gallantry; Libra C7, Men and women: roles and relations.
 
 ### C10. Aggression
 - *Working definition:* acting to hurt, dominate or force others, by word or deed; distinct from the emotion of anger.
@@ -572,6 +579,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give rebellion (the natural rebel, Hotspur), disobedience, resistance to obedience, refusal of conformity, and disputes over legitimacy. *Also fits:* Aquarius (nonconformity, reform), Capricorn (authority and obedience).
 - *What it would add:* autonomy is deciding for oneself; rebellion is the act against a particular authority, with its own heroes, songs and penalties.
 - *Avenues:* youth rebellion and subcultures; survey items on conflict between teenagers and parents; rebel figures in film and song; "Don't tread on me" and other mottos of defiance; strikes and religious dissent; whether rebellion is taken as a phase, a virtue or a sin; how schools handle defiance.
+- *See also (consolidation, 2026-11-15; rebellion and revolution):* Aquarius C5, Revolution.
 
 ### C12. Self-confidence
 - *Working definition:* trust in one's own abilities and judgment, and how openly that trust may be shown.
@@ -610,12 +618,14 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* proverbs on finishing; completion rates (college, apprenticeships); New Year's resolutions kept and dropped; "quiet quitting"; craft traditions that prize the finished piece; abandoned projects, and how people speak of them.
 
 **From the Tier 2 concepts and the near-synonym groups** (`Shared/Concept_Lists_by_Sign.md`; the concept index's "Concepts under six or more signs" and "Names to reconcile later")
+- *See also (consolidation, 2026-11-15; endurance and perseverance):* Aries C18, Endurance (*aguante*, *gaman*, *sisu*); Capricorn C20, Perseverance; Taurus C43, Steadfastness (split from stubbornness).
 
 ### C18. Endurance (*aguante*, *gaman*, *sisu*)
 - *Working definition:* bearing hardship, pain or long effort without giving up or complaining.
 - *Why here:* the near-synonym group persistence, perseverance and endurance (endurance is under seven signs); the courage concept already asks whether enduring (*aguantar*) counts as courage. Several languages have a word English lacks: Mexican Spanish *aguante*; Japanese *gaman*, bearing the seemingly unbearable with dignity, a word Japanese-American internees used of their camp years *check*; Finnish *sisu*. *Also fits:* Capricorn (discipline), Taurus (stability), Pisces (suffering).
 - *What it would add:* long effort and stoic bearing as a value of their own, apart from facing danger.
 - *Avenues:* grit research (Duckworth's grit scale); *aguante* among football fans and in songs; the exhibit and book *The Art of Gaman* (Hirasuna, 2005 *check*); endurance sports; proverbs; stories of work and illness.
+- *See also (consolidation, 2026-11-15; endurance and perseverance):* Capricorn C20, Perseverance; Taurus C43, Steadfastness (split from stubbornness); Aries C17, Follow-through.
 
 ### C19. Humility and modesty
 - *Working definition:* not claiming more than one's due; holding back from praising oneself.
@@ -628,6 +638,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the near-synonym group egocentricity, self-absorption, selfishness and narcissism; the research notes give egocentricity, entitlement, and exemption (treating rules and chores as meant for ordinary people). *Also fits:* Leo (narcissism, being seen), Taurus (possessiveness).
 - *What it would add:* the moral judgment of the self's excess, which no current concept holds whole.
 - *Avenues:* the "narcissism epidemic" debate (Twenge and Campbell, *The Narcissism Epidemic*, 2009) and its critics; Narcissistic Personality Inventory scores over time; "selfish" in proverbs; the "me generation"; entitlement memes (cross-reference: self-assertion's "Karen"); claims about generations, tested against data.
+- *See also (consolidation, 2026-11-15; showing off):* Leo C12, Showing off and boasting; Taurus C40, Display of wealth (split from wealth); Leo C24, Vanity and narcissism.
 
 ### C21. Boredom and the need for excitement
 - *Working definition:* the discomfort of too little challenge or novelty, and the drive to seek stimulation.
@@ -668,6 +679,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Avenues:* cultures of repair and reuse; do-it-yourself and maker culture; Chicano art and murals in the *rasquache* style; improvisation on farms and fishing boats; "MacGyver" in everyday speech; studies of informal work.
 
 **Splits of the current concepts**
+- *See also (consolidation, 2026-11-15; thrift, waste and salvage):* Taurus C5, Thrift and waste; Taurus C29, *Mottainai* (regret over waste); Pisces C24, Salvage (worth in what others throw away); Virgo C12, Maintenance and repair.
 
 ### C27. Moral courage (split from courage)
 - *Working definition:* doing what one believes right against social cost: speaking out, refusing, standing alone.
@@ -680,6 +692,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give heroism, rescue ("it wants both to rescue and to be the one rescued"), protection, and service in emergency careers. *Also fits:* Leo (honor, glory), Cancer (protection), Pisces (self-sacrifice).
 - *What it would add:* courage is about facing fear; heroism is the saving act and its public recognition, which has institutions of its own (hero funds, medals, the word "hero" in the news).
 - *Avenues:* civilian bravery awards (see Courage, Institutions); who is called a hero in the news, and when the word is withheld; superhero media; rescue careers and their recruiting; everyday rescues (CPR by bystanders, lifeguards, Good Samaritans on the road).
+- *See also (consolidation, 2026-11-15; protectors and rescuers):* Cancer C38, The protector role (split from protection).
 
 ### C29. Origins (split from beginning)
 - *Working definition:* where a people, a place, a family or a thing is held to come from, and what that origin is taken to settle.
@@ -704,6 +717,8 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* the research notes give victory ("the need to win can outweigh what is actually at stake") and rivalry; competition now holds the striving and its outcome together. *Also fits:* Leo (pride, humiliation).
 - *What it would add:* sportsmanship, gloating, grace in defeat and the shame of losing, as a topic of their own.
 - *Avenues:* post-game handshakes and rituals; concession speeches; teaching children to be "good sports"; sore-loser stories; participation trophies; how losing candidates, teams and towns are treated afterward.
+- *See also (consolidation, 2026-11-15; sport and fitness):* Leo C6, Sport; Virgo C57, Fitness and exercise (split from health); Aquarius C32, Fans and fandom (split from community and group).
+- *See also (consolidation, 2026-11-15; winning and losing):* Leo C19, Magnanimity (grace in victory and defeat).
 
 ### C33. Rivalry (split from competition)
 - *Working definition:* a lasting contest between particular persons, towns, schools, firms or peoples.
@@ -722,6 +737,7 @@ STATUS: draft v1 (2026-11-11), for the author to review.
 - *Why here:* autonomy's facets now include towns and Native nations governing themselves, but personal and collective autonomy can pull apart: a culture may prize one and not the other. *Also fits:* Aquarius (community), Capricorn (authority).
 - *What it would add:* self-government as a value in its own right, apart from personal choice.
 - *Avenues:* town meetings and local control; *usos y costumbres* and *ejido* assemblies; congregations that govern themselves; the nations' own accounts of self-determination, as they describe them; regional autonomy movements; surveys of trust in local against distant government.
+- *See also (consolidation, 2026-11-15; self-rule and how groups decide):* Aquarius C16, Democracy as a way of life (equal voice); Libra C13, Consensus and how groups decide.
 
 ### C36. Personal and group identity (split of identity)
 - *Working definition:* personal identity (who one is as a single person) and group identity (the peoples, places and faiths one belongs to).
