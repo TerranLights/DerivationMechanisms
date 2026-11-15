@@ -15,20 +15,20 @@ Every target culture goes through the same eight stages, in the same order, with
 - **The results root:** for now, CurrentNovelDocs `worldbuilding/Deep_Culture_Investigation/`. Once the methodology is sorted, it moves into this repo (author, 2026-11-02). Raw datasets downloaded for the work go in CurrentNovelDocs `worldbuilding/data/`, which is git-ignored. The results root holds:
   - `MASTER TRACKER.md`;
   - `Units/<unit>/` (the unit library);
-  - `Targets/<target>/`;
+  - `Targets/<region>/<target>/` (one folder per target, named for the nation: `PROGRESS TRACKER.md`, `00 - Scope.md` once Stage 0 is done, `05 - Composite/`, `06 - Divergence/`; all 84 targets have theirs, set up 2026-11-15);
   - `Data/` (extracted values from datasets, with citations; raw datasets stay out of git);
   - `_dispatch/` (the briefs actually sent, with their STATUS checks).
 
 ## The stages
 | # | Stage | Done per | Kind | Template | Output |
 |---|---|---|---|---|---|
-| 0 | **Scope** | target | research; the author settles flagged choices | `T0_Scope.md` | `Targets/<target>/00 - Scope.md` |
+| 0 | **Scope** | target | research; the author settles flagged choices | `T0_Scope.md` | `Targets/<region>/<target>/00 - Scope.md` |
 | 1 | **Lineage profiles** | unit | research | `T1_Lineage_Profiles.md` | `Units/<unit>/01 - Lineage/` (one file per profile) |
 | 2 | **Measured data** | unit | research | `T2_Measured_Data.md` | `Units/<unit>/02 - Measured data.md` |
 | 3 | **Five axes** | unit | research | `T3_Five_Axes.md` | `Units/<unit>/03 - Five axes.md` |
 | 4 | **Sign passes,** one sign at a time from Aries to Pisces | concept × unit | research | `T4_Sign_Pass.md` | `Units/<unit>/04 - Signs/NN - <Sign>/` (`00 - Domain and folkways.md`, then one file per concept) |
-| 5 | **Composite** | target, after each sign | research | `T5_Composite.md` | `Targets/<target>/05 - Composite/NN - <Sign>.md` |
-| 6 | **Divergence** (the post-war order first) | target | **derivation: 05:00-14:59, the author decides** | `T6_Divergence.md` | `Targets/<target>/06 - Divergence/` (`00 - Post-war order.md`, then one file per sign) |
+| 5 | **Composite** | target, after each sign | research | `T5_Composite.md` | `Targets/<region>/<target>/05 - Composite/NN - <Sign>.md` |
+| 6 | **Divergence** (the post-war order first) | target | **derivation: 05:00-14:59, the author decides** | `T6_Divergence.md` | `Targets/<region>/<target>/06 - Divergence/` (`00 - Post-war order.md`, then one file per sign) |
 | 7 | **Verification** | every output | check | `T7_Verification_Checklist.md` | a `VERIFIED` line in the file's STATUS |
 
 The pilot order (author, 2026-11-02): Stage 0 for Cascadia; Stages 1-3 for its units; then Stage 4 and Stage 5 sign by sign, starting with Aries.
