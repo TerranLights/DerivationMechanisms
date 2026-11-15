@@ -16,7 +16,7 @@ Saved in the repo so a cutoff loses nothing. You are given **NATION**, **SIGN** 
 
 **Write to:** `<RESULTS>/Targets/<region path>/<NATION>/Springboards/<NN> - <Sign>/<file>` where `<file>` is `00 - Domain and folkways.md` for concept 0, otherwise `<concept number, two digits> - <Concept name>.md`. Create the folders if needed. Touch no other file.
 
-**Checkpoint:** write the file early with first line `STATUS: in progress`; finish it and set the first line to `STATUS: done <today's date>, not verified`. Follow the template's five sections.
+**Checkpoint:** write the file early with first line `STATUS: in progress`. Trim it to size **first**; change the first line to `STATUS: done <today's date>, not verified` as your **very last write**, so the status grid is a reliable "finished" signal. Follow the template's five sections.
 
 **How to write it**
 - **Length:** a concept sheet is about 450 to 750 words counting the table markup; a domain sheet up to about 900. The pilot (2026-11-15) showed 700 to 800 is the natural size and still useful; do not pad past it.
@@ -26,6 +26,8 @@ Saved in the repo so a cutoff loses nothing. You are given **NATION**, **SIGN** 
 - **Flags:** likely rich, mixed or thin data; languages needed; anything sensitive or restricted (a people's restricted knowledge, for example); pointers held for review under the standing rules.
 - **First queries:** three to five concrete first steps, in order.
 - **A thin answer is fine.** If you know little about where to look for this concept in this nation, say so and give the generic route (the language's dictionaries, the national statistics office, the main universities' collections, national library catalogs).
+
+**Law:** if your sign is Libra, a law-related concept takes the *letter* of the law only (what the law says, contracts, courts as written); if Capricorn, the *spirit* (what law is for, obedience, discretion, legal culture). In every other sign, no law research: point to Libra or Capricorn.
 
 **South Asian rule, strictly:** name no South Asian work, scholar, community or language anywhere in a sheet except the one "Held for review" line, and there only as a category ("South Asian-heritage communities in the nation's lands"). Not in "who to compare", not in search terms.
 

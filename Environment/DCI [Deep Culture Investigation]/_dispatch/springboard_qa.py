@@ -49,7 +49,7 @@ if os.path.isdir(base):
                 held = l.lstrip().startswith('- **Held for review')
                 if SOUTH_ASIAN.search(l) and not held: bad(f'line {i}: South Asian word outside the held line: ' + l.strip()[:70])
                 if held and re.search(r'punjabi|sikh|hindi|urdu|bengali|tamil|gujarati', l, re.I): bad(f'line {i}: held line names a community, not a category')
-                if re.search(r'\bIndians?\b', l) and not INDIAN_OK.search(l): bad(f'line {i}: "Indian" outside a published title: ' + l.strip()[:70])
+                if re.search(r'\bIndians?\b', l) and not INDIAN_OK.search(l) and not re.search(r'\*[^*]*\bIndians?\b[^*]*\*', l) and not re.search(r'Chemawa|Sherman Indian', l): bad(f'line {i}: "Indian" outside a published title: ' + l.strip()[:70])
                 if re.search(r'https?://|www\.', l): bad(f'line {i}: URL (invented-link risk): ' + l.strip()[:70])
                 if ZOD.search(l): bad(f'line {i}: zodiac word')
                 if FINDINGS.search(l): bad(f'line {i}: reads like a finding: ' + l.strip()[:70])

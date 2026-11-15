@@ -86,7 +86,7 @@ For each sign, in order, start at the first one not marked done.
    - Add a run-log line, then start the next sign.
 7. **After Pisces:**
    - Report to the author: what was added, sign by sign; the thin spots; every question collected in the logs.
-   - Update `Targets/Cascadia/PROGRESS TRACKER.md` (CurrentNovelDocs `worldbuilding/Deep_Culture_Investigation/`) and the DCI memory file.
+   - Update `Targets/North America/Cascadia/PROGRESS TRACKER.md` (CurrentNovelDocs `worldbuilding/Deep_Culture_Investigation/`) and the DCI memory file.
    - Delete the watchdog (CronList, then CronDelete).
    - Set this file's STATUS to done, and add a final run-log line saying the report was given.
 
@@ -653,7 +653,7 @@ All are PROPOSED. Each sign file gives every candidate a working definition, why
 
 Step 7 of "How the run works" is outside the run agent's remit, which allows edits only to the sign files, the sign logs and this file. Four things remain:
 1. Give this report to the author.
-2. Update `Targets/Cascadia/PROGRESS TRACKER.md` (CurrentNovelDocs `worldbuilding/Deep_Culture_Investigation/`) and the DCI memory file.
+2. Update `Targets/North America/Cascadia/PROGRESS TRACKER.md` (CurrentNovelDocs `worldbuilding/Deep_Culture_Investigation/`) and the DCI memory file.
 3. Delete the hourly watchdog (job f13acbae).
 4. Add the run-log line saying the report was given.
 

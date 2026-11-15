@@ -9,7 +9,7 @@ Copy this into the results root's `_dispatch/` as `<target>_<unit>_S<stage>[_<si
 **Read first:**
 1. `<DM>/Environment/DCI [Deep Culture Investigation]/RUNBOOK.md` (the stage's section and the standing rules).
 2. The template: `<DM>/Environment/DCI [Deep Culture Investigation]/Templates/<template>`.
-3. `<results root>/Targets/<target>/00 - Scope.md` (the unit's founders, layers and zone).
+3. `<results root>/Targets/<region>/<target>/00 - Scope.md` (the unit's founders, layers and zone).
 4. For Stage 4: `Shared/Concept_Lists_by_Sign.md` (the settled list for this sign), `Shared/Folkways_Crosswalk.md`, and this unit's Stage 1-3 files.
 5. `Shared/Sources_and_Datasets.md` and `Shared/Regional_Frameworks.md`.
 

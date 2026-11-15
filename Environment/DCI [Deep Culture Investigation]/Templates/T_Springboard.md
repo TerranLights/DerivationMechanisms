@@ -13,9 +13,9 @@ STATUS: done <date>, not verified
 English keywords: <...>
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
-(Reach: open web, library, archive, paid, offline or in person, unknown. Last column: *check*.)
+(Reach: open web, library, archive, paid, offline or in person, unknown. Last column: *check* for every named item.)
 
 ## 3. Who to compare inside the nation
 <regional cultures, ethnic or Indigenous peoples, religious or other groups worth separating; candidate units for Stage 0>

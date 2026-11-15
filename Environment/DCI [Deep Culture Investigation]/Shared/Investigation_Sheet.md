@@ -358,7 +358,7 @@ As in `Templates/T5_Composite.md`: per concept, the dominant reading, the shared
 2. **One unit, one concept:** the deepest; about 120 jobs per sign for Cascadia.
 3. **One unit, one sign** (the current rule): too wide for this sheet.
 
-With option 1, each unit's sign folder becomes `Units/<unit>/04 - Signs/NN - <Sign>/`, with `00 - Domain and folkways.md` and one file per concept, plus `Targets/<target>/04 - Seams/NN - <Sign>/<concept>.md` for the comparisons.
+With option 1, each unit's sign folder becomes `Units/<unit>/04 - Signs/NN - <Sign>/`, with `00 - Domain and folkways.md` and one file per concept, plus `Targets/<region>/<target>/04 - Seams/NN - <Sign>/<concept>.md` for the comparisons.
 
 ---
 
