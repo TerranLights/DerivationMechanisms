@@ -7,7 +7,7 @@ Copy this into the results root's `_dispatch/` as `<target>_<unit>_S<stage>[_<si
 **Job:** DCI Stage <N> (<stage name>) for the unit **<unit>** in the target **<target>**<, sign NN <Sign>>.
 
 **Read first:**
-1. `<DM>/Environment/DCI [Deep Culture Investigation]/RUNBOOK.md` (the stage's section and the standing rules).
+1. `<DM>/Environment/DCI [Deep Culture Investigation]/RUNBOOK.md` (the stage's section and the standing rules), **and its section "Research from the springboard"**: the nation's springboard sheets are starting points only; know why each pointer is there, check it, go beyond it, follow every relevant branching trail as deep as the data allows, keep a research log and `leads_parked.md`, and stop only at saturation.
 2. The template: `<DM>/Environment/DCI [Deep Culture Investigation]/Templates/<template>`.
 3. `<results root>/Targets/<region>/<target>/00 - Scope.md` (the unit's founders, layers and zone).
 4. For Stage 4: `Shared/Concept_Lists_by_Sign.md` (the settled list for this sign), `Shared/Folkways_Crosswalk.md`, and this unit's Stage 1-3 files.

@@ -14,7 +14,7 @@ STATUS: v1 (2026-11-15). Author's request; nothing has been run at scale yet.
 **What a sheet must not hold:** findings, summaries of how the culture understands the concept, statistics, quotations, or any claim about the culture. If the agent finds itself writing "the culture values...", it should stop.
 
 ## How the scouting is done: no web
-- **From the agent's own knowledge only. No web search, no web fetch, no reading of outside files** beyond the inputs listed in the brief. This is deliberate: it keeps the pass cheap and keeps it from drifting into research.
+- **From the agent's own knowledge only. No web search, no web fetch, no reading of outside files** beyond the inputs listed in the brief. This is deliberate: it keeps the pass from drifting into research. **Token economy is not the goal (author's ruling, 2026-11-15):** accuracy and depth come first, so the sheets give the later research the best possible starting points.
 - **Never invent.** A title, author, URL, dataset name, institution or term that the agent is not confident exists is not written. Instead it writes the *type* of source and the query that would find it ("a national time-use survey; search the statistics office for 'time use'").
 - **Everything named is marked *check*.** None of it has been verified; the later research verifies it.
 - A thin answer is a good answer. "Unknown; likely thin; start with the language's own dictionary" is a valid sheet.
@@ -34,3 +34,6 @@ STATUS: v1 (2026-11-15). Author's request; nothing has been run at scale yet.
 - **The target is the post-war nation,** not the old country: its tracker header lists the pre-war lands it carries. Search terms and sources follow its places.
 - **The signs are research classifiers only.** Nothing zodiac-derived is a pointer.
 - **Public repo:** pointers and short titles only. No quotation beyond a few words.
+
+## How the sheets are used later (author's ruling, 2026-11-15)
+The sheets are **starting points, not the scope of the research**. A researcher reads a sheet, understands why each pointer is there (the "What it would give" column is the reason), checks every named item, and then goes well beyond it, following every branching or tangential trail that stays relevant to the subtopic, as deep as the data allows. The procedure is in `RUNBOOK.md`, "Research from the springboard". So each pointer's "What it would give" cell must say **why this pointer matters for this concept** (what question it helps answer), not only what the source is.

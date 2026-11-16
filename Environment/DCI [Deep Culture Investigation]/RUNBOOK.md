@@ -91,6 +91,18 @@ Run `Templates/T7_Verification_Checklist.md` on every output before its STATUS s
 - **Resume** per `_dispatch/RESUME.md`.
 - **Waves:** run four or five agents at a time. The session's web-search cap (1,000 by default) is shared by all of them, so a wave's budgets must fit what's left in the session; a large stage may need a fresh session (pilot, 2026-11-03).
 
+## Research from the springboard: starting points, not the scope (author's ruling, 2026-11-15)
+Every nation has a springboard sheet for each concept and sign domain (`Targets/<region>/<nation>/Springboards/`). **A sheet is where research begins, never where it stops.** This applies to every researcher, the main session or a sub-agent, at every stage that researches a concept.
+
+1. **Read the sheet first, and understand why each pointer is there.** Each pointer's "What it would give" column, the concept's working definition and facets, and the sign's domain say *why* it is worth looking at. Know what you are looking for and what question each source helps answer before you open it.
+2. **Check every named item.** Each is marked *check* because the sheet was written from memory. Confirm that it exists and says what the sheet suggests; record a wrong or missing pointer, replace it with the right one, and note the correction. A sheet is never evidence and is never cited.
+3. **Do not research only what is on the sheet.** The sheet is a list of first leads. Find sources it does not name: other scholars, archives, datasets, periods, regions, minorities, media, folk and oral forms, the classics and the modern scholarship that the first sources themselves cite.
+4. **Follow the branches.** When a source, a term or a finding opens a branching or tangential trail, follow it wherever it leads, **provided it is relevant to the subtopic being researched** (the concept, the unit and the question in the job). Chain from lead to lead: a citation to its source, a term to its history, a region to its neighbor, a period to the one before it.
+5. **Go as deep and as detailed as the data allows,** as many levels down as the trail keeps yielding. Stop a trail when new sources only repeat what you already have (saturation), when it stops being relevant, or when the data runs out and you have said so. Never stop because the sheet's pointers are exhausted or because a depth budget feels reached; the budgets in a brief are for planning, and thoroughness decides.
+6. **Relevance test for a tangent:** does it help explain how this unit understands *this* concept? If yes, follow it. If it is relevant to a different concept or unit, do not drop it: write it in the job's `leads_parked.md` (the lead, where it came from, which concept or unit it belongs to) so the right job picks it up.
+7. **Record the trail.** Keep a running research log in the job's output: what you looked at, why, what it led to, what you followed and what you parked, and every correction to the sheet. The record is what lets a later job continue and the author check the work.
+8. **Standing rules still hold on every trail:** no South Asian works (held for review), no law outside Libra and Capricorn, native or Indigenous wording, no stereotypes, short quotations only.
+
 ## Standing rules
 - **American English.**
 - **Native, Indigenous or Aboriginal, never "Indian"** (author, 2026-11-10, out of respect for the Indigenous peoples and nations of this land); in Canada also First Nations, Inuit or Métis. Published titles and names, a nation's own name, quotations and census category names stay as published; an official term that uses the word is described in our own words, with the term given once in quotes.

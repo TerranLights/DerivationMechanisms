@@ -139,5 +139,7 @@ See `RUNBOOK.md`. In short: scope the target; build lineage profiles, measured d
   5. **Stage 4 job shape: one concept × one unit at a time** (plus one job per unit for the domain and folkways). This keeps agents unconfused and results clean however deep they go. It replaces "one unit × one sign" and the Investigation Sheet's option 1.
   6. **The *check* marks** in the avenue files are verified sign by sign, as each sign is researched.
 
+- **2026-11-15 (evening), springboard sheets and research:** (a) **Accuracy and depth come before token economy** in the springboard pass. (b) **Research must not stay on the sheet:** the springboard pointers are starting points; researchers know why they are looking at each, check them, and then follow every branching or tangential trail that stays relevant to the subtopic, as deep and detailed as the data allows (`RUNBOOK.md`, "Research from the springboard"). (c) No cluster savings: each nation runs singly.
+
 ## 6. Open
 - **The name:** "Deep Culture" is also the hidden layer of Hall's cultural iceberg (`../Neo-Races_and_Cultures_Method/Cultural_Iceberg_Method.md`). Is the overlap intended?
