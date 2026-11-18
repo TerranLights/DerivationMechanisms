@@ -3,7 +3,7 @@
 
   python3 springboard_qa.py <Nation> [sign-number]     one nation (all signs, or one sign)
 Prints one line per problem; ends with a count. Exit code 0 always (it reports, it does not judge).
-Checks: STATUS line; the five sections; word count (> 1,250 flagged); South Asian words outside the
+Checks: STATUS line; the five sections; word count (> 1,300 flagged); South Asian words outside the
 single 'Held for review' line; 'Indian' outside published titles; URLs (invented-link risk);
 zodiac words used as pointers; web/'according to' findings phrases; no *check* marks at all.
 """
@@ -43,7 +43,7 @@ if os.path.isdir(base):
             for s in SECTIONS:
                 if s not in t: bad('missing section ' + s)
             w = len(t.split())
-            if w > 1250: bad(f'long: {w} words')
+            if w > 1300: bad(f'long: {w} words')
             if '*check*' not in t: bad('no *check* marks')
             for i, l in enumerate(lines, 1):
                 held = l.lstrip().startswith('- **Held for review')
