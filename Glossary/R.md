@@ -483,10 +483,10 @@
 
 ### Robot Experience
 - **Category:** method term
-- **Definition:** Out of fiction. The universal north star every one of the author's novels shares: what the Robot Experience is (the counterpart of the Human Experience) and how the two relate. Each book derives its own concrete question from it; *Streetside Harmonies*' is "What does it mean to have a home?"
+- **Definition:** Out of fiction. The Two Pillars every one of the author's novels shares: what the Robot Experience is (the counterpart of the Human Experience) and how the two relate. Each book derives its own concrete question from it; *Streetside Harmonies*' is "What does it mean to have a home?"
 - **Status:** project canon (method).
 - **Used in:** CurrentNovelDocs (every Dev-Road-Map); InnerTepeniaGDD; TheCryptographHelixDD; DerivationMechanisms.
-- **Sources:** CurrentNovelDocs `Streetside Harmonies/structure/Dev-Road-Map/00-Overview.md`; `Streetside Harmonies/structure/Dev-Road-Map/10-Craft-Reference.md`; `Gilgamesh Sci-Fi movie/structure/Dev-Road-Map/00-Overview.md` (The universal north star).
+- **Sources:** CurrentNovelDocs `Streetside Harmonies/structure/Dev-Road-Map/00-Overview.md`; `Streetside Harmonies/structure/Dev-Road-Map/10-Craft-Reference.md`; `Gilgamesh Sci-Fi movie/structure/Dev-Road-Map/00-Overview.md` (The Two Pillars).
 
 ### Robot Fundamental Concepts
 - **Category:** method term
