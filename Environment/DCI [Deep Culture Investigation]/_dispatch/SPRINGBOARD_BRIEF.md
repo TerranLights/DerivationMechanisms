@@ -15,7 +15,7 @@ Saved in the repo so a cutoff loses nothing. You are given **NATION**, **SIGN** 
 
 **Paths**
 - `<DM>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/DCI [Deep Culture Investigation]`
-- `<RESULTS>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Deep_Culture_Investigation`
+- `<RESULTS>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/CultureLibrary/Springboarding`
 
 **Inputs: read only these**
 1. `<DM>/Shared/Springboard_Scouting.md` and the template `<DM>/Templates/T_Springboard.md`.

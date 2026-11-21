@@ -8,7 +8,7 @@ single 'Held for review' line; 'Indian' outside published titles; URLs (invented
 zodiac words used as pointers; web/'according to' findings phrases; no *check* marks at all.
 """
 import os, re, sys
-R = '/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Deep_Culture_Investigation'
+R = '/home/kuroskalacs/Documents/Doll-Fi/media/Reference/CultureLibrary/Springboarding'
 SOUTH_ASIAN = re.compile(r'\b(punjabi|sikh|hindi|urdu|bengali|bangla|tamil|gujarati|telugu|sinhala|nepali|pashto|south asian|desi\b|indo-)', re.I)
 INDIAN_OK = re.compile(r'(Handbook of the Indians|Northwest Indian|Other Indian Languages|Indian Languages|Urban Indian|Indian Boarding|Indian Health Service|Indian Affairs|Indian Act|Indian Country|Indian Reorganization|Indians\b.*(Handbook|Handbook of North American)|Handbook of North American Indians|American Indian [A-Z]|Indian Residential|Indian Claims|Indian Gaming|Indian Child Welfare|Indian Self-Determination|Indian Law|Bureau of Indian|Indian Education|Indian Removal)')
 ZOD = re.compile(r'\b(zodiac|astrolog|horoscope)', re.I)

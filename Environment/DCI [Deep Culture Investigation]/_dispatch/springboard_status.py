@@ -6,7 +6,7 @@
 """
 import os, re, subprocess, sys
 DM = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-R = '/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Deep_Culture_Investigation'
+R = '/home/kuroskalacs/Documents/Doll-Fi/media/Reference/CultureLibrary/Springboarding'
 CB = os.path.join(DM, '_dispatch', 'concept_block.py')
 SIGNS = ['Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo', 'Libra', 'Scorpio', 'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces']
 
