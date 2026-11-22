@@ -104,6 +104,7 @@ Every nation has a springboard sheet for each concept and sign domain (`Targets/
 8. **Standing rules still hold on every trail:** no South Asian works (held for review), no law outside Libra and Capricorn, native or Indigenous wording, no stereotypes, short quotations only.
 
 ## Standing rules
+- **Each culture on its own terms: no *Human Universals* during the research** (author, 2026-11-21; binding). While researching a culture-nation, do **not** refer back to Donald E. Brown's *Human Universals* (or any universals list, human or robot) to frame, sort, fill or check the findings. Every culture and culture-nation is researched and understood on its own terms. **Only once a culture-nation's research is complete** are its parallels and connections to Brown's universals analyzed, as a separate step after it, never before.
 - **American English.**
 - **Native, Indigenous or Aboriginal, never "Indian"** (author, 2026-11-10, out of respect for the Indigenous peoples and nations of this land); in Canada also First Nations, Inuit or Métis. Published titles and names, a nation's own name, quotations and census category names stay as published; an official term that uses the word is described in our own words, with the term given once in quotes.
 - **No South Asian works as sources.** A modern study that would be set aside only because of an author's name goes in a `held_for_review_*.md` file for the author.

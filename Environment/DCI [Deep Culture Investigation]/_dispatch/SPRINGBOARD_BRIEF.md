@@ -13,6 +13,8 @@ Saved in the repo so a cutoff loses nothing. You are given **NATION**, **SIGN** 
 - **Give the reason for every pointer.** In "What it would give", say why this pointer matters for this concept: the question it helps answer. A later researcher will use the sheet as a starting point only, will not stay on it, and must know why each item is there. Keep the template's "Use" line.
 - **Make each sheet its own:** write it from scratch for this nation and this concept; do not reuse sentences or whole table rows from your other sheets, and do not let the same few sources fill every sheet of a sign. The first queries must be concrete enough to run as written.
 
+**Each culture on its own terms (author, 2026-11-21; binding):** do **not** refer to Donald E. Brown's *Human Universals*, or to any list of universals (human or robot), anywhere in a sheet: no framing, sorting or pointers by universals. Every culture-nation is scouted on its own terms; its parallels to the universals are analyzed only after its research is complete, as a separate step.
+
 **Paths**
 - `<DM>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/DCI [Deep Culture Investigation]`
 - `<RESULTS>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/CultureLibrary/Springboarding`
