@@ -80,6 +80,7 @@ These are deliberate changes made here. The originals were left as they are.
   - GDD `Worldspace/Enneagram/Undercurrents.md`, line 26;
   - GDD `Worldspace/Enneagram/README.md`, line 26;
   - TL `Reference/Enneagram_Undercurrents.md`, lines 25 and 53.
+  - *Resolved 2026-11-26, at the author's word: the TL lines now carry the no-fixed-ratio rule. The two GDD files are marked as an older copy instead (the author ruled this repo's `Characters/Enneagram/` the master), with a note at each file's end.*
 - **Story-structure source lines.** This repo's `story-structure-definitions.md` carries the 2026-10-29 source corrections; the CND original does not.
 
 ## Pointers in other repos (marked for review)
@@ -124,7 +125,7 @@ Each was added 2026-10-29 and says "nothing was moved; this repo's file stays th
 | `…/Universal_Location_Methodology/CST_Progress.md` | 237 | `Environment/CST [Cultural Synthesis Techniques]/CST_Progress.md` |
 | `…/Universal_Location_Methodology/Mechanical_Extraction_Field_Guide.md` | 505 | `Environment/ULM [Universal Location Methodology]/Mechanical_Extraction_Field_Guide.md` |
 | `Worldspace/Characters/Dolls/Methodology/00_Overall_Process_Scaffold.md` | 221 | `Characters/Character_Development_Methodology/Pipeline/` |
-| `Worldspace/Enneagram/README.md` | 72 | `Characters/Enneagram/` |
+| `Worldspace/Enneagram/README.md` | 72 | `Characters/Enneagram/` *(fixed 2026-11-26: the note now names this repo's copy the master and the GDD folder an older copy)* |
 
 ### InnerTepeniaGDD: pointers to the old copy manifest (6)
 Each says "see its `COPY_MANIFEST (2026-10-29).md`". It should now say `SYNC_RECORD.md`.
@@ -133,7 +134,7 @@ Each says "see its `COPY_MANIFEST (2026-10-29).md`". It should now say `SYNC_REC
 |---|---|
 | `DONE.md` | 496 |
 | `TODO.md` | 1827 |
-| `CLAUDE.md` | 212 |
+| `CLAUDE.md` | 212 *(now 237; fixed 2026-11-26, with the Enneagram master ruling added)* |
 | `Dev-Road-Map/Location_and_Culture_Build_Tracker.md` | 209 |
 | `Dev-Road-Map/November_To-Do.md` | 170 |
 | `Dev-Road-Map/Weekly_To-Do_-_Current.md` | 985 |

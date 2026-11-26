@@ -92,8 +92,8 @@ triage buckets.** Discovery sources, in order of yield:
    location-scope equivalent.
 5. **The character's home location's own canon** — where they are from constrains what they could plausibly
    have experienced, and that location's Specs may already answer a question the character's file leaves open.
-6. **`Worldspace/Enneagram/README.md`** and the typing material, where a character's psychological gaps are
-   the kind the project's own framework is built to fill.
+6. **The Enneagram reference, `Characters/Enneagram/README.md` in this repo** (the master copy), and the typing
+   material, where a character's psychological gaps are the kind the project's own framework is built to fill.
 
 **⚠ Expect the triage split to look different, and do not read it as a weak run.** Person-scope skews to:
 
