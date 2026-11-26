@@ -89,6 +89,8 @@ These files still name a `from …` folder or the old `COPY_MANIFEST (2026-10-29
 ### InnerTepeniaGDD: the 📎 lines at the end of method files (35)
 Each was added 2026-10-29 and says "nothing was moved; this repo's file stays the working copy". Apart from the path, the review question is whether that sentence still holds, now that this repo holds the combined version.
 
+**Resolved 2026-11-26, at the author's word:** every path below was corrected in place (no cited line moved), to the "Path here now" given. The working-copy sentence was kept: the GDD's method files have gone on being edited since (to 2026-11-25), while these copies stopped around 2026-11-04. Each method pointer now says so: the copy here is not kept in step and can lag. Exceptions: the Enneagram, whose master is now this repo's copy (author, 2026-11-26), and the character methodology, whose pointer now names this repo's combined version. Two pointers already named the right path and were left alone: the OOLSD `MOVED.md` and the City Symbolic Substrate `README.md`. Several run logs and drafts in the GDD quote the old lines; they are records and stay as written.
+
 | GDD file | Line | Path here now |
 |---|---|---|
 | `…/Cities/Local_Robot_Culture_Methodology/00_DRAFT_Input_Categories_and_Approach.md` | 375 | `Environment/Local_Robot_Culture_Methodology/` |
@@ -130,6 +132,8 @@ Each was added 2026-10-29 and says "nothing was moved; this repo's file stays th
 ### InnerTepeniaGDD: pointers to the old copy manifest (6)
 Each says "see its `COPY_MANIFEST (2026-10-29).md`". It should now say `SYNC_RECORD.md`.
 
+**Resolved 2026-11-26:** all six now say `SYNC_RECORD.md`, and each adds the Enneagram exception (this repo's copy is the master). The line numbers below are from 2026-10-31; some have since moved (for example `CLAUDE.md` is now 237, `Dev-Road-Map/Weekly_To-Do_-_Current.md` 1045).
+
 | GDD file | Line |
 |---|---|
 | `DONE.md` | 496 |
@@ -140,6 +144,8 @@ Each says "see its `COPY_MANIFEST (2026-10-29).md`". It should now say `SYNC_REC
 | `Dev-Road-Map/Weekly_To-Do_-_Current.md` | 985 |
 
 ### TepenianUniverseTimeline (5)
+**Resolved 2026-11-26:** the four `from TepenianUniverseTimeline/` paths were corrected in place. `Reference/Doll_Representation_Categories.md` had been corrected by another session (dated 2026-11-18, DR-142 item 13).
+
 | TL file | Line | Path here now |
 |---|---|---|
 | `Reference/Doll_Representation_Categories.md` | 12 | `Characters/Robot-specific/Robot_Universals/` |
