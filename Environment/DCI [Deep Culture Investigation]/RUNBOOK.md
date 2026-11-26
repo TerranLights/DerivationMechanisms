@@ -49,7 +49,7 @@ Throughout sections 1 and 2, note which units already exist in the unit library 
 The author confirms the unit list before Stage 1.
 
 ### Stage 1: Lineage profiles
-Eleven profiles per unit, each answering **what it is based on and where it came from**, with sources: family system, kinship intensity, religious lineage, subsistence, land and inheritance, political culture, education, language, stories, song, formative events.
+Fifteen profiles per unit, each answering **what it is based on and where it came from**, with sources: family system, kinship intensity, religious lineage, subsistence, land and inheritance, political culture, education, language, stories, song, formative events, death and the dead, arts and craft, healing and the body, community life and associations (the last four added by the author, 2026-11-25, so that every sign's domain has its deep roots laid down first).
 
 ### Stage 2: Measured data
 Values from the datasets in `Shared/Sources_and_Datasets.md`, at the finest level available (county, state, province or country), each with its year, sample and citation. A value for a whole country is never presented as a unit's value without saying so.

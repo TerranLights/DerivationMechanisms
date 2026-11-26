@@ -80,7 +80,7 @@ Sources from strongest to weakest:
 1. **Source peoples (research, any hour):** list the real-world peoples and regions the nation grew from, and research those with the kinds above.
 2. **Divergence (derivation, 05:00-14:59, the author decides):** how the 2083 war, statehood and the centuries since changed each answer.
 
-## 3. The lineage profiles (adopted 2026-11-02)
+## 3. The lineage profiles (adopted 2026-11-02; fifteen since 2026-11-25)
 Each profile asks what a part of the culture is based on and where it came from. Each is one per regional culture, and most have data below the national level.
 
 | Profile | What it asks | Signs it feeds | Where to find it |
@@ -96,6 +96,10 @@ Each profile asks what a part of the culture is based on and where it came from.
 | **Story lineage** | Which tale types and myth motifs a people carry | Leo, Sagittarius, Pisces; the Exemplars question | the Aarne-Thompson-Uther tale-type index; Thompson's *Motif-Index*; Berezkin's mapped catalog of mythological motifs |
 | **Song lineage** | Song style and the social structure it goes with | Leo, Aquarius | Lomax's Cantometrics (the Global Jukebox) |
 | **Formative events** | The wars, famines, revolutions and colonizations whose effects are measured centuries later | Scorpio, Capricorn | the persistence literature: Dell on the mining *mita* (already in the Latin America survey), Nunn and Wantchekon on the slave trade and mistrust, Guiso, Sapienza and Zingales on Italian free cities and civic capital |
+| **Death and the dead** *(added 2026-11-25)* | How the dead are cared for and mourned, what is owed to them, what follows death, and where each practice came from | Scorpio, Pisces, Cancer (ancestors) | Philippe Ariès, *The Hour of Our Death*; Metcalf and Huntington, *Celebrations of Death*; Fischer's "death ways"; cremation statistics by state or province; the peoples' own accounts |
+| **Arts and craft** *(added 2026-11-25)* | The making traditions (visual art, craft, dance, performance, building), who makes, how it is passed on, and what it is for | Leo, Taurus, Virgo | Fischer's "building ways"; Henry Glassie on folk material culture; Lomax's Choreometrics (dance, in the Global Jukebox); museum and folklife archives |
+| **Healing and the body** *(added 2026-11-25)* | Healing traditions and who heals; ideas of the body, health and illness; care of the sick and the old | Virgo, Scorpio, Pisces | Arthur Kleinman, *Patients and Healers in the Context of Culture*; the eHRAF World Cultures files; folk-medicine archives; Fischer's "food ways" and "sport ways" |
+| **Community life and associations** *(added 2026-11-25)* | The associations beyond kin and state, the gathering places, and what is owed to neighbors and strangers | Aquarius, Cancer, Libra | Tocqueville, *Democracy in America*; Putnam, *Bowling Alone*; county social-capital indexes (Penn State's Northeast Regional Center for Rural Development); trust items in the World Values Survey; Fischer's "social ways" |
 
 **Fischer's folkways.** David Hackett Fischer's *Albion's Seed*, one of Woodard's own sources, describes four founding British cultures through 24 "folkways" (speech, building, family, marriage, gender, sex, child-rearing, naming, age, death, religion, magic, learning, food, dress, sport, work, time, wealth, rank, social, order, power and freedom ways). It is the closest existing precedent for DCI: his chapters on freedom give one concept four different regional meanings. **Adopted:** the 24 folkways are a second checklist, crosswalked to the twelve signs in `Shared/Folkways_Crosswalk.md` (placements proposed, settled sign by sign).
 

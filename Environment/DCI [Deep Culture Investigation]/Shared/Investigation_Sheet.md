@@ -77,6 +77,7 @@ Twenty-three families of angles, then the synthesis (B24).
 - **The ideal against the real.**
 
 ### B3. Feeling and the body
+- **Roots:** cite Stage 1, profile 14 (Healing and the body) for the unit's ideas of the body, health and healing; add what is specific to the concept.
 - **Emotions** that go with it; how it feels from inside (often thin in published sources).
 - **Ideal affect:** whether excited or calm states are the ideal (Tsai).
 - **Display:** face, voice, posture, gesture, silence; who may show it, where (display rules; Matsumoto's data are country-level).
@@ -131,6 +132,7 @@ Twenty-three families of angles, then the synthesis (B24).
 - **The end of life:** eulogies, obituaries, epitaphs; what a community chooses to praise.
 
 ### B9. Ritual, festival and commemoration
+- **Roots:** cite Stage 1, profile 12 (Death and the dead) for funerary and memorial practice; add what is specific to the concept.
 - **Holidays, festivals, parades, fairs, rodeos, pageants.**
 - **Ceremonies,** religious and civic; Indigenous ceremonies only as the nations share them.
 - **Rites of passage** as ceremony.
@@ -140,6 +142,7 @@ Twenty-three families of angles, then the synthesis (B24).
 - **Monuments and memorials:** what is remembered, and by whom it was put up.
 
 ### B10. Institutions and formal rules
+- **Roots:** cite Stage 1, profile 15 (Community life and associations) for the associations and gathering places; add what is specific to the concept.
 - **Government:** programs, services, official rhetoric.
 - **Schools and universities; religious bodies.**
 - **Workplaces and professions:** codes of ethics, licensing, HR rules, mission statements, job ads.
@@ -170,6 +173,7 @@ Twenty-three families of angles, then the synthesis (B24).
 - **Crises as stress tests:** disasters (disaster research: Erikson, *Everything in Its Path*; Klinenberg, *Heat Wave*; Solnit, *A Paradise Built in Hell*, as synthesis); wildfire (stay and defend, or leave); earthquake preparedness; **the COVID-19 pandemic,** which struck every nation at once: masks, movement, compliance, vaccination (Bazzi, Fiszbein and Gebresilasse, 2021, link frontier individualism to COVID behavior).
 
 ### B14. Expressive culture
+- **Roots:** cite Stage 1, profiles 09 (Stories), 10 (Song) and 13 (Arts and craft); add what is specific to the concept.
 - **Sayings, proverbs, idioms** (proverb dictionaries per region).
 - **Humor** and its targets; **insults** (described, quoted only briefly).
 - **Folklore:** legends, tall tales, urban legends; folklore archives.
@@ -192,7 +196,7 @@ Twenty-three families of angles, then the synthesis (B24).
 
 ### B16. History and memory
 - **The founders' understanding** and each later layer's contribution.
-- **Formative events** (cite Stage 1, profile 13; add what is specific to the concept).
+- **Formative events** (cite Stage 1, profile 11; add what is specific to the concept).
 - **Collective memory:** origin myths, what is celebrated, what is forgotten; memory fights.
 - **History of emotions** (Stearns and Stearns, *Anger*; Rosenwein's "emotional communities").
 - **Personal documents:** diaries, letters, wills, yearbooks; pioneer diaries; the 1930s Federal Writers' Project life histories and state guides.

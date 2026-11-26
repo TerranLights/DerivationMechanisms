@@ -1,6 +1,6 @@
 # DCI Stage 1: lineage profiles (field sets)
 
-Eleven profiles per unit. Each becomes its own file in `Units/<unit>/01 - Lineage/`, named `NN - <Profile>.md`. Every file starts with a `STATUS:` line and ends with its sources. Every profile answers two questions: **what is it based on, and where did it come from?** Tag each claim (measured, official, scholarly, synthesis, classic, practitioner, claim). Fill **Variation inside the unit** in every profile.
+Fifteen profiles per unit (12 to 15 added by the author, 2026-11-25, to round out the data: each gives a sign's domain its deep roots). Each becomes its own file in `Units/<unit>/01 - Lineage/`, named `NN - <Profile>.md`. Every file starts with a `STATUS:` line and ends with its sources. Every profile answers two questions: **what is it based on, and where did it come from?** Tag each claim (measured, official, scholarly, synthesis, classic, practitioner, claim). Fill **Variation inside the unit** in every profile.
 
 ## 01 - Family system
 - Do married children live with or near their parents?
@@ -65,4 +65,37 @@ Eleven profiles per unit. Each becomes its own file in `Units/<unit>/01 - Lineag
 ## 11 - Formative events
 - The events the unit's people remember as making them: wars, migrations, famines, revolutions, colonization, disasters.
 - Measured long-run effects, where studies exist (the persistence literature).
+- Variation inside the unit.
+
+## 12 - Death and the dead
+- How the dead are cared for (burial, cremation, other forms) and where each practice came from.
+- Mourning: its customs, dress, duration and who keeps it.
+- The dead among the living: remembrance, ancestors, obligations to the dead, days for the dead.
+- What each tradition holds follows death, with the folk and vernacular layers.
+- Places of the dead: cemeteries, burial grounds, sacred sites; Indigenous burial grounds and the return of ancestors' remains.
+- Measured values where they exist (for example, cremation shares by state or province, with source and year).
+- Variation inside the unit.
+
+## 13 - Arts and craft
+- Visual art and the making traditions the unit carries (for example carving, weaving, pottery, metalwork, needlework), and where each came from.
+- Dance, performance and theater traditions.
+- Building traditions: vernacular architecture, sacred and public building styles, and their sources.
+- Who makes, and how making is learned and passed on (apprenticeship, guilds, family, schools, communities of practice).
+- What art and craft are for, as the culture states it.
+- The collections, archives and classic works that hold the tradition.
+- Variation inside the unit.
+
+## 14 - Healing and the body
+- Healing traditions and who heals (household remedies, folk and religious healers, Indigenous medicine, biomedicine and when it arrived), and how they sit side by side.
+- Ideas of the body, health and illness: what causes sickness, what makes a body strong, clean, pure, beautiful or modest.
+- Care of the sick, the disabled and the old: who gives it, at home or in institutions, and where that pattern came from.
+- Practices of the body: food rules and fasting, bathing and sweat, physical culture and sport, as the culture links them to health.
+- Measured values where they exist (with source and year).
+- Variation inside the unit.
+
+## 15 - Community life and associations
+- The forms of association beyond kin and state: congregations, clubs, lodges, fraternal and mutual-aid societies, guilds and unions, cooperatives, volunteer groups; and where each came from.
+- The gathering places of community life (for example the church hall, the plaza, the longhouse, the pub, the market) and what happens there.
+- What is owed to neighbors and to strangers; how newcomers are taken in.
+- Measured values where they exist (membership, volunteering, trust; with source and year).
 - Variation inside the unit.

@@ -68,6 +68,10 @@ STATUS: starting list, 2026-11-02. **Coverage, years and access are to be verifi
 | Stories | the Aarne-Thompson-Uther tale-type index; Thompson, *Motif-Index of Folk-Literature*; Berezkin's mythological motif catalog |
 | Song | Lomax's Cantometrics (the Global Jukebox) |
 | Formative events | the persistence literature, for example Dell 2010 (the mining *mita*), Nunn and Wantchekon 2011 (the slave trade and mistrust), Guiso, Sapienza and Zingales 2016 (Italian free cities and civic capital) |
+| Death and the dead | Philippe Ariès, *The Hour of Our Death*; Metcalf and Huntington, *Celebrations of Death*; Fischer, *Albion's Seed* ("death ways"); cremation statistics by state or province; the peoples' own accounts |
+| Arts and craft | Fischer, *Albion's Seed* ("building ways"); Henry Glassie on folk material culture; Lomax's Choreometrics (the Global Jukebox); museum and folklife archives |
+| Healing and the body | Arthur Kleinman, *Patients and Healers in the Context of Culture*; the eHRAF World Cultures files; folk-medicine archives |
+| Community life and associations | Tocqueville, *Democracy in America*; Putnam, *Bowling Alone*; county social-capital indexes (Penn State's Northeast Regional Center for Rural Development); World Values Survey trust items |
 
 ## D. Qualitative sources (Stage 4)
 | Kind | What to look for |
