@@ -13,6 +13,8 @@
 | `source_reference (local only, not in git)/` | Book texts and videos, for citation and resuming work | Git-ignored; never committed |
 | `_dispatch/` | The extraction brief, assignments, status check, verbatim check and resume prompts | Tooling |
 
+**Applying the composite to a work:** the Plot Constraint Mapping method, in `../Plot_Constraints/Plot_Constraint_Mapping_Method.md`, writes what each beat must and must not be for any linear medium (novels, films, TV, short films, audio series; not games), before deciding what happens in it.
+
 **How the beat files are laid out:**
 - the source's meaning, in our own words and cited;
 - how it works;
